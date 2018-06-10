@@ -10,13 +10,13 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         generateEpicList(0, "Epic", 0);
-        generateFeaturedList(0, "Featured", 0);
+        //generateFeaturedList(0, "Featured", 0);
         //generateAwardedList(0, "Awarded", 0);
-        for(int i = 1; i < 12; i++)
+        /*for(int i = 1; i < 12; i++)
         {
             generateEpicList(0, getDifficultName(i) + " epic", i);
             generateFeaturedList(0, getDifficultName(i) + " featured", i);
-        }
+        }*/
     }
 
     private static void generateEpicList(int sortingCode, String prefix, int diffCode) throws IOException {
