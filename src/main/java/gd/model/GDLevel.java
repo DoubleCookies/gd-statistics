@@ -1,4 +1,7 @@
-package gd;
+package gd.model;
+
+import gd.enums.DemonDifficulty;
+import gd.enums.Difficulty;
 
 /**
  * Represents one level in Geometry Dash. All statistics and attributes of a Geometry
@@ -59,9 +62,13 @@ public class GDLevel {
 	 */
 	private long likes;
 
+	/**
+	 * The level description
+	 */
+	private String description;
 
 	/**
-	 * Constructs an instance of gd.GDLevel by providing all of its attributes at
+	 * Constructs an instance of gd.model.GDLevel by providing all of its attributes at
 	 * once.
 	 * 
 	 * @param id
@@ -90,7 +97,7 @@ public class GDLevel {
 	 */
 	public GDLevel(long id, String name, String creator, Difficulty difficulty,
 				   DemonDifficulty demonDifficulty, short stars, int featuredScore, boolean epic, long downloads,
-				   long likes) {
+				   long likes, String description) {
 		this.id = id;
 		this.name = name;
 		this.creator = creator;
@@ -101,6 +108,7 @@ public class GDLevel {
 		this.epic = epic;
 		this.downloads = downloads;
 		this.likes = likes;
+		this.description = description;
 	}
 	
 	/**
@@ -134,7 +142,7 @@ public class GDLevel {
 	/**
 	 * Gets the level difficulty
 	 * 
-	 * @return gd.Difficulty
+	 * @return gd.enums.Difficulty
 	 */
 	public Difficulty getDifficulty() {
 		return difficulty;
@@ -143,7 +151,7 @@ public class GDLevel {
 	/**
 	 * Gets the type of Demon difficulty
 	 * 
-	 * @return gd.DemonDifficulty
+	 * @return gd.enums.DemonDifficulty
 	 */
 	public DemonDifficulty getDemonDifficulty() {
 		return demonDifficulty;
@@ -215,7 +223,7 @@ public class GDLevel {
 	/**
 	 * Sets the level difficulty
 	 *
-	 * @param difficulty - gd.Difficulty
+	 * @param difficulty - gd.enums.Difficulty
 	 */
 	public void setDifficulty(Difficulty difficulty) {
 		this.difficulty = difficulty;
@@ -224,7 +232,7 @@ public class GDLevel {
 	/**
 	 * Sets the type of Demon difficulty
 	 *
-	 * @param demonDifficulty - gd.DemonDifficulty
+	 * @param demonDifficulty - gd.enums.DemonDifficulty
 	 */
 	public void setDemonDifficulty(DemonDifficulty demonDifficulty) {
 		this.demonDifficulty = demonDifficulty;
@@ -292,6 +300,24 @@ public class GDLevel {
 	 */
 	public boolean isAwarded() {
 		return stars > 0;
+	}
+
+	/**
+	 * Gets the level description
+	 *
+	 * @return String
+	 */
+	public String getDescription() {
+		return description;
+	}
+
+	/**
+	 * Sets the level description
+	 *
+	 * @param description - String
+	 */
+	public void setDescription(String description) {
+		this.description = description;
 	}
 
 	@Override

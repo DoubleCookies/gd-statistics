@@ -1,5 +1,9 @@
 package gd;
 
+import gd.enums.DemonDifficulty;
+import gd.enums.Difficulty;
+import gd.model.GDLevel;
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -71,9 +75,11 @@ public class ResponseGenerator {
         List<GDLevel> list = getMostPopularEpics(diffCode);
         sortLevelList(list, sortingCode);
         StringBuilder result = new StringBuilder();
+        int i = 1;
         for(GDLevel level : list)
         {
-            result.append(level.toString() + "\r\n");
+            result.append(i+". " + level.toString() + "\r\n");
+            i++;
         }
         System.out.println("There are " + list.size() + " levels!");
         return result.toString();
@@ -83,9 +89,11 @@ public class ResponseGenerator {
         List<GDLevel> list = getMostPopularFeatured(diffCode);
         sortLevelList(list, sortingCode);
         StringBuilder result = new StringBuilder();
+        int i = 1;
         for(GDLevel level : list)
         {
-            result.append(level.toString() + "\r\n");
+            result.append(i+". " + level.toString() + "\r\n");
+            i++;
         }
         System.out.println("There are " + list.size() + " levels!");
         return result.toString();
@@ -95,9 +103,11 @@ public class ResponseGenerator {
         List<GDLevel> list = getMostPopularAwarded(diffCode);
         sortLevelList(list, sortingCode);
         StringBuilder result = new StringBuilder();
+        int i = 1;
         for(GDLevel level : list)
         {
-            result.append(level.toString() + "\r\n");
+            result.append(i+". " + level.toString() + "\r\n");
+            i++;
         }
         System.out.println("There are " + list.size() + " levels!");
         return result.toString();

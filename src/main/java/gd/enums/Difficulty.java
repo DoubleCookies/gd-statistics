@@ -1,4 +1,4 @@
-package gd;
+package gd.enums;
 
 /**
  * Represents the different difficulties for levels in the game.    

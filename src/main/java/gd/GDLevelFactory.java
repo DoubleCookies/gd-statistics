@@ -1,10 +1,13 @@
 package gd;
 
-import java.io.IOException;
+import gd.enums.DemonDifficulty;
+import gd.enums.Difficulty;
+import gd.model.GDLevel;
+
 import java.util.*;
 
 /**
- * Utility class to convert raw data into gd.GDLevel instances
+ * Utility class to convert raw data into gd.model.GDLevel instances
  */
 public abstract class GDLevelFactory {
 	
@@ -34,13 +37,13 @@ public abstract class GDLevelFactory {
 	}
 	
 	/**
-	 * Reads the rawdata and return an instance of gd.GDLevel corresponding to the requested level.
+	 * Reads the rawdata and return an instance of gd.model.GDLevel corresponding to the requested level.
 	 * When searching for a level using filters, several search results can show up (up to 10 per page).
 	 * So it's necessary to provide which result item is the requested level.
 	 * 
 	 * @param rawData - urlencoded String of the level search results
 	 * @param index - result item corresponding to the requested level
-	 * @return new instance of gd.GDLevel
+	 * @return new instance of gd.model.GDLevel
 	 * @throws IndexOutOfBoundsException if the index given doesn't point to a search item.
 	 */
 	public static GDLevel buildGDLevelSearchedByFilter(String rawData, int index, boolean download)
@@ -73,7 +76,8 @@ public abstract class GDLevelFactory {
 				Integer.parseInt(structuredLvlInfo.get(19)),
 				structuredLvlInfo.get(42).equals("1"),
 				Long.parseLong(structuredLvlInfo.get(10)),
-				Long.parseLong(structuredLvlInfo.get(14))
+				Long.parseLong(structuredLvlInfo.get(14)),
+				new String(Base64.getUrlDecoder().decode(structuredLvlInfo.get(3)))
 			);
 		} catch (NullPointerException|IllegalArgumentException e) {
 			throw new IndexOutOfBoundsException();

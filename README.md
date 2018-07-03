@@ -23,4 +23,4 @@ Also program can generate separate lists for all "star" difficulties (NA not inc
 
 ## How to use
 
-Well... now it's hard to use it without IDE. In "Main" class you can find methods for generating featured/epic levels summary lists and separate lists for all difficulties  
+Well... now it's hard to use it without IDE. In "gd.Main" class you can find methods for generating featured/epic levels summary lists and separate lists for all difficulties  

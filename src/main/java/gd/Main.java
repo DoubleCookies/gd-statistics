@@ -1,3 +1,5 @@
+package gd;
+
 import gd.ResponseGenerator;
 
 import java.io.FileOutputStream;
@@ -8,45 +10,51 @@ import java.nio.file.Paths;
 
 public class Main {
 
-    public static void main(String[] args) throws IOException {
-        generateEpicList(0, "Epic", 0);
-        generateFeaturedList(0, "Featured", 0);
+    public static void main(String[] args) {
+        //generateEpicList(0, "Epic", 0);
+        generateFeaturedList(0, "Featured0", 0);
         //generateAwardedList(0, "Awarded", 0);
-        for(int i = 1; i < 12; i++)
-        {
-            generateEpicList(0, getDifficultName(i) + " epic", i);
-            generateFeaturedList(0, getDifficultName(i) + " featured", i);
-        }
+//        for(int i = 1; i < 12; i++)
+//        {
+//            generateEpicList(0, getDifficultName(i) + " epic", i);
+//            generateFeaturedList(0, getDifficultName(i) + " featured", i);
+//        }
     }
 
-    private static void generateEpicList(int sortingCode, String prefix, int diffCode) throws IOException {
+    private static void generateEpicList(int sortingCode, String prefix, int diffCode) {
 
         String res = ResponseGenerator.generateEpicList(sortingCode, diffCode);
         byte data[] = res.getBytes();
         FileOutputStream out;
-        out = getFileOutputStream(sortingCode, prefix, diffCode);
-        out.write(data);
-        out.close();
+        writeToFile(sortingCode, prefix, diffCode, data);
+
     }
 
-    private static void generateFeaturedList(int sortingCode, String prefix, int diffCode) throws IOException {
+    private static void generateFeaturedList(int sortingCode, String prefix, int diffCode) {
 
         String res = ResponseGenerator.generateFeaturedList(sortingCode, diffCode);
         byte data[] = res.getBytes();
-        FileOutputStream out;
-        out = getFileOutputStream(sortingCode, prefix, diffCode);
-        out.write(data);
-        out.close();
+        writeToFile(sortingCode, prefix, diffCode, data);
+
     }
 
-    private static void generateAwardedList(int sortingCode, String prefix, int diffCode) throws IOException {
+    private static void writeToFile(int sortingCode, String prefix, int diffCode, byte[] data) {
+        FileOutputStream out;
+        try {
+            out = getFileOutputStream(sortingCode, prefix, diffCode);
+            out.write(data);
+            out.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void generateAwardedList(int sortingCode, String prefix, int diffCode) {
 
         String res = ResponseGenerator.generateAwardedList(sortingCode, diffCode);
         byte data[] = res.getBytes();
-        FileOutputStream out;
-        out = getFileOutputStream(sortingCode, prefix, diffCode);
-        out.write(data);
-        out.close();
+        writeToFile(sortingCode, prefix, diffCode, data);
+
     }
 
     private static FileOutputStream getFileOutputStream(int code, String prefix, int diffcode) throws IOException {

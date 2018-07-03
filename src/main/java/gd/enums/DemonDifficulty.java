@@ -1,4 +1,4 @@
-package gd;
+package gd.enums;
 
 /**
  * Represents the different Demon difficlttees in the game.
