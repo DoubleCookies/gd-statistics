@@ -19,7 +19,7 @@ public class ResponseGenerator {
     private static Comparator<GDLevel> descendingDownloadsComparator = (o1, o2) -> (int) (o2.getDownloads() - o1.getDownloads());
     private static Comparator<GDLevel> ascendingDownloadsComparator = (o1, o2) -> (int) (o1.getDownloads() - o2.getDownloads());
 
-    static private List<GDLevel> getMostPopularEpics(int diffCode) {
+    private static List<GDLevel> getMostPopularEpics(int diffCode) {
         List<GDLevel> list = new ArrayList<>();
 
         int i = 0;
@@ -37,7 +37,7 @@ public class ResponseGenerator {
         return list;
     }
 
-    static private List<GDLevel> getMostPopularFeatured(int diffCode) {
+    private static List<GDLevel> getMostPopularFeatured(int diffCode) {
         List<GDLevel> list = new ArrayList<>();
 
         int i =0;
@@ -54,7 +54,7 @@ public class ResponseGenerator {
         return list;
     }
 
-    static private List<GDLevel> getMostPopularAwarded(int diffCode) {
+    private static List<GDLevel> getMostPopularAwarded(int diffCode) {
         List<GDLevel> list = new ArrayList<>();
 
         int i =0;
@@ -71,7 +71,7 @@ public class ResponseGenerator {
         return list;
     }
 
-    public static String generateEpicList(int sortingCode, int diffCode) {
+    static String generateEpicList(int sortingCode, int diffCode) {
         List<GDLevel> list = getMostPopularEpics(diffCode);
         sortLevelList(list, sortingCode);
         StringBuilder result = new StringBuilder();
@@ -85,7 +85,7 @@ public class ResponseGenerator {
         return result.toString();
     }
 
-    public static String generateFeaturedList(int sortingCode, int diffCode) {
+    static String generateFeaturedList(int sortingCode, int diffCode) {
         List<GDLevel> list = getMostPopularFeatured(diffCode);
         sortLevelList(list, sortingCode);
         StringBuilder result = new StringBuilder();
@@ -99,7 +99,31 @@ public class ResponseGenerator {
         return result.toString();
     }
 
-    public static String generateAwardedList(int sortingCode, int diffCode) {
+    static String generateEpicMarkdownList(int sortingCode, int diffCode) {
+        List<GDLevel> list = getMostPopularEpics(diffCode);
+        sortLevelList(list, sortingCode);
+        StringBuilder result = new StringBuilder();
+        result.append("| Name | Creator | ID | Downloads | Likes |\n");
+        result.append("|:---:|:---:|:---:|:---:|:---:|\n");
+        for(GDLevel level : list)
+            result.append(level.markdownString() + "\n");
+        System.out.println("There are " + list.size() + " levels in list!");
+        return result.toString();
+    }
+
+    static String generateFeaturedMarkdownList(int sortingCode, int diffCode) {
+        List<GDLevel> list = getMostPopularFeatured(diffCode);
+        sortLevelList(list, sortingCode);
+        StringBuilder result = new StringBuilder();
+        result.append("| Name | Creator | ID | Downloads | Likes |\n");
+        result.append("|:---:|:---:|:---:|:---:|:---:|\n");
+        for(GDLevel level : list)
+            result.append(level.markdownString() + "\n");
+        System.out.println("There are " + list.size() + " levels in list!");
+        return result.toString();
+    }
+
+    static String generateAwardedList(int sortingCode, int diffCode) {
         List<GDLevel> list = getMostPopularAwarded(diffCode);
         sortLevelList(list, sortingCode);
         StringBuilder result = new StringBuilder();
@@ -145,8 +169,7 @@ public class ResponseGenerator {
     }
 
     private static GDLevel getLevel(int j, String res) {
-        GDLevel level = GDLevelFactory.buildGDLevelSearchedByFilter(res, j, false);
-        return level;
+        return GDLevelFactory.buildGDLevelSearchedByFilter(res, j, false);
     }
 
     private static void addingSelection(int diffCode, List<GDLevel> list, int i, String res) {

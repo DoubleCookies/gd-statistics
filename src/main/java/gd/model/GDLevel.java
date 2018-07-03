@@ -325,6 +325,10 @@ public class GDLevel {
 		return "\"" + name + "\" by " + creator + " (" + id + ") — likes: " + likes + ", downloads: " + downloads;
 	}
 
+	public String markdownString() {
+		return "| " + name + " | " + creator + " | " + id + " | " + likes + " | " + downloads;
+	}
+
 	@Override
 	public int hashCode() {
 		final int prime = 31;

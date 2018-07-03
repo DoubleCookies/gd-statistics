@@ -11,14 +11,16 @@ import java.nio.file.Paths;
 public class Main {
 
     public static void main(String[] args) {
+        generateEpicMarkdownList(0, "Epic", 0);
+        generateFeaturedMarkdownList(0, "Featured", 0);
         //generateEpicList(0, "Epic", 0);
-        generateFeaturedList(0, "Featured0", 0);
+        //generateFeaturedList(0, "Featured", 0);
         //generateAwardedList(0, "Awarded", 0);
-//        for(int i = 1; i < 12; i++)
-//        {
-//            generateEpicList(0, getDifficultName(i) + " epic", i);
-//            generateFeaturedList(0, getDifficultName(i) + " featured", i);
-//        }
+        for(int i = 1; i < 12; i++)
+        {
+            generateEpicMarkdownList(0, getDifficultName(i) + " epic", i);
+            //generateFeaturedMarkdownList(0, getDifficultName(i) + " featured", i);
+        }
     }
 
     private static void generateEpicList(int sortingCode, String prefix, int diffCode) {
@@ -26,22 +28,44 @@ public class Main {
         String res = ResponseGenerator.generateEpicList(sortingCode, diffCode);
         byte data[] = res.getBytes();
         FileOutputStream out;
-        writeToFile(sortingCode, prefix, diffCode, data);
+        writeToFile(sortingCode, prefix, diffCode, data, ".txt");
 
+    }
+
+    private static void generateEpicMarkdownList(int sortingCode, String prefix, int diffCode) {
+
+        String res = ResponseGenerator.generateEpicMarkdownList(sortingCode, diffCode);
+        byte data[] = res.getBytes();
+        FileOutputStream out;
+        writeToFile(sortingCode, prefix, diffCode, data, ".md");
     }
 
     private static void generateFeaturedList(int sortingCode, String prefix, int diffCode) {
 
         String res = ResponseGenerator.generateFeaturedList(sortingCode, diffCode);
         byte data[] = res.getBytes();
-        writeToFile(sortingCode, prefix, diffCode, data);
-
+        writeToFile(sortingCode, prefix, diffCode, data, ".txt");
     }
 
-    private static void writeToFile(int sortingCode, String prefix, int diffCode, byte[] data) {
+    private static void generateFeaturedMarkdownList(int sortingCode, String prefix, int diffCode) {
+
+        String res = ResponseGenerator.generateFeaturedMarkdownList(sortingCode, diffCode);
+        byte data[] = res.getBytes();
+        FileOutputStream out;
+        writeToFile(sortingCode, prefix, diffCode, data, ".md");
+    }
+
+    private static void generateAwardedList(int sortingCode, String prefix, int diffCode) {
+
+        String res = ResponseGenerator.generateAwardedList(sortingCode, diffCode);
+        byte data[] = res.getBytes();
+        writeToFile(sortingCode, prefix, diffCode, data, ".txt");
+    }
+
+    private static void writeToFile(int sortingCode, String prefix, int diffCode, byte[] data, String filetype) {
         FileOutputStream out;
         try {
-            out = getFileOutputStream(sortingCode, prefix, diffCode);
+            out = getFileOutputStream(sortingCode, prefix, diffCode, filetype);
             out.write(data);
             out.close();
         } catch (IOException e) {
@@ -49,15 +73,9 @@ public class Main {
         }
     }
 
-    private static void generateAwardedList(int sortingCode, String prefix, int diffCode) {
 
-        String res = ResponseGenerator.generateAwardedList(sortingCode, diffCode);
-        byte data[] = res.getBytes();
-        writeToFile(sortingCode, prefix, diffCode, data);
 
-    }
-
-    private static FileOutputStream getFileOutputStream(int code, String prefix, int diffcode) throws IOException {
+    private static FileOutputStream getFileOutputStream(int sortingCode, String prefix, int diffcode, String filetype) throws IOException {
         FileOutputStream out;
         Path path = Paths.get("results");
         System.out.println(path.toAbsolutePath().toString());
@@ -75,14 +93,13 @@ public class Main {
             secondFolder=folder + "/";
         }
 
-        switch (code)
+        switch (sortingCode)
         {
-
-            case 1: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with descending likes.txt"); break;}
-            case 2: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with ascending likes.txt"); break;}
-            case 3: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with descending downloads.txt"); break;}
-            case 4: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with ascending downloads.txt"); break;}
-            default: {out = new FileOutputStream("results/" + secondFolder + prefix + " list.txt"); break;}
+            case 1: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with descending likes" + filetype); break;}
+            case 2: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with ascending likes"+ filetype); break;}
+            case 3: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with descending downloads" + filetype); break;}
+            case 4: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with ascending downloads" + filetype); break;}
+            default: {out = new FileOutputStream("results/" + secondFolder + prefix + " list"+ filetype); break;}
         }
         return out;
     }

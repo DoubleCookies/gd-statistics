@@ -11,13 +11,10 @@ Generate and write in file information (name-id-author-likes-downloads) about:
 - Featured levels
 - Levels with biggest amount of likes/downloads
 
-and write those
-
 Also program can generate separate lists for all "star" difficulties (NA not included).
 
 ### Upcoming features
-
-- **Normal interface**
+- *More detailed README*?
 - Fast list update
 - More methods and ways to generate lists
 
