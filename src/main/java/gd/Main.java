@@ -19,7 +19,7 @@ public class Main {
         for(int i = 1; i < 12; i++)
         {
             generateEpicMarkdownList(0, getDifficultName(i) + " epic", i);
-            //generateFeaturedMarkdownList(0, getDifficultName(i) + " featured", i);
+            generateFeaturedMarkdownList(0, getDifficultName(i) + " featured", i);
         }
     }
 
