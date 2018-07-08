@@ -107,7 +107,7 @@ public class ResponseGenerator {
         result.append("|:---:|:---:|:---:|:---:|:---:|\n");
         for(GDLevel level : list)
             result.append(level.markdownString() + "\n");
-        result.insert(0, "####Total: " + list.size() + " levels\n\n");
+        result.insert(0, "#### Total: " + list.size() + " levels\n\n");
         return result.toString();
     }
 
@@ -119,7 +119,7 @@ public class ResponseGenerator {
         result.append("|:---:|:---:|:---:|:---:|:---:|\n");
         for(GDLevel level : list)
             result.append(level.markdownString() + "\n");
-        result.insert(0, "####Total: " + list.size() + " levels\n\n");
+        result.insert(0, "#### Total: " + list.size() + " levels\n\n");
         return result.toString();
     }
 
