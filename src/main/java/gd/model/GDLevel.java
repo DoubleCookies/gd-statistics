@@ -326,7 +326,7 @@ public class GDLevel {
 	}
 
 	public String markdownString() {
-		return "| " + name + " | " + creator + " | " + id + " | " + likes + " | " + downloads;
+		return "| " + name + " | " + creator + " | " + id + " | " + downloads + " | " + likes;
 	}
 
 	@Override

@@ -1,7 +1,5 @@
 package gd;
 
-import gd.ResponseGenerator;
-
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.file.Files;

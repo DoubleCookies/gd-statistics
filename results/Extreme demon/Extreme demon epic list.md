@@ -2,13 +2,13 @@
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| EnvY | DanZmeN | 45411361 | 17878 | 190908
-| Under lavaland | N R G | 44169362 | 19095 | 208307
-| Paroxysm | Lemons | 42631377 | 9535 | 106416
-| Bloodlust | Knobbelboy | 42584142 | 170373 | 1608728
-| Digital Descent | ViPriN | 37456092 | 78216 | 807173
-| Carnage Mode | Findexi | 36107975 | 39997 | 411020
-| Blade of Justice | Manix648 | 35448603 | 85374 | 792104
-| Deception Dive | Rustam | 34379100 | 22132 | 359445
-| Novalis | Gryllex | 33748382 | 19729 | 214015
-| SubSonic | ViPriN | 33387622 | 127119 | 1639620
+| EnvY | DanZmeN | 45411361 | 191097 | 17892
+| Under lavaland | N R G | 44169362 | 208360 | 19101
+| Paroxysm | Lemons | 42631377 | 106458 | 9536
+| Bloodlust | Knobbelboy | 42584142 | 1609557 | 170440
+| Digital Descent | ViPriN | 37456092 | 807315 | 78226
+| Carnage Mode | Findexi | 36107975 | 411078 | 40001
+| Blade of Justice | Manix648 | 35448603 | 792259 | 85387
+| Deception Dive | Rustam | 34379100 | 359514 | 22134
+| Novalis | Gryllex | 33748382 | 214039 | 19732
+| SubSonic | ViPriN | 33387622 | 1639941 | 127144
