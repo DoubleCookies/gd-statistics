@@ -9,55 +9,30 @@ import java.nio.file.Paths;
 public class Main {
 
     public static void main(String[] args) {
-        generateEpicMarkdownList(0, "Epic", 0);
-        generateFeaturedMarkdownList(0, "Featured", 0);
-        //generateEpicList(0, "Epic", 0);
-        //generateFeaturedList(0, "Featured", 0);
-        //generateAwardedList(0, "Awarded", 0);
-        for(int i = 1; i < 12; i++)
+        generateEpicMarkdownListForDiffs(0);
+        generateFeaturedMarkdownListForDiffs(0);
+    }
+
+    private static void generateEpicMarkdownListForDiffs(int sortingCode) {
+        String[] res = ResponseGenerator.generateEpicMarkdownListForDiffs(sortingCode);
+        for(int j =0; j< 11; j++) //magic 11!
         {
-            generateEpicMarkdownList(0, getDifficultName(i) + " epic", i);
-            generateFeaturedMarkdownList(0, getDifficultName(i) + " featured", i);
+            byte data[] = res[j].getBytes();
+            String prefix = getDifficultName(j+1) + " epic";
+            writeToFile(sortingCode, prefix, j+1, data, ".md");
         }
+        writeToFile(sortingCode, "Epic", 0, res[11].getBytes(), ".md");
     }
 
-    private static void generateEpicList(int sortingCode, String prefix, int diffCode) {
-
-        String res = ResponseGenerator.generateEpicList(sortingCode, diffCode);
-        byte data[] = res.getBytes();
-        FileOutputStream out;
-        writeToFile(sortingCode, prefix, diffCode, data, ".txt");
-
-    }
-
-    private static void generateEpicMarkdownList(int sortingCode, String prefix, int diffCode) {
-
-        String res = ResponseGenerator.generateEpicMarkdownList(sortingCode, diffCode);
-        byte data[] = res.getBytes();
-        FileOutputStream out;
-        writeToFile(sortingCode, prefix, diffCode, data, ".md");
-    }
-
-    private static void generateFeaturedList(int sortingCode, String prefix, int diffCode) {
-
-        String res = ResponseGenerator.generateFeaturedList(sortingCode, diffCode);
-        byte data[] = res.getBytes();
-        writeToFile(sortingCode, prefix, diffCode, data, ".txt");
-    }
-
-    private static void generateFeaturedMarkdownList(int sortingCode, String prefix, int diffCode) {
-
-        String res = ResponseGenerator.generateFeaturedMarkdownList(sortingCode, diffCode);
-        byte data[] = res.getBytes();
-        FileOutputStream out;
-        writeToFile(sortingCode, prefix, diffCode, data, ".md");
-    }
-
-    private static void generateAwardedList(int sortingCode, String prefix, int diffCode) {
-
-        String res = ResponseGenerator.generateAwardedList(sortingCode, diffCode);
-        byte data[] = res.getBytes();
-        writeToFile(sortingCode, prefix, diffCode, data, ".txt");
+    private static void generateFeaturedMarkdownListForDiffs(int sortingCode) {
+        String[] res = ResponseGenerator.generateFeaturedMarkdownListForDiffs(sortingCode);
+        for(int j =0; j< 11; j++) //magic 11!
+        {
+            byte data[] = res[j].getBytes();
+            String prefix = getDifficultName(j+1) + " featured";
+            writeToFile(sortingCode, prefix, j+1, data, ".md");
+        }
+        writeToFile(sortingCode, "Featured", 0, res[11].getBytes(), ".md");
     }
 
     private static void writeToFile(int sortingCode, String prefix, int diffCode, byte[] data, String filetype) {
@@ -71,19 +46,18 @@ public class Main {
         }
     }
 
-
-
     private static FileOutputStream getFileOutputStream(int sortingCode, String prefix, int diffcode, String filetype) throws IOException {
         FileOutputStream out;
-        Path path = Paths.get("results");
-        System.out.println(path.toAbsolutePath().toString());
+        String baseFolder = "Statistics";
+        Path path = Paths.get(baseFolder);
         if(!Files.exists(path))
             Files.createDirectories(path);
+        baseFolder +="/";
         String folder = getDifficultName(diffcode);
         String secondFolder="";
         if(!folder.equals(""))
         {
-            String p = "results/" + folder.trim();
+            String p = "Statistics/" + folder.trim();
             path = Paths.get(p);
             System.out.println(path.toAbsolutePath().toString());
             if(!Files.exists(path))
@@ -93,11 +67,11 @@ public class Main {
 
         switch (sortingCode)
         {
-            case 1: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with descending likes" + filetype); break;}
-            case 2: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with ascending likes"+ filetype); break;}
-            case 3: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with descending downloads" + filetype); break;}
-            case 4: { out = new FileOutputStream("results/" + secondFolder + prefix + " list with ascending downloads" + filetype); break;}
-            default: {out = new FileOutputStream("results/" + secondFolder + prefix + " list"+ filetype); break;}
+            case 1: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending likes" + filetype); break;}
+            case 2: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending likes"+ filetype); break;}
+            case 3: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending downloads" + filetype); break;}
+            case 4: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending downloads" + filetype); break;}
+            default: {out = new FileOutputStream(baseFolder + secondFolder + prefix + " list"+ filetype); break;}
         }
         return out;
     }
