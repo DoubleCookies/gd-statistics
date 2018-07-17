@@ -20,18 +20,6 @@ public class ResponseGenerator {
     private static Comparator<GDLevel> descendingDownloadsComparator = (o1, o2) -> (int) (o2.getDownloads() - o1.getDownloads());
     private static Comparator<GDLevel> ascendingDownloadsComparator = (o1, o2) -> (int) (o1.getDownloads() - o2.getDownloads());
 
-    static String generateEpicMarkdownList(int sortingCode, int diffCode) {
-        List<GDLevel> list = getMostPopularEpics(diffCode);
-        sortLevelList(list, sortingCode);
-        StringBuilder result = new StringBuilder();
-        result.append("| Name | Creator | ID | Downloads | Likes |\n");
-        result.append("|:---:|:---:|:---:|:---:|:---:|\n");
-        for(GDLevel level : list)
-            result.append(level.markdownString() + "\n");
-        result.insert(0, "#### Total: " + list.size() + " levels\n\n");
-        return result.toString();
-    }
-
     static String[] generateEpicMarkdownListForDiffs(int sortingCode) {
         int length = 12;
         String[] stringArray = new String[length];
@@ -60,18 +48,6 @@ public class ResponseGenerator {
         builders[length-1].insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
         stringArray[length-1] = builders[length-1].toString();
         return stringArray;
-    }
-
-    static String generateFeaturedMarkdownList(int sortingCode, int diffCode) {
-        List<GDLevel> list = getMostPopularFeatured(diffCode);
-        sortLevelList(list, sortingCode);
-        StringBuilder result = new StringBuilder();
-        result.append("| Name | Creator | ID | Downloads | Likes |\n");
-        result.append("|:---:|:---:|:---:|:---:|:---:|\n");
-        for(GDLevel level : list)
-            result.append(level.markdownString() + "\n");
-        result.insert(0, "#### Total: " + list.size() + " levels\n\n");
-        return result.toString();
     }
 
     static String[] generateFeaturedMarkdownListForDiffs(int sortingCode) {
@@ -104,20 +80,6 @@ public class ResponseGenerator {
         return stringArray;
     }
 
-    static String generateAwardedList(int sortingCode, int diffCode) {
-        List<GDLevel> list = getMostPopularAwarded(diffCode);
-        sortLevelList(list, sortingCode);
-        StringBuilder result = new StringBuilder();
-        int i = 1;
-        for(GDLevel level : list)
-        {
-            result.append(i+". " + level.toString() + "\r\n");
-            i++;
-        }
-        System.out.println("There are " + list.size() + " levels!");
-        return result.toString();
-    }
-
     private static List<GDLevel> getMostPopularEpics(int diffCode) {
         List<GDLevel> list = new ArrayList<>();
 
@@ -127,7 +89,6 @@ public class ResponseGenerator {
             while(true) {
                 String res = GDServer.fetchRecentEpicLevels(i);
                 addingSelection(diffCode, list, i, res);
-
                 i++;
             }
         } catch (Exception e) {
@@ -144,23 +105,6 @@ public class ResponseGenerator {
 
             while(true) {
                 String res = GDServer.fetchRecentFeaturedLevels(i);
-                addingSelection(diffCode, list, i, res);
-                i++;
-            }
-        } catch (Exception e) {
-            System.out.println("Limit reached!");
-        }
-        return list;
-    }
-
-    private static List<GDLevel> getMostPopularAwarded(int diffCode) {
-        List<GDLevel> list = new ArrayList<>();
-
-        int i =0;
-        try {
-
-            while(true) {
-                String res = GDServer.fetchRecentAwardedLevels(i);
                 addingSelection(diffCode, list, i, res);
                 i++;
             }
@@ -224,7 +168,7 @@ public class ResponseGenerator {
 
     private static int returnDiff(GDLevel gdLevel)
     {
-        // -1 because in Difficulty 0 = NA, which is unused in featured and epic
+        // -1!; Difficulty 0 = NA, which is unused in featured and epic
         int code = Difficulty.valueOf(gdLevel.getDifficulty().toString()).ordinal() - 1;
         if(code == 6)
             code += DemonDifficulty.valueOf(gdLevel.getDemonDifficulty().toString()).ordinal();

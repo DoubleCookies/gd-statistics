@@ -36,9 +36,6 @@ public abstract class GDServer {
 			wr.writeBytes(urlParams);
 			wr.flush();
 			wr.close();
-			
-//			if (gd.Main.isTestEnvironment())
-//				System.out.println(urlParams);
 
 			// Fetching response
 			String result = "";
