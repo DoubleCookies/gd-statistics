@@ -68,6 +68,11 @@ public class GDLevel {
 	private String description;
 
 	/**
+	 * Level soundtrack
+	 */
+	private GDSong gdSong;
+
+	/**
 	 * Constructs an instance of gd.model.GDLevel by providing all of its attributes at
 	 * once.
 	 * 
@@ -92,12 +97,16 @@ public class GDLevel {
 	 *            - amount of downloads for the level
 	 * @param likes
 	 *            - amount of likes for the level
+	 * @param description
+	 * 			  - level description
+	 * @param gdSong
+	 * 			  - level music info
 	 * @throws IllegalArgumentException
 	 *             if the argument {@code pass} &lt; -2
 	 */
 	public GDLevel(long id, String name, String creator, Difficulty difficulty,
 				   DemonDifficulty demonDifficulty, short stars, int featuredScore, boolean epic, long downloads,
-				   long likes, String description) {
+				   long likes, String description, GDSong gdSong) {
 		this.id = id;
 		this.name = name;
 		this.creator = creator;
@@ -109,6 +118,7 @@ public class GDLevel {
 		this.downloads = downloads;
 		this.likes = likes;
 		this.description = description;
+		this.gdSong = gdSong;
 	}
 	
 	/**
@@ -320,6 +330,15 @@ public class GDLevel {
 		this.description = description;
 	}
 
+
+	public GDSong getGdSong() {
+		return gdSong;
+	}
+
+	public void setGdSong(GDSong gdSong) {
+		this.gdSong = gdSong;
+	}
+
 	@Override
 	public String toString() {
 		return "\"" + name + "\" by " + creator + " (" + id + ") — likes: " + likes + ", downloads: " + downloads;
@@ -327,6 +346,48 @@ public class GDLevel {
 
 	public String markdownString() {
 		return "| " + name + " | " + creator + " | " + id + " | " + downloads + " | " + likes;
+	}
+
+	public String wikiString(int count) {
+		return "|-\n! " + count + "\n| [[" + name + "]]\n| " + downloads + "\n| " + " <center>" + wikiDemonTemplate() + "</center>" + "\n| " + creator + "\n";
+	}
+
+	public String wikiDemonTemplate() {
+		String result = "";
+		if(epic)
+		{
+			switch (demonDifficulty)
+			{
+				case EASY: result = "{{Эпический лёгкий демон}}"; break;
+				case MEDIUM: result = "{{Эпический средний демон}}"; break;
+				case HARD: result = "{{Эпический демон}}"; break;
+				case INSANE: result = "{{Эпический безумный демон}}"; break;
+				case EXTREME: result = "{{Эпический экстремальный демон}}"; break;
+			}
+		} else if (isFeatured()) {
+			switch (demonDifficulty)
+			{
+				case EASY: result = "{{Featured лёгкий демон}}"; break;
+				case MEDIUM: result = "{{Featured средний демон}}"; break;
+				case HARD: result = "{{Featured демон}}"; break;
+				case INSANE: result = "{{Featured безумный демон}}"; break;
+				case EXTREME: result = "{{Featured экстремальный демон}}"; break;
+			}
+		} else {
+			switch (demonDifficulty)
+			{
+				case EASY: result = "{{Лёгкий демон}}"; break;
+				case MEDIUM: result = "{{Средний демон}}"; break;
+				case HARD: result = "{{Демон}}"; break;
+				case INSANE: result = "{{Безумный демон}}"; break;
+				case EXTREME: result = "{{Экстремальный демон}}"; break;
+			}
+		}
+		return result;
+	}
+
+	public String markdownWithDescrString() {
+		return "| " + name + " | " + creator + " | " + id + " | " + description;
 	}
 
 	@Override
@@ -356,4 +417,5 @@ public class GDLevel {
 			return false;
 		return true;
 	}
+
 }

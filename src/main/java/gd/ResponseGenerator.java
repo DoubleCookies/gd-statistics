@@ -3,10 +3,10 @@ package gd;
 import gd.enums.DemonDifficulty;
 import gd.enums.Difficulty;
 import gd.model.GDLevel;
+import gd.model.GDSong;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
@@ -19,6 +19,7 @@ public class ResponseGenerator {
 
     private static Comparator<GDLevel> descendingDownloadsComparator = (o1, o2) -> (int) (o2.getDownloads() - o1.getDownloads());
     private static Comparator<GDLevel> ascendingDownloadsComparator = (o1, o2) -> (int) (o1.getDownloads() - o2.getDownloads());
+    private static Comparator<GDLevel> descrComparator = (o1, o2) -> (int) (o2.getDescription().length() - o1.getDescription().length());
 
     static String[] generateEpicMarkdownListForDiffs(int sortingCode) {
         int length = 12;
@@ -47,6 +48,25 @@ public class ResponseGenerator {
         }
         builders[length-1].insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
         stringArray[length-1] = builders[length-1].toString();
+        return stringArray;
+    }
+
+    static String[] generateEpicMarkdownListForDiffs() {
+        String[] stringArray = new String[1];
+        int counter=0;
+        StringBuilder builder = new StringBuilder();
+        builder.append("| Name | Creator | ID | Description |\n");
+        builder.append("|:---:|:---:|:---:|:---:|\n");
+        List<GDLevel> list = getMostPopularEpics(0);
+        sortLevelList(list, 5);
+        for(GDLevel level : list)
+        {
+            int i = returnDiff(level);
+            builder.append(level.markdownWithDescrString() + "\n");
+            counter++;
+        }
+        builder.insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
+        stringArray[0] = builder.toString();
         return stringArray;
     }
 
@@ -80,6 +100,150 @@ public class ResponseGenerator {
         return stringArray;
     }
 
+    static String[] generateFeaturedMarkdownListForDiffs() {
+        String[] stringArray = new String[1];
+        int counter=0;
+        StringBuilder builder = new StringBuilder();
+        builder.append("| Name | Creator | ID | Description |\n");
+        builder.append("|:---:|:---:|:---:|:---:|\n");
+        List<GDLevel> list = getMostPopularFeatured(0);
+        sortLevelList(list, 5);
+        for(GDLevel level : list)
+        {
+            int i = returnDiff(level);
+            builder.append(level.markdownWithDescrString() + "\n");
+            counter++;
+        }
+        builder.insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
+        stringArray[0] = builder.toString();
+        return stringArray;
+    }
+
+    static String[] generateTopDemonsList() {
+        String[] stringArray = new String[1];
+        int counter=0;
+        StringBuilder builder = new StringBuilder();
+        builder.append("| Name | Creator | ID | Downloads |\n");
+        builder.append("|:---:|:---:|:---:|:---:|\n");
+        List<GDLevel> list = getMostPopularDemons();
+        //sortLevelList(list, 5);
+        for(GDLevel level : list)
+        {
+            if(counter < 50)
+            {
+                builder.append(level.markdownString() + "\n");
+                counter++;
+            }
+        }
+        builder.insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
+        stringArray[0] = builder.toString();
+        return stringArray;
+    }
+
+    static String[] generateTopDemonsListToWiki() {
+        String[] stringArray = new String[1];
+        int counter=0;
+        StringBuilder builder = new StringBuilder();
+        builder.append("{| class=\"wikitable\"\n" +
+                "! Место\n" +
+                "! Уровень\n" +
+                "! Кол-во загрузок\n" +
+                "! [[Уровни сложности|Сложность]]\n" +
+                "! Создатель\n");
+        List<GDLevel> list = getMostPopularDemons();
+        for(GDLevel level : list)
+        {
+            if(counter < 50)
+            {
+                builder.append(level.wikiString(counter+1));
+                counter++;
+            }
+        }
+        builder.append("|}");
+        stringArray[0] = builder.toString();
+        return stringArray;
+    }
+
+    static String[] generateFeaturedMusicList() {
+        String[] stringArray = new String[1];
+        int counter=0;
+        StringBuilder builder = new StringBuilder();
+        builder.append("| Name | Author | ID | Count |\n");
+        builder.append("|:---:|:---:|:---:|:---:|\n");
+        List<GDLevel> list = getMostPopularFeatured(0);
+        HashMap<GDSong, Integer> audio = new HashMap<>();
+        GDSong songId;
+        for(GDLevel level : list)
+        {
+            songId = level.getGdSong();
+            if(audio.containsKey(songId))
+            {
+                audio.put(songId,  audio.get(songId) + 1);
+            }
+            else
+            {
+                audio.put(songId,  0);
+            }
+            //int i = returnDiff(level);
+            //builder.append(level.markdownWithDescrString() + "\n");
+            counter++;
+        }
+        Map<GDSong, Integer> result = audio.entrySet().stream()
+                .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
+                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));
+        builder.insert(0, "#### Total: " + counter + " levels\n\n");
+        List<GDSong> mapKeys = new ArrayList<>(result.keySet());
+        List<Integer> mapValues = new ArrayList<>(result.values());
+        //List<GDSong, Integer> audioList = result
+        for(int i =0; i < mapKeys.size(); i++)
+        {
+            builder.append(mapKeys.get(i).toListString() + mapValues.get(i) + "\n");
+        }
+        stringArray[0] = builder.toString();
+        return stringArray;
+    }
+
+    static String[] generateEpicMusicList() {
+        String[] stringArray = new String[1];
+        int counter=0;
+        StringBuilder builder = new StringBuilder();
+        builder.append("| Name | Author | ID | Count |\n");
+        builder.append("|:---:|:---:|:---:|:---:|\n");
+        List<GDLevel> list = getMostPopularEpics(0);
+        LinkedHashMap<GDSong, Integer> audio = new LinkedHashMap<>();
+        GDSong songId;
+        for(GDLevel level : list)
+        {
+            songId = level.getGdSong();
+            if(audio.containsKey(songId))
+            {
+                audio.put(songId,  audio.get(songId) + 1);
+            }
+            else
+            {
+                audio.put(songId,  1);
+            }
+            //int i = returnDiff(level);
+            //builder.append(level.markdownWithDescrString() + "\n");
+            counter++;
+        }
+        Map<GDSong, Integer> result = audio.entrySet().stream()
+                .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
+                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));
+        builder.insert(0, "#### Total: " + counter + " levels\n\n");
+        List<GDSong> mapKeys = new ArrayList<>(result.keySet());
+        List<Integer> mapValues = new ArrayList<>(result.values());
+        //List<GDSong, Integer> audioList = result
+        for(int i =0; i < mapKeys.size(); i++)
+        {
+            builder.append(mapKeys.get(i).toListString() + mapValues.get(i) + "\n");
+        }
+        stringArray[0] = builder.toString();
+        return stringArray;
+    }
+
     private static List<GDLevel> getMostPopularEpics(int diffCode) {
         List<GDLevel> list = new ArrayList<>();
 
@@ -89,6 +253,32 @@ public class ResponseGenerator {
             while(true) {
                 String res = GDServer.fetchRecentEpicLevels(i);
                 addingSelection(diffCode, list, i, res);
+                i++;
+            }
+        } catch (Exception e) {
+            System.out.println("Limit reached!");
+        }
+        return list;
+    }
+
+    private static List<GDLevel> getMostPopularDemons() {
+        List<GDLevel> list = new ArrayList<>();
+
+        int i = 0;
+        int count = 0;
+        try {
+            while(count < 50) {
+                String res = GDServer.fetchMostPopularLevels(i);
+                for (int j = 0; j < 10; j++) {
+                    GDLevel level = getLevel(j, res);
+                    if (level != null && level.getDifficulty() == Difficulty.DEMON){
+                        list.add(level);
+                        count++;
+                        System.out.println("Demon #" + count + " added");
+                    }
+                    if(count > 50)
+                        break;
+                }
                 i++;
             }
         } catch (Exception e) {
@@ -182,6 +372,7 @@ public class ResponseGenerator {
             case 2: { list.sort(ascendingLikesComparator); break;}
             case 3: { list.sort(descendingDownloadsComparator); break;}
             case 4: { list.sort(ascendingDownloadsComparator); break;}
+            case 5: {list.sort(descrComparator); break;}
         }
     }
 }

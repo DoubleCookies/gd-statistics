@@ -103,6 +103,20 @@ public abstract class GDServer {
                         + "&secret=" + SECRET);
     }
 
+	/**
+	 * Fetches the latest epic levels
+	 * @param i number of page
+	 * @return server response as String
+	 * @throws IOException
+	 *             if a problem occurs while connecting to GD servers
+	 */
+	public static String fetchMostPopularLevels(int i) throws IOException {
+		return sendRequest("getGJLevels21.php",
+				"gameVersion=21&binaryVersion=34&gdw=0&type=1&str=&diff=-&len=-&page=" + i + "&total=0"
+						+ "&uncompleted=0&onlyCompleted=0&featured=0&original=0&twoPlayer=0&coins=0&epic=0"
+						+ "&secret=" + SECRET);
+	}
+
     /**
      * Fetches the latest awarded levels. This method doesn't work properly.
      * @param i number of page

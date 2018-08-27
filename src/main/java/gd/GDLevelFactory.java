@@ -3,7 +3,10 @@ package gd;
 import gd.enums.DemonDifficulty;
 import gd.enums.Difficulty;
 import gd.model.GDLevel;
+import gd.model.GDSong;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
 import java.util.*;
 
 /**
@@ -51,6 +54,10 @@ public abstract class GDLevelFactory {
 		try {
 			Map<Integer, String> structuredLvlInfo = structureRawData(cutOneLevel(cutLevelInfoPart(rawData), index));
 			Map<Long, String> structuredCreatorsInfo = structureCreatorsInfo(cutCreatorInfoPart(rawData, download));
+			Map<Long, GDSong> structuredAudioInfo = structureAudioInfo(cutCreatorMusicPart(rawData, download));
+			GDSong song = Long.parseLong(structuredLvlInfo.get(Constants.INDEX_LEVEL_SONG_ID)) <= 0 ?
+					Utils.getAudioTrack(Integer.parseInt(structuredLvlInfo.get(Constants.INDEX_LEVEL_AUDIO_TRACK))):
+					structuredAudioInfo.get(Long.parseLong(structuredLvlInfo.get(Constants.INDEX_LEVEL_SONG_ID)));
 
 			if(structuredLvlInfo.size() == 0)
 				return null;
@@ -77,7 +84,8 @@ public abstract class GDLevelFactory {
 				structuredLvlInfo.get(42).equals("1"),
 				Long.parseLong(structuredLvlInfo.get(10)),
 				Long.parseLong(structuredLvlInfo.get(14)),
-				new String(Base64.getUrlDecoder().decode(structuredLvlInfo.get(3)))
+				new String(Base64.getUrlDecoder().decode(structuredLvlInfo.get(3))),
+				song
 			);
 		} catch (NullPointerException|IllegalArgumentException e) {
 			throw new IndexOutOfBoundsException();
@@ -96,6 +104,14 @@ public abstract class GDLevelFactory {
 	private static String cutCreatorInfoPart(String rawData, boolean download) {
 		try {
 			return rawData.split("#")[download ? 3 : 1];
+		} catch (ArrayIndexOutOfBoundsException e) {
+			return "";
+		}
+	}
+
+	private static String cutCreatorMusicPart(String rawData, boolean download) {
+		try {
+			return rawData.split("#")[2];
 		} catch (ArrayIndexOutOfBoundsException e) {
 			return "";
 		}
@@ -121,6 +137,31 @@ public abstract class GDLevelFactory {
 		}
 		
 		return structuredCreatorslInfo;
+	}
+
+	private static Map<Long, GDSong> structureAudioInfo(String songsInfoRD) {
+		if (songsInfoRD.isEmpty())
+			return new HashMap<>();
+
+		String[] arraySongsRD = songsInfoRD.split("~:~");
+		Map<Long, GDSong> result = new HashMap<>();
+
+		for (String songRD : arraySongsRD) {
+			Map<Integer, String> songMap = Utils.splitToMap(songRD, "~\\|~");
+			long songID = Long.parseLong(songMap.get(Constants.INDEX_SONG_ID));
+			String songTitle = songMap.get(Constants.INDEX_SONG_TITLE);
+			String songAuthor = songMap.get(Constants.INDEX_SONG_AUTHOR);
+			String songSize = songMap.get(Constants.INDEX_SONG_SIZE);
+			String songURL = songMap.get(Constants.INDEX_SONG_URL);
+			try {
+				songURL = URLDecoder.decode(songURL, "UTF-8");
+			} catch (UnsupportedEncodingException e) {
+				e.printStackTrace();
+			}
+			result.put(songID, new GDSong(songID, songAuthor, songSize, songTitle, songURL, true));
+		}
+
+		return result;
 	}
 
 	public static Map<Integer, String> structureRawData(String rawData) {

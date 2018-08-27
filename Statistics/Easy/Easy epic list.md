@@ -2,6 +2,6 @@
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Candescent | CastriX | 34749502 | 976536 | 157494
-| Wishless | Pawlogates | 34224737 | 915670 | 141019
-| IZnite | izhar | 32400752 | 1584884 | 273496
+| Candescent | CastriX | 34749502 | 1001277 | 160725
+| Wishless | Pawlogates | 34224737 | 936833 | 143883
+| IZnite | izhar | 32400752 | 1624362 | 279421
