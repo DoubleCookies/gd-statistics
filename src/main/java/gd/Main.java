@@ -53,12 +53,12 @@ public class Main {
 
     private static void generateFeaturedAudioInfo() {
         String[] res = ResponseGenerator.generateFeaturedMusicList();
-        writeToFile(5, "Featured audio info", 0, res[0].getBytes(), ".md");
+        writeToFile(-1, "Featured audio info", 0, res[0].getBytes(), ".md");
     }
 
     private static void generateEpicAudioInfo() {
         String[] res = ResponseGenerator.generateEpicMusicList();
-        writeToFile(5, "Epic audio info", 0, res[0].getBytes(), ".md");
+        writeToFile(-1, "Epic audio info", 0, res[0].getBytes(), ".md");
     }
 
     private static void generateTopDemons() {
@@ -69,6 +69,7 @@ public class Main {
     private static void generateTopDemonsToWiki() {
         String[] res = ResponseGenerator.generateTopDemonsListToWiki();
         writeToFile(0, "Top 50 popular demons to wiki", 0, res[0].getBytes(), ".txt");
+        writeToFile(0, "Top 50 popular demons short list", 0, res[1].getBytes(), ".txt");
     }
 
     private static void writeToFile(int sortingCode, String prefix, int diffCode, byte[] data, String filetype) {

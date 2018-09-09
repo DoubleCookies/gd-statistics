@@ -141,9 +141,10 @@ public class ResponseGenerator {
     }
 
     static String[] generateTopDemonsListToWiki() {
-        String[] stringArray = new String[1];
+        String[] stringArray = new String[2];
         int counter=0;
         StringBuilder builder = new StringBuilder();
+        StringBuilder builder2 = new StringBuilder();
         builder.append("{| class=\"wikitable\"\n" +
                 "! Место\n" +
                 "! Уровень\n" +
@@ -156,11 +157,13 @@ public class ResponseGenerator {
             if(counter < 50)
             {
                 builder.append(level.wikiString(counter+1));
+                builder2.append(level.getName()+",\r\n");
                 counter++;
             }
         }
         builder.append("|}");
         stringArray[0] = builder.toString();
+        stringArray[1] = builder2.toString();
         return stringArray;
     }
 

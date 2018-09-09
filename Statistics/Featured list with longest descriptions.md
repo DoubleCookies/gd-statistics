@@ -1,26 +1,27 @@
-#### Total: 11320 levels
+#### Total: 11358 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
 | Retro Circles | Nacho21 | 14000484 | Ahora Puede Ser Jugado Perfectamente En Celular, Supongo... Como Recompensa Para Ustedes Por Demorarme Un A(n~)o En Ponerle Esto, Ha Sido Nerfeado Para Ustedes, Y Asi Lo Puedan Pasar
+| Optawolf | SamMaxx | 48707640 | Dedicated to Optawolf. This is my first time trying out this style, so I hope you like it >-<  LDM removes subtle glow if you are wondering.
 | Together | Ajedaboss | 47832458 | A layout collab with me and Akinari turned into an awesome MC! Collab w/ GiammiX, Vragera, Drob3, EpicMasta, Ross12344, RblxSavage & MortoxX
 | Renaissance | KaXxerK | 47646741 | Many months of work, but I finished it! Dedicated to: ZoomKs, Faeki, AkShooter, Tiohax, Alpha, iSumia, Streex, DeXxer, rafer, DavJT and you!
 | Sequential | HTigerzGD | 47525587 | This level was one of Crossblade's unfinished levels, which he had given to me to finish. The gameplay and 30% of the design is his. Enjoy! 
 | Circles | Darwin | 46622813 | o  O .o  .  . O O oo  ..o O    O .O          o o O .o  . . oO .    .  . .         O oo o  O.   oo O o ... O  . .oO .. . Oo  o   o .         
 | Diversion | God Of Music | 46305369 | AYA!!! Finally finished my collab with SaabS! Great thanks to SaabS for accepting my request  <3   Hope you all enjoy this level tho (c^~^)c
-| ZeptiXanitY | xZappeRi | 46199037 | I enjoyed so much building this! Dedicated to the king RobTop and GD Captain! The song impressed me a lot! :) This might be my best <3 Enjoy
-| Gravity | xZappeRi | 45605744 | An amazing collab with my best friend GD Captain! A big thanks to ProSlain for his EPIC part. Gravity Falls song 8) Dedicated to GD MINUS ;)
+| ZeptiXanitY | iZappeR | 46199037 | I enjoyed so much building this! Dedicated to the king RobTop and GD Captain! The song impressed me a lot! :) This might be my best <3 Enjoy
+| Gravity | iZappeR | 45605744 | An amazing collab with my best friend GD Captain! A big thanks to ProSlain for his EPIC part. Gravity Falls song 8) Dedicated to GD MINUS ;)
 | Lost dunes | N R G | 45381038 | (COLLAB con DavJT) Honestamente estoy pasando por varios problemas emocionales y de autoestima, no creo seguir creando en este mismo ritmo. 
 | Energetic | AutoNick | 45308844 | My 2nd Demon level EVER! I hope you like it :) This was super fun to build. Also my first level to have only 1 coin. Pretty crazy am I rite?
 | TG | ILRELL | 44701954 | Based on Dave Strider from Andrew Hussie's "Homestuck" | 170k Objs | Verified by BoldStep | yeah yeah TG is shut up in french I GET IT STAHP
-| Promises | xZappeRi | 44655590 | I made this level in the 2.0 version of Geometry Dash! But i updated it with some 2.11 objects. Dedicated to Ghastgames! Enjoy once again :3
+| Promises | iZappeR | 44655590 | I made this level in the 2.0 version of Geometry Dash! But i updated it with some 2.11 objects. Dedicated to Ghastgames! Enjoy once again :3
 | Asterose | goose | 44525497 | Amazing Collab with FastRefleksX, Thomartin, Desticy, Darwin, Erdyuri and Me! And thanks to them for letting me upload it :) Use ldm for lag
 | Coastline | FrancaDash | 44167859 | My Brazil art level! In this lvl there is Rio de Janeiro and Sao Paulo art, hope you enjoy it! Update: ULDM and tnx Robtop for the featured!
 | Future Funk | JonathanGD | 44062068 | Remember when I said "the future will be beautiful"? Well, here it is again! A remake of Clutterfunk & High Life mixed into one awesomeness!
 | Operose | Peton | 43722522 | Finally! A new level! Took me some months to finish.. Thanks to HFC and other people for helping me build this level )/ Dedicated to: Shiori
 | Hasty | Unzor | 43221166 | A journey to a place... Or something like that. I tried to make something that looked simple but had allot going on in the backround. Enjoy!
 | Killstealer | ZephiroX | 43143309 | "Why even trying to do stuff by yourself when you just can press R 8) ?" Easy Demon with a lot of glow owo. Thanks to Davphla for the help !
-| Prismogenesis | xZappeRi | 43053917 | My best level so far! MC with Ross12344,Subverse,Xyle,Azasuh and ProSlain! Layout also by ProSlain <3 For: Aeon Air,Nico99,Zewren,TrueSquall
+| Prismogenesis | iZappeR | 43053917 | My best level so far! MC with Ross12344,Subverse,Xyle,Azasuh and ProSlain! Layout also by ProSlain <3 For: Aeon Air,Nico99,Zewren,TrueSquall
 | Journey | Nottus | 43028846 | New Collab with my friend V3xer! (check him). We tried to use different colors on this one. Hope you enjoy :)) (Pass on my Youtube channel).
 | Sphere | GDLoco | 42572596 | After 6 months... A new level!!  I've tried a different style this time, Good luck with the coin I Made in 2 weeks I Thanks for feature Rob!
 | Formulate | Annon | 42505200 | a nice and easy level for ya! I made alot of insane/demons so this is a little different 8) Dedicated to Dasher3000! 93 nerf for noobs 8))))
@@ -34,7 +35,7 @@
 | Phase | Falkuma  | 41037190 | This is the point where past and future meet...! My masterpiece is here, built in 2 weeks! Thanks to Vitja and Reunomi for helping. Enjoy :)
 | Look out | ProSlain | 41007443 | MY FIRST LEVEL IN GD!! Megacollab with Vragera, GDFD, Systile and Ploid22.. Dedicated to Mrlorenzo, Torch121, Castrix. For Frenchbandits CC2
 | Sunspots  | Cofii | 40933017 | The sun is a mass of icandescent gas, a gigantic nuclear furnace where hyfrogen is built into helium at a temperature of millions of degrees
-| Sizzle | supaneko | 40794752 | Fry yourself in this steaming, energetic burst of colour, electro and velocity... Anyway have fun and sorry about some of the transitions...
+| Sizzle | distortt | 40794752 | Fry yourself in this steaming, energetic burst of colour, electro and velocity... Anyway have fun and sorry about some of the transitions...
 | Zephyr Breeze | Reunomi | 40778653 | The air feels colder around you... / New level! Maybe one of my best if not mistaken ^_^ / Dedicated to some cool peoples and friends! 7-8*!
 | The Last Party | Alfred PKNess | 40506640 | Goodbye 2017, thanks for all :"3 Rock it!!!! (bug fixed :3) (LD update for those people who said "i cant see anything" well... here you are)
 | Strobe | VoltJolt | 40344879 | Named after my favorite song by deadmau5. Tried mixing 1.9 with some 2.1 features. Hope u enjoy, sorry for bad gp. Supeopi and Luco inspired
@@ -113,7 +114,6 @@
 | Toxin Lab IV | Xaro | 29917082 | Here it is, Toxin Lab IV. I dedicate this Toxin Lab to Loserchik67 for motivating me to not cancel the lab series. Enjoy and try to survive.
 | New Horizon | xXLOCOXx | 29694537 | A wild 2.1 level appeared! This isnt the best example of the many things you can do in 2.1, Im just easing into things. ;) Enjoy! [Reupload]
 | Killing Spree | Danola | 29394539 | Enjoy the insane drop. Hope you like it !! n-n <3 ,dedicated to Geometry Dasheros ,KaryArtt18 and BlueRose,Pass and Video on my YT Channel .
-| FREEDOM | MrPPs | 29247995 | Amazing Megacollab with Nuclear Nacho , SlovaHands , 11 Made in 2.0 Hope you Enjoy  GD Heroes Work ,  Thank you Rubrub for The Epic So Much!
 | Invictus | f3lixsram | 29238291 | A simple and easy level :) Please rate 2 stars... ;3 Pass on my youtube channel, dedicaced to all the peaple that supported me in this game 
 | Sad Feeling | God Of Music | 28949541 | Amazing collab with Neribus! We made double collab! One level has been published on him acc and one lvl - on my acc! Enjoy  ^_^  (free pass)
 | legend  | HadiGD | 28943996 | A collab between gibbon765, optical, izinad4sh, g4lvatron, thomartin, stubbypinata, funnygame and me! Thx to starship, zhander and neogamer.
@@ -238,11 +238,12 @@
 | Lost Souls | Serponge | 9735995 | Finally done !! Collab with millepatte ! My best collab ! 50k object, please rate Hard 5 stars ! wave inspired by nubix - fixed layering bug
 | Starshine | Norcda Childa | 9002335 | Big 2.0 update! New XL extenstion, and user coins! 30000 object limit reached! Password for copy is 8000 thanks to 8000 YouTube subscribers.
 | SOAP | Bronks | 48297506 | I started building this in early 2.1 and I wanted to make it XL but I ran out of Group IDs... Kinda "filler" level for GD's 5th birthday :)
+| Tho | iISpaceDustIi | 48195843 | Dedicated to BlueMo0n, Ellisha, KevinGD27,  XStar7, DiamondGirl01, Erdyuri, By7on, Decody, MarArm, Ezeon, Serponge, Jayuff and Nasgubb. :=(
 | OK | Zoroa GD | 47398175 | After 2 months, I finally upload another level! The style is a mix of Danolex & Enzore. Hope you enjoy and have fun! :D (Lucky's CC1 entry)
 | Unruffled | EpicMasta11 | 47394296 | New level finally. Collab with CreatorRT, gameplay by PyrexGD. This is somewhat of a filler level, sorry if it's messy and inconsistent. 8)
 | Nebulous | Ballii | 47109338 | another one of the many mistakes I've made (not levelution), not everything is supposed to be original, please stop being annoying about it
 | Vacant | Kebabbo | 46896571 | After 6 months I present my first MC.Immense thanks for:Vragera,Epicmasta11,Optonix,CreatorZapper,xXJ0shxX and CreatorRT.Thx Eclipse 4 name
-| Smooth Power | xZappeRi | 46667766 | I had fun building this.  Some parts are inspired by CreatorRT. Dedicated to DanZmeN. FeEel The SmoO0oOOo0othness! This might be my best :)
+| Smooth Power | iZappeR | 46667766 | I had fun building this.  Some parts are inspired by CreatorRT. Dedicated to DanZmeN. FeEel The SmoO0oOOo0othness! This might be my best :)
 | Going for gears | TheOnyxGuy | 46143786 | Made that in one and a half hours. UPD: Ball uses P1 color now, map got a bit bigger, some visual changes. I hope it didn't get very laggy.
 | Glii | SayOne | 45806364 | This is one of my best levels so far. I tried some cool effects in the mix, so I hope you enjoy! Dedicated to GD OptaWolf, and Explodex! :)
 | MoonFlare | Riky2610 | 45801349 | My entry for Voop CC9 and finally after an year the 3rd level of my "Moon serie". I hope you like it. (Sub on my yt) -Gameplay by Qventiam-
@@ -408,6 +409,7 @@
 | Tetris Dash | AgentJDN | 9938815 | Its a retro soundtrip! Be sure to check out the User Coin spots for a challenge! Music by Unrl. FEATURED BY RUBRUB! V2: Bug at 2nd coin fix
 | Mechanic Megaforce | TecHNeT | 7892386 | MECHANIC MEGAFORCE IS BACK!!!! Bugfixes and coins! The hardest level i ever made, if you are reading this give a like and rate :3 pass 7285
 | Cataclysmic drive | TheRealArtee | 7573669 | Sorry for this level its the worst copy evrr. i cant delete cuz it givs me errors when i try to delete. EVERYONE DISLIKE THIS BAD LEVEL ;-;
+| Wings Of Angel | JerkRat | 48618693 | What is it like after death? No one knows, it's one of the biggest mysteries of mankind. For JonathanGD's CC1. Dedicated to EVW. 180k obj.
 | Auria  | victorinoxX | 48522681 | Finally after 5 months, my first and maybe my only MC has been finished. Thanks a lot to all these great creators who helped me with this.
 | Elucidate | TheHungerGamer | 47867106 | Illuminate your path through the darkness of your surroundings... Tried to make this one more user friendly. Hope you enjoy! Thanks Rob :)
 | Biru | JonathanGD | 47611766 | Full version is finally here! Big thanks to Viprin for giving me 1st place in Viprin's CC9 (unknown) | 116500 objects | 5 min 35 sec | OwO
@@ -429,7 +431,7 @@
 | Ecstatic | Allan | 42756194 | An easy, happy, and fun demon. :) ~Huge thanks to Enceladus & Lumpy for helping me finish, G4lvatron for the font, and Mbed for the name!~
 | Tempus | Falkuma  | 41342027 | Time flies when youre having fun, so enjoy this quick little modern/effect level I whipped up in 5 days :) No lag, and better coins now ;)
 | Happiness | FaekI | 41295704 | Collab with Neosweet, Fragox, Irving Soluble, DHaner and DanielDLC. Check they stuff they really need to be known all of them... Enjoy... 
-| Suel | xZappeRi | 41282924 | Amazing collab with Intrepid! Im very proud of this level! Dedicated to: DistorT TrueSquall Desticy Cirtrax 99Percent and RobTop! Enjoy :)
+| Suel | iZappeR | 41282924 | Amazing collab with Intrepid! Im very proud of this level! Dedicated to: DistorT TrueSquall Desticy Cirtrax 99Percent and RobTop! Enjoy :)
 | Pixel Horror | Pyxidus | 40993907 | Finally done! This took me several months to make because I encountered many problems throughout building. The c from me changing devices 
 | Exspiravit | helito6x3 | 40910041 | i have returned fromd death with a new lvl with a song made by me.a bit challenging when you can not see anything (video in my yt channel)
 | A New Hope | Nicki1202 | 40715921 | Star Wars themed level about the original trilogy (yes, song is from ep1 but idc)! Was aiming for a rather simple style, hope you like it.
@@ -536,9 +538,8 @@
 | Sapphire Surge | Insendium | 12536658 | The long-awaited sequel to Scarlet Surge is here! I think it's good, but not worth the incredibly long wait. Next surge will be better. ;)
 | Never Again | Mazl | 12081282 | I will tell you guys one. I will verify dis NEVER AGAIN!! I do this for my fans. This pains x) Have Fun Playing it and then never again x)
 | Pearlescent | Element201 | 10835006 | Maybe the best level I have made? Follow my everyplay account, Element201. Enjoy...  Pass is 123456   PS. Thanks for the feature Robtop :)
-| Idols | ZafkielGD | 48175126 | Do you remember the 1.9?, A great update that had incredible levels. MC Mashup (1.9/2.1) with 18 creators. Original song on my YT channel
+| Idols | Zafkiel7 | 48175126 | Do you remember the 1.9?, A great update that had incredible levels. MC Mashup (1.9/2.1) with 18 creators. Original song on my YT channel
 | 3on | Lugunium | 48157060 | I started this level ages ago. Space = left, up key = right. To unlock the coin, collect 10 little squares! (don't spam at the beginning)
-| Outcry | Ploid | 47844665 | Big thanks to DeniPol, TrueHaron, ExpyNormal, EnZore, KrazyKako9 & BryanC28 for making a part In this one. My last hosted megacollab. (^:
 | MaGic | chamoylol | 47109619 | The spark that resides in the heart of us all, it creates the element of Magic. Hey guys I hope you like my new art lvl #Ponyferences ^-^
 | Eden | Ethrakk | 46909369 | This level took me around 10 days to build, and it's my best level at the moment. I hope that you'll enjoy ! (Pass on my YouTube channel)
 | Extortion | Ajedaboss | 46797312 | An attempted 24 hour MC challenge... that ended up taking 52 xD. Collab with 7 fast af creators, and gameplay by me (as always). Enjoy :D
@@ -560,7 +561,7 @@
 | Avalon | Freyda | 39261874 | This is my best one! Put a lot of effort into this level. I hope you enjoy! Dedicated to: Echonox and Hyenada. Thank you all and RobTop!!
 | PaC | DanZmeN | 38549307 | waccawaccawaccawaccawaccawaccawaccawaccawaccawaccawaccawaccawaccawaccawaccawaccawaccawaccawaccawaccawac- EEEeeeeEeeeEeeEEEeeeOooo wac wac
 | Weep | wless | 38472993 | 10 whole months of hard work. 70k objects. Reunomi & I present this masterpiece for the Doom Gauntlet CC. Please like and rate 10* Demon!
-| Resh | iThunderPxJ | 37683681 | I know it's a little short but I hope you like it a lot . -. / This goes for you victorinoxX <4, Pass in my yt channel/Upd to please them
+| Resh | Pxj | 37683681 | I know it's a little short but I hope you like it a lot . -. / This goes for you victorinoxX <4, Pass in my yt channel/Upd to please them
 | envie | ChiNex splat | 37382404 | enjoy this simple collab with CreatorRT! im not sure if it's ez demon or insane 9*, and layout is by creatortemple, i buffed it, ENJOY!!!
 | Spinner | Djdvd17 | 37116686 | my best level... i hope you enjoy. Inspired by CastriX. Colorful and fun level (i think). Good luck and thx for playing and thx RobTop :D
 | Prism Break | ILRELL | 36631191 | Free The Rainbow! | 4 Months, 78K Objects | Pass: $!#^@) | the title's a pun btw, geddit? Prison Break? Prism? u free the rainbow? no? ok
@@ -632,14 +633,14 @@
 | HoNesty | chamoylol | 46303263 | "You can be Honest, let your problems be know" Hi guys. Here is my 3rd art (pony references) level!  Hope you enjoy!^-^   Thx for play:3
 | Secret Paradise | LaysManCZ | 46198281 | My second megacollab with Morce, Zajicek, Vort3x, Ezel, Djdvd, Milos482 and Chona026! Hope you will enjoy it! ;D Play in practise first!
 | May | Adabae | 46104803 | June? July? AuGuSt? | Trying to be as original as possible, enjoy mates! Lov ya all! 5 - 6* c: | For Team BetaCore :) <3 V2- fixed bugs!
-| Hyperion | xZappeRi | 45771733 | A really old project i just found. I noticed it was finished ._. A collab with God Of Music and EchoSpiracy :) Dedicated to CreatorRT c:
+| Hyperion | iZappeR | 45771733 | A really old project i just found. I noticed it was finished ._. A collab with God Of Music and EchoSpiracy :) Dedicated to CreatorRT c:
 | Phenomenal | NukeWarrior | 43880102 | MY FIRST FEATURED!!! THANK YOU ROBTOP, MY FRIENDS, AND ALL THE MODS THAT SEND IT! Also thanks SpacialBoom, FranX6, Zecret and Pasho12 <3
 | Celestial Sphere | TheHungerGamer | 43010564 | Navigate your way through the heavenly objects of the celestial sphere... Probably my best level. Thanks to TrueSquall for helping me :)
 | Sacred Fire | CreatorAurum | 43002201 | Sequel to my early 2.1 level Aeroblast! :D Thanks so much for everyone who supported me! :)  Thanks Bobby22 for logo and SWAGO for font!
 | Indonesia Gallery | Lerevon | 41313017 | Lerevon+Zeetoss+Penttagram+Reunomi+Lerevon+Lerevon+Lele X Nomi.Ending art by Reunomi.Verified VirtualCrack,Thanks CreatorForce & Reunomi
 | Moonlights | Alkatraz | 40149755 | Not my best, but i still like it :) The song is dope too :D UPDATE: Nerfed the 3rd coin cuz too many ppl were asking me how to get it :P
 | Passage | EhwaZ | 40064611 | A little reference from "The Binding Of Isaac" , Dedicated to: Badklatt, Chaoz18 and ARLUNOJO  Special thanks to: itsboikGD   Enjoy!! :D
-| shyness retracted | LiraleH | 39908206 | Constant paths of decisions that only have one destiny..."Shyness Retracted" My best lvl! Just enjoy :) Effects inspired by ChaSe Entry.
+| shyness retracted | xZoomkS | 39908206 | Constant paths of decisions that only have one destiny..."Shyness Retracted" My best lvl! Just enjoy :) Effects inspired by ChaSe Entry.
 | Arise | Splash | 39867592 | Level by Jayuff, Ilrell, Echonox, Kips, CX Random, Motleyorc, M3nhHu3, JonathanGD, Skitten, and Splash! Thank you for everything, Jay <3
 | Dragon Aspect | Axils | 39323637 | Tongii left this level unfinished, so I decided to finish it up and give it a twist. If you think I copied the entire level, ask Tongii.
 | House With Legs | MitKit | 38934223 | An old level I started when 2.1 came out... I got bored of it and passed it on to H20Ghost to finish, and finally it's here! Have fun :D
@@ -650,7 +651,7 @@
 | Tenacity | Prents | 38453993 | Collab with Algedy. Check him out,he is amazing creator! :0 Big thanks to Staps for helping me out with a lvl ;3 He made the end art :) 
 | Energy Drive | DreamEater | 38336313 | MC with Poccottini, NightXStalker, VoltJolt, RoiMousti and Nico99, verified by Psynapse. v3: fixed teleport at 14% that I didn't know of
 | Materialism | MeEloz | 37073856 | My best solo level so far. Started in June but doesn't created during July. (The first 50% was made in June and the 50 other in august.)
-| Metal Disorder | LiraleH | 36883780 | First bossfight I do !! It is probably my best lvl so far! Enjoy!! For Crystal Gauntlet,To Erdyuri,Thomartin,Alecast,CastriX and Piseto.
+| Metal Disorder | xZoomkS | 36883780 | First bossfight I do !! It is probably my best lvl so far! Enjoy!! For Crystal Gauntlet,To Erdyuri,Thomartin,Alecast,CastriX and Piseto.
 | Crystal Essence | ChaSe | 36792656 | My 3rd 2.1 level and Crystal Gauntet CC entry! Turned out to be a bit harder than i expected, but still, have fun :D v5 fixed 55 forever
 | mystiric | NightXStalker | 36082383 | My first 2.1 Level , Hope you guys enjoy! Vid on YT | #1 on Enlex Unknown CC | Update!: The length is long, and a bunch of bug fixes. :)
 | Caesium | DryCryCrystal | 35538862 | My masterpiece! Never took so long to make a level, thank you to all those who believed in me :). 61k Obj. By DryCryCrystal and DexBoss.
@@ -660,7 +661,7 @@
 | Operation Megan | AgentJDN | 34457360 | My best 2.1 level ever yet! New Kips style! Ain't about the singer, the Miss World 2013, nor the actress. For Megan Sim. ilrell CC1 5th!
 | Simplicity | Peton | 34264590 | Dedicated to GDVacation for being one of my best friends! =) This is a very simple level but i hope i did good! Please rate harder 6! :D
 | Frontlines | Edicts | 32927589 | My first 2.1 level! I spent about 3 months in total on this. Hope you enjoy. For Viprin CC8. I won't be adding LDM for layering reasons.
-| Hiekka | Nrcaw | 32142382 | I tried to improve on some things in this level. Hopefully you all enjoy this one. Dedicated to Zanx (Luna GMD) for being a good friend.
+| Hiekka | EpiEpz | 32142382 | I tried to improve on some things in this level. Hopefully you all enjoy this one. Dedicated to Zanx (Luna GMD) for being a good friend.
 | Castle Dedede | Pl4sma | 32008750 | ...or the castle of the glorious self-titled king of dreamland. My Masterpiece and my hardest level yet. Tap at the beginning for LDM :v
 | Sentinel | VoltJolt | 32005967 | I tried a Desticy styled level this time. Named after my favorite song by Noisestorm. Gets better as you go imo. May be overdecorated xD
 | Stone Road II | lesuperchef | 31588668 | Here it is, the sequel to Stone Road! I wanted to do something very different than the current "featured" style. Update : LDM+ added! ;)
@@ -737,7 +738,7 @@
 | Bronze | JordyGD01 | 38490725 | Finally a solo level! After 4 months:). I hope u enjoy! Thx to all for the support, especially to Prents:) Thanks for send Erdyuri! :')
 | Spectral Slumber | Sillow | 38447311 | My best level, first boss and 79999 objects and for Doom Gauntlet and Dreameater CC. Thanks rob. Pass is 808000. Nerfed even more stuff
 | Brine | SirHadoken | 38416836 | I tried to perfect my style with this one. I spent over a month on it lol. Thanks to everyone who encouraged me to finally finish it :p
-| Lovely Flower | xZappeRi | 38010733 | Do you like this style? I tried to avoid my old generic one... 3 Days challenge! I put a lot of work on it ;) Thanks RobTop so much! <3
+| Lovely Flower | iZappeR | 38010733 | Do you like this style? I tried to avoid my old generic one... 3 Days challenge! I put a lot of work on it ;) Thanks RobTop so much! <3
 | Sakura | Norcda Childa | 37987381 | Take an awe-inspiring journey through many different worlds. Dedicated to my grandma, who passed away last year. Thanks for playing. :)
 | Illusion | SupamarioXx | 37707671 | Dedicated to Optical :) This is Inspired by him too! And This is also my first time using this style, End barely syncs due to a bug ;-;
 | Explosion | EnteiX | 37669126 | Collab with nin3d. We worked hard, especially from the drop. Verified by GsML3o99. Thanks for feature <3 Video on Pavyzone's channel :)
@@ -751,7 +752,7 @@
 | Radiation | Masterale | 35512755 | Collab with Torch121 and W0lf3! I really like this song and i hope u enjoy the level. Video on my yt channel. Dedicated to Thomartin :3
 | Ghost Temple | DavJT | 34918883 | Ghost Temple,  dedicated to spa8 and Cellphax. Can you survive in the darkness? Video And pass in my YT Channel, Enjoy :) thx rubrub <3
 | Historia | Tribar | 34336984 | "Jump and fly your way through danger in this rhythm-based action platformer!" Dedicated to all players pre 1.9 especially Partition :D
-| Virtud | iThunderPxJ | 34292823 | Dedicated to iPandaSwag, Hydrid, Blych95 and Al3xD, Everything is possible if you want :] Many thanks to all <4, especially to Peton xd
+| Virtud | Pxj | 34292823 | Dedicated to iPandaSwag, Hydrid, Blych95 and Al3xD, Everything is possible if you want :] Many thanks to all <4, especially to Peton xd
 | careful | Kyromi | 33536007 | ez and pretty epic collab with the amazing pepe tono this was pretty fun to build :) dedicated to dererichd greenyoshi and evw enjoy ;p
 | Trachea | ViP3r | 33345964 | Made in 10 days! Started for MrLorenzo CC2 and dedicated to my favourite creators Usermatt18, Thomartin and Codex! <3 ;D THANKS RUBRUB!
 | FeaRlesS | LeocreatorX | 32632867 | My best level on desing but the song its kinda weird but still good 8) (bugfixed if u have a bug u need practice) (me gusta el pene xd)
@@ -816,14 +817,14 @@
 | Vitality | Drob3 | 42192135 | Disfruten de mi nuevo nive! me tomo 2 semanas de creacion xd, espero me apoyen con su valioso like! mi mejor nivel? dedicado para ti<3
 | Phase II | Falkuma  | 42100772 | Well, its here! I hope it was worth the long-ish wait, and I really hope you enjoy the masterpiece Reunomi and I present to you! 8* :)
 | Ophea  | iMaT | 40499751 | Layout by me.Decoration by riky2610.(For who dont know I have the permission from Riky2610 to upload this) FINALLY RATED THANKS ROB <3
-| Optimistic | supaneko | 40005531 | Definitley not my best, just an average level I enjoyed building :) Please don't say it's generic because I already know that, thanks.
+| Optimistic | distortt | 40005531 | Definitley not my best, just an average level I enjoyed building :) Please don't say it's generic because I already know that, thanks.
 | Goku | ZacharyX | 39913259 | Amazing collab with Tartofrez ! It was originally supposed to be uploaded by him, but he decided to give it to me. Hope u like it ! 8)
 | Hypotesis | iSumia | 39814022 | Dash between a cute level with variety of designs :D, my first solo level. dedicated to Minimi427, NeogamerGD and my subs... Enjoy =) 
 | NewVille | N R G | 39150001 | un remake del famoso nivel Upcity :D, como no tuvo rate espero que? este si lo tenga!, (collab con Alfred PKness) Verificado por lRiko
 | zaphkiel | DeniPol | 38508006 | My new epic level! I tried hard on him. I hope you will enjoy. The rating is 5-7 stars. 32k obj. (new update in honor of Halloween) =)
 | Deadlocked 2017 | Bronks | 38150633 | 2.1 remake of Deadlocked with a new (not very good) gameplay and updated decos... V4: made gameplay better at the "hot" part! Enjoy :)
 | Euphory | jacr360 | 38048916 | Hey Guys!!Finally an New lvl And More Easy than My Another Lvls c: A Small MC With Great Friends and My Cousin <3,Enjoy! My Style! ;3;
-| Terrorific Factory | LiraleH | 37703821 | My biggest creation! Entry to the Doom Gauntlet,Verified by DubLollo...Look at my MC boys! I hope you like it! DreamEater CC//Let's go
+| Terrorific Factory | xZoomkS | 37703821 | My biggest creation! Entry to the Doom Gauntlet,Verified by DubLollo...Look at my MC boys! I hope you like it! DreamEater CC//Let's go
 | Emanate | Nigh7fury | 37387301 | More glow...? The official sequel to radiate. Probably gonna be my last level with this style cuz i want to build better things ;3 GL!
 | Distrace | Xylph | 37315871 | New level, kinda trying a new style for me here. hope its not too bad :D This song gives me the chills... Kreygasm (Built in ~6 hours)
 | Pacific | By7on | 37311925 | Here is the modern / design level that y'all have been waiting for. I hope you guys enjoy! Sorry if too short; reached object limit :)
@@ -877,14 +878,13 @@
 | Snowfall | Skipnotz | 12273581 | Glide your way through the beautiful winter storm! For Cassidy, and also a thanks to my two best friends 19K OBJECTS :D THANK YOU ALL!
 | Automation | Lithuanium | 12003820 | Going for a Darnoc Styled Level! Made for Minesap's contest! I even used the ENTIRE song! ;3;)/ Fixed any bugs found! Thx for feature!
 | Dance Massacre | Hinds | 11607707 | First serious 2.0 level, hope you like it lel. BUG FIX: slopes in the second cube part work more correctly now, fixed other stuff too.
-| SoulDust | DualTroniX | 10110092 | Another Nerf Update! Changed method for collecting the coins! Visual bugs fixed! Visual Update coming after Project VEGA! Pass is 2208
 | ElectroWorld | ASonicMen | 5131543 | Simple and Easy Level! 9.3k Objects! Pass to Copy on YouTube Video! Map pack update v2 - Nerf, bug fix and coins. Enjoy! Thx RubRub <3
 | VendetTa | ZenThriX24 | 47797723 | After 5 months, it's finally here. 1st Crimson Flare Team MC. Layout by CreatorExtract, Verified by Farzz Zinjj, video on his channel
 | Orbit | xebii | 47475584 | tap to switch orbits to the next planet. updated from the MCR#2 version, to be more functional. good luck getting that last coin lmao
 | Citadel of the Skies | ML500 | 47109037 | The first of a Story Series, the voyage through the floating wonder in the horizon - Entry for Viprin's CC9 - Update: Fixed few Bugs.
 | Reconciliation   | C0LECT0R | 46148327 | A Steven Universe art level made in 1 week. I hope you enjoy it (Dedicated to BlueLite and EVW) PS: Thank you Rob for featuring it :D
 | AzTe | StrikeKing22 | 46091500 | My First solo level and Full level ever!! A project started a month ago and decided to finish, Enjoy! Rate 5-6* For BloBloCC1 and TCC
-| Eternal Youth  | PacificTeam | 45717588 | Maybe one day they will let young people invent their own youth. +100k objects, and 5 months of work. Dedicated to all young people. 
+| Eternal Youth  | ThePacificTeam | 45717588 | Maybe one day they will let young people invent their own youth. +100k objects, and 5 months of work. Dedicated to all young people. 
 | Aeonian Skies | Chlorines | 45244124 | Sky/space themed level dedicated to AeonAir and Ethrakk. Some effects and arts are highly inspired by Airswipe and Arctica. Enjoy! <3
 | Apyr | Falkuma  | 45049160 | Sorry if its a bit empty lol, collab with falkuma! Verified by falkuma?! Dedicated to falkuma, and inspired by falkuma! RIP Avicii <3
 | AceGamer | CookiesGirly | 44815898 | New bad level yay. start is old. finished at 02:36 because i cant sleep.. yay v2. thanks  xSkart for make wave/ball part #levelution.
@@ -1038,6 +1038,7 @@
 | Factorio | Regulus24 | 43579743 | Here it is! My entry for the Monster Gauntlet Contest! I don't have any lag on my phone so if it still lags, message me about it :3
 | Mirrorwall | Kubias | 42545791 | I'm sorry coin hunters. To those wondering why there is a copy mark: I was too lazy to save on mobile so i just uploaded the level.
 | Minim | 8BitFudge | 42429338 | Used to be 1K objects for the Opti contest, but is now 14K! V4: Fixed one purple pad error. P.S: Use LDM to restore the original :D
+| Blast Conducting | DorSha | 42074338 | Blast Processing remake! I lost a lot of progress in this level so it may look a bit rushed or bad in general. Anyways, have fun :)
 | Scenery | Fairfax | 41429377 | Inspired by the art style JonathanGD,Skitten,and Serponge.I make a level for 1 month for "SCC1". Hopefully you can enjoy my level:)
 | BlackOut | BlueLite | 41371621 | Sorry 4 late guys, one art level more released ^^ (Pass on my YT Channel) Dedicated to Toxic, F.Craft, Kappita, Sparkler & Kixed :)
 | The Deathless | Edicts | 41352267 | The official sequel to The Badland. Dedicated to EricVanWilderman for the awesome entertainment and to Boomkity! LDM IMPROVED AGAIN
@@ -1115,7 +1116,7 @@
 | A Little Smile | Alfred PKNess | 38624421 | My Doom Gauntlet Entry, and special level for Halloween :) Rate 10 Stars [Easy Demon]  OLD LEVEL, SORRY IF IT'S NOT GOOD ENOUGH :v
 | Pearlescent | Nico99 | 38532776 | Collab by Nico99 (me) and VictorinoxX! First Ball effect is from my friend Usermatt, thanks to him. Enjoy!! Video on my yt channel
 | Pijatelo | MrLorenzo | 38491012 | 7 Months of work for the Official Mhanz sequel...We gave all our best to release this! | 23 Italian creators did this masterpiece.
-| Sound Burst | ZafkielGD | 38411820 | Amazing Effects Megacollab by Al3xd,Slacte,Clasterjack,Dragneel,VictorinoxX, Gerviux, Soluble and me. Enjoy 8).Video on my channel
+| Sound Burst | Zafkiel7 | 38411820 | Amazing Effects Megacollab by Al3xd,Slacte,Clasterjack,Dragneel,VictorinoxX, Gerviux, Soluble and me. Enjoy 8).Video on my channel
 | Empyrean | Fariszk7 | 38236907 | After months and months of practicing my patience, i proudly present to you, my first solo level "Empyrean" I hope you like it! 8)
 | Virgo | TheHungerGamer | 38134841 | Your perception is your friend... Explore the realm of chastity and purity, Virgo.  Fixed some bugs. Thanks for the help Pounix :)
 | SanCrispino | DubLollo | 37744190 | SanCrispino It's an Italian wine... Me, Nijii, G3ingo, Riky2610 and ZoomkS had a lot of fun building this. Have fun! For Italians.
@@ -1161,7 +1162,6 @@
 | Sky Serenity | RealZober | 20829037 | The beautiful skies have mesmerized you and got you wandering with no clues of what this place really is...Dedicated to Goose :^) 
 | Chrono Sanctuary | Skipnotz | 18156693 | Time is complicated. Time is important.. One slight mistake and you could mess everything up - Collab with Panman30 ! Pass is 4512
 | Immortal Ichor | IlIRyanIlI | 17055900 | Megacollab with Raptor, Reverier, Deletor, GMDToto, IlIRyanIlI , Blizzard and Oracion! Coin Routes and Verification by LuigiClaren
-| Never be alone | Lucid Dreamer | 16724793 | Idc what you say, but I love that song. Thanks Rubrub ;3/ Dedicated to my girlfriend Alexa <3 Pass reveal: 1510. Enjoy this lvl c:
 | -switch- | Zigma | 16614296 | Inspired by Echonox. beware that you cant open this level in editor mode w/ preview mode switch on. now go feature Coral Tide, Rub
 | AlterGame II | Serponge | 16152789 | I finally finished this level, sequel to altergame, this time its inspired by mario :) updated, hope it lag less, thanks robtop :D
 | Deconstruction | derpsensei67 | 15081986 | The system is deconstructing... will you survive? pass is 1607. thx for all the support gaiz. Dont forget to play my other levels!
@@ -1198,7 +1198,7 @@
 | Plukaryotic | Igno | 34118281 | My favorite level I have ever built to date. Very Darnoc-inspired (obviously). Video on my YouTube channel. 9 stars? v8: reupload
 | Jeopardous | TD Epic | 33727693 | My first 2.1 demon YUY! Please rate EPIC, like me. Dedicated to Wooshi for being a good friend. Some parts were inspired by Amor.
 | Pruinae | Hyenada | 33682864 | Huh. This style is weird lol.. hmmmmmmm.. Well I hope you guys enjoy 8). For 4 great creators, and Ilrell's CC1 ! THX 4 EPIC!! :D
-| Diverse | relyt | 33407248 | A stunning level! I'm rlly proud of this one :D Thanks to CreatorFusion for making the first 15%. dedicated to EVW. YAY FEATURED!
+| Diverse | SleepyPachirisu | 33407248 | A stunning level! I'm rlly proud of this one :D Thanks to CreatorFusion for making the first 15%. dedicated to EVW. YAY FEATURED!
 | JolTwave | Jaasim | 32198995 | Easy Demon? for Viprin and Zobers' CC's, Please rate this! Video is on my YouTube [Rate 9-10*] LDM is available, 3 keys = 3 coins
 | Mission MADISON | AgentJDN | 32145604 | ValentInsanity style by me! With fanmade gamemodes and gimmicks! Dedicated to Jilian Kay Madison Fernandez! 2nd Viprin CC8 entry!
 | Gangsta | MrLorenzo | 30900505 | Collab with RoyalPlayer! Hes an awesome creator go check him out!! This level is pretty rushed.. In fact is my first 2.1 level :)
@@ -1237,6 +1237,7 @@
 | Quantum Energy | HyperFlameGD | 12547829 | Reupload of a very very old 1.9 level! These were my building skills before I had my first feature... Still Enjoy! WITH COINS :DD
 | deadlocked v2 | Iid4sh3riI | 12174771 | new update! thx for 400k downloads! update: a few nerfs at the wave parts, better design. thx for playing ;3; vid on my channel. 
 | JellyStep | iIJellyBeanIi | 9812015 | So yeah, I didn't actually want this to be featured because it's a really old 1.6 level. This should be a demon without featured.
+| Just Kidding | DangerKat | 48493005 | finally new level solo <3 dedicated for my friends <3 Team Watermelon and  pacific Team :)  Inspirated in Erdyuri And Darwin ;3;
 | GuThrie II | Steven Ksttle | 48382680 | In case you were left wanting more, if GuThrie did not satisfy you enought here i bring you the sequel.  She does not love me =(
 | Havoc | EpicMasta11 | 48066350 | So here is another one of my weird solo levels. I have no idea if I'm improving or getting worse at creating. Anyways, enjoy! :3
 | Rise | bluZkyGD | 47227116 | My next solo to help me rise up from being unknown... Dedicated to my two fav creators TrueLogiC and LeocreatorX and for the TCC
@@ -1319,12 +1320,12 @@
 | Together | ByMaxCraft | 36007540 | FINALLY!!! TOGETHER IS OUT! Dedicated to Marwec, Erdyuri and especially to Zober. For Enlex CC2 and Leocreator CC1 (bugs fixed)
 | Quantum Showdown | Tongii | 35648730 | most of you only seem to care about extreme difficulty and demon levels. no thanks, im out :) abrupt ending because I dont care
 | The Hell Dignity | Stormfly | 35579890 | The Hell Dignity by Sohn0924, Kugelblitz, Tsukifuto, Stormfly, Ticky, Zhander, Xaro, NitroN6 and S1l3nce. Verified by Stormfly.
-| Felicity | MrPulp | 35378139 | Sequel to Ecstasy, I present to you Felicity! Made with 15k obj, +dedication at the end. Enjoy and rate 5 star! Thx everyone :D
+| Felicity | Carnage37 | 35378139 | Sequel to Ecstasy, I present to you Felicity! Made with 15k obj, +dedication at the end. Enjoy and rate 5 star! Thx everyone :D
 | Wanderer | Syunide | 34584192 | Finally another Solo level! Went a lot simpler on this and is inspired by EpiEpz and Schady! Dedicated to Epi, Schady and Sruj!
 | Subterranean Animism | EVW | 34386347 | Megacollab by Aquatias, JacobRoso, Zak, Snowbally, Dudex, Speed, Hinds, DarwinGD, Knobbelboy, Vlacc, and Rustam.  EVW verified.
 | Ninja Cat | Sillow | 34330526 | 55k objects! Dedicated to F3lixsram. Updated some transitions and fixed some bugs. I'm never nerfing the wave. Just get good ;)
 | Super Square | XXDalmanskiXX | 34298236 | This is my best idea of super hexagon,but its square.Thanks for playing guys:D,Tnks For Featured:) Update:This Level is easy!!!
-| Thermity  | LiraleH | 33404197 | MrLorenzo CC, My second level of 2.1 and I hope it is featured, Robtop, you will like it, I promise ... FEATURED,THANKS ROB!!!!
+| Thermity  | xZoomkS | 33404197 | MrLorenzo CC, My second level of 2.1 and I hope it is featured, Robtop, you will like it, I promise ... FEATURED,THANKS ROB!!!!
 | Robtop | Nashii | 33231469 | Regalame a I like Good Always I wanted to do a level Dedicated to that man Robtop Thanks for rejoicing our life Behind a screen
 | Ignite | CreatorRT | 33091873 | My best work in my levels inspired on the level "Adrift" Dedicate to Optical and Shockwing :D Update Added LDM 7 Fixed level :)
 | Ahoy Marine II | JirkGD | 32993087 | Hello good sailor. I guess you want my treasure, well...let me tell you one thing, it wont be easy 8). My first MC, Easy demon?
@@ -1440,10 +1441,9 @@
 | Sky Station Galaxy | FastRefleksX | 45043752 | The 2nd level in my Galaxy series! A collab with my good friend JacobROso <3. End screen by Lazuli. All bugs fixed, I hope :)
 | Game Time | SimilarAMZ | 43945511 | I finally finished this level! I used 79983objs and 999IDs...Pass is 643344,please enjoy!But I recommend doing practice mode.
 | Scientific | juandeman | 43775463 | My simplest level! I tried to do a level with less than 40k obj, I know it isnt my best work. Hope you enjoy and have no lag!
-| Overture | Azaaa | 43756414 | Megacollab by a lot of talented creators! :D | Verified by Destroyer6401 and reverified by Alledion! Hosted by TrueSquall ;3;
 | xDebes | iiMRTii | 43247314 | Enjoy this sequel to xSempre by Alkatraz! Also it's my first level since 2016 and for French Bandits CC2! 64k objects used ^^
 | Exilium | LeX97 | 43120057 | This level was unfinished by iCookieX and without move triggers.. So i decided to finish it! Verified by iSparki! First Epic?
-| Anoreksia | xZappeRi | 42469848 | A lvl for Veztlix! Happy bday! <3 Inspired from Bransilver and Alkali! Enjoy :)   Anoreksia is a greek word! not Anorexia .-.
+| Anoreksia | iZappeR | 42469848 | A lvl for Veztlix! Happy bday! <3 Inspired from Bransilver and Alkali! Enjoy :)   Anoreksia is a greek word! not Anorexia .-.
 | UnderTown | VoiDsPiriT | 42179657 | My new best level! I hope you will enjoy. Dedicated to Partition :) All bugs fixed! unnecessary glow was removed. Pass:554973
 | HexaForce | OSIRIS GD | 41629206 | An Hexagon Force remake that uses glow and others 2.1 stuff :), hope you like... Verified by iSumia. pass on my YT Channel =)
 | AlterGame XVIII | Serponge | 39873650 | Rush II - Try beating my time: 00.42.80 ;) Thanks to GreenEnvyX, heres a fix for the camera: Turn on "Always Limite Controls"
@@ -1521,7 +1521,7 @@
 | Vivid | Ragnarok96 | 39081454 | Try to use old 1.0 block, i think looks pretty good :),just still work on design so not looks to simple,I hope you ENJOY! :D
 | Haru | G3ingo | 38284806 | My masterpiece is finally out! Dedicated to W0lf3. For Xstar7 and Leake cc. Hope you enjoy! Help me with the subscribers! :D
 | Twilight Darkness | CastriX | 38266774 | Another easy demon for Halloween! Dedicated to Berkoo and Jacobroso :) I hope you like,best colors I've made... LDM added :)
-| Dynamic System | LiraleH | 38192633 | A great collab with my friend ImDariuX,I hope you enjoy this easy and pretty fun easy demon!! Leave a comment and a like! =)
+| Dynamic System | xZoomkS | 38192633 | A great collab with my friend ImDariuX,I hope you enjoy this easy and pretty fun easy demon!! Leave a comment and a like! =)
 | Quartz | PotatoBaby | 37129206 | It's finally finished! Smexy collab with Erdyuri, who is a Fantastic creator! make sure you practice first! For Viprin's GC1
 | ToE IV  | Manix648 | 35378937 | Fourth and non-official installment in the ToE series (thanks to Surv for bug-testing and verifying) Shuttle idea by Robisco
 | EquinoX | 99percent | 35100657 | My new solo lvl is finally out! My best? Dedicated to: Beptile, Berkoo, Carlin, Fault, itsjarhead98, TrusTa, Merg, and me 8)
@@ -1568,8 +1568,10 @@
 | Rain Full | MrLorenzo | 13798212 | Collab between me and schady! He work more than me, so i want to give him a special thank :) Go check this great creator! :)
 | Shire | balloons | 13774130 | Its finally done! I hope you enjoy! Decoration update. Samuk's CC entry. Thanks so much for the feature! :) Password is 0082
 | Zone Domination | Toxic GD | 11329262 | Dominate all the zones in this level! This took many days to make! First coin is hidden! First 2.0 level too! pass is 223047
+| Default Dance | Wintter | 48500264 | Finally done :) That is my 3rd amazing work. Level dedicated for DanZmeN , Dorami and ToshDeluxe. Enjoy and have fun, guys!
 | Mandagon | LeakeGD | 48170102 | Explore Mandagon, a world inspired by Tibetan theology and philosophy. This is my new masterpiece, hope you will like it <3
 | Motives | GD OptaWolf | 47972728 | I am seriously sorry about the wave part.... Anyways, probs my best level besides the wave! To SamMaxx, Jaylex and Zoroa GD
+| The Darki | ithedarki | 47335685 | My 5th level. XL Hell themated level. Third, and last level in this series. Enjoy my best level! Check out my other levels!
 | ZeRo | NukAnnguq | 46963301 | Simple style, some parts is a bit rushed, but i tried my best. Inspired by: Berkoo, Darnoc. Bug fixed, added LDM. Enjoy! :3
 | Replace | TomawiN | 46691043 | My new solo level. I'm sorry for inactivity with uploading levels. I hope you enjoyed :) Dedicated for FiFqo, SaabS & more!
 | Sadness | DanielDlc | 46150226 | My first minimalist MC I hope you love after 3 months an amazing result enjoy ;D!!/ Thanks for playing Pass On my Chanel ^^
@@ -1633,6 +1635,7 @@
 | Speed Test | AbstractDark | 10721193 | 1.9 rushed Megacollab by me, GoodSmile, Zapz, P14, MjcGiants, SuperZombie, Agent, Miggz and Yaronoo. Updated with 2.0 deco.
 | Buck Force | Rob Buck | 1650666 | Thanks for 3 million downloads! Be sure to check out some of my new demons! Update: Thanks for the re-rate. Coins added! =D
 | Fantasy | AutoNick | 48135664 | Just a little fun side project I started. I hope you like it anyways, even though it is not the style I normally build. :)
+| Oasis | EnteiX | 48053892 | Collab with my friends Geemi, G3ingo, Giammix and D3mon Dash3r. Ending art by Frost. Video on my YouTube channel! Enjoy :)
 | Soft Hope | GD OptaWolf | 47727944 | Something Happens everyday that gives us soft hope... Team BetaCore's 3rd collab and our Masterpeice! We hope you enjoy <3
 | Trypanosomiasis | ZenThriX24 | 46807902 | Old mc hosted by Schaotyx that im in, he lost interest in this lvl so he gave it to me, i will upload my last collab soon.
 | Alacrit | Minimi427 | 46321588 | MegaCollab with team Watermelon <3 ByBoy, Cultrix, DangerKat, Chiand, Zadox, Laser10, Azos11 and Minimi427 (Me) :D ENJOY! 
@@ -1660,7 +1663,7 @@
 | Majority | Alkatreize | 36516370 | My first MC 1.0-2.1 theme :) Jacr360, Lyskate, Rafer300, stamina, v3x3r and me (the real song was banned so we changed it)
 | Rebirth | niremasit | 36458886 | 3 months... More than 100 hours... 120k objs... I did my best... Now, I let you choose who I am. For Zakario and Eclypsia.
 | Celestial Storm | RyanAB | 36253994 | Collab with Fault, Ardant, and Liebz. End screen by Terron. Check all of those people out they are awesome! Rate Insane 8*
-| CoffiX | LiraleH | 35366171 | Collab with ItzTropica, My part is in honor of the great "DarwinGD", an exceptional creator. I hope you like it, Enlex CC!
+| CoffiX | xZoomkS | 35366171 | Collab with ItzTropica, My part is in honor of the great "DarwinGD", an exceptional creator. I hope you like it, Enlex CC!
 | 3000 | Nico99 | 33827728 | New level, again insane... My best yet. Enjoy!!! :D Password at the end of the level ;) (V4 Fixed bugs and removed shakes)
 | Aeon Contrivance | El3ctro1507 | 33789399 | Very tricky coins. Why? Cuz they're dedicated to Viprin. Not the best lvl but still decent. Verified by iIMewIi. Enjoy. 8]
 | Wattage | fayaddd | 33713705 | My masterpiece is finally done! I put a lot of work , time and effort on it . Hope you enjoy . Dedicated to Roimousti   :)
@@ -1697,6 +1700,7 @@
 | Fire Dimension | Paragon | 11660376 | My first 2.0 lvl....vid on my yt. Thank you robtop so much for the feature! yes, inspired by Sonic Flames by Theoryofdobby
 | Geometrycal Fantasy | Rangerlust | 11550345 | 11K Objects Inspirated On Geometrycal Run Like n Harder 7 Stars Featured RobRob Pls Thx 4 Playing ENJOY FIRST 2.0 LEVEL :D
 | Heaven | Florent | 10554597 | My first effect level! Credit to Squinty303 for helping me with the background effect on the wave section! Added coins! :D
+| Andromeda | EpicMasta11 | 48627268 | One of Ajedaboss's old, unfinished mcs that he let me finish and upload. Collab with DangerKat, Ross12344, and Tartofrez.
 | Tranquil Trance | Wiktord1 | 47462458 | An old neony unfinished level that turned into a collab with Logiking - a skilled creator and good friend of mine. Enjoy!
 | Vegas | DarkStyle | 46840341 | My second megacollab is finally out ! Enjoy 8) Probably my first Easy Demon.. Tell me if you find problem, I will fix it.
 | Winkie | VrageraGD | 46461392 | Finally, a new level! MegaCollab with Epicmasta11, XxJOSHxX, SirZaiss & GDPeralta. Dedications are on my youtube channel!
@@ -1770,7 +1774,7 @@
 | Alessa | forlat | 40929572 | My piece de resistance! Adapted from the film, Silent Hill. I left commentary over each part in the editor, free copy :)
 | Breakthrouch | DeniPol | 40045030 | My perfect level........  I tried very hard, I think you will appreciate this level well. Rate 5-7 stars. (44k obj)   =)
 | Star Garden | JerkRat | 39518102 | collab with falconUniverse and TrueHypper :D i'm trying to make as many levels as i can before my army service begins...
-| Seclusion | supaneko | 39428454 | Simplicity is the ultimate sophistication - I hope you enjoy this level. Btw, I tried to change up my style a bit too :]
+| Seclusion | distortt | 39428454 | Simplicity is the ultimate sophistication - I hope you enjoy this level. Btw, I tried to change up my style a bit too :]
 | The Freed | 8BitFudge | 39405207 | Another entry in my solo effect level series (with some help from CamGotBitten). V2: Made the super easy robot part auto
 | Royal Casino Blitz | Sandal | 39124482 | Dedicated to Viprin & Serponge! Playtested by Wolfless & Shaungoodwin! Inspiration pulled from Nasgubb & Platnuu! Enjoy!
 | sugar | 2turntdeezy | 38982467 | This level hasnt been touched in 2 months. I was planning to make it a MC but I have no friends so here it is - 11.11.17
@@ -1836,7 +1840,7 @@
 | Purpose Prise  | Luxew | 44495933 | My masterpiece , Thx for playing. Dedicated to: C Paola , XvictorcreatorX, AshX, Techo de paja , Adelx and Minimi427 <3
 | Vaila | Freyda | 43963224 | Awesome collab with Whitehead, Rezala75, Wiktord1 and me. Hope you like it and enjoy! Have a nice day! (Sorry for lag!)
 | Hamburger | Ajedaboss | 41551990 | An awesome MC with 13 GREAT creators! Gameplay by me, and ending art by AdidasBoi and Tartofrez. Hope you enjoy! <33333
-| Mythical Crossing | LiraleH | 40935042 | Let's go!! A new lvl after 3 weeks :) I Try to make some differents styles of my designs,I think looks good // Enjoy =)
+| Mythical Crossing | xZoomkS | 40935042 | Let's go!! A new lvl after 3 weeks :) I Try to make some differents styles of my designs,I think looks good // Enjoy =)
 | armonia | GirlyAle02 | 40472294 | my new art level is out guys :D ... created and verified on phone :) .. btw thx for the feature rubrub i am so happy :D
 | Bookoo | Mike4VN | 40110241 | Finally, after 1 month! Dedicated to DanZmen, Illrell and BadKlatt! UPDATE: added an extra part at the end and fix bugs
 | Memories | Nunet | 39889345 | Another awesome collab, this time is with R503Sv, can you find the user coins? Dedicated to one of the best GD Mods. :)
@@ -1960,7 +1964,6 @@
 | DubStep  | CreatorRC | 10541412 | Starts off easy  then welcome to hell. 10k objects. demon? Subscribe my channel CreatorRC. This was a pain to verify. 
 | Equinox  | DT Mark | 9313224 | Collab with KFA and Sigma for Darnocs CC4! Dont leave without checking my other levels! and Sigmas and KFAs as well :v
 | Awoken | CobaltV | 7681466 | Really cool collab with El3ctro, Allan, Zechla, CreatorPig, SeptaGon/The2041, SpicyAlaca and Sumsar! Hope you enjoy it
-| Wubner | Gachristian1 | 47982257 | Shooting from the hip. My first epic! I'd like to give a huge thanks to isparki and all the mods that sent my level! 
 | satellite II | Sikatsuka | 45469118 | one of my greatest work. one month and half i spend this map. collab with funnygame  and last end art is made by 1374
 | Termavoid | arcri | 45421898 | Smexy collab with Pulp! Added LDM, makes the level bad. Sequex helped with the last bit! Thanks for feature Rubrub :O
 | Twilight | Mike4VN | 45112204 | My best lvl yet! gameplay by regulus. Also, im proud to be the first one in gd to use this song :) update: better ldm
@@ -1971,7 +1974,7 @@
 | Glaring | klafterno95 | 44217881 | Finnaly, my 10th level creates is here :D video and pass on my channel YouTube ;) sorry for the end part :( [43k obj]
 | LowBat | Nibbler GD | 43707105 | My new solo lvl, dedicated to all my friends. If you found bugs - please tell me and I will try to fix it. Good luck!
 | Ascend | charky | 42338522 | This is probably my worst level, sorry that this is so bad, dedicated to GD Zaplock <3. My next level will by better.
-| Galactic Smash | supaneko | 41939387 | The total amount of energy and matter in the Universe remains constant, merely changing from one form to another. lol
+| Galactic Smash | distortt | 41939387 | The total amount of energy and matter in the Universe remains constant, merely changing from one form to another. lol
 | BeyondOfTheMountain | Dragon eye | 40569542 | Hmm.... hacker use likebot on my level. so I reupload. DEDICATED TO PEOPLE WHO LIKE THIS LEVEL :v (EXCEPT PUNGTITION)
 | Elysium |  Glory | 39556742 | Finally, A finnished project by me in collaboration with Ilrell, Spu7nix, Xstar7 and Darwin! Thank you for waiting :)
 | Azuras Star | uneskladovae | 39259798 | Azura's Star is a daedric artifact that allows you to pass the unlimited amount of souls through it. For CastriX CC3.
@@ -1983,7 +1986,7 @@
 | The Colossus II | Manix648 | 35669648 | Sequel to The Colossus. Third level in the "Universal Redemption" series. Defeat Malus once and for all! [bugs fixed]
 | Beepster | Mazl | 35051517 | My new cool level 8) I never used that many triggers in any level before, same for object amount ^^ Have fun with it!
 | Smoothie | shocksidian | 34803081 | An EPIC collaboration with 14 amazing creators and friends! A happy, colourful and at least not extreme megacollab :p
-| Vitality | Nrcaw | 33545237 | An awesome collab with PerkyPenguin, La7i, and Beptile! Make sure to check them out and enjoy this simplistic collab.
+| Vitality | EpiEpz | 33545237 | An awesome collab with PerkyPenguin, La7i, and Beptile! Make sure to check them out and enjoy this simplistic collab.
 | Voltage | Nashii | 33454711 | Epic Rubrub please Thanks for playing Boys I like for Style of level ( Like For MOD ) ;D Thanks Rub ) Bow Wow Soon ;3
 | AspiC | Megaman9 | 33423384 | My first 2.1 level! I really tried to experiment with different styles this time, and I'm proud of the result. Enjoy!
 | Geometric Evolution  | helito6x3 | 30689766 | waterflame approved me the permission to create the cover of this song ;) "NEW GEOMETRICAL DOMINATOR 6X3" pass 210793
@@ -2031,7 +2034,7 @@
 | The Ting | ManoMagician | 39921348 | Level #8 Mans not hot ! Amazing collab with Jordy, check him out ! I hope you like this level, we put a lot in it :D
 | Beser | Glaid | 39745719 | Finally! My firts 2.1 level =D! Dedicated to Victorinoxx and Creator Darkar <3 Enjoy it guys ^^ (Practice firts btw)
 | Gateway Galaxy | FastRefleksX | 39721872 | Finally I've finished another level. This is one of my most themed levels I think :P Update: Improved LDM, I hope :I
-| Dreams | iThunderPxJ | 39634411 | Challenge 4 days, a simple level but created with determination :7, Thank you very much/password on my yt channel :)
+| Dreams | Pxj | 39634411 | Challenge 4 days, a simple level but created with determination :7, Thank you very much/password on my yt channel :)
 | Acid Rush | Serponge | 39359328 | Megacollab by Lumpy, Jayuff, TheDevon, Echonox, Motleyorc, Alkali, Kips, Codex and Serponge. Verified by Luqualizer.
 | Fearless | ChaSe | 39266949 | Started in October 2016, this journey is finally over! Verified by the only amazing TrusTa! My first insane demon :D
 | Be Happy | Riki Dash | 37930020 | Don't worry be happy ^^ My new MC is here. Unknowns, but Amazing creators, hope you enjoy. LDM add and free coins ^^
@@ -2196,6 +2199,7 @@
 | Eternal Force | Raygon | 10280530 | 37000 obj used. This is my last 1.9 level and a bit 2.0 level fan-made xD Video on my yt channel IG Raygon. Enjoy!
 | SomeDay | izhar | 9888734 | 2.0 Fan Made! Thanks RobTop for Stars the pass is 240715! Original Music Tobu colors but have copyright. By IZHAR!
 | oNe | NukAnnguq | 47602711 | finally finished :D  sorry if its a bit messy, but i hope u enjoyed this! dedicated to Berkoo, Alkali, Rafer. :3 
+| suemert | Markydash  | 47582348 | dedicated to : lkh2001, alkatreize and my friend who got CP :).I'm made this lvl while i'm on summer vacation :))
 | Im not furRy | xebii | 46478676 | Hope you guys like this level as much as i do! <3 for Viprin CC9 and MCR #2: Make a level with a song by Wolf7ech
 | Pyra | 99percent | 46239419 | For Ouray <3 ~ Special thanks to dWdubz for making the end logo. :) Rate easy demon!  Guitarra pasate phobos! :'V
 | Reunited  | Dioxis GD | 46235540 | My first collab with Byboy11, I hope you like this level and that we get the epic that we hope so much, enjoy it.
@@ -2370,6 +2374,7 @@
 | System Error | bloodshot | 13015106 | Yay another level 8) I might update this level and make it look better :) Thanks for feature. As always, ENJOY!
 | GenoChrome | cybronaut | 12917092 | Tried a lot of different styles on this one... enjoy? (PS: this was my first time hitting the 30k object mark!)
 | MANRAY | sweetdude | 12655843 | ma-ma-ma-ma-ma-ma-ma, Thanks to my Newgrounds friend Zanzlanz for uploading this song on Newgrounds just for me
+| Ambient | BranSilver | 47571009 | After almost 4 months of doing barely anything here is my new level (thats is rushed, sorry) ITS FEATURED HECK
 | Boreal Lights | F5night | 47545009 | Ice and stars themed level,it is more different than my other masterpieces.76k obj,for CC9,verified by Jakerz.
 | Vaatu | Manteex | 47021987 | For Hi's CC and GD tournament (yet again). Yes, the gameplay is bad, stop saying that, I made it 2 months ago.
 | Resplendent | juandeman | 45798765 | A new demon solo level with my most pure style. I want to remember this awesome old song. Verified by Sega987.
@@ -2433,7 +2438,7 @@
 | Narcosis | EpicMasta11 | 46301334 | New solo! Might be my best work idk lol. The amazing gameplay is by Ajedaboss, check him out!! GLHF!       x)
 | Magmatic Caverns | Blitzmister | 44909717 | Inspired by Alkali and rafer. Rate Easy Demon 10 Stars, like and most importantly enjoy the map. 80K objects.
 | Kanade | Staps | 44796159 | Finally! New demon from me and cool creators :3. Dedicated for SirFresh, verified by Didx. Vid on my channel.
-| Animus | supaneko | 43110109 | Welp, my first demon? The sequel to Galvanic. Please expect minor bugs; sorry about this, enjoy! Good luck...
+| Animus | distortt | 43110109 | Welp, my first demon? The sequel to Galvanic. Please expect minor bugs; sorry about this, enjoy! Good luck...
 | Astronomical Alchemy | ISparkI | 43106353 | Here it is, my true masterpiece. 80k objects. Verified by Zalgaryth. Thanks to everyone for supporting me :')
 | Polar beat | LeocreatorX | 42884355 | My best design level so far! more than 60K objs. Hope you like it! :) Verified by Dorami. LDM if it lags you.
 | Ikigai | Xstar7 | 42757347 | Ikigai: Japanese word meaning, "A reason for being". Went for an Atmospheric theme, hope you all like it ;3;/
@@ -2489,9 +2494,8 @@
 | Sky Artillery | Inf1n1te | 11265812 | New level! I know its 1.9 blocks, but it has three coins for you to collect while enjoying this fun level! :D
 | Mesmerizing Midnight | JerkRat | 6510002 | very easy level maby hard 4 or 5... ending was inspired from Obsolete Sky by Glittershroom. i hope u enjoy XD
 | Hexagon HyperDrive 5 | Mitchell | 3573404 | Thank you everyone who lets me know when the song is removed, and also when it's back and where to find it (:
-| Unia | Ploid | 48266572 | My best solo I ever made. If that amount of glow Is too much for you, just turn on the LDM button. Enjoy (^;
 | Summers Nigth | DanielDlc | 48029120 | My best design? Finally enjoy it, Thanks to all for supporting me :'D! The password will be on my YT channel
-| ElecMech | supaneko | 47783815 | simple tech styled level [excuse the empty beginning; it gets better] dedicated to elisione, my biggest fan*
+| ElecMech | distortt | 47783815 | simple tech styled level [excuse the empty beginning; it gets better] dedicated to elisione, my biggest fan*
 | Clasics | ByBoy 11 | 47294199 | Algo nostalgico, un estilo de 1.0 con efecos 2.1 :D Disfruten del nivel [Dedicado: Old Times and Jacr360] <3
 | Fearzone | Lipz | 46380497 | Finally this level is done, collab with SnarkZ check him out he is an awesome creator :D, Dedicated to elegy
 | HeatniX | The Bread | 44930935 | Probably my best level. I hope you like it and enjoy it.Dedicated to my friends.Sorry for bad transitions :/
@@ -2501,13 +2505,13 @@
 | Aspirin | MastermanGMD | 38699764 | Overdose...You can't hear anything.You decided to stop fighting.You died...Dedicated to: Pooshnya, Partition
 | Memorize | xMisery | 38318769 | Amazing collab with Torch121! Hope you like this :3 <3 Dedicated to Hyperfox! For Erdyuris sunday request :)
 | Joviality | RealZober | 38244821 | A really happy and colorful level. Collab with Vip3r, hopefully you like it a lot. #PulsesEvery2-3SecondsLol
-| Empyreal | supaneko | 38208410 | Pretty simple level I guess. Couldn't think of good name so it's just the song :p Soz for lazy ending tho :/
+| Empyreal | distortt | 38208410 | Pretty simple level I guess. Couldn't think of good name so it's just the song :p Soz for lazy ending tho :/
 | Dire Dire Sea II | Nicki1202 | 37561669 | Sequel to one of my personal favorite levels I've ever created, so many amazing memories combined with it :)
 | Chouchoute | M3nhHu3 | 36804834 | Pure style <3 the original song was remove :( im sorry #Original song: Ma Chouchoute by Ujico*/Snail's House
 | Pleasurable | Masterale | 35324496 | Collab with an awesome creator: Hjk31d8da! Name suggested by W0lf3. Dedicated to Nasgubb. Hope you enjoy! :D
 | Totally Bits | GMD Dominator | 34820201 | Collaboration level by me and Wordender. Special thanks to Krampux and Lemons. Took 4 months building this. 
 | Ethereal | albinomaster | 33946019 | Black and white themed! Check my youtube for Pass and full video (with easter eggs). Tell me what you think!
-| Evertime | LiraleH | 33627342 | Done in 2 days, I created it quickly and that surprised me, Rate: 7 or 8 stars, Epic ??? Thanks For Playing!
+| Evertime | xZoomkS | 33627342 | Done in 2 days, I created it quickly and that surprised me, Rate: 7 or 8 stars, Epic ??? Thanks For Playing!
 | Nerf This | Alexkazam | 31850130 | First 2.1  Thx for feature :p 5-Apr-17 Why are people still making Trusta jokes, its unoriginal and unfunny.
 | OverLand | SkillzAura | 31746958 | Collab Level By SrPotato And Me. The Decorations Is By SrPotato And The Layout Is By Me. Enjoy The Level! (:
 | Auto massacre | Ghostface | 31346292 | my 5th auto level. a real auto level, not a cubes story level. tell me if there are any bugs and i'll fix it
@@ -2546,7 +2550,7 @@
 | Optical | SupamarioXx | 44619267 | The Sequel To Illusion is Here! Dedcated to Optical <3 My best modern level :) Enjoy!  [NOT FOR LEVELUTION]
 | Apogee | wless | 43623455 | A collab with the super talented (and unnoticed) Minity! Please go and check his levels out. Maybe 7 stars?
 | Exoplanet  | Diamondgirl01 | 42186259 | Amazing collab with an unknown creator... Jeady! We are proud of our work, we hope that you can enjoy too! 
-| Slimy | supaneko | 41338463 | This is my gauntlet contest 4 entry - I doubt I'll win but it was worth a shot. Please enjoy and good luck!
+| Slimy | distortt | 41338463 | This is my gauntlet contest 4 entry - I doubt I'll win but it was worth a shot. Please enjoy and good luck!
 | Tragic End | f3lixsram | 40946217 | New 2 stars level, video/pass on my youtube channel (btw thanks for 12k subs my dudes <3) Made in 3 hours !
 | Numazu | RoyalPlayer | 40589681 | Amazing collab with ThrioNico!  this is my first level of 2018 and the last 2.1 :(:     inspired by alkali.
 | Bufu | G3ingo | 40210543 | Hey! This is my new modernistic/art level. Dedicated to W0lf3, Optical and all my friend! Hope you enjoy :D
@@ -2614,13 +2618,12 @@
 | The Shadow | juandeman | 48055009 | My best megacollab? Awesome "terror  design" megacollab with amazing creators. Hope you dont be fearful...
 | Sheikah | Ethrakk | 47915091 | Tried to make the gameplay as fun as possible. Inspired by Thomartin and HaoN, pass on my YouTube channel.
 | rotten core | Alexcont | 46241189 | first MC with Geometrico10, Agils, Schneider9 & Ander75, gameplay by me, hope you enjoy :) and have fun :3
-| Sphera | xZappeRi | 45794209 | Another 2.0 level updated! Sorry for not that good gameplay. Dedicated to Fixinator :/ You will be missed.
+| Sphera | iZappeR | 45794209 | Another 2.0 level updated! Sorry for not that good gameplay. Dedicated to Fixinator :/ You will be missed.
 | Ipseite | V3xer | 45625508 | New level everyone ! Thanks to Suzume who built the first 20% 8)) I hope you'll enjoy :) Trying my best...
 | EcholandS | gwbocajuniors | 45616374 | finally!!!! my new level :) my best and good level dedicated to bycajita, kittydoge and friends :) THANKS!
 | Nebula Realms | King Woofy | 45538002 | After a long time, My new level is here! Worked quite hard on this so hope you enjoy & Thanks for playing.
 | Relax | ZelfTix | 45280941 | Mi primer nivel solo , dedicado a moe machine , shirks , chiand , jaxtilanx , luisjr , gracias por jugarlo
 | Orcus | DarkStyle | 44767092 | Finally a new level with an awesome collab with MrSpaghetti, Hope your like :3 (Sorry my part is rush tbh)
-| KiW | Ducklett | 44702418 | Wachiturrolandia ataca de nuevo vieja, saludo a todos los pibes que juegan esto gracias wachin robtop TKM 
 | Suslov | Kohtpojiep | 43248476 | French Bandits CC2. I lost all motivation for that... Sidorovich was better... Collab with PeroxXxide (no)
 | ReHype | Hyper314 | 43050319 | Remake/sequel of my first level, Sugar Hype! This was really fun making, and probably my best work. Enjoy!
 | Themeless | Hydro7 | 42639940 | a solo project of mine that im actually pretty proud of. Is it better than Echo? ill leave that up to you.
@@ -2687,7 +2690,6 @@
 | Inferno | Pakki | 47181765 | Sooo... My new level! :D Building this took me a lot of time.. Hope you enjoy, dedicated to my friends :)
 | Firepower | Ylliee | 47115979 | Whole gameplay by BlaZe, decorations by me ! My new best level ! THANKS FOR FEATURE <3 Another bugfix lol
 | Partition Zion | ZenThriX24 | 47073403 | Collab with Sparkle, Dashty,snarkz, zecretgd, optation, juandeman and realscopa, dedicated to "Partition"
-| Mayday | Ploid | 46451535 | First ever epic level made by me, LeX97, The Bread, ProSlain & Play3rName! Thanks for all the support. <3
 | Mortal Folly | Robotic24 | 46282619 | Prequel of "The Lich". Inspired from 24th episode of Adventure Time (season 2). Video on my YT channel :)
 | laviatan | Chiand | 45790063 | collab with Byboy11, blasting art, marioLTE, Zadoxxzl, JaxtilanX, nailu and moe machine | enjoy the level
 | Massive Beat | RealsCoPa | 45567012 | I did a lot of glow spam. Reuploaded cuz some of you asked for ground deco improvements. Enjoy anyways ;)
@@ -2698,7 +2700,7 @@
 | Luma | DesTicY | 37745103 | Old level that I left alone months ago, huge thanks to TrueLogic for reviving and finishing it for me! <3
 | Fulgurance | f3lixsram | 36752799 | New demon level collab with Zak, Optex and CreatorSruj ;3  Video and pass on my youtube channel, enjoy ! 
 | Modelism | MeEloz | 36644569 | First mini-game I made in Geometry Dash. Thank you for playing. Inspired by the game : "Run Bird Run". :)
-| Direction  | Alcalex | 34526077 | please, check pulverize, a cool level by my friend manu123890, I think it deserves a feature :)  34923683
+| Direction  | xFluffyAlcatelx | 34526077 | please, check pulverize, a cool level by my friend manu123890, I think it deserves a feature :)  34923683
 | Up | LimonchikGD | 33756276 | I ran out of ideas for the level, but the shutter helped me, thanks to him! This is my best level. Enjoy!
 | Delight | Atonix | 33742041 | Finally my solo level is done ! took me like 2 weeks to build - Hope you enjoy this level 8) Rate HARD 4*
 | IZnite | izhar | 32400752 | Finally the first easy epic in GD? :P dedicated to TickleGD and Wooobs! (Pass and Coins on my YT channel)
@@ -2738,7 +2740,7 @@
 | Game Over | Exlextron | 4876828 | Again... Game Over. Dont Die. Please Rate and Like Please. 9979 blocks. 50-72 percent has fixed. COINS???
 | SkyCamp | ZelLink | 4849991 | Collaboration by Wiztic and ZelLink! Enjoy and Subscribe to ZelLink Geometry Dash youtube channel. COINS!
 | Blast power | Star77 | 3274119 | Get ready for a lot of fun and excitement!.  Dont forget to check my other levels. R6 - Now with coins :)
-| The XyecoC | ithedarki | 47335685 | My 5th level. XL Hell themated level. Third, and last level in this series. Enjoy my best level 47335685
+| Purpose  | Xstar7 | 48561623 | Everyone has a purpose. Pressing the LDM button on the level select screen shows different BGs! Enjoy :)
 | GoodBye | LeX97 | 46702422 | My new solo l3vel! Dedicated to Ploid and Twingy! \OwO/ Enjoy! (Fixed some bugs and removed the timings)
 | Neowolf | WerewolfGD | 45063264 | Tech level | Thanks to CreatorCaps for helping me | Name suggestion by Nekomancer | Enjoy and rate 9-10*
 | Technical Rush | LeX97 | 44325129 | Alright, New solo level is uploaded! I don't know if this 9* or 10* but i hope you like it! (Pass: 8102)
@@ -2866,10 +2868,11 @@
 | bitpop | cyro | 10932319 | 2.0 update rate 4 stars because dat animation at the end was hard to make thanks alot notice dis rubrub
 | Dreaming of Duality | LTGS | 9959096 | This was a lot of fun to make! I hope you like this style! Unfortunately it's a 1.9 level..., sorry >.<
 | forsaken polis | joe12 | 7510855 | THX for featured RobTop ! :D And big thanks to Radius (he helped me with  cool update) Pass is 60512 :)
+| Artificial Love | Erdyuri | 48713988 | Finally a new level, and this has a very strong meaning for me.. hope you'll enjoy ! Made for Zarkyi !
 | Dark Star Core | Nicki1202 | 47339027 | Viprin CC9. Based on M&L:Bowsers Inside Story. Enjoy & HF (Update 2: Updated LDM now stop complaining)
+| Bosshunter | Nico99 | 47281969 | New Demon level with animated Pixel Arts! This  time is based on Enemies. I hope you like it, Enjoy!!!
 | NightShine | VrageraGD | 44600088 | An old Megacollab with amazing creators.. Lot's of hidden talents behind this level So, Go and enjoy! 
 | Rarity | Filaret | 44543649 | Mlp level 2/6 ) Awesome collab with Reunomi. Pass and what's next pony on my youtube channel! 65k obj.
-| Deep Thoughts | Ploid | 44090063 | Sequel to my first ever rating called Deep Dream! Thanks to TinyGamer, LeX97, Chlorines & Hyper314. <3
 | Kei | Aiden87 | 44035830 | My Best Level. Sorry for the copy paste block design :'( Added LDM for low devices. GC4 and DanzMen CC
 | Arasmas | f3lixsram | 43446486 | Collab with Rexone, an amazing creator ! Video and pass on my youtube channel, have a nice day guys ;)
 | Warlock | TD Epic | 42720336 | Monster Gauntlet entry is here! Sorry for rush. LDM should be good for all! I love you guys so much )/
@@ -2881,9 +2884,9 @@
 | Ramen Noodles | Xstar7 | 37507051 | An awesome collab with BallisticGmer! He deserves more attention! My first design levles..? :thinking:
 | Alchemist | mulpan | 37452351 | 4th Korean demon collab :D by Sharvo, Soulsand, Dominator, Banila, mulpan, 1234! maybe Medium demon :)
 | Degraded Energy | Piseto | 37253890 | "Degraded Energy"  Megacollab with: TheRealRow,Zoomks,RekindL,Nashii and DavJT. I hope you enjoy it =)
-| Reapers | ZafkielGD | 37108756 | Finally.. Megacollab by 30 greats creators. Enjoy :D. Verified by ItzFacu.Video and pass on my channel
+| Reapers | Zafkiel7 | 37108756 | Finally.. Megacollab by 30 greats creators. Enjoy :D. Verified by ItzFacu.Video and pass on my channel
 | Eclipse | SaabS | 34492530 | Level supposed to be a demon :) Dedikejtid to my friends.. V2: Fixed some visual bug and added pass :)
-| Hush | Nrcaw | 34362654 | I present to you this peaceful and calming level, i hope you all enjoy the simplicity and all that! :)
+| Hush | EpiEpz | 34362654 | I present to you this peaceful and calming level, i hope you all enjoy the simplicity and all that! :)
 | Geist  | fishtoon | 32985059 | awesome collab with itztropica! really cool creator, go check him out he sure deserves more attention!
 | Breakdown | SkyGazer | 32299230 | First 2.1 level, don't expect too much as I still have a lot to learn. For Sugarsalt & Nicki's CCs! :)
 | Strike 3 | Jayuff | 32186443 | A baseball themed demon level! Probably one of my best :) ~ Enjoy! Also, Voops CC8 5th place winner 8)
@@ -3211,6 +3214,7 @@
 | Smooth Bouncer | null | 10306 | The 3rd level in my Smooth series of levels. the smooth series are easy levels designed for both new
 | red yahooey | - | 4539 | i will have a replay vid once everyplay is released!  level is completely finished to the end of the
 | The first labour | null | 207 | The first of 12 labours of Hercules, when all are completed they will be made into one Trial of God.
+| Solitude | Akinari | 48117468 | Sometimes you have to know when to give up. My best level, collab with Cirtrax, sequel to Adherence
 | Marina | NormDanchik | 47761320 | I DID IT ! First level in this style. I hope you like it. For VipriN CC9 and dedicated to my mum :3
 | Scheme | RealsCoPa | 46601963 | I'm proud of this one besides all the rest of my levels. Glad I made this in 3 weeks! Thx Robtop :)
 | Spark | Lahp 7 | 45103615 | New solo level, i hope you enjoy it ... Logo of the end made by Trudee Fabian. Dedicated to MortoxX
@@ -3226,7 +3230,7 @@
 | Athenea | victorinoxX | 36632753 | After a long time of not climbing level.. I present "Athenea", with my new style of design. Enjoy:)
 | Discharge | AutoNick | 36578787 | Not what I normally build but I like it. :) Level for Nahuel250204! Name by R3XX3R. :) #ModForSpa8!
 | D3bug | lujian | 34279696 | Colorful and fun level ! Dedicated to Thomartin and Berkoo :D  ( Mrlorenzo CC2)  Its my best work..
-| Soothe | Nrcaw | 33855024 | Well, here you have another nice level, this time intended to be simple. I hope you enjoy anyway c:
+| Soothe | EpiEpz | 33855024 | Well, here you have another nice level, this time intended to be simple. I hope you enjoy anyway c:
 | Duplicity | N4TH4N | 32990684 | First 2.1 Level! Thanks so much for the feature RobTop! A dream come true, means the world to me :)
 | Pastel | beptile | 32402517 | ;) Thanks for Epic Rob! And thanks to Squall, Pauze, Bucc, and RyanAB for sending :D (Added LDM :D)
 | Speechless | schady | 31761917 | Collab with Extrox, go check him out, he is a pretty good creator :)   Thanks for the Daily Robtop!
@@ -3390,7 +3394,6 @@
 | xSempre | Alkatraz | 34307885 | Ayyy thanks for feauture robotop :) BTW Epilepsy warning there are a lot of flashes in this level
 | Patience | TrueCelTa | 32767860 | There is nothing better than friends. <3. (My masterpiece) For Viprin Cc8 and MrLorenzo Cc too :)
 | Mist | ILRELL | 30945035 | Effects :D | 17K Objects, surprisingly | Pass: ))((*& | Harder 6*? | Update: LDM + Transition Fix
-| cinematic metal | loserchik67 | 30826018 | Xaro challenged me to make a demon so this is dedicated to him <3 also it was inspired by metroid
 | LETs START | izhar | 30229126 | My first 2.1 [Reuploated... a friend delete this level :(] Dedicated to Serponge and Helito6x3 <3
 | Synchronization | SaabS | 30151525 | for Viprin and Noam CC.. Hope you enjoy :) Update: Added LDM for the drop.. Update 2: Extreme LDM
 | Interesting | DragneelGD | 29839365 | My first level 2.1, I hope you like, 22k objects, gameplay and pass on my YT channel, have fun ;)
@@ -3452,6 +3455,8 @@
 | RobTuxStep | Rob Buck | 1287725 | Rob Buck and Willetux bring to you the next RobTux... RobTuxStep! Dont mind the other names... XD
 | Dark Lunar   | null | 513613 | If you find the Dark Lunar Wing, dont return it to the owner. If you do, you are in great danger.
 | Something Funky | TheRealDarnoc | 226651 | What is your favorite level of mine? I recommend practicing the last part ALOT! Video on youtube!
+| Cosm | shocksidian | 48722180 | New level! Made this in a rather short time and may not be my best, but I still like the result!
+| Erzengel | Xatz | 48605356 | finally, after 1 year without individual levels ... Done in 6 days, enjoy, it cost me a lot UwU/
 | Vydra | Milos482 | 46703443 | Collab with Zajicek,ProSlain and DashTY! Dedicacted to SaabS! 29k objects...Enjoy this one :) :3
 | Reinforced | SkCray Ace | 45906738 | One of my best! Entry for Viprin's CC9. This was a challenge to me that I have finally overcome.
 | Blast Insanity | TheDevon | 45111047 | i've added arrows in the copyable to show the correct paths! check that if you're having trouble
@@ -3544,6 +3549,7 @@
 | StarQuake | MasK463 | 308891 | My first level with the soundtrack stereo madness, i used alot of objects.  Good luck, everyone!
 | Arus Madness | TheRealDarnoc | 179170 | Check out the full level on my youtube, League of legends and ios, and on my everyplay channel! 
 | x Zone | IRabb2tI | 100091 | This is very hard level!  3 days to verify... Practice makes perfect!!!  Some errors were fixed.
+| Step by Step | AlexS2003 | 48608142 | 3 weeks of hard work, 28k objects, more than 900 groups used. My masterpiece. Secret way fixed.
 | WinS | ViralDL | 47226210 | Its finally here! My first actual level! Hope you enjoy this easy level and thanks for playing!
 | Power | AutoNick | 46115105 | Never underestimate your power. I tried something different in this level. I hope you enjoy. :3
 | Animatronics | FlacoGD | 46022381 | Dr. Maxis is an insane scientist trying to destroy the world of GD, let ROBTOP help prevent it!
@@ -3629,6 +3635,8 @@
 | electron theory | Star Chaser | 1166451 | this took me quite some time. i worked hard for the ones that download. hope you like. have fun
 | FunnyGame Holiday | FunnyGame | 1123276 | awesome awesome awesome awesome awesome awesome awesome awesome awesome awesome awesome awesome
 | To the Grave | null | 12556 | Inspired by Demon Park comes a near impossible level! Also see if you can find the secret area!
+| Phantasy | Samoht | 48572736 | Back to easier levels! Enjoy this little slow paced level and welcome to the world of Phantasy
+| Purview | DashTy | 48229535 | Hope you like this megacollab, with a lot of unknow creators ;) ( Pass on my youtube channel )
 | Adonis | Enlex | 47701736 | New blue and chill level after 6 months! Not my best but hope you like it :)  For Viprin's CC9
 | Celestial Force  | MindCap | 47237400 | Extreme Demon Verified by Dagger! Thanks to GaidenHertuny for making nearly half the gameplay!
 | Flower | ZenThriX24 | 46096253 | Amazing collab with my friends, its kinda bad cause its a old mc tbh xd, (added a better ldm!)
@@ -3744,7 +3752,7 @@
 | Insidious | TD Epic | 36175056 | My best work is here. Inspired by Goose & Darwin.  Dedicated to Lemons. Verified by TG Shadow
 | Coyote | DorSha | 34773174 | The first ball is meh, the rest is very nice! And big thanks to everyone who supported me! :D
 | Arcanic spell | Darwin | 34410038 | So you've completed Mystic Spell?... You aren't done yet, Arcanic Spell is waiting for you...
-| deception time  | ZafkielGD | 34283857 | My Masterpiece, mi mejor trabajo =) Enjoy.For MrLorenzo CC2 and irell CC1.Video on my channel
+| deception time  | Zafkiel7 | 34283857 | My Masterpiece, mi mejor trabajo =) Enjoy.For MrLorenzo CC2 and irell CC1.Video on my channel
 | Flatline | alkali | 34222797 | Revisiting my old style this time. Have fun, and make sure to give K0DeX's songs a listen! :D
 | Hydro Rush | GMD Dominator | 34056925 | Collaboration by me and DarkEvan! We hope you enjoy it! Video and pass on my youtube channel.
 | MeGaTech | LeocreatorX | 33646343 | My first Mc Is finally out  Thanks For participe - Verified By Amerebe (play he's levels uwu)
@@ -3824,11 +3832,11 @@
 | New xStep | TrueNature | 1982393 | And here it comes!! Neeeeeww xStep!! Video is on my Youtube! Like Plz!! Password is 123456 xD
 | Electronic Force | Ranexi | 1916697 | password will be on my youtube channel HeroFor aQuest. like and subscribe for more ! 15k obj?
 | Cytic Flow | TheRealDarnoc | 88737 | My first easy level I have ever made! Cycles music. Well I can say i TRIED to make it easy...
+| Helix Jump | Vertuoz | 48550495 | New Minigame :3, 300 score for win, 400,500,900 coins, Thanks RobTop And Watch "Agario game"
 | CastriX | Manteex | 47478691 | Welcome to the CASTle (gameplay is bad and stop mentioning that and read description please)
 | Delicate | Chromatik | 46849616 | A level made out of player colors (and some blue), for Viprin cc9. Gameplay by genericqueso.
 | NeoTen | RickTz | 44971727 | My first MC RickTz (Me) and awesome creators!! Started 6 months ago || I Hope you like it <3
 | OutSide | Fir3wall | 44285068 | I just hope you like it... Especial dedication to #Team Watermelon!!! :D   thx 4 Featured :3
-| Reality | Ploid | 43536406 | A collab by me & CreatorZapper, thank you so much Zappy for helping me out with this one. <3
 | DyN | Wixers | 41757744 | my best work, I hope you like it, dedicated to all my friends :) Robtop Featured? please ^-^
 | reset | OSIRIS GD | 40648007 | my first 2018 level! hope you enjoy this different and fun level^^ and thanks for playing <3
 | INK MACHINE | KittyDoge | 39631692 | Beyond good & evil, have fun with ink devil. Enjoy :) (Low Detail Mode update and bug fixed)
@@ -3840,7 +3848,7 @@
 | Fear Not | Flukester | 35744914 | Collab with xXSuadezXx, JudeTGP & DHaner. Yes I know I tried to be og with the dash orbs ._.
 | Event Horizon | LmAnubis | 35625156 | Once you pass the event horizon, there's no turning back. Collab with squirrel,panman,viprin
 | Effectum Deducendi | DjDayyy | 35306113 | Awesome rainbow effect collab with CX Random. 37k obj. Update: made less laggy and bug fixes
-| Breaking | LiraleH | 34750351 | Surely it is my best level I have done ... Surrender is for weak ... Thanks for all support!
+| Breaking | xZoomkS | 34750351 | Surely it is my best level I have done ... Surrender is for weak ... Thanks for all support!
 | Synthesize | iZinaD4sh | 33370178 | Yuss!!!! New level finally lmao. Update: Made gameplay less annoying. Added Low Detail Mode.
 | purity | zac2605 | 33332667 | Kinda short... might update later. I hope you enjoy my best level so far. :) MrLorenzo's CC2
 | frustration | alkali | 32238143 | BOOM! Finally a second demon, that I hope you will all enjoy! Dedicated to Hinds and Merg :D
@@ -3929,7 +3937,6 @@
 | reborm | Hinataa | 43801059 | Mi mejor collab :'3 :Creadores /Hinataa/AlfredPKNess/minimaX/KaXxerK /Logon #oneyearinGD :D
 | Oblivion Fusion | Flukester | 42590763 | Finally done! :D Built by Me, Rexla, Pix3lest and Apep! Hope you all enjoy! Rate 7 stars :)
 | Scentia | RobZombiGD | 41546807 | Go! support to dangerKat :) And sub to my Youtube channel: RobzombiGD | Thank you Robtop <3
-| Mythical Legend | Ploid | 41546706 | First ever daily made by me, Carnage3715, Crossblade, CreatorZapper, Staps & legitshot. C^:
 | Pexizen | mulpan | 40091457 | Maybe my best work! Level named by Ozpectro, and Thanks for supporting TD Epic :3 Have Fun!
 | Quartz Cave | scrumpy | 39623041 | My first 2.1 level! Also a 3 months late entry to the Crystal Gauntlet CC.. Rate 6 stars :)
 | Radiant | Thomartin | 39484890 | This is my new effect lvl ! I'm quite happy with it I hope you'll enjoy it :) I love you <3
@@ -4119,6 +4126,7 @@
 | Dark Adventures | Dako | 1332664 | V5.. More decorations, bug fix and 3 secret coins, find them to take an easier way. Enjoy!
 | Thousand Foot Crutch | AkyliZz | 519999 | Thank you, rate insane and 9 stars. Tap MORE button and play my levels :) NOW V7 (+4k obj)
 | ClownStep | null | 492190 | Come back with hard map! Please rate a difficulty. I used 8000 objects, believe it or not!
+| Dark Paradox | SaabS | 48695322 | I was working whole summer on this. I hope you enjoy! For Enlex's CC3 and JonathanGD CC1.
 | Fantasy Winds | Luxew | 48075410 | Amazing collab with Drob3!  Enjoy :)...Dedicated to : Ashx & Minimi427  ~ FANTASY WINDS ~
 | Aphorism | Darwin | 47738497 | New Effect / Art level! A lot of people wanted me to do this style again, so there it is!
 | WelCome | LeX97 | 47012804 | (This level is for HiIsBackSenpai's CC) and For Hakaiisume and Ploid! "Sequel of GoodBye"
@@ -4127,15 +4135,15 @@
 | Geometric | Aleiz21 | 44452989 | My best level ever! Special thanks to JeshuLucero, UserTG, Infinytrex, ToXxin and Hunnie.
 | Cetar | TrueHaron | 44204361 | Yay A New Level! Thx To SirZaiss For Helping Me ;3; | Dedicated to Nico99. For DanzMen CC
 | Colossal | Whitehead | 44110842 | Here is my gcc4 entry ! This used to be a collab, but finally its a solo lvl. Rate 8-9* !
-| Stormy Shipwreck | LiraleH | 43737597 | A cool collab with these 2 unknowns Creators!! Goms & KaxxerK,Hope u enjoy this level =) 
+| Stormy Shipwreck | xZoomkS | 43737597 | A cool collab with these 2 unknowns Creators!! Goms & KaxxerK,Hope u enjoy this level =) 
 | RemotuS | CastriX | 42344828 | Finally my second MegaCollab is here with awesome creators! I hope you will enjoy it. :) 
 | Flight II | rafer | 41429267 | I wanted to release it in Christmas but I'm slow, so I tried my best, enjoy this trip! 5*
-| Gutsy | supaneko | 41058429 | A fun colourful collab with "Apep" check out his account because he's an amazing creator!
+| Gutsy | distortt | 41058429 | A fun colourful collab with "Apep" check out his account because he's an amazing creator!
 | Orange Juice | Lemons | 39961775 | New easy demon! Sequel to Lemonade... Thanks to UserMatt who built 50% of the gameplay :)
 | Pacify | xMisery | 39268663 | A fun collab with Distort! :3 Hope you like it, dedicated to my favourite weeb Shiori! 8)
 | summer | Dastan21 | 39015856 | First flat design level. Dedicated to Lotan <3 Winter is coming... Thanks mods and Rob <3
 | Beryllus | MrSpaghetti | 38699551 | An old lvl re uploaded ! Like and rate Normal 3* ! Hope you enjoy ! (Pass on my YouTube) 
-| LG | iThunderPxJ | 38474510 | Well nothing... Enjoy it, 29.000 objects, password and coins in my channel :7 / LDM Added
+| LG | Pxj | 38474510 | Well nothing... Enjoy it, 29.000 objects, password and coins in my channel :7 / LDM Added
 | ViOlet | ThrioNico | 37957443 | THX for all :) thx rubrub for my first epic :D update with "LDM" :p 011017 take a look :)
 | Faith  | BlUhOl | 37876438 | Updated! A level without cbg!? Thx to who support me :) THX FOR EPIC ROB :') Vid on my YT
 | Repitus | Axils | 36634829 | Not my best, and not the best air deco. whatever. for haoN and schady, two good creators.
@@ -4302,12 +4310,13 @@
 | Falcon Punch | ViPriN | 3957783 | Decided to do a non-collab level. Hope you like it! Remember to check my Youtube channel
 | Hexagon HyperDrive 2 | Mitchell | 2128086 | An epic voyage through time and space continues. The sequel to my most successful level!
 | Loogiah Force | loogiah | 1897336 | A modified Hexagon force, made by Loogiah. If you find any bug, type it in the comments!
+| CholyuX | BlUhOl | 48337102 | A new solo level!! thx Valence for helping me, and I hope this will be my 3rd epic :') 
 | Inscape | Kubias | 48047218 | Another generic level for y'all. Good luck coin hunters! Update - Fixed the third coin.
 | Out | Xender Game | 47453581 | Prepare Project: LASEREYE! (Trying a different style this time, Enjoy and get OUT >:3) 
 | PanTioN | RobZombiGD | 47234639 | hey guys, I do level request on my youtube channel! Go and check it out :D "RobzombiGD"
 | Elzeko | AutoNick | 46423900 | My second easy demon and first bossfight! I hope you all enjoy this very easy demon! :)
 | Raze | DashTy | 46231796 | Hope you enjoy this level :D ! I think this is my best, (Pass on my youtube channel :3)
-| Techno Chaos II | MrPulp | 45440794 | The beats are back, and the Baddie Mech has returned for another round, are you ready? 
+| Techno Chaos II | Carnage37 | 45440794 | The beats are back, and the Baddie Mech has returned for another round, are you ready? 
 | Red shift | RobZombiGD | 44916455 | Awesome collab between: GiamMix, Fir3wall, PeraltaGD, Drob3 and me! I love this song <3
 | Frizzantino Vibes | Usermatt18 | 44734648 | The hardest demon I have ever made! Took not so long to build. Verified by enlex! GL HF
 | Nessie | Diamondgirl01 | 44707012 | My new solo level... this time I tried something different. Dedicated to nico99, enjoy!
@@ -4318,6 +4327,7 @@
 | Xel | f3lixsram | 41962665 | Experimenting stuffs, not my best but I think its still enjoyable (and I love the song)
 | Evolution | SirHadoken | 41310770 | A representation of the sequential march of human progress. My first art level. Woohoo.
 | Pinball Panic  | TeamHFC | 40682480 | Team HyperFire Creators' first megacollab! Good luck, and have fun! - Verified by Drift
+| Hexagram Bounce | DorSha | 40392875 | My Hexagon Force remake! Dedicated to Rynoxious, Sugarsalt, CX Random, and AmorAltra :)
 | Coin Flip | Cirtrax | 39909938 | Flip a coin... and see what happens. 35.5k Objs. Thank you for the Support! Fixed 5% :(
 | Cruise | TheTrueEclipse | 38799178 | My best level, experimenting with glow style. Hope you enjoy (and GL with the coins ;))
 | Voltage | xPix3lest | 37846712 | Awesome 2.0/2.1 Megacollab! Hosted by Skiper18 and uploaded by me.  Hope you like it :3
@@ -4405,7 +4415,7 @@
 | DynastY | DragneelGD | 37723744 | my first colorful level, 26k objects, gameplay and pass on my YT channel, Good luck ;)
 | Nom Cat | BlueLite | 37652565 | (GDWE #1) A simple minigame, good luck! =)  Dedicated to Kendouw, Serponge and Skitten
 | Thundra | Snarlax523 | 36856356 | Awesome collab with CreatorFlake go check him out! Special dedication to Manu123890 Xd
-| CelestiaL EclipsE  | LiraleH | 36699787 | A simple lvl made by me,Hope you like it,To Piseto-CastriX-JackRoblex-Alkali-F3lixsram
+| CelestiaL EclipsE  | xZoomkS | 36699787 | A simple lvl made by me,Hope you like it,To Piseto-CastriX-JackRoblex-Alkali-F3lixsram
 | Dominum | TrueCelTa | 35964108 | Collab with lyskate, that made the drop part, I like it! Hope you like too :) Rate 6*?
 | Later | Theeb | 35355093 | Hav fan. Also check out this song on Soundcloud. Would be cool it has like 1 like atm.
 | Temple of Doom | Wolfking47 | 35286896 | Verified by RicoLP...For Enlex,ReVursal,ArmorAltra and SoulsGaming creator contests...
@@ -4504,7 +4514,7 @@
 | Celestial Prism | Geom3zon | 41929584 | My new easy level, i hope you like it :D 27k objects UwU [Pass on my YouTube channel]
 | Altale | WolfenGD | 40752315 | finally finished something, nothing too special, also who needs moving objects anyway
 | Sodalius | Fir3wall | 40480743 | My best level... I just hope you like it :D!!!! Thank you so much for Featured!!! :')
-| TrainING | LiraleH | 38750426 | Well...Fully Dedicated to F3lixsram (one of the best creators imo) Enjoy the relax :3
+| TrainING | xZoomkS | 38750426 | Well...Fully Dedicated to F3lixsram (one of the best creators imo) Enjoy the relax :3
 | Vibecycle | WerewolfGD | 38732364 | Some nostalgic leffect level, not my best but i hope you enjoy ;3; (Thx to Jghost217)
 | Twilight Souls | Kstrol | 38561825 | Happy Halloween :D, Inspired by Faeki & Castrix, I hope you like this level, Enjoy ;)
 | Confounded | MrKoolTrix | 37929778 | A level utilizing another one of my music tracks! :D Over 40k objects used, enjoy. :)
@@ -4804,9 +4814,10 @@
 | Blue Moon | JerkRat | 1418571 | i hope you enjoy my level. remember to like and rate stars. Ps try my other levels 
 | Luigi Level 2 | LuigiClaren | 1194072 | LuigiClaren's Version of Back On Track! Why and how is this even Featured in 1.7...
 | Dead of Cycles | ZenthicAlpha | 829483 | I am not Deadmau5 who makes music. It is just nickname. Anyway, I hope you enjoy XD
+| Electroluminescent | Annon | 47241792 | A collab with El3ctro1507.. Thanks to him for letting me finish and upload this :)
 | Gravitate | iISpaceDustIi | 46613248 | My best level! Dedicated to BlueMo0n, Riky2610, Serponge, Jayuff, Nasgubb and you.
 | Live volume | Vertuoz | 46306673 | My new minigame, For Decody,Nelis,Partition,Mazl,Edge,Danzmen,RyanAB, and Robtop=)
-| Prismatic Doctrine | LiraleH | 45946965 | Out of everything, nothing is perfect. Enjoy =) Dedicated to my friend Pipenashho!
+| Prismatic Doctrine | xZoomkS | 45946965 | Out of everything, nothing is perfect. Enjoy =) Dedicated to my friend Pipenashho!
 | Astralium | Geom3zon | 44793604 | Amazing collab with Radaskino, 40.000 objects! UwU [Pass on my YouTube channel :P]
 | Enchanted | TinyGamer | 41028741 | something different compared with my other levels, something magic! LD/ ULDM added
 | Psionic | EpicMasta11 | 40518262 | Very simple collaboration with Schady. All gameplay by CreatorTemple. Have fun! ;3
@@ -4823,7 +4834,6 @@
 | Enif | TelluR | 31892974 | Here is my new level! Finally... Some parts are really bad but i hope you like it!
 | Lucidum | f3lixsram | 31420516 | A cool easy demon collab with ragnarok96 ! Pass and video on my youtube channel :3
 | Ignite | Jayuff | 30313858 | Fun little level i made while i was sick. Kinda simple, but fun! For mbed's CC :))
-| Viking Arena v2 | ChilliusGMD | 30016530 | Updated in dedication of Mr. Freckles. seriously this is all i'm doing in gd today
 | combustion | Xylph | 29779228 | dedicated to Tongii :) v3: changed the "B" at the end to an "X" cuz of new name :)
 | glow round II  | lucut | 29550584 | This level i made for all my suporters. Rate 7* and like!(pacanu 9 pyckuu) kek ,(:
 | Skyward | Chaos | 28151870 | Skyward, Skyturd, what 'ya gonna do, what ya gonna do when you gotta take a poo...
@@ -4903,7 +4913,7 @@
 | excessive | alkali | 44721808 | No need to worry about speed boosts in this one! Unique layout by Shig, gl hf! :D
 | Contrast | mrjedi | 43928300 | My best solo level :3- Dedicate to-hfcRed for the idea x)) and all for support ;)
 | Sentient Drive | Systile | 40012036 | Kagami Masara is love ;v  Made in 6 days, so sorry for bad design and gameplay.. 
-| underworld | LiraleH | 39619453 | Fwooosh! Dedicated to StreeX (retard) and for all guys of the "Teleton" Enjoy! =)
+| underworld | xZoomkS | 39619453 | Fwooosh! Dedicated to StreeX (retard) and for all guys of the "Teleton" Enjoy! =)
 | Communist Party | Skyturtle | 38621454 | Hurray for Communism! Right Guys? Right? I'm not alone on this one am I? Yes? No?
 | Electrodynamix 2 | izhar | 38357498 | Collab with Osiris GD and Cyber Jupiter!! YAY! Video and pass on my YT channel :)
 | Tesseract | Xstar7 | 36204496 |  Tesseract: The four-dimensional analog on a cube. Enjoy this effect level peeps!
@@ -4938,6 +4948,7 @@
 | Xenogenetic System | Underings | 17104866 | Re-Uploaded!!So Much Changes,and more harder!.For JollyGD CC:),Hope You Enjoy,!:)
 | LightZone | DyniX | 17000310 | Thx Rubrub for feature :D! Vid and pass are on my YT channel (YT link works now)!
 | Party Dance | Usermatt18 | 16854313 | Amazing collab by me and FerdeFunky! Hope you enjoy! Entry of Evasium and Voop CC
+| Never be alone | Lucid Dreamer | 16724793 | Idc what you say, but I love that song. Enjoy this simple & magnificient level :D
 | Spare Bits | MrKoolTrix | 16312796 | A new effect level with some gameplay! About 11k objects used, hope you enjoy! =)
 | rainy harmony | Non4med | 16099628 | lvl dedicated to skyjax.. my best friend <3      entry to tri cc and gmdw cc 2 XD
 | Streetlights | Fillipsmen | 15692519 | Amazing collab with TD Chris ;). He's an awesome creator<3. Password on YT Video.
@@ -4993,7 +5004,7 @@
 | How to play GMD | ZelLink | 1497528 | For beginners Map. Plus, if you never seen the yellow zone, you are the beginner 
 | Overclock | Jabbagrullo | 1279296 | I recommend using blue and green, and also keeping your eyes open! 10000 objects!
 | BlindSight | MasK463 | 223459 | Good luck! BlindSight! Not too hard but not too easy! Bugs are fixed in this ver.
-| 4000 Blocks to Go | - | 7867 | Well now i know there is a block limit! Good Luck, my hardest and best level yet.
+| 4000 Blocks to Go | null | 7867 | Well now i know there is a block limit! Good Luck, my hardest and best level yet.
 | Candy Factory | LeX97 | 46135708 | Collab with Ploid & iSparki! Dedicated to all my friends! I hope you like it! :>
 | Configurations | ISparkI | 46132687 | Amazing collab with an amazing person, Ross12344, go check him out! Have fun! :3
 | Xenoblast | TD Epic | 45460106 | My masterpiece is finally done! Can I finally live up to my name? Thank you all!
@@ -5008,7 +5019,7 @@
 | The Transparent Cave | Nottus | 40421604 | A rumor says that at the bottom of this cave hides a treasure! can you find it ?
 | Danger Disco | Rexla | 39294101 | This level took a while, hopefully it's good enough! (Movements by ViktorixSVK) 
 | Abyssal Rift | Rapace | 39213610 | New laggy level by me 8) A huge thx to Astral who verified it (too laggy for me)
-| Circuit Bop | supaneko | 38992577 | A fast-paced, simple yet fun level... Can you find all the coins? Well, enjoy :]
+| Circuit Bop | distortt | 38992577 | A fast-paced, simple yet fun level... Can you find all the coins? Well, enjoy :]
 | Sly Shuffle | MrKoolTrix | 38857027 | Can you surpass the kerfuffle with a sly shuffle? 39k objects used. Have fun! :)
 | Animation II | IFSGeorge | 38837889 | 58k Objects! | Collab with MinimaX :) |After months work this ready! B) | Enjoy!
 | distant dream | djskilling | 38478315 | Collab with Alkali (also built gameplay) Sorry that my parts arent the greatest.
@@ -5029,7 +5040,7 @@
 | Thought Process | WolfenGD | 30315888 | this level took me a couple of weeks to make, enjoy :thinking: (easiest 8* ever)
 | Elevatia | Andro3d | 29846664 | A 2.0 level that didn't beat the buzzer, but still turned out pretty damn good! 
 | AlterGame XIV | Serponge | 29812998 | My best AlterGame for sure, hope you like it :) Oh also, obstacles are random 8)
-| Shuriken | Nrcaw | 28658376 | My first 2.1 level! I hope you enjoy, this is one of the better of my levels! :D
+| Shuriken | EpiEpz | 28658376 | My first 2.1 level! I hope you enjoy, this is one of the better of my levels! :D
 | Simple Sun | Usermatt18 | 28382105 | Idk if i made it before or after 2.1 lol. By the way hope you enjoy! My best imo
 | Boundless | TheDevon | 28165656 | If you're having problems with lag, just watch my video on youtube. (reuploaded)
 | Years v2 | CastriX | 27726944 | The second version of the level "Years" in Geometry Dash World!:D Thx RobTop! <3
@@ -5122,7 +5133,7 @@
 | Emoji island | Piseto | 36726074 | "The world of emojis" >Dedicated to Zoomks,Castrix,Partition and Rustam. (o.o)/
 | Promethium | ArcanoxX | 36720561 | The fire of the gods, unleashed; sequel to Technetium. Update: bossfight bugfix
 | nicktoons | TruDee Fabian | 36616381 | My first art level!! :3 Inspired and dedicated to Piseto. Tnx for featured!! <3
-| Brightness | Alcalex | 36104138 | Please rob, if you read this I want it pulverize by manu123890 to be featured. 
+| Brightness | xFluffyAlcatelx | 36104138 | Please rob, if you read this I want it pulverize by manu123890 to be featured. 
 | Fissure | LimonchikGD | 35360144 | Level by: me, eQuip (Mio), Deron and Vampur. Rate 8 stars. 47k obj. Good Luck! 
 | Cordless | lysk | 34541176 | Amazing Megacollab with Axils, Alkatreize, NeogamerGd and Me! Hope you enjoy <3
 | Incinerator | GDSlimJim | 34122149 | Collab with BananaX. For MrLorenzo CC, GigaRex CC, and Jbeast15 CC. Easy Demon?
@@ -5133,7 +5144,7 @@
 | The Safe Haven | Myo0 | 30820908 | Nerfed and fixed some more bugs...hopefully this is enough for you people... :/
 | Shuriken | Svyre | 29550139 | My first 2.1 level! :D Entry for Viprin's CC8 and Axils' CC ;) (Pass is 368999)
 | Oly | Olympic | 28577061 | Simple Level for my First 2.1 level, i hope you enjoy it ;3/ I I Love Lockyn ;3
-| Shock Rush | Alcalex | 28185459 | Awesome collab with Geogamer12 almost 20k objects [Reupload] Thanks for playing
+| Shock Rush | xFluffyAlcatelx | 28185459 | Awesome collab with Geogamer12 almost 20k objects [Reupload] Thanks for playing
 | Chromatic | AbstractDark | 27911548 | I made this level for Geometry Dash World...Video on my YouTube channel. Enjoy!
 | Geometry world | Ghostface | 27485089 |  quick easy and simple level for Gd world, sorry if it's kinda bad!!! bug fixed
 | LIFE | abdula | 27231249 | Level inspired by luisJr11.. one of my best friends in GD. Dedicated to Skitten
@@ -5232,6 +5243,7 @@
 | Hazardsector 2 | ZenthicAlpha | 358049 | Second HazardSector By GW HolanAlpha. This level is easier than HazardSector 1.
 | Change | null | 151954 | Hello everybody! I am come back.This time is CHANGE.Please Good playing,Thanks!
 | Despacito OMG OwO | DanZmeN | 48359768 | Verified by Dorami. Why did i think this name was a good idea for a bet tbh...
+| Pixel Party | Cirtrax | 48000423 | A Fun 1.9 Collab with Distort! Rate 7 stars and have fun (Deticated to AArmin)
 | CereZa | ISparkI | 47810030 | After almost a month of building, here it is. My best level. Enjoy. For Hi CC.
 | fukuoka rush         | alkali | 46235254 | This is my take on Tokyo Rush using experimental colours and designs, gl hf :)
 | AVENTURA | Berkoo | 45694540 | Collaboration with the incredible Rafer, enjoy this colorful little adventure!
@@ -5247,7 +5259,7 @@
 | Encased | TrueSquall | 36518185 | Escaping the tension of it all.. (Updated to make last part less annoying.) :P
 | Devastation | Lemons | 35847801 | Ultracollab with 46 creators! Enjoy this buggy mess of a level. Pass is 040400
 | Drafty | Thomartin | 35818755 | New effect lvl based on animations :D Sorry for the long wait and thank you :*
-| Soulseas | Nrcaw | 35136617 | Standing before the seas of the souls washed away...(Dedicated to iDoomRaider)
+| Soulseas | EpiEpz | 35136617 | Standing before the seas of the souls washed away...(Dedicated to iDoomRaider)
 | Mescalink | JefryKawaiii | 34702638 | Gracias por jugar! - Collab with: Alfred PKness! - Jugar sus niveles :3 <3  *7
 | Fusionity | Piseto | 34424517 | Megacollab with: Hyperfox,Torch121,Bitzel,Zoomks,C Paola and Castrix! Enjoy =)
 | Overcharged | RadiationV2 | 34288763 | After almost a year, this megacollab with 23 awesome creators is finally done!
@@ -5257,7 +5269,7 @@
 | Twisted Tranquility | Flukester | 32920197 | Reverified by BoldStep with bug fixes and small buffs :) EDIT: More bug fixes.
 | Heluvi | CastriX | 32774527 | Sometimes I lose,but I dont give up and I follow my goals...all is possible :)
 | OutBreaker | Torch121 | 32203939 | Collab with CreatorFreeze // for VCC8 // Reuploaded because I fixed Secret way
-| SkyStrike  | 650 | 28605686 | New Level!!! "SkyStrike"! Like pls. Rate hard (4*) Thank u. First 2.1 Level ;D
+| SkyStrike  | 83344 | 28605686 | New Level!!! "SkyStrike"! Like pls. Rate hard (4*) Thank u. First 2.1 Level ;D
 | Digital Control | Pipenashho | 28471443 | First 2.1 Level!! :3 I Hope you enjoy it ;) Thanks For playing And Have Fun :3
 | Sky Walk | Neribus | 28159567 | Eighth level! Dedicated to my friends! Hope you like it. Thanks for feature :)
 | Technologist | Lerevon | 27764017 | Happy New Year 2K17 8).Dedicated to Echonox and Serponge.Pass on my Channel !!
@@ -5286,7 +5298,7 @@
 | raindrop | NudesSender | 15316256 | updated it with some nerfs to the inconsistent parts and buffed the first coin
 | Fairy Realm | Spectex | 15169041 | Collab with VirtualCrack! My first real effect level! Pass on YT video. Enjoy!
 | Disco Party | balloons | 14995569 | Awesome Collab with the amazing creator, Matterz! 28k objects! Password: 0082.
-| Scraped Prime | rpaabb | 14379679 | THANKS FOR FEATURED ROBTOP!!!! Also check out my another level, Another Leap!!
+| Scraped Prime | annwfn | 14379679 | THANKS FOR FEATURED ROBTOP!!!! Also check out my another level, Another Leap!!
 | Neverending Allure | Xetarche | 14081625 | Sorry there's no drop :D .. obj limit and i have no idea lel.. Thx to Codly..!
 | quiet dream | f3lixsram | 13695613 | ~peacefull~     video on my yt channel felixsram :)  please check my new demon
 | Antique Circles | LmAnubis | 13641664 | Some tell the tales about the old circles, now it's time for you to tell yours
@@ -5327,7 +5339,7 @@
 | Clutterfunk v2 | Snambs | 1074870 | This is my version of Clutterfunk. like and comment for new levels. Good luck.
 | Slime virus | null | 731234 | 5 coins can you find them all. have fun! bug fixed v2 all coins now accessible
 | Nether step | null | 657255 | I lost my all data. Good bye Everyone! and Broke Secret way. Pass word is 2714
-| ZeeToss Odyssey | CyclicGK | 47627583 | The adventure has continued with an odyssey, maybe this will be the last one.
+| ZeeToss Odyssey | NeptuneV20 | 47627583 | The adventure has continued with an odyssey, maybe this will be the last one.
 | ElectroTime | GirlyAle02 | 47067293 | awesome collab by me, RobZombiGD, fiizzy and LeX97 :3 .. i hope you enjoy ^-^
 | Slowed | Yendis | 47034070 | A sorta chill design and effect level using an amazing song by Creo. Enjoy :D
 | Vortex Focus | YunHaSeu14 | 46516835 | New Level! I think this is my best level! 56K objects used!  8~9 star please!
@@ -5339,14 +5351,14 @@
 | Synthetic Rip | Cirtrax | 43904586 | Another Distort collab?! I guess it's the sequel to Detonate ;) Rate 7 stars!
 | Ivy | Optical | 42645080 | Low Detail Mode makes the gameplay more visible, if you can't see anything =)
 | Lycaena | Enlex | 41517254 | My new solo after 4 months! Tried my best c:  check the LDM box if it lags!!!
-| Rebound | supaneko | 40013464 | Accidentley deleted so reupload :(  Just a simple collab with torch, have fun
+| Rebound | distortt | 40013464 | Accidentley deleted so reupload :(  Just a simple collab with torch, have fun
 | Adherence | Akinari | 39451674 | A solo after 7 months. My masterpiece. Thank you everyone for sailing with me
 | Spectral Velocity | QuantumFlux | 39210266 | My best by far! Just under 80k objects lol. Hope you guys like it! Insane 9*?
 | Silent Steels | NoWeek | 38855550 | I reupload this level without lags, made by Tartofrez, Intrepid and me, enjoy
 | Alkali | Chiand | 38266310 | the first collab of team watermelon | 7 Amazing Creators  | thanks rubrub :')
 | Be There | Sharks | 37648271 | trying to improve my design style :^) dedicated to everyone who support me <3
 | Kimera | Toxic GD | 36995264 | Collaboration between me and Norcda Childa! One of our proudest works yet! :D
-| RetroSpection | MrPulp | 36863586 | A blast from the past, enjoy this fun mix of 1.9 and 2.1, thx for playing! :D
+| RetroSpection | Carnage37 | 36863586 | A blast from the past, enjoy this fun mix of 1.9 and 2.1, thx for playing! :D
 | Astral Drifter | 123Ev4n | 36798206 | Sequel to Astral Traveler By Anthrax... Collab with Nahuel2998 and ZkadliX :D
 | Elune | NyamLock | 36776108 | Collab with Uneskladovae! Check out his account - he is an amazing creator :)
 | H E R E | Vrymer | 36423351 | Darkness & Stars, Here & Nowhere, Now & Never, Vrymer & Lag Forever, Enjoy <3
@@ -5544,6 +5556,7 @@
 | rocket jumper | null | 64900 | Please let me know if there is anything I can fix. This is Rocket Jumper v2.
 | Mono | Kebabbo | 48335757 | new trash lvl. Im not sure if it's 5 or 6* worth,but I hope you'll enjoy it
 | Elliptical | SRaVeNS | 48273733 | Around....... In Circles.......... Elliptical............ Circular.........
+| Unia | Ploid | 48266572 | Supposed to be my best, but you never know how could you create In future..
 | Gleeming Cortex | Cirtrax | 47488554 | 1.9 level to break from the norm. Deticated to Wod and Alkali, Rate 7 stars
 | exploding box | SirZaiss | 46032463 | Amazing collab With Enzore and Penttagram, hope you like it! <3, added LDM!
 | Essential | Ebenexz | 45075132 | Simple level, enjoy. Dedications in the level :). Thanks for you support :D
@@ -5639,6 +5652,7 @@
 | Theory of Frozen | null | 245314 | Frozen! it is the best animation in my life! Can you find Elsa and Anna...?
 | smooth jumper | null | 2935 | An easy level for people new ti the game or someone looking for a quick fix
 | The First | Clatchet | 145 | Like and Comment It Helps Me Alot. Plus Its The First Awesome Level I Made.
+| Marina | RadiationV2 | 48576712 | Two fish swim into a concrete wall. One turns to the other and says: "Dam"
 | Mining Fatique III | Manteex | 47828822 | Back to old slow gameplay now, I hope I did it well. Sequel to Prismarine.
 | F | ISparkI | 47041321 | My first easy level, enjoy! Dedicated to Cirtrax. For HiIsBackSenpai's CC.
 | Miami Beats | NoWeek | 45387941 | My simpliest level, made in 1 day dedicated to LemKuuja a great compositor
@@ -5743,7 +5757,6 @@
 | AnnoGlow | Annon | 47961873 | The 2nd Level of the Anno Series has finally arrived! Verified by Elzeko.
 | Azura | AirForce | 47517278 | I wanted to make a quick simple level before leaving on vacation. Enjoy !
 | Indigo | ScorchVx | 46373354 | I need to finish levels faster... Inspired by Serponge (rip Viprin's cc9)
-| Hallowed Legend | Ploid | 45886955 | A little old MC by me, EpicMasta11, Chiand, TinyXD, Sillow & DeniPol. C^;
 | Athanasy | TheTrueEclipse | 45335445 | Playing around with a new style! Hope you like this <3 Inspired by 1.9 :>
 | BlastX | Kurai Yonaka | 43663013 | (Demon 10star) Thank You for playing! Next time, I look forward to "Ovo"!
 | kaCHING | Flashmick72 | 41699713 | tried a kooltrix styled level. thankfs for epic rated, also now for tcc !
@@ -5761,7 +5774,7 @@
 | Rewind | Awzer  | 35106742 | Awesome collab between me and Nyrael, verified by Aquiver. rate demon! :D
 | archimedes | SirZaiss | 34751935 | just UwU... can i get 8 stars? thx for Mrlorenzo ;)   '' for enlex cc2 ''
 | Best Friends | GsML3o99 | 34085956 | Collab between me , PavyZone and Masterale! Rate hard 4*.For MrLorenzo cc
-| Trauma | Nrcaw | 33649897 | This is probably my best solo level! I really enjoyed making this one! :)
+| Trauma | EpiEpz | 33649897 | This is probably my best solo level! I really enjoyed making this one! :)
 | Primal Redux | Manix648 | 31772194 | Sequal to Final Redux and my best level [Verified by DavidVanPuff] Enjoy!
 | Resonation | Nico99 | 31542522 | Entry to CC4 ITA! The first Black orb is just a decoration... Enjoy!!! :D
 | Diversity | Peton | 29772124 | Dedicated to DarwinGD for inspiring me to make this new design! :) Enjoy!
@@ -5824,7 +5837,6 @@
 | Angel demon | kudabe | 488134 | in cupid demon...only arrow...but...now comes angel!! it cupid demon v2!!
 | geometry level | null | 217631 | this new music was short something stage else are delete  thanks you guys
 | Delta Force  | Cirtrax | 45893512 | An awesome Megacollab with 7 of my friends! Rate 5 stars and have fun :)
-| E M G | abdula | 44027285 | Simple but fun level... Dedicated to my best friend Lucikawaii, Enjoy <3
 | Resplendent | DreamTide | 43228306 | Yes my new masterpiece. Tbh im really proud of putting effort into this.
 | Hellcat | RoiMousti | 43010906 | only cube level cozynot (my best level yet) for doom gauntlet cc oh wait
 | 4 AM | Elisione | 40138985 | an hour of serenity and peace, where neither sound nor light is present.
@@ -5859,7 +5871,6 @@
 | Continuum | ZepherGD | 17855005 | A "concept" level where you time travel between the updates 1.0 and 2.0!
 | cosmic tide | legitshot | 16625044 | For Goose and Pineapple <3 And for RipTidez CC also known as Iamryanz :D
 | Phantom | MalZir | 15340027 | After drop it is really hard :) This is to all Geometry Dash players :D 
-| Puzzle Map | unnn | 15298289 | Welcome to Puzzle Map ! - Thanks for the feature RubRub ! Pass is 123987
 | Dimensions | Creator Darkar | 14974948 | My new level "Dimensions " with a little help from Stamina, Featured? :)
 | Third dimensional | PanMan | 14373892 | Block design inspired by vyking! Now with less bs, and more lab killing!
 | 17o | JoNiUs | 14342007 | Why 17? Who knows? Enjoy! My first level in 2.0 with the song Eighto! :P
@@ -5906,9 +5917,7 @@
 | Clutterfunk Abduct | Gelt | 326284 | First Abduct Clutterfunk by Gelt. Play 804325!  And Find 3 secret coins!
 | Parallel World | IRabb2tI | 79939 | Thank you for playing!! Back ground, some blocks, some errors are fixed.
 | yStep | TheRealDarnoc | 70059 | Extremely hard and extremely awesome! uses a healthy dose of new blocks!
-| Ataraxia | Ophelix | 48136048 | I had so much fun trying out this style, so I really hope you enjoy! ^^
 | Color Rush | NukAnnguq | 48106654 | The first 5 Parts are made 2-3 Months ago, the end is rushed. Enjoy! :]
-| Floaty Island | Ploid | 47659855 | Sequel to my previous level, I hope It's at least a bit better now. c^;
 | Rebirth | Hinataa | 47596898 | Special Thanks for: DaCe, Logon,Hugojuegajuegos,MistFix and Team HNTA.!
 | Alphastorm | AutoNick | 47101329 | Finally a new level! I hope you enjoy it. :3 Please rate Easy Demon! :D
 | Holy Power | TheRealDorami | 46220912 | Thanks for Epic :3 / New Updated 3.1 Ver - Bug fixed & Added Ultra LDM.
@@ -5916,7 +5925,7 @@
 | Glimmer | RobZombiGD | 43404983 | hey, Go Sub to my Youtube channel "RobzombiGD" :D I do level request :)
 | INSURGENT | Filaret | 41928322 | Finally, my masterpiece is here! - Thanks to Echonox for helping me :')
 | 8 | MeEloz | 40383771 | My worst but my craziest level ever! (I know there are lot of bugs.) :p
-| SensoriuM | MrPulp | 40048849 | 32k+ obj, LDM is recommended. Take the ugly ultraLDM if needed. Enjoy  
+| SensoriuM | Carnage37 | 40048849 | 32k+ obj, LDM is recommended. Take the ugly ultraLDM if needed. Enjoy  
 | Midnight | WerewolfGD | 39281424 | Journey to the midnight... (Collab with DaFinn) Enjoy and rate 7-8* ;3;
 | deception  | deadlama | 39263412 | My first bossfight in gd . a bit different than what i normally make :D
 | Resonance | Ethrakk | 39180318 | Resonance, by Ethrakk. Hope you'll enjoy it ! :3 For my best friends 8)
@@ -6091,7 +6100,7 @@
 | ElectroStick | Gelt | 1303225 | Stick!! How do you feel about the first ship part? XD..Enjoy everyone!
 | auto part 2 | null | 210650 | sorry for using other peoples ideas. i just tried to make a good level
 | Equinox | Magic Square | 184981 | Theres no secret way anymore .........plus new style of Equinox! Enjoy
-| Eden | 1UPAMV | 46073681 | Made in 3 days, thanks to Allekitty for polishing, for Demonmakers CC
+| Eden | Amverial | 46073681 | Made in 3 days, thanks to Allekitty for polishing, for Demonmakers CC
 | Immortal Flame | f3lixsram | 45257974 | New level, collab with Darkstyle, enjoy ! Video/pass on my youtube :3
 | Dash | DangerKat | 44068726 | collab with my friends and Awesome Creators NeoSweet,Nailu And Me :3 
 | Crayonwolf | WerewolfGD | 43497089 | OwO | worked hard on this one | 1 month of work | Enjoy and rate 5-6*
@@ -6178,6 +6187,7 @@
 | Clutterfunk AUTO | MooBee | 219384 | Some bugs are fixed. Three coins are added. Play 20990402. Thank you!
 | DARKNESS AND LIGHT | null | 217345 | Thank you for playing this lvl and press more to play more of my lvls
 | Spike Mania | null | 158096 | Hope you like it and leave a comment.Probably its Demon difficulty xD
+| Starbright | Optation | 48261682 | Layout by Akinari, Possibly my best work? Good luck and have fun! :)
 | the fairydust | alkali | 48199047 | A level I started way back in 2.0 and finished off for fun, gl+hf :D
 | Stay | Mineber | 48161276 | My first MC with great creators. Thanks for the support. Rate 8*? :)
 | Esse Change | Lerevon | 47761063 | Thanks to FirsGD and ZeeToss for helping me :) #teamartisticillusion
@@ -6271,7 +6281,7 @@
 | the nightmare road | Rob Buck | 960890 | Update! Bug Fix! The Nightmare + Lightning Road = ....This?? WutFace
 | Luminux | Agils | 47163821 | Amazing MC with some great creators, I hope you like it! Hard 4* :D
 | Pekok  | BlUhOl | 46455290 | Special for my birthday! amazing colab with SirZaiss and TrueHaron 
-| Electronic Circuit | LiraleH | 46302731 | Concept by Fragox, Made by me. Video on my YT Channel! Have fun! =)
+| Electronic Circuit | xZoomkS | 46302731 | Concept by Fragox, Made by me. Video on my YT Channel! Have fun! =)
 | mindblowing | Rapace | 45124276 | New effect level. Sequel to Sensational. I hope you will like it :D
 | Say A YoHo  | KittyDoge | 44651706 | New pirate season by KittyDoge :v Enjoy! (add detail and bug fixed)
 | Glade | Lipz | 44257117 | -Transform your mind- Dedicated to Lerevon for Danzmen CC1"Rate 4*"
@@ -6427,7 +6437,7 @@
 | H | ISparkI | 47627811 | Let the memes begin. Collab with Suzume, EpicMasta11 and Reunomi.
 | Magenta | xXLOCOXx | 47516681 | For MCR 3 (Only 10 different objects used, not including portals)
 | Overload | Darwin | 47147285 | Wow this project is finaly out! Name suggested by quacc, thanks! 
-| ZeeToss Adventure | CyclicGK | 45324888 | My second solo level. 31k obj. 3 week. See you on ZeeToss Odyssey
+| ZeeToss Adventure | NeptuneV20 | 45324888 | My second solo level. 31k obj. 3 week. See you on ZeeToss Odyssey
 | The Hollow | SaabS | 41819814 | My entry for monster gauntlet CC, hope you enjoy! :) 45k objects.
 | Extrasensory | Ross12344 | 40601402 | Tried to make more enjoyable gameplay with this one. Have fun! ;3
 | Wanderer | Rustam | 39428226 | Mother Nature is alluring... (created with the support of ViPriN)
@@ -6500,7 +6510,8 @@
 | Forgot Castle | M2nus | 281499 | Hello I am ghost This map is Hard.... but You can clear Good Luck
 | M sez | null | 162953 | Welcome to hell...Try it if you dare!      Made by Malte Hellsing
 | Mechanical heart | SamMaxx | 47945589 | We all know sadness. Low detail mode exists for the second half.
-| Forever gone | Woomy GD | 47366082 | Collaboration with GmdJAX and Fiizzy. 32K objects enjoy playing!
+| Forever gone | CreatorWoomy | 47366082 | Collaboration with GmdJAX and Fiizzy. 32K objects enjoy playing!
+| Simply  | DangerKat | 46976945 | hecho en 3 horas por diversion :) Dedicated for ChuchitoDomin :D
 | Flirt | BlueLite | 43704170 | Trying to do another style of creation, hope you will like it :3
 | Slap Squad II | DanZmeN | 43276194 | S  L  A  P     S  Q  U  A  D     B  A  C  K     M  O  T  H  A  -
 | Cosmogonal | Diaso | 41348026 | colourful and fun level (updated 3rd coin so its easier to find)
@@ -6585,6 +6596,7 @@
 | Hyper ice Jumper | Lyod | 456675 | Harder version of classic Jumper with new modes and ice blocks! 
 | jump map | null | 119324 | Jump jump jump jump jump jump jump jump jump jump jump jump jump
 | Something | Unzor | 47315218 | JUST UPLOAD SOMETHING ALREADY YOU DUMB BLUE DRAGON CAT THING...
+| Wisp | AirForce | 47063240 | Probably my best. This song is totally not overused so enjoy 8)
 | Burst | DangerKat | 45670983 | new level my first attempt normal 3 :) Dedicated for friends <3
 | Gangsta 2 | DorSha | 44984184 | A sequel to a meme level, Gangsta. Hope you enjoy this level :)
 | Restriction | Kebabbo | 44889842 | new bad level...inspired by BallisticGmer and F3lixsram. enjoy!
@@ -6666,7 +6678,6 @@
 | Fantasy Adventure R | PIS | 617045 | Custom music is longer than original music.  Password is 123456
 | Auto Time Machine | null | 214793 | So, my second Auto map is released!!! Thanks for like and play!
 | Linear | Digitalight | 47800315 | Over 1 year of work. Took way too long. Pass on my YouTube :^)
-| Wisp | AirForce | 47063240 | Probably my best. The song is totally not overused so enjoy 8)
 | GuThrie | Steven Ksttle | 45970557 | #Levelution level with 60k objs, Ok no!.      Verified by Mbed
 | Sticker | WerewolfGD | 45654553 | M o d e r n i s t i c | Enjoy and rate 4-5* | Legalize Awoooo~
 | TiM | Wixers | 45097147 | I hope you enjoy it! :) Gameplay on my YT channel as always ;D
@@ -6677,7 +6688,6 @@
 | Sarcasm | ZenThriX24 | 41174374 | Thank me on my main acc, FluffyAlcatel. Enjoy while you can :3
 | feerus | RobZombiGD | 41114101 | thank you robtop :) Sub to my youtube Channel: *RobzombiGD* :D
 | Blank | Hyper314 | 40995123 | My first effect level; enjoy! Thanks for first feature rubrub!
-| Future Spectrum | TyphoonThunder | 40880287 | The aspects of creativity. <3 (Can you get the sneaky ending?)
 | Open Air | Yendis | 38709289 | Planet earth turns, slowly. Inspired by Lemons and Sirhadoken.
 | Space Odyssey | Bohemian | 38255595 | Collab with Eriseth (last background by Onnikonna) 65k objects
 | Shapes | SrPotato | 37835562 | 14K Objects / Level made for pure fun :D Enjoy !  Rate 3 Stars
@@ -6770,7 +6780,6 @@
 | Exotic Quack | AmorAltra | 37552885 | Old level that i remake! (Next solo level will be amazing :D)
 | Meeditty |  Ryan | 37372285 | dedicated to chase lebree and darwin, hope ya enjoy it tho :3
 | PreterituM | FreakEd7 | 37080839 | This Time I Chose A Super Easy Level  :D  I Hope U Like It <3
-| Deep Dream | Ploid | 36815388 | First rated level! Love to LeX97 for the support and help. <3
 | SplasH  | DanZmeN | 34186314 | T H I S   I S   N O T   A   B L O O D Y   D E A D L Y   S I N
 | Optic | InterChange | 34159075 | Simple Optical styles again! Enjoy :)  (Blocked secret way..)
 | When The Leaves Fall | Hyenada | 26561853 | Simple design. For Lilbin and Thitrophy, pls rate 2 stars! :D
@@ -7007,6 +7016,7 @@
 | Colorful Dream | TelluR | 13700280 | Sometimes there are even such dreams... Colorful dreams...
 | Love Shuttle | Raygon | 13441803 | Level for DreamEater CC2. Maybe 5-6 stars? Hope you enjoy!
 | Mysts Maze | randodacamando | 13273949 | Made with a new style. Pass is 987789 Finaly got 86% fixed
+| Demonic Bass | Miniman2098 | 12804868 | My version of a hard demon mix! Thank you and goodluck! :D
 | Proton Field | Vlacc | 12734407 | My first 2.0 level! Thanks to liebz for the name :3 enjoy!
 | Revenge | TrueChaos | 12029745 | Deadlocked inspired demon. Can you survive? Passcode: 0000
 | Pc Party | Andro3d | 11486496 | First 2.0 level, thx for feature check out other levels ;D
@@ -7056,6 +7066,7 @@
 | Nelly | Filaret | 43744687 | Dedicated to an Awesome creator: Darwin. Layout By Kentik
 | aeonian | red1511 | 42513524 | my collab with zepor,red1511,darkevan,dreamerz and pyei!!
 | L E G O | TD Epic | 41288234 | My space style is here! Will you put the pieces together?
+| Future Spectrum | TyphoonThunder | 40880287 | the aspects of creativity (can you get the sneaky ending)
 | Winter Night | SaabS | 40013420 | Winter/Christmas themed level, enjoy! :) Merry Christmas!
 | PridE | DanZmeN | 39122651 | The Fifth Deadly Sin... Also first daily level of 2018 :D
 | Aghast | charky | 38762690 | My first 2.1 level, improved ldm, dedicated to Mr Lorenzo
@@ -7225,7 +7236,6 @@
 | Insomnia | Glittershroom43 | 3332936 | This is one of those easier demons for beginners or so.
 | Three Step | ViPriN | 3161712 | Collaboration by me and Findeksi! Please rate and like!
 | Jelly Madness | Edge | 2321324 | NEW SERIE!Jelly on Track coming soon! Rate and enjoy xD
-| Plasma Reactor | Edge | 2010178 | Used some of my fantasy to make it,rate,share and ENJOY
 | Cycles Hexified | Nena Kiwi | 1937977 | Cycles v2! Hope you like and rate. PS RobTop Is awesome
 | Sunset ruins RM | Glittershroom43 | 1748575 | I had to do this. One of my fav old school maps i made.
 | noobaman adventures | noobas | 1485305 | ver4 is very eas in fly and ball and ufo part! Like plz
@@ -7243,7 +7253,7 @@
 | Hurricane | ZidDer BGD | 40272277 | My best. 52k obj. 2 month of work. Hope you like it =)
 | spuntuffle | EpicMasta11 | 40264309 | Collab with Nampac! Enjoy this fun and bright level :)
 | Odyssey | Ardant | 39546556 | Collab with BallisticGmer! Make sure to check him out!
-| Tarnished | supaneko | 38903547 | Pff new level I suppose... Just don't judge me. Thx :)
+| Tarnished | distortt | 38903547 | Pff new level I suppose... Just don't judge me. Thx :)
 | Stormbringer | Marwec | 37915833 | When the storm comes, you should better be prepared...
 | Amplification | AvaKai | 37722417 | Do you hear something? (DreamEater's CC2 - 3rd winner)
 | Bei lun | Shuffle49 | 37284333 | Collab with Oligarhen. Thanks to Nepdex for verifying!
@@ -7392,6 +7402,7 @@
 | Forward | MegaDBow | 173388 | After  some days of lazy work, finnally here Forward.
 | level demon | null | 145251 | This game was too hard to remake...by  chung lyong 7 
 | RISING 3 | null | 94533 | Very Big scale auto play with portal Ultimate version
+| Awesome Sauce | SirHadoken | 47568611 | Collab with TD Epic. Took around 9 months to finish.
 | Purity | BryanC28 | 45786260 | Here I bring you a new job, I hope you like friends.
 | Hooman | Olympic | 44947737 | Collab with Enzore, DafaIdham, CreatorCaps and Lipz!
 | hubba | Chromatik | 42860083 | This level is 69 seconds long. sorry for the lag lol
@@ -7456,7 +7467,7 @@
 | The First Crepuscule | null | 587026 | Easy level by crepuscule. Enjoy! You will like this.
 | Looking Around | GsML3o99 | 45383382 | Easy 2* collab feat. Niji and Zapper . Added LDM :)
 | FareWell | CreatorRT | 43187821 | Trying to increase the art in pixels in my style :)
-| Galvanic | supaneko | 42497026 | Simple lvl, inspired by Fury0313. Hope you enjoy...
+| Galvanic | distortt | 42497026 | Simple lvl, inspired by Fury0313. Hope you enjoy...
 | Reluto | CastriX | 40860289 | I did it , finally.I hope you like my art level. :)
 | Alone  | Mike4VN | 38526130 | OMG thanks rub, BaNNa and mods who supported me !!!
 | Energize | Nashii | 38113246 | C:      the dedications are at the end of the level
@@ -7620,11 +7631,12 @@
 | OUTSTEEL | emiliax | 533315 | Look for IceFrost and Lightout! Hope you have fun!
 | Polargeist HD | Dj5uN | 329929 | Harder version of Polargeist! Please vote me good!
 | crystal sky | null | 207147 | enjoy play or riview and diffcutty and star plaese
+| Floaty Island | Ploid | 47659855 | Maybe a bit better than the previous, but still..
 | Oblivion Wing | Ross12344 | 42824755 | Hjk31d8da made the gameplay from 0-69%. Enjoy! <3
 | Mans Not Hot | manu123890 | 39030402 | i know the meme is dead, try to enjoy the level. 
 | Glowy | Rob Buck | 37361518 | Thrasher Glaurence 4 Ever - Verified by BoldStep.
 | Omega | Darwin | 35890421 | new demon lvl :3 good gameplay this time ! enjoy 
-| HeartBang | xHAONx | 35588255 | I'm Come back. Please Rubrub... [ Pass on my YT ]
+| HeartBang | Cloud72 | 35588255 | I'm Come back. Please Rubrub... [ Pass on my YT ]
 | Tenebris | f3lixsram | 34851342 | Thanks for spike gauntlet rob ! Good luck guys :D
 | Everlasting Dreams  | AmorAltra | 30233977 | 2.1 version, Since i love this level some much :D
 | FingerDash76 | KaiDash76 | 29198721 | My Version of FingerDash, Can you complete it? ;)
@@ -7745,7 +7757,9 @@
 | Desultory | wulzy | 48336663 | fly with the birds | for thomartin and lugunium
 | Osaka Nights | Jghost217 | 47784910 | Come on and SLAM and welcome to JAPAN... again!
 | Meraki | Alkatraz | 47181310 | Finally a new level! Rainbow-themed as usual ;)
+| Hallowed Legend | Ploid | 45886955 | That took way longer than I though would take..
 | The Last Airbender | Manteex | 45245117 | thanks for feature and check my other levels :)
+| KiW | Zhentical | 44702418 | Follow me on twitter and instagram : @zhentical
 | Mechanism | haoN | 44063088 | Entry for GC4. My first attempt at a bossfight.
 | Bio | Dioxis GD | 43872342 | I hope you like it, Bio by Dioxis, Finished :).
 | sweet world | GirlyAle02 | 43781381 | an amazing art collab by me and cookiesgirly <3
@@ -7763,7 +7777,7 @@
 | ExaSphere | Nottus | 34133330 | Hey new level its my best yet hope you enjoy :)
 | Night Light | Cristella | 32736905 | Coming Update For A New Song Guys... Or not ;3;
 | Kernel Trap | xQuadrant | 30804223 | 0x0000007F UNEXPECTED_KERNEL_MODE_TRAP (Enjoy!)
-| System Error | xHAONx | 28132084 | [Made in 7hour!] 14455 obj lol :o PASS : 072892
+| System Error | Cloud72 | 28132084 | [Made in 7hour!] 14455 obj lol :o PASS : 072892
 | Obsolete World | JefryKawaiii | 27521726 | #MakeGdKawaii - Thanks RubRub :3 - Featured  ^^
 | Yunique | YunHaSeu14 | 26713119 | My unique style map! Yunique! 3 star please! XD
 | StereoType | Flashmick72 | 26685963 | t h r o w   i t   a t   h i m ,   n o t   m e !
@@ -7818,7 +7832,7 @@
 | Auto Showtime | MasK463 | 345756 | My third auto map. Can you find all 3 coins? :O
 | Easy and Hard | TheRealDarnoc | 63419 | easy at first, then it ramps up the difficulty!
 | Chill Out Remake | null | 8828 | A remake of one of my first levels made, Enjoy!
-| ElecTech | supaneko | 48087337 | -?- e n j o y -?- 100009 x 3 - 68 + 36 = pass.
+| ElecTech | distortt | 48087337 | -?- e n j o y -?- 100009 x 3 - 68 + 36 = pass.
 | Vybe | xSkart | 45427418 | For #levelution. Pass on my YouTube Channel :3
 | Divine | Optical | 44051947 | A special level to thank all of my supporters.
 | supremacy | JuanitoUwUr | 43977407 | after a long time ... my best mc! :D Enjoy it!
@@ -7829,10 +7843,11 @@
 | StreamLine | koalakamikaze | 36278898 | Awesome megacollab, originally hosted by Rafer
 | Haunted Hill | MrZiedZ | 35174557 | Collab with Flukester ! I hope you enjoy it :D
 | Dreamcore | Torch121 | 32781965 | Amazing collab with Filaret - Hope you like it
-| Ignite | Lexdos | 32180810 | My first level mostly dedicated to Hyenada. :)
+| Ignite | LazyFrog | 32180810 | My first level mostly dedicated to Hyenada. :)
 | LETs  RUN | izhar | 31280642 | reuploated and longer :) Pass on my YT channel
 | Unknown Space | Xylluk | 30675537 | Inspired by FlashYizz's "Dead Space III" level
 | Albatross | KeiAs | 30552131 | Collab with Mulpan! 2nd Reuploaded. Have fun:)
+| Viking Arena v2 | ChilliusGMD | 30016530 | in celebration of my personal gay pride month!
 | Gravitational Force | Lerevon | 28815333 | Dedicated To Dhafin. I Hope you like it <3 XD.
 | Cosmos | DimaDank | 28601858 | RubRub, thanks for featured ;) Password 125600
 | Kaleidoscope | rafer | 28383505 | Made in 2.0 and early 2.1 -Dedicated to Etzer-
@@ -7850,7 +7865,7 @@
 | Acceleration | TamaN | 17822925 | Thanks for the support, everyone! Free copy :)
 | The Last Realm  | Wamiq | 17816284 | an easy level 3-4 stars. Thanks for feature :)
 | PrOsPeRiTy | TrueCopa | 17098472 | Your life depends to prosperity. Megacollab =)
-| MyFlow | ItsAdvySltyes | 15901213 | "MyFlow" By :: Me . Thx Rubrub For Featured :)
+| MyFlow | YoshiiBros | 15901213 | "MyFlow" By :: Me . Thx Rubrub For Featured :)
 | Geometric Swirl | ILRELL | 15805224 | Thanks for the feature, Rubrub! | Pass: #^)$@)
 | Dark Sea | TamaN | 14699703 | Seaside. (Adrift: Dark Sea, 2nd in the series)
 | Robotic Town | Volkmire289 | 13731867 | Just add coins its not new map. and allow copy
@@ -7907,16 +7922,17 @@
 | Hold your Colour | rafer | 39428512 | Party-themed level, trying to improve design.
 | Empower | TD Epic | 39179162 | My best design level is here! For Castrix CC3
 | Whizbang | AmorAltra | 38071895 | You just got WHIZBANG by AmorAltra & Td Epic!
-| Lop | iThunderPxJ | 37176400 | Simply tasty, Epic collab with victorinoxX :7
+| Lop | Pxj | 37176400 | Simply tasty, Epic collab with victorinoxX :7
 | Escape | danolex | 37074698 | Thanks for playing! Leave a like and enjoy :)
 | Mirage | Vrymer | 36652594 | You are not where you think... ft. CastriX <3
 | Blood Sugar | rafer | 34318505 | Inspired by Pendulum's song. 940 groups used.
 | Nitro | Regulus24 | 34183815 | I know, I know. This is a pretty old level xD
 | Experience | AyDiePay | 31420440 | Probably my best:) Hope for an epic<3 Enjoy;)
 | Calmness | Sharks | 30661550 | Simple level made in 3hrs for fun :D 3 stars?
-| Mirror Tempest | Arkron | 30378867 | Thx RubRub ;3; (Check theRealSlayers levels!)
+| Mirror Tempest | MRsauce | 30378867 | Thx RubRub ;3; (Check theRealSlayers levels!)
 | Blast ReProcessing | Codex | 29359391 | Collab with Ryder. 2.0 level with 2.1 pazazz!
-| Wick | Nrcaw | 29018645 | It's time to wick it all away...(Re-uploaded)
+| FREEDOM | MrPPs | 29247995 | No More Mistake , Also Check Flap By  Nasgubb
+| Wick | EpiEpz | 29018645 | It's time to wick it all away...(Re-uploaded)
 | ichor | DzRAS | 28794068 | First 2.1 level 17.000 objects pass 369369 :D
 | Simplism | FunnyGame | 28154062 | It is collab map with Loserchik67. Just enjoy
 | Stella | Arquas | 27196662 | Travel through the stars in this shiny level!
@@ -7975,6 +7991,7 @@
 | horror machine | The Carrot | 263287 | It can be a demon map though, please rate it.
 | Twinkle | SuperSNSD | 149377 | Beautiful Starry Night Like Girls Generation!
 | Maelstrom Madness | Saionji | 46660515 | Dedicated to x3mM and tohey. FOR VIPRIN CC9 
+| Mayday | Ploid | 46451535 | Well, second level that I'm kinda proud of..
 | AyC | Dioxis GD | 45408825 | Dedicated level in memory of my brothers :')
 | Rapid Rush | Torch121 | 45182394 | Hope you enjoy this level . Easy Demon ?  :D
 | Strawberry Soda  | M3nhHu3 | 44801448 | Can you handle the cuteness ? :3 #levelution
@@ -8047,6 +8064,7 @@
 | Colourful Darkness | Japic | 615205 | Final version of a level made in version 1.6
 | auto something | FlatterDesert | 344840 | My first auto... may be old but.. yeah enjoy
 | cupid demon | kudabe | 197599 | kudabe �hard map! love arrow will shot you..
+| MayDay | BlueLite | 48587134 | Another new level! Hope you will like it ;)
 | HOTTIE | Elisione | 44821121 | If you think you know me now, thats enough.
 | Yoana | NeoSweet  | 43196502 | Thank you! everyone... this is featured :,D
 | OMG ALIENS | DanZmeN | 41736289 | RUN OR THEY'LL PROBE US OMG WE'RE GONNA DIE
@@ -8271,6 +8289,7 @@
 | dream of dawn | Experience D | 585247 | Its very easy.... muahahahahahahahahahaha
 | SkyGround | MasK463 | 189107 | New map by mask with a simple design. XD 
 | Time Warp | Prayer | 73955 | You need to get out of there NOW!!!!!!!!!
+| Outcry | Ploid | 47844665 | Last freacking mc hosted by me, finally.
 | Hurluberlu | NatDak | 44454620 | Collab with Ethrakk ! Hope you enjoy :3 
 | Monolithic Rush | BranSilver | 44089512 | Monster Gauntlet entry! updated version!
 | Descent | Oskreix | 40444300 | I quit GD, this is my last level, bye 8)
@@ -8287,7 +8306,7 @@
 | The Secret Box | Metalface221 | 33405303 | Nerfed Back down, so it's more "fun" now
 | Minimalism | MeEloz | 32949239 | Dedicated to G4lvatron and FunnyGame. :)
 | Colorless | Dashtrict | 32099408 | i made this in 6 days pls don't hate it.
-| Eni | Nrcaw | 32029326 | Collab with InDead! Hope you like it! :)
+| Eni | EpiEpz | 32029326 | Collab with InDead! Hope you like it! :)
 | Ignite  | danolex | 31315765 | Thanks for playing it...Hope you like :D
 | Horntail Cave II | KeiAs | 30861262 | Horntail is back..Can you beat it again?
 | AlterGame XII | Serponge | 29389904 | Snake in GD! Worked really hard on it :p
@@ -8342,6 +8361,7 @@
 | Final Step | TheRealDarnoc | 340602 | The FINAL level before 1.6. Well. Maybe.
 | cant let go auto | null | 333199 | Tap more to play my new level xStep auto
 | koraen dokdo auto | null | 213962 | try cosmic nebula it want to be a demon.
+| XeBii | ithedarki | 48320768 | for MCR #4. My first modernistic level!
 | Despacito 2 | Arkonite | 47785426 | The long awaited sequel is finally here
 | AlivE  | gwbocajuniors | 46323426 | my new level, normal , ________ enjoy:)
 | Deceptive | saneashowcase | 45211317 | Old project that i finished now. Enjoy!
@@ -8510,10 +8530,12 @@
 | LV1 helper | nurong3 | 221450 | fixed, and coin updated. Next is......
 | Katapult | MasK463 | 162204 | Bug fixed. THIS LEVEL IS NOT 2.1 LEVEL
 | SIMG Factorial 4 | LunarSimg | 152040 | Made little buff and no more free orbs
+| Mechanize | Waffl3X | 48438974 | the weeb sacrifice begins at midnight
+| Red | Pauze | 48149517 | Thank you for the memories. 08/10/18.
+| Wubner | Gachristian1 | 47982257 | Shooting from the hip. My first epic!
 | Resonance | Ballii | 47787455 | Inspired by Erdyuri once again pppppp
 | vaguely moonlit | wless | 47725671 | your case has gone cold. | viprin cc9
 | Matrix | Froggo Doggo | 46053591 | Drifting through the infinite stars. 
-| Nature Seed | Wolfking47 | 45511266 | Sup bro, this is my first megacollab.
 | The Darki | ithedarki | 43849422 | My 3rd full level. My best level yet.
 | Knife HiT | Vertuoz | 43442841 | Thanks RobTop , and Thanks my subs=).
 | GaMoRa | FunnyGame | 43385961 | Dreaming is a happy one. +Coin update
@@ -8651,6 +8673,7 @@
 | A bonus level | Twoots | 3300659 | I focused on decorations this time. 
 | Skyfall | Glittershroom43 | 3118592 | Easy and beautiful. 3-4 stars maybe?
 | Shadow Temple | Michigun | 2891681 | Very hard without the lens of truth!
+| Plasma Reactor | Edge | 2010178 | Update: removed the dual at the end.
 | Level Mixed | Sumsar | 1943731 | Thanks for GC -Zephyr-. Made in 1.8.
 | xNeon | ViPriN | 1910428 | hope you enjoy this full neon level!
 | dorabaebasic6 | DORABAE | 1908018 | Welcome to DORABAE-BASIC6. Easy map!
@@ -8676,6 +8699,7 @@
 | Lv23 The Maglanics  | IamXstep | 206130 | ehdals0507 . Leave me alone Hey Boss
 | Time Road | IRabb2tI | 116622 | Bug fixed...  Thank you for playing!
 | Even flow | null | 1614 | Chill bro and go with the flow  ,WIP
+| Nature Seed | Wolfking47 | 45511266 | The level no one likes lol ecks dee
 | Ziroikabi | RoiMousti | 44773500 | >VerifyZiroikabi died from falling.
 | Gronex | ARLUNOJO | 44176287 | /*Enjoy this level with 3D theme.*/
 | Torque | Nampac | 44137132 | Thanks for epic rob! Pass 159357 :)
@@ -8754,6 +8778,7 @@
 | Amaze | Xevenfurious | 48099692 | best drop i ever made <3 since 2.0
 | The Glitch | SaabS | 46705022 | Retro themed boss level. Enjoy! :)
 | Getiscal Hyerdyuri | M3nhHu3 | 46195386 | This was made while im at hospital
+| E M G | abdula | 44027285 | Simple, but fun level... Enjoy. <3
 | Vague Carnage | Supacruncha | 42940642 | Finally Done. Weird level, enjoy! 
 | At Pass | Codex | 42403591 | 2.0 style easy demon! Fun to build
 | Astral Aphelion | Snarlax523 | 41630953 | space person (gameplay by cheetah)
@@ -8834,9 +8859,9 @@
 | NONSENSE world LV12 | titanium | 215160 | by GW geometry    NO SECRET PATH!!
 | RAINBOW final | ZelLink | 204054 | It is the final of rainbow series.
 | Revert | Digitalight | 47107376 | #lelution    LDM has been updated
-| Simply  | DangerKat | 46976945 | hecho en 3 horas por diversion :)
 | Pacific drift | Cofii | 46771509 | Dedicated to the nation of tuvalu
-| ReforM | LiraleH | 46083532 | Two styles in one level. Enjoy =)
+| ReforM | xZoomkS | 46083532 | Two styles in one level. Enjoy =)
+| Deep Thoughts | Ploid | 44090063 | First mc I'm kinda proud of tbh..
 | Xing | AmorAltra | 43494449 | The comeback is here! (ft Ardant)
 | aquaty | Alkatreize | 42376812 | collab with ISanEGFW       enjoy!
 | Relent | Psynapse  | 41622797 | Flawless. Collab with DreamEater.
@@ -9049,6 +9074,7 @@
 | Auto jumping Area | Jax | 46355 | Come back to Auto Play Ground !
 | Cant Let Go v2 | IRabb2tI | 23420 | Rabb2t is love, Rabb2t is life!
 | AUTO STEREO MADNESS | IRabb2tI | 18722 | My first auto level. Bug fixed!
+| Nagasaki Rush | Manteex | 48484021 | the japanese party starts here
 | Bourn | AlexS2003 | 47932761 | My best. Dedicated to Optical.
 | Good bye | Jlexa | 47709074 | Sorry for short and bad level.
 | Flavored Level | MrZiedZ | 43149681 | Sequel to my level Blast Level
@@ -9194,10 +9220,12 @@
 | Cross | 99geometrydash | 75763 | making gwangjin middle school
 | Just Another Level | TheRealDarnoc | 45827 | Well? Its just another level!
 | party time 1 | dhk2725 | 32543 | 1st Level of DHK2725 Hard ver
-| Air Station | Ploid | 47064878 | Experimental solo level. :^L
+| flap | nasgubb | 48657679 | The first ever GS megacollab
+| Air Station | Ploid | 47064878 | Worst solo level In history.
 | Bright | luis JR | 45618958 | Shine bright like a diamond.
 | Obstination | NatDak | 44984508 | I hope you enjoy this one <3
 | Glam | luis JR | 44934055 | Operation: 'save your life'.
+| Overture | Azaaaaa | 43756414 | long egg (made by ikea boys)
 | Calorie Gallery | Awzer  | 39189672 | (funny description provided)
 | Forerunner | Jghost217 | 36881176 | Wake Me, When you Need Me...
 | Gecko Funk | Nwolc | 36140758 | Level made in 1.9! Have fun.
@@ -9259,7 +9287,7 @@
 | Amorous | Jayuff | 45937808 | gayest level i've ever made
 | Sketchily | mulpan | 45527599 | I did a sketch. That's all.
 | Solluna | AmorAltra | 43711117 | Day and night, Sun and moon
-| Bionic Machine | Alcalex | 41086621 | for dasher30000000000000000
+| Bionic Machine | xFluffyAlcatelx | 41086621 | for dasher30000000000000000
 | Xyrant | AceVict | 39937770 | Sorry for my inactivity ;3;
 | Main | Optical | 39812824 | Here comes Carl. Be afraid.
 | Swari | lujian | 39642752 | Sweet lvl for Potatobaby :3
@@ -9328,8 +9356,10 @@
 | Voyage | DesTicY | 47768539 | wandering through space...
 | emoji | wilbert04 | 46984960 | its not emoji but emoticon
 | Time inception | She3rlucks | 46043832 | ____['-']_____/\/\/\/\____
+| Off | DanZmeN | 45955195 | Have you beaten Off today?
 | Geometric Dimension | Lemons | 45091362 | Have fun :) Pass is 040400
 | Yitow | ARLUNOJO | 43542327 | /*Description [Optional]*/
+| Reality | Ploid | 43536406 | Zapper Is bad at gameplay.
 | Imagination | greenwater | 42607376 | Another my best level....?
 | Mind Control | DenisPelmenev | 39006995 | Your mind is under control
 | Crusade | AmorAltra | 38975325 | Not for the doom gauntlets
@@ -9355,13 +9385,12 @@
 | The Xenocode | Pawlogates | 17183127 | My first featured level <3
 | cosmic era | Non4med | 16287359 | lowdetail finally works :D
 | To worlds end | MrLorenzo | 14815808 | EnjoyGame collab! Original
-| Glow Haze | Qpalz | 14112272 | Check out my other levels!
+| Glow Haze | AlrexX | 14112272 | Check out my other levels!
 | Flowing  | M3nhHu3 | 14086976 | Glow.Collab with RayOriens
 | climactic | Non4med | 13832121 | old climactic is back bois
 | Fantasy Road | LuisGX12 | 13461978 | New level :P! Rate Hard :)
 | Not Afraid | Geomike | 13262745 | Nothing to be afraid of...
 | Exobyte | TriAxis | 13237279 | Another one bytes the dust
-| Demonic Bass | Miniman2098 | 12804868 | 50th Hardest Demon...GL :D
 | Galaxy Purple | ZenthiMegax | 11924846 | New level (2.0) THX Robtop
 | Skullbreaker | DashingInfinity | 10414510 | Many a head were shattered
 | UN1TE | acxle | 9907060 | U n I, Together, Everyone.
@@ -9404,6 +9433,7 @@
 | Midnight Sun | DemonBestGG | 288141 | My 16th Map. Not to easy. 
 | The Extreme 1 | null | 212951 | Extreme 1!Coming very soon
 | auto play area | Jax | 3150 | The secend map by Jax 8137
+| Feelings Chronology | ithedarki | 47830477 | Find beauty everywhere...
 | power | GirlyAle02 | 46515768 | dedicated to ruby17 c: <3
 | Flower dance | mulpan | 46488567 | Collab with my friends :)
 | Kazan | joelmacool | 44652504 | "Kazan" meaning "Furnace"
@@ -9477,6 +9507,7 @@
 | Surrealism | MasK463 | 239006 | Bugs and errors are fixed
 | Theory of Clutter | null | 219627 | Mt first map. Very stupid
 | switch | null | 465 | Dont get angry, Get Dizzy
+| Rare | Amverial | 47468160 | Reuploaded cause why not
 | The Lowest Layer | SaabS | 46035910 | For Viprin's CC9. Enjoy!
 | Euphoria | Ross12344 | 44480809 | Dedicated to Xellion. <3
 | Abomination | Piseto | 41083032 | My Masterpiece! Enjoy =)
@@ -9556,6 +9587,7 @@
 | Detention | Digitalight | 39963703 | No running in the halls
 | Lockout | Darwin | 37584462 | song by lockyn, enjoy !
 | Hyperion | Darwin | 37226858 | have fun with this ! :3
+| Deep Dream | Ploid | 36815388 | Unfinished LeX's level.
 | Onyx | Spu7Nix | 36012089 | (No description needed)
 | underground workshop | Rusto | 35571474 | hope you like fishes...
 | Naturalism | MeEloz | 34984185 | Collab with Erdyuri. <3
@@ -9715,10 +9747,11 @@
 | Arcadia | Optical | 25026005 | Collab with Tizoki :)
 | sleepless night | Dverry | 20794606 | You can't sleep......
 | Colorful Adventure | 5quid | 19632398 | not my best. 4~5star?
-| Firelands | Cookieszs | 18879212 | B l i t z m i s t e r
+| Firelands | Kaheli | 18879212 | B l i t z m i s t e r
 | Ocean Temple | Sharks | 17931155 | Deep in the ocean ...
 | Lonely travel | FunnyGame | 17924880 | Useless longest level
 | Spaghetti | Hellfire51 | 17063578 | thanks for playing :)
+| Puzzle Map | unnn | 15298289 | Welcome to Puzzle Map
 | Genesis | Cyprix | 15092044 | the new world is here
 | Color Swing | Mazl | 13561388 | Colors! Bugs fixed :D
 | ExtraBlast | Jerry Bronze V | 11951081 | Collab with ghostface
@@ -9938,6 +9971,7 @@
 | Orbia | Vertuoz | 47483430 | My new Minigame :3
 | Wave 6 | Skyturtle | 46257888 | For Viprin CC9. H.
 | Simple Drop | danolex | 42008751 | Thanks for playing
+| Mythical Legend | Ploid | 41546706 | First megacollab..
 | Heroic | Sir Doge | 41465205 | My best level yet 
 | Hiatus | OwO Whats This | 40844755 | im going on hiatus
 | Raupapa | Ellisha | 40463977 | Update : Ldm added
@@ -9951,7 +9985,7 @@
 | Ambition | Hyenaedon | 35251959 | Soaring The Sky =)
 | Unarmed | Xylluk | 31537385 | Enjoy the level :)
 | Bausha Vortex | Pennutoh | 30380566 | Please forgive me.
-| Solumn | Pauze | 30239113 | Walking together..
+| Solemn | Pauze | 30239113 | Walking together..
 | Colorblind | ZelLink | 29651972 | 2.1 first level ;)
 | Melody Heart | Flosia | 28235753 | Reupolad :3 Enjoy!
 | Exuberant | mulpan | 27855858 | Old level reupload
@@ -9965,7 +9999,7 @@
 | Geometry Jump | TheRealSalad | 13232118 | Free user coins ;)
 | If DeCodeX was l1 | itsBypipez | 13134973 | It's ducking done.
 | DeCodeX | Rek3dge | 13081515 | It's ducking done.
-| Discord | Christiansrdumb | 12951512 | NO SOY GRINGO :)  
+| Discord | MMeisters | 12951512 | NO SOY GRINGO :)  
 | Mystic Lab | KeiAs | 12332305 | First 2.0 Level :3
 | Toxic  | iIAtlinIi | 12308746 | Hosted by Xaipher!
 | Ghostbusters | TrueChaos | 10969316 | Who ya gonna call?
@@ -10013,7 +10047,7 @@
 | Odd | Jayuff | 41092171 | this level is odd
 | Exordium | DesTicY | 40555200 | happy new year <3
 | Voltius | Riky2610 | 38798815 | My masterpiece .D
-| Proximity | CastOvern | 37837514 | OLD LEVEL!!!!!!!!
+| Proximity | Gcvanito | 37837514 | OLD LEVEL!!!!!!!!
 | Cookie | wulzy | 37115660 | meme with brandon
 | Foreseen | TrueSquall | 35807448 | Deep in thought..
 | Effloresce | Torch121 | 34686321 | ~ thx 4 playing ~
@@ -10090,7 +10124,7 @@
 | Crestfallen | ALISYdvblhas li | 29757387 | Starting over...
 | Aware | Pauze | 28854503 | All around you..
 | Mechanical Showdown | Tongii | 27786218 | new update added
-| Payload | Nrcaw | 27622433 | drop the payload
+| Payload | EpiEpz | 27622433 | drop the payload
 | Gumi | Nashii | 27442102 | Thanks Robtop <3
 | Monody | Spa8 | 14160282 | Updated! Bugfix.
 | LightYears | StarShipGD | 13804820 | Short and fun ;D
@@ -10214,6 +10248,7 @@
 | Back On Track v01 | Mixroid | 141144 | Superpocketroid
 | Time Machine v2 | IIINePtunEIII | 116806 | Time Machine v2
 | TRI STEP | null | 1293 | Creator Ulises 
+| Sway | Rusto | 48697659 | yay school .v.
 | Aqua | haoN | 47673627 | Stay hydrated.
 | Nock Em Down | Sharkarie | 42340388 | Yes. Opti TBCC
 | Take my hand | danolex | 39228340 | Hope you like!
@@ -10283,6 +10318,7 @@
 | White Noise | null | 109332 | Just more lie.
 | Cant let go v2 | IIINePtunEIII | 79275 | cant let go v2
 | square adventure | null | 61757 | You can do it!
+| Ataraxia | Ophelix | 48136048 | Rise my child
 | Relax | VadriX | 46454425 | For Nanoum :D
 | Thaumaturgy | Ross12344 | 45423857 | lol rip demon
 | V O S S | Jghost217 | 44120919 | Is this voss?
@@ -10515,6 +10551,7 @@
 | level 7 | tricer | 70050 | by wjsehgus
 | Fortress | Partition | 22098 | :3 MyMemory
 | Astro | ItZmintjelly | 42485489 | LDM UPDATE
+| Elevation | iiEthereal | 30369681 | disgusting
 | TimeLess | Desx74 | 29528425 | bugs fixed
 | Halogen | Axils | 28716097 | Generic af
 | Round 2 | Flashmick72 | 27749048 | 2.1 update
@@ -10562,10 +10599,11 @@
 | auto polargei | null | 72914 | Zzzzz.....
 | Dry out v2 | IIINePtunEIII | 71485 | Dry Out v2
 | Very hard CLG | FunnyGame | 49229 | hard level
+| Atmosfera | FozaeKitty | 48469085 | ~ sweet ~
 | FurY | TheRealDorami | 47490086 | Surprise!
 | uMabok | Penttagram | 46574968 | mabok kuy
 | Dream Paradise | DHaner | 44133646 | Enjoy ^-^
-| 4am | iThunderPxJ | 43885557 | Here I am
+| 4am | Pxj | 43885557 | Here I am
 | GlowLith | NoWeek | 40799640 | he he boi
 | Incinerator | Polli | 37728145 | Hot Level
 | Funky Bliss | FozaeKitty | 36080060 | yay... :)
@@ -10764,6 +10802,7 @@
 | Entropy | TriAxis | 13861391 | Vivid.
 | Bastion | Coreybirdo | 13828165 | Shadow
 | Colorful Realm | VeXyn | 10289551 | Update
+| SoulDust | DualTroniX | 10110092 | Bugfix
 | Iridium | Ninetales | 9596005 | cringe
 | Dead Moon | HobbyBoat | 9389783 | Return
 | Lunar Ocean | Gelt | 8571598 | Bye Hi
@@ -10797,9 +10836,9 @@
 | Sidra Futura | stinkyy | 40515336 | Maybe
 | NANAmori | Hinataa | 37887913 | Nani?
 | Magical Madness | Skyturtle | 36906582 | Cool.
-| Petrified Factory | Alcalex | 36639728 | FAST!
+| Petrified Factory | xFluffyAlcatelx | 36639728 | FAST!
 | Dreams | abdula | 34665666 | Enjoy
-| Solar | lCraZy | 27698001 | unoff
+| Solar | RoadTrip | 27698001 | unoff
 | Cubes story The top | IyuriI | 25084927 | . , .
 | god mode | CookiesGirly | 20117026 | ...<3
 | Glamour | Adiale | 18950485 | .....
@@ -10899,7 +10938,7 @@
 | I can fly | Judas | 70814 | AUTO
 | 6 Time Machine | null | 17612 | Cody
 | Level Easy | null | 11940 | Cody
-| 4 | - | 6684 | Cody
+| 4 | null | 6684 | Cody
 | lvl 5 | smertnet | 658 | mod 
 | Gloom | Optical | 47546711 | ...
 | TeCh BliTz | FozaeKitty | 45725134 | Fin
@@ -10917,7 +10956,6 @@
 | Andromeda | Pauze | 32223092 | ._.
 | Shrapnel | Pauze | 31779689 | ._.
 | Desolation | haoN | 30843730 | ...
-| Elevation | iiEthereal | 30369681 | lol
 | time control | Kyromi | 29728555 | //.
 | Unwavering Emotions | Sharkarie | 29636672 | owo
 | Peaceful Sky | Danola | 29632317 | :) 
@@ -10969,8 +11007,7 @@
 | ProLevel3 | null | 110259 | ...
 | Dy 7 | Player | 87286 | ...
 | ProLevel1 | null | 67332 | ...
-| ProtoType 3 | null | 3472 | 3.0
-| Off | DanZmeN | 45955195 | On
+| ProtoType 3 | - | 3472 | 3.0
 | Far Away | danolex | 45344874 | :)
 | 15k | BryanC28 | 43059230 | :)
 | XD | DanZmeN | 40851847 | XD
@@ -10982,12 +11019,12 @@
 | Translucent | Torch121 | 38669931 | 8)
 | Comeback | danolex | 38484036 | :)
 | Enchant | TruDee Fabian | 38136777 | :)
-| Immersive  | Alcalex | 37489485 | :)
-| Prescient | Alcalex | 35332882 | :o
+| Immersive  | xFluffyAlcatelx | 37489485 | :)
+| Prescient | xFluffyAlcatelx | 35332882 | :o
 | Corrupted | RobZombiGD | 35213852 | <3
 | Napalm | WolfenGD | 34848621 | yo
 | Wist | beptile | 34693361 | :)
-| Terror Factory   | Alcalex | 32915142 | 0)
+| Terror Factory   | xFluffyAlcatelx | 32915142 | 0)
 | Mechanical Fury | Noctalium | 32724645 | hi
 | Senses | BGames | 32623069 | <3
 | Subway II | Existence | 32045809 | <3
@@ -11047,7 +11084,7 @@
 | 5 | null | 8612 | C
 | 3 | - | 5291 | C
 | 2 | - | 4229 | C
-| 1 | null | 3785 | C
+| 1 | - | 3785 | C
 | Sincerity | Flosia | 46987033 | 
 | nef | Darwin | 45889713 | 
 | Whiskey | crossblade | 43795454 | 
@@ -11073,6 +11110,7 @@
 | PauZee | Wiv29 | 32156223 | 
 | Aimless | TrueSquall | 32095659 | 
 | Deimos | xRint | 31735056 | 
+| cinematic metal | loserchik67 | 30826018 | 
 | Look up | Xylluk | 29968272 | 
 | Colorblind | RobZombiGD | 29688524 | 
 | warpspeed | Xron GD | 29016604 | 
