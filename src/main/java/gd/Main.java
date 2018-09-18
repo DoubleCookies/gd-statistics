@@ -1,5 +1,7 @@
 package gd;
 
+import gd.enums.LevelType;
+
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -16,11 +18,10 @@ public class Main {
         generateFeaturedAudioInfo();
         generateEpicAudioInfo();
         generateTopDemons();
-        generateTopDemonsToWiki();
     }
 
     private static void generateEpicMarkdownListForDiffs(int sortingCode) {
-        String[] res = ResponseGenerator.generateEpicMarkdownListForDiffs(sortingCode);
+        String[] res = ResponseGenerator.generateList(sortingCode, LevelType.Epic);
         for(int j =0; j< 11; j++) //magic 11!
         {
             byte data[] = res[j].getBytes();
@@ -31,7 +32,7 @@ public class Main {
     }
 
     private static void generateFeaturedMarkdownListForDiffs(int sortingCode) {
-        String[] res = ResponseGenerator.generateFeaturedMarkdownListForDiffs(sortingCode);
+        String[] res = ResponseGenerator.generateList(sortingCode ,LevelType.Featured);
         for(int j =0; j< 11; j++) //magic 11!
         {
             byte data[] = res[j].getBytes();
@@ -42,22 +43,22 @@ public class Main {
     }
 
     private static void generateEpicWithLongestDescr() {
-        String[] res = ResponseGenerator.generateEpicMarkdownListForDiffs();
+        String[] res = ResponseGenerator.generateListWithLongestDescr(LevelType.Epic);
         writeToFile(5, "Epic", 0, res[0].getBytes(), ".md");
     }
 
     private static void generateFeaturedWithLongestDescr() {
-        String[] res = ResponseGenerator.generateFeaturedMarkdownListForDiffs();
+        String[] res = ResponseGenerator.generateListWithLongestDescr(LevelType.Featured);
         writeToFile(5, "Featured", 0, res[0].getBytes(), ".md");
     }
 
     private static void generateFeaturedAudioInfo() {
-        String[] res = ResponseGenerator.generateFeaturedMusicList();
+        String[] res = ResponseGenerator.generateMusicList(LevelType.Featured);
         writeToFile(-1, "Featured audio info", 0, res[0].getBytes(), ".md");
     }
 
     private static void generateEpicAudioInfo() {
-        String[] res = ResponseGenerator.generateEpicMusicList();
+        String[] res = ResponseGenerator.generateMusicList(LevelType.Epic);
         writeToFile(-1, "Epic audio info", 0, res[0].getBytes(), ".md");
     }
 
@@ -66,11 +67,6 @@ public class Main {
         writeToFile(0, "Top 50 popular demons", 0, res[0].getBytes(), ".md");
     }
 
-    private static void generateTopDemonsToWiki() {
-        String[] res = ResponseGenerator.generateTopDemonsListToWiki();
-        writeToFile(0, "Top 50 popular demons to wiki", 0, res[0].getBytes(), ".txt");
-        writeToFile(0, "Top 50 popular demons short list", 0, res[1].getBytes(), ".txt");
-    }
 
     private static void writeToFile(int sortingCode, String prefix, int diffCode, byte[] data, String filetype) {
         FileOutputStream out;
