@@ -10,8 +10,6 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-import static gd.enums.LevelType.*;
-
 /**
  * Class for generating level lists
  */
@@ -19,7 +17,6 @@ public class ResponseGenerator {
 
     private static Comparator<GDLevel> descendingLikesComparator = (o1, o2) -> (int) (o2.getLikes() - o1.getLikes());
     private static Comparator<GDLevel> ascendingLikesComparator = (o1, o2) -> (int) (o1.getLikes() - o2.getLikes());
-
     private static Comparator<GDLevel> descendingDownloadsComparator = (o1, o2) -> (int) (o2.getDownloads() - o1.getDownloads());
     private static Comparator<GDLevel> ascendingDownloadsComparator = (o1, o2) -> (int) (o1.getDownloads() - o2.getDownloads());
     private static Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> (int) (o2.getDescription().length() - o1.getDescription().length());
@@ -54,7 +51,6 @@ public class ResponseGenerator {
         return stringArray;
     }
 
-
     static String[] generateListWithLongestDescr(LevelType type) {
         String[] stringArray = new String[1];
         int counter=0;
@@ -65,7 +61,6 @@ public class ResponseGenerator {
         sortLevelList(list, 5);
         for(GDLevel level : list)
         {
-            int i = returnDiff(level);
             builder.append(level.markdownWithDescrString() + "\n");
             counter++;
         }
@@ -78,8 +73,8 @@ public class ResponseGenerator {
         String[] stringArray = new String[1];
         int counter=0;
         StringBuilder builder = new StringBuilder();
-        builder.append("| Name | Creator | ID | Downloads |\n");
-        builder.append("|:---:|:---:|:---:|:---:|\n");
+        builder.append("| Name | Creator | ID | Downloads | Likes |\n");
+        builder.append("|:---:|:---:|:---:|:---:|:---:|\n");
         List<GDLevel> list = getMostPopularDemons();
         //sortLevelList(list, 5);
         for(GDLevel level : list)
@@ -108,15 +103,9 @@ public class ResponseGenerator {
         {
             songId = level.getGdSong();
             if(audio.containsKey(songId))
-            {
                 audio.put(songId,  audio.get(songId) + 1);
-            }
             else
-            {
                 audio.put(songId,  1);
-            }
-            //int i = returnDiff(level);
-            //builder.append(level.markdownWithDescrString() + "\n");
             counter++;
         }
         Map<GDSong, Integer> result = audio.entrySet().stream()
@@ -126,11 +115,36 @@ public class ResponseGenerator {
         builder.insert(0, "#### Total: " + counter + " levels\n\n");
         List<GDSong> mapKeys = new ArrayList<>(result.keySet());
         List<Integer> mapValues = new ArrayList<>(result.values());
-        //List<GDSong, Integer> audioList = result
         for(int i =0; i < mapKeys.size(); i++)
-        {
             builder.append(mapKeys.get(i).toListString() + mapValues.get(i) + "\n");
+        stringArray[0] = builder.toString();
+        return stringArray;
+    }
+
+    static String[] generateBuildersList(LevelType type) {
+        String[] stringArray = new String[1];
+        int counter=0;
+        StringBuilder builder = new StringBuilder();
+        builder.append("| Author | Count |\n");
+        builder.append("|:---:|:---:|\n");
+        List<GDLevel> list = getLevelsList(type);
+        HashMap<String, Integer> audio = new HashMap<>();
+        for(GDLevel level : list)
+        {
+            if(audio.containsKey(level.getCreator()))
+                audio.put(level.getCreator(),  audio.get(level.getCreator()) + 1);
+            else
+                audio.put(level.getCreator(),  1);
+            counter++;
         }
+        Map<String, Integer> result = audio.entrySet().stream()
+                .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
+                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));
+        List<String> mapKeys = new ArrayList<>(result.keySet());
+        List<Integer> mapValues = new ArrayList<>(result.values());
+        for(int i =0; i < mapKeys.size(); i++)
+            builder.append(mapKeys.get(i)+ " | " + mapValues.get(i) + "\n");
         stringArray[0] = builder.toString();
         return stringArray;
     }

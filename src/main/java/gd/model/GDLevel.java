@@ -348,44 +348,6 @@ public class GDLevel {
 		return "| " + name + " | " + creator + " | " + id + " | " + downloads + " | " + likes;
 	}
 
-	public String wikiString(int count) {
-		return "|-\n! " + count + "\n| [[" + name + "]]\n| " + downloads + "\n| " + " <center>" + wikiDemonTemplate() + "</center>" + "\n| " + creator + "\n";
-	}
-
-	public String wikiDemonTemplate() {
-		String result = "";
-		if(epic)
-		{
-			switch (demonDifficulty)
-			{
-				case EASY: result = "{{Эпический лёгкий демон}}"; break;
-				case MEDIUM: result = "{{Эпический средний демон}}"; break;
-				case HARD: result = "{{Эпический демон}}"; break;
-				case INSANE: result = "{{Эпический безумный демон}}"; break;
-				case EXTREME: result = "{{Эпический экстремальный демон}}"; break;
-			}
-		} else if (isFeatured()) {
-			switch (demonDifficulty)
-			{
-				case EASY: result = "{{Featured лёгкий демон}}"; break;
-				case MEDIUM: result = "{{Featured средний демон}}"; break;
-				case HARD: result = "{{Featured демон}}"; break;
-				case INSANE: result = "{{Featured безумный демон}}"; break;
-				case EXTREME: result = "{{Featured экстремальный демон}}"; break;
-			}
-		} else {
-			switch (demonDifficulty)
-			{
-				case EASY: result = "{{Лёгкий демон}}"; break;
-				case MEDIUM: result = "{{Средний демон}}"; break;
-				case HARD: result = "{{Демон}}"; break;
-				case INSANE: result = "{{Безумный демон}}"; break;
-				case EXTREME: result = "{{Экстремальный демон}}"; break;
-			}
-		}
-		return result;
-	}
-
 	public String markdownWithDescrString() {
 		return "| " + name + " | " + creator + " | " + id + " | " + description;
 	}

@@ -18,6 +18,8 @@ public class Main {
         generateFeaturedAudioInfo();
         generateEpicAudioInfo();
         generateTopDemons();
+        generateEpicBuildersInfo();
+        generateFeaturedBuildersInfo();
     }
 
     private static void generateEpicMarkdownListForDiffs(int sortingCode) {
@@ -60,6 +62,16 @@ public class Main {
     private static void generateEpicAudioInfo() {
         String[] res = ResponseGenerator.generateMusicList(LevelType.Epic);
         writeToFile(-1, "Epic audio info", 0, res[0].getBytes(), ".md");
+    }
+
+    private static void generateFeaturedBuildersInfo() {
+        String[] res = ResponseGenerator.generateBuildersList(LevelType.Featured);
+        writeToFile(-1, "Featured builders info", 0, res[0].getBytes(), ".md");
+    }
+
+    private static void generateEpicBuildersInfo() {
+        String[] res = ResponseGenerator.generateBuildersList(LevelType.Epic);
+        writeToFile(-1, "Epic builders info", 0, res[0].getBytes(), ".md");
     }
 
     private static void generateTopDemons() {

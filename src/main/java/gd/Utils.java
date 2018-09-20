@@ -73,28 +73,6 @@ public abstract class Utils {
     }
 
     /**
-     * Converts a set of integers to a string with the following format:
-     * <code>val1,val2,val3,val4</code>
-     *
-     * @param intSet
-     *            - the set of integers to convert
-     *
-     * @return String
-     */
-    public static String setOfIntToString(Set<Integer> intSet) {
-        StringBuffer sb = new StringBuffer();
-
-        for (int val : intSet) {
-            sb.append(val);
-            sb.append(",");
-        }
-
-        if (!intSet.isEmpty())
-            sb.deleteCharAt(sb.length() - 1);
-        return sb.toString();
-    }
-
-    /**
      * Gets an audio track by its ID
      *
      * @param id - the audio track id
@@ -103,66 +81,4 @@ public abstract class Utils {
     public static GDSong getAudioTrack(int id) {
         return AUDIO_TRACKS.containsKey(id) ?  AUDIO_TRACKS.get(id) : new GDSong(0, "-", "Unknown");
     }
-
-    /**
-     * Parses the String representing level creators into a Map that associates
-     * the creator ID with their name
-     *
-     * @param creatorsInfoRD
-     *            - the String representing the creators
-     * @return a Map of Long, String
-     */
-    public static Map<Long, String> structureCreatorsInfo(String creatorsInfoRD) {
-        if (creatorsInfoRD.isEmpty())
-            return new HashMap<>();
-
-        String[] arrayCreatorsRD = creatorsInfoRD.split("\\|");
-        Map<Long, String> structuredCreatorsInfo = new HashMap<>();
-
-        for (String creatorRD : arrayCreatorsRD) {
-            structuredCreatorsInfo.put(Long.parseLong(creatorRD.split(":")[0]), creatorRD.split(":")[1]);
-        }
-
-        return structuredCreatorsInfo;
-    }
-
-    /**
-     * Parses the String representing level songs into a Map that associates
-     * the song ID with their title
-     *
-     * @param songsInfoRD
-     *            - the String representing the songs
-     * @return a Map of Long, String
-     */
-    public static Map<Long, GDSong> structureSongsInfo(String songsInfoRD) {
-        final int INDEX_SONG_ID = 1;
-        final int INDEX_SONG_TITLE = 2;
-        final int INDEX_SONG_AUTHOR = 4;
-        final int INDEX_SONG_SIZE = 5;
-        final int INDEX_SONG_URL = 10;
-
-        if (songsInfoRD.isEmpty())
-            return new HashMap<>();
-
-        String[] arraySongsRD = songsInfoRD.split("~:~");
-        Map<Long, GDSong> result = new HashMap<>();
-
-        for (String songRD : arraySongsRD) {
-            Map<Integer, String> songMap = Utils.splitToMap(songRD, "~\\|~");
-            long songID = Long.parseLong(songMap.get(INDEX_SONG_ID));
-            String songTitle = songMap.get(INDEX_SONG_TITLE);
-            String songAuthor = songMap.get(INDEX_SONG_AUTHOR);
-            String songSize = songMap.get(INDEX_SONG_SIZE);
-            String songURL = songMap.get(INDEX_SONG_URL);
-            try {
-                songURL = URLDecoder.decode(songURL, "UTF-8");
-            } catch (UnsupportedEncodingException e) {
-                e.printStackTrace();
-            }
-            result.put(songID, new GDSong(songID, songAuthor, songSize, songTitle, songURL, true));
-        }
-
-        return result;
-    }
-
 }
