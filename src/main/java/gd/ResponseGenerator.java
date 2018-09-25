@@ -76,7 +76,6 @@ public class ResponseGenerator {
         builder.append("| Name | Creator | ID | Downloads | Likes |\n");
         builder.append("|:---:|:---:|:---:|:---:|:---:|\n");
         List<GDLevel> list = getMostPopularDemons();
-        //sortLevelList(list, 5);
         for(GDLevel level : list)
         {
             if(counter < 50)
@@ -149,7 +148,7 @@ public class ResponseGenerator {
         return stringArray;
     }
 
-    static List<GDLevel> getLevelsList(LevelType type) {
+    private static List<GDLevel> getLevelsList(LevelType type) {
         switch (type) {
             case Featured: {return getMostPopularFeatured(0);}
             case Epic: {return getMostPopularEpics(0);}

@@ -2,8 +2,8 @@
 |:---:|:---:|
 Darwin | 31
 f3lixsram | 22
+danolex | 17
 Serponge | 16
-danolex | 16
 DanZmeN | 15
 CastriX | 14
 Optical | 14
@@ -18,6 +18,7 @@ Usermatt18 | 11
 Thomartin | 11
 GD Jose | 10
 MrKoolTrix | 10
+alkali | 10
 Knots | 10
 Berkoo | 10
 ViPriN | 10
@@ -26,7 +27,6 @@ Wixers | 10
 WerewolfGD | 10
 Nashii | 9
 Axils | 9
-alkali | 9
 distortt | 9
 BranSilver | 8
 DorSha | 8
@@ -140,7 +140,6 @@ lioleo | 2
 Alkatreize | 2
 DHaner | 2
 ScorchVx | 2
-xebii | 2
 TrueAzt3k | 2
 Myo0 | 2
 Chlorines | 2
@@ -154,6 +153,7 @@ Spym | 2
 AyDiePay | 2
 BryanC28 | 2
 Jeyzor | 2
+xenoteric | 2
 Echonox | 2
 AlexS2003 | 2
 SirZaiss | 2
@@ -194,6 +194,7 @@ Marwec | 2
 Underings | 2
 RoiMousti | 2
 Flashmick72 | 2
+SamMaxx | 2
 MeEloz | 2
 FlacoGD | 2
 SkyGazer | 2
@@ -225,6 +226,7 @@ Lipz | 1
 snowmage | 1
 Kohtpojiep | 1
 Xevenfurious | 1
+Optacal | 1
 manu123890 | 1
 Fillipsmen | 1
 JustBasic | 1
@@ -313,6 +315,7 @@ LeX97 | 1
 Oskreix | 1
 BaconPotato | 1
 Cloud72 | 1
+KittyDoge | 1
 Gravitype | 1
 Etzer | 1
 The Bread | 1
@@ -327,7 +330,6 @@ Sumsar | 1
 fishtoon | 1
 YunHaSeu14 | 1
 SRaVeNS | 1
-GD OptaWolf | 1
 TD Epic | 1
 G3ingo | 1
 Xylph | 1
@@ -336,7 +338,6 @@ xXLOCOXx | 1
 VytraxVerbast | 1
 MoonSpark | 1
 DimusLv | 1
-SamMaxx | 1
 Th04 | 1
 Svyre | 1
 GDSpeed | 1

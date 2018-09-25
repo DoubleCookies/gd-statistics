@@ -1,7 +1,7 @@
 package gd.enums;
 
 /**
- * Represents the different Demon difficlttees in the game.
+ * Represents the different Demon difficulties in the game.
  * 
  * @author Alex1304
  *
