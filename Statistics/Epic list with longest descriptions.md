@@ -1,4 +1,4 @@
-#### Total: 1127 levels
+#### Total: 1130 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -61,6 +61,7 @@
 | Color Dance | Underings | 28053320 | Collaboration with Hyenaedon & WolfySaidWoof.This lvl was sitting so long in hyena's account.So i had to make it feature:).Sorry for short 
 | Wings Of Angel | JerkRat | 48618693 | What is it like after death? No one knows, it's one of the biggest mysteries of mankind. For JonathanGD's CC1. Dedicated to EVW. 180k obj.
 | Auria  | victorinoxX | 48522681 | Finally after 5 months, my first and maybe my only MC has been finished. Thanks a lot to all these great creators who helped me with this.
+| Tokyo Rush | Ramenz | 47702969 | Collab With the one and Only Kips!!!  (He gave me this level btw, i did not steal it from him)  Please Subscribe to both our YT channels!!
 | Biru | JonathanGD | 47611766 | Full version is finally here! Big thanks to Viprin for giving me 1st place in Viprin's CC9 (unknown) | 116500 objects | 5 min 35 sec | OwO
 | Bird of Prey II | Usermatt18 | 43531807 | A remake of my first featured level Bird of Prey! I took your advice to not update the old version so here it is! Its fun to remake those!
 | Spark Of The Inferno | Reunomi | 43423579 | Many people have got into this dark and infernal realm, but most of them didnt make it out alive, are you worthy enough to break the soul?
@@ -731,6 +732,7 @@
 | Turbo Fury | RoiMousti | 37386862 | i don't know if you saw that but the name of the level is "turbo fury"
 | Invidious | R3XX3R | 37138256 | Dedicated to my first GD friends: Skidel, xXLEOELXx and TheOutLowLP <3
 | ARANEO | Darwin | 30944062 | Big, Black, Hairy and Scary.... Be carefull.... they are everywhere...
+| Prisma | HcreatoR | 48114231 | My new level I hope you like my desing thanks for playing enjoy it :)
 | Immortal Flame | f3lixsram | 45257974 | New level, collab with Darkstyle, enjoy ! Video/pass on my youtube :3
 | AlterGame XVII | Serponge | 39732335 | Super Circle - My hardest AlterGame so far! Good luck, you'll need it
 | ZiM | DanZmeN | 39256757 | Built entirely on stream. Dedicated to my favorite twitch streamer <3
@@ -1105,6 +1107,7 @@
 | Spicy | Nashii | 38364372 | -_-!
 | Spacelocked II | LazerBlitz | 35610305 | yeet
 | Alula | Jayuff | 32888898 | lmao
+| Power | Small | 48999939 | OOF
 | Gloom | Optical | 47546711 | ...
 | Abjuration | BaconPotato | 36767254 | hot
 | Isolation | haoN | 36529045 | ...
