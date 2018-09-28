@@ -1,4 +1,4 @@
-#### Total: 1130 levels
+#### Total: 1133 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -40,6 +40,7 @@
 | Toxin Lab IV | Xaro | 29917082 | Here it is, Toxin Lab IV. I dedicate this Toxin Lab to Loserchik67 for motivating me to not cancel the lab series. Enjoy and try to survive.
 | FREEDOM | MrPPs | 29247995 | Amazing Megacollab with Nuclear Nacho , SlovaHands , 11 Made in 2.0 Hope you Enjoy  GD Heroes Work ,  Thank you Rubrub for The Epic So Much!
 | legend  | HadiGD | 28943996 | A collab between gibbon765, optical, izinad4sh, g4lvatron, thomartin, stubbypinata, funnygame and me! Thx to starship, zhander and neogamer.
+| Manhattan | By7on | 49141900 | After many months of hard work, my masterpiece is finally here! Theme is from Manhattan Beach, California. Song by my twin. Use LDM if lag.
 | Qi | Zidnes | 48464721 | Yes... I finished my best level in modern style, it is a good experience for me :) Level dedicated to: DiamondGirl01, OptaWolf, AutoNick X)
 | SOAP | Bronks | 48297506 | I started building this in early 2.1 and I wanted to make it XL but I ran out of Group IDs... Kinda "filler" level for GD's 5th birthday :)
 | Tho | iISpaceDustIi | 48195843 | Dedicated to BlueMo0n, Ellisha, KevinGD27,  XStar7, DiamondGirl01, Erdyuri, By7on, Decody, MarArm, Ezeon, Serponge, Jayuff and Nasgubb. :=(
@@ -850,6 +851,7 @@
 | Iris Dei | Darwin | 31409467 | New level with cool effects 8) rate 8* :3  |Darwin|
 | Fortitude | mulpan | 31235562 | My favorite song 8) For GI CC1, Thanks for playing!
 | Lock and Load | Marwec | 29721100 | Awesome collaboration between Alkali and me. Enjoy!
+| Anything | Jayuff | 49166702 | built whatever came to mind~ simple level, bite me
 | WonderGame I | Jayuff | 47169466 | revamped version of serponges level, "UltraGame I"
 | NiX | Wixers | 47021649 | I hope you enjoy it! Gameplay on my YT Channel! :D
 | VeM | Wixers | 46500239 | I hope you enjoy it! Gameplay on my YT channel! :D
@@ -860,6 +862,7 @@
 | Triste | Olympic | 48911188 | Oly, Alka, Fila, M3nh, Digi, Ele, Wwgd, Finn, Zaf
 | Omega | Darwin | 35890421 | new demon lvl :3 good gameplay this time ! enjoy 
 | Tenebris | f3lixsram | 34851342 | Thanks for spike gauntlet rob ! Good luck guys :D
+| PK Industries Inc | Alfred PKNess | 47885487 | Just another Alfred's level :^) [Rate 6-7 stars]
 | Fiber | shocksidian | 36834813 | My new level! Fiber as in, glass fiber cable :<>
 | Posh | Thomartin | 31085942 | My first 2.1 effect lvl :D  ~Thank you robtop <3
 | Meraki | Alkatraz | 47181310 | Finally a new level! Rainbow-themed as usual ;)

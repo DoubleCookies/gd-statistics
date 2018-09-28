@@ -1,4 +1,4 @@
-#### Total: 1130 levels
+#### Total: 1133 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -326,6 +326,7 @@
 | 649333 | DJVI | Supercharge | 1
 | 462970 | Phyrnna | The Frozen Journey ~P~ | 1
 | 592012 | Xtrullor | Xtrullor   Panda Party - Sheol | 1
+| 815241 | SevenSouls | Dawphin - Cobalt | 1
 | 629902 | Geoplex | Symmetrik & Geoplex - Tempest | 1
 | 651406 | MegaSphere | NGs DnB | 1
 | 547982 | Lockyn | Detious   Lockyn - Gradient | 1
@@ -544,6 +545,7 @@
 | 588392 | Waterflame | -Fuzzy- | 1
 | 745084 | Miyolophone | Stray | 1
 | 718457 | meganeko | Delete | 1
+| 694911 | Waterflame | -Toil- | 1
 | 810618 | CreoMusic | Creo - Crystallize | 1
 | 714356 | KaixoMusic | Lycanthropy (Original Mix) | 1
 | 771703 | BoomKitty | Holy War | 1
@@ -648,6 +650,7 @@
 | 713550 | Lockyn | Daybreak | 1
 | 402256 | xKore | xKore - Magnum (FULL) | 1
 | 557896 | OcularNebula | Obsolete Sky | 1
+| 643935 | FaunSound | Figurehead (GRTSU RMX) | 1
 | 659283 | lchavasse | ~:Spinning Galaxies:~ | 1
 | 514911 | AeronMusic | Final Boss | 1
 | 544595 | EliteFerrex | 8-bit Inferno | 1
