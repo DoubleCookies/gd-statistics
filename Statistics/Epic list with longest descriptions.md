@@ -742,6 +742,7 @@
 | Tectonic Blitz | Manix648 | 30670670 | Collab between me, Dudex and Alkali. Hope you enjoy this h 0 t level!
 | Massacre | GD Jose | 29270946 | Collect the Skulls for the coins... pass and coins in the YT video ;)
 | Hydra | Darwin | 29066114 | First attempt to simple style:3 i hope you'll enjoy it ^^    |Darwin|
+| Power | Small | 48999939 | I dedicate this level to today's mass-production-type design levels.
 | the fairydust | alkali | 48199047 | A level I started way back in 2.0 and finished off for fun, gl+hf :D
 | Time is over | DangerKat | 47526602 | amazing collab and colorful with my friend jaroox amazing creator :)
 | Alegria | luis JR | 39875856 | My best level yet! Dedicated to Stamina and Lyskate :) ALEGRIA / JOY
@@ -1110,7 +1111,6 @@
 | Spicy | Nashii | 38364372 | -_-!
 | Spacelocked II | LazerBlitz | 35610305 | yeet
 | Alula | Jayuff | 32888898 | lmao
-| Power | Small | 48999939 | OOF
 | Gloom | Optical | 47546711 | ...
 | Abjuration | BaconPotato | 36767254 | hot
 | Isolation | haoN | 36529045 | ...

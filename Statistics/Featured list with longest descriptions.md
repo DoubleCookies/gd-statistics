@@ -1,4 +1,4 @@
-#### Total: 11435 levels
+#### Total: 11438 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -1382,6 +1382,7 @@
 | Violet Rocks | RealMonkey | 9445739 | Video on my YT - MonkeyTheOfficial. Thanks for feature robtop! :D Now updated with coins ;3 please verify these coins rubrub xD
 | Because You Play GD | Elisione | 48379248 | please shut the fuck up about lag i built this shit on mobile so yall have no fucking right to complain about being on mobile.
 | JoY | Milos482 | 47733919 | My Masterpiece!Thanks to LaysManCZ for helping me with some gameplay.Check his acc :D Dedications are in end! Made on phone :)
+| Cable | DangerKat | 47653177 | Una nueva colaboraccion simple lo hicimos en tiempo libre con mis amigos, dedicado a un creador que es muy talentoso Jghost217
 | SyKoN | nahuel2998 | 47614875 | It is not an issue if you don't move; for as long as there's pulse, there's life. || My First Solo! Thx 123Ev4n for some help.
 | Spord | LeakeGD | 47392984 | This is a mashup/remaster of Spord's levels, he is one of my best italian friends! Spord is an awesome modenristic creator ;w;
 | SensiTive | Diamondgirl01 | 47110678 | This is my real style, I have really enjoyed building this and I'm happy of the result... Enjoy! V4 Bug at 35% fixed and more.
@@ -1527,6 +1528,7 @@
 | RIP IT | Filarious | 12547242 | Okay, so i fixed the secret way (sorry no sorry heh) But pls dont complain about the lag or how bad lvl is...its my first :v)
 | Blue Base | pineapple | 11568545 | So I heard there was an unlimited energy source at the blue base ...  / Took me LOTS of work / ENJOY ! :) ... VERY EASY LEVEL
 | New Madness | Dragon | 11279449 | 2.0 is finally out and a New Madness has begun. Hope you enjoy this easy level :) Update: Replaced ball-part with spider-part
+| 80ogie | PTyXaLPHaZ | 47574423 | "I wanna make ya, Yes Yes! That, you give me all your lovin', you gonna make it good, good." (Thanks Expy for the city art)!
 | Luminous | abdomdb | 47005685 | An amazing collab with wskkung , he is  a really good unnoticed creator , please check his levels , please robtop a featured
 | DisguisE | ISparkI | 46513479 | First solo level in a while, layout by Ross12344! Sorry for the repetitive design, my next level will be better! Have fun ^^
 | Bounce | R503Sv | 43159690 | New Epic Megacollab! Started by ShuyGD and Finished by Me :D Thanks to Deems, Drob3, Dokho and Vilgot for help me <3 Enjoy!!
@@ -3245,7 +3247,7 @@
 | Beautiful Chaos | null | 130414 | Veriosn 2 changes the end so that it is correctly displayed,  and also a very unfair part in the end
 | Sunny End | TheRealDarnoc | 116716 | Wow this turned out really great! It is probably about as hard as base after base! Made on a 20 hour
 | Smooth Bouncer | null | 10306 | The 3rd level in my Smooth series of levels. the smooth series are easy levels designed for both new
-| red yahooey | null | 4539 | i will have a replay vid once everyplay is released!  level is completely finished to the end of the
+| red yahooey | - | 4539 | i will have a replay vid once everyplay is released!  level is completely finished to the end of the
 | The first labour | null | 207 | The first of 12 labours of Hercules, when all are completed they will be made into one Trial of God.
 | Solitude | Akinari | 48117468 | Sometimes you have to know when to give up. My best level, collab with Cirtrax, sequel to Adherence
 | Marina | NormDanchik | 47761320 | I DID IT ! First level in this style. I hope you like it. For VipriN CC9 and dedicated to my mum :3
@@ -6237,6 +6239,7 @@
 | Clutterfunk AUTO | MooBee | 219384 | Some bugs are fixed. Three coins are added. Play 20990402. Thank you!
 | DARKNESS AND LIGHT | null | 217345 | Thank you for playing this lvl and press more to play more of my lvls
 | Spike Mania | null | 158096 | Hope you like it and leave a comment.Probably its Demon difficulty xD
+| Power | Small | 48999939 | I dedicate this level to today's mass-production-type design levels.
 | pAuZe | mrjedi | 48740502 | Made for fun, enjoy :3 "Name is vote on twitter, its just a joke" :)
 | Starbright | Optation | 48261682 | Layout by Akinari, Possibly my best work? Good luck and have fun! :)
 | the fairydust | alkali | 48199047 | A level I started way back in 2.0 and finished off for fun, gl+hf :D
@@ -7181,7 +7184,6 @@
 | Dynamino Airplaine | Gelt | 1215301 | Haha! I wanted to make Flappy bird! Easy! Enjoy everyone!
 | wiLd dRivE | Ghost | 1196687 | Remake of Ultimate Drive by ZenthicAlpha. pls no hate ;-;
 | Mathymbol Epsilon | null | 662928 | GMDW Mathymbol Project 5. Epsilon - Made by GW AquaMarine
-| Cable | DangerKat | 47653177 | collab simple with my friends :) dedicated for Jghost217
 | MoonMen | FreakEd7 | 47586869 | GoodBye MoonMen~ ;3; I Hope U Enjoy This Bored Levle -3-
 | Melody at Pause | Knots | 47021443 | just random arts to celebrate the summer. not much else.
 | Rose | Kyromi | 45876683 | 7 months work.. for an old friend.. rest in peace rose..
@@ -7965,7 +7967,7 @@
 | drawn | Version20 | 889744 | Sorry for delay but heres my 4th Level. Enjoy!
 | Neon Colors | null | 160369 | This is my 1st official level. Thanks for play
 | Dreamland | Scanbrux | 150245 | Tap the update button. Released new levels! v6
-| bouncer | null | 5773 | Semi Easy, very intuitive and full of bounces!
+| bouncer | - | 5773 | Semi Easy, very intuitive and full of bounces!
 | Half Hearted | wulzy | 48416678 | can't think of a desc. | for Erdyuri and Ruby
 | Depressure | Serponge | 45622672 | Frustration, Hatred, Desolation, Hopelessness
 | TimberMan | Vertuoz | 44521022 | The second my minigame , Robtop Rate Please=)
@@ -8504,6 +8506,7 @@
 | Alphabet G | Mr Flueco | 517279 | Alphabet G is a Auto! And Bug Fixed. 75
 | back on trackver 2 | null | 400012 | Hi! I came back with BACK ON TRACK 2!!!
 | Tubular | null | 193002 | Snarly is level 1, Tubular is a level 2
+| Archaic Feeling | chona026 | 48409985 | Let's (not) chill with some good Jazz!
 | Alter Order | FreakEd7 | 47990377 | All Balanced, All In Order, Or not...?
 | CraZy II | DavJT | 47620786 | 2CraZy4me            Collab with N R G
 | Liaison | Elisione | 47400889 | eliaisone make liaison ha get it ex de
@@ -8668,6 +8671,7 @@
 | Perkz of a Square | TheRealDarnoc | 285442 | Dedicated to PERKz a fan and friend! 
 | Time CrAcK | TheRealDarnoc | 107364 | Hey guess what! I made an EASY level!
 | THE LIGHTNING ROAD | timeless real | 55520 | Updated with coins (dumb location xD)
+| Erse | Spord | 48560520 | [Travel along the clouds of Jupiter]
 | SupamarioXx | SamMaxx | 47367637 | My level for SupamarioXx! Its bad XD
 | Countercurse Mantra | Reunomi | 46980499 | Never left without saying goodbye...
 | The Dalbaeb | ithedarki | 46589600 | 4th level. Some effects on this time
@@ -9720,7 +9724,7 @@
 | SIMG Factorial 5 | LunarSimg | 227407 | XD Difficulty increased
 | FLAPPY BIRD | TheRealDarnoc | 187254 | What is your highscore?
 | Way to the Skyland | BlazeJcy | 75454 | Easy map created by Jcy
-| reach for the skies | null | 5258 | A insanely hard level! 
+| reach for the skies | - | 5258 | A insanely hard level! 
 | Blast | ZecretGD | 45784961 | More LDM added (uggly)
 | Running in the 90s | DanZmeN | 44379436 | Why did i make this...
 | aptic | Darwin | 43159026 | my #Levelution ! enjoy
@@ -10552,7 +10556,7 @@
 | FLY ME TO THE MOON | null | 110181 | space travel
 | My Space JSP | null | 97632 | JSP Jamp map
 | auto cycles | FunnyGame | 24453 | Awesome!! XD
-| sterio madness v2 | null | 5639 | upated enjoy
+| sterio madness v2 | - | 5639 | upated enjoy
 | Pixels | maks550a | 44911670 | Easy level.
 | Rebellion | AlexS2003 | 44649575 | #levelution
 | Anele | Riky2610 | 42683830 | comunque 18
@@ -10851,7 +10855,7 @@
 | High hill | null | 150906 | Yo man!
 | Polart | 99geometrydash | 73045 | ver 1.0
 | godochi | viby | 66144 | godochi
-| auto  | null | 4980 | updated
+| auto  | - | 4980 | updated
 | TECHnos II | stubbypinata | 47214600 | Gahah!
 | Deprivation | Ballii | 41822986 | me_irl
 | Subtorrid | Ballii | 40751958 | uh huh
@@ -11015,7 +11019,6 @@
 | Level Easy | null | 11940 | Cody
 | 4 | null | 6684 | Cody
 | lvl 5 | smertnet | 658 | mod 
-| Power | Small | 48999939 | OOF
 | Gloom | Optical | 47546711 | ...
 | TeCh BliTz | FozaeKitty | 45725134 | Fin
 | Of Light the Fire | retropt | 44849015 | 0W0
@@ -11083,7 +11086,7 @@
 | ProLevel3 | null | 110259 | ...
 | Dy 7 | Player | 87286 | ...
 | ProLevel1 | null | 67332 | ...
-| ProtoType 3 | null | 3472 | 3.0
+| ProtoType 3 | - | 3472 | 3.0
 | Far Away | danolex | 45344874 | :)
 | 15k | BryanC28 | 43059230 | :)
 | XD | DanZmeN | 40851847 | XD
@@ -11158,9 +11161,9 @@
 | geometry dash | GDZimnior12 | 148508 | g
 | 0 | null | 22459 | 0
 | 5 | null | 8612 | C
-| 3 | null | 5291 | C
-| 2 | null | 4229 | C
-| 1 | null | 3785 | C
+| 3 | - | 5291 | C
+| 2 | - | 4229 | C
+| 1 | - | 3785 | C
 | Syzhinium  | MrClyde | 48007949 | 
 | Sincerity | Flosia | 46987033 | 
 | nef | Darwin | 45889713 | 
@@ -11433,7 +11436,7 @@
 | creeper | rkawlqkf123 | 66513 | 
 | Black White | YunHaSeu14 | 64834 | 
 | auto jumper | FunnyGame | 38671 | 
-| crystal cave | null | 4213 | 
+| crystal cave | - | 4213 | 
 | the red carpet | null | 3470 | 
 | quicky | null | 2570 | 
 | no | YoXdie | 1707 | 
