@@ -1,14 +1,15 @@
-#### Total: 10 levels
+#### Total: 11 levels
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| EnvY | DanZmeN | 45411361 | 243231 | 22099
-| Under lavaland | N R G | 44169362 | 234988 | 21472
-| Paroxysm | Lemons | 42631377 | 128874 | 11062
-| Bloodlust | Knobbelboy | 42584142 | 1967086 | 199709
-| Digital Descent | ViPriN | 37456092 | 869266 | 83075
-| Carnage Mode | Findexi | 36107975 | 439253 | 42369
-| Blade of Justice | Manix648 | 35448603 | 856263 | 90502
-| Deception Dive | Rustam | 34379100 | 393231 | 25014
-| Novalis | Gryllex | 33748382 | 224894 | 20628
-| SubSonic | ViPriN | 33387622 | 1755900 | 135133
+| Heat Wave | Nico99 | 45818014 | 30643 | 3528
+| EnvY | DanZmeN | 45411361 | 245004 | 22252
+| Under lavaland | N R G | 44169362 | 235785 | 21542
+| Paroxysm | Lemons | 42631377 | 130096 | 11148
+| Bloodlust | Knobbelboy | 42584142 | 1983342 | 201036
+| Digital Descent | ViPriN | 37456092 | 871907 | 83246
+| Carnage Mode | Findexi | 36107975 | 440626 | 42474
+| Blade of Justice | Manix648 | 35448603 | 859407 | 90785
+| Deception Dive | Rustam | 34379100 | 394823 | 25147
+| Novalis | Gryllex | 33748382 | 225469 | 20685
+| SubSonic | ViPriN | 33387622 | 1760322 | 135406

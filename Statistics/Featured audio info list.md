@@ -1,4 +1,4 @@
-#### Total: 11438 levels
+#### Total: 11449 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -277,6 +277,7 @@
 | 567761 | smartpoetic | Zeldas Lullaby, Arranged | 10
 | 518749 | Waterflame | -Stereophonic sound- | 10
 | 301714 | dj-Nate | {dj-N} The End of Time | 10
+| 739991 | CreoMusic | Creo - Sphere | 10
 | 658135 | DJVI | Cycles (2015 Edition) | 10
 | 732008 | hyperdemented | Creo - Challenger | 10
 | 555910 | Stratales | Carrot Juice | 10
@@ -327,7 +328,6 @@
 | 559276 | Waterflame | -StreetWise- | 9
 | 723164 | SpazeUnofficial | Spaze - Deception | 9
 | 702828 | DJ-Zyzyx | Zyzyx - Echolands | 9
-| 739991 | CreoMusic | Creo - Sphere | 9
 | 596766 | Waterflame | -Love shuttle- | 9
 | 691000 | dexarson | Dex Arson - Embers Ft. Stacey Hunt | 9
 | 555858 | OcularNebula | Azure Apex | 9
@@ -344,6 +344,7 @@
 | 569208 | Shtriga | Lets Bounce | 9
 | 626745 | akopa | Warpspeed | 8
 | 49327 | ParagonX9 | ParagonX9 - No. 5 (NG Edit) | 8
+| 413893 | Vertlain | The last flight | 8
 | 655656 | Exnotic | Spaze - Awakening | 8
 | 704843 | canonblade | Canonblade - Success | 8
 | 360804 | mr-jazzman | Iron God: Sakupen Hell Yes RMX | 8
@@ -391,7 +392,6 @@
 | 700441 | Lockyn | EEK! + Lockyn - Glacier Galaxy | 7
 | 626747 | akopa | Sanctum | 7
 | 577625 | OcularNebula | Sunlit Thunderscapes | 7
-| 413893 | Vertlain | The last flight | 7
 | 106783 | Waterflame | -Radioactive- | 7
 | 725352 | Xtrullor | Xtrullor - The Armor of God | 7
 | 786863 | CreoMusic | Creo - In Circles | 7
@@ -481,6 +481,7 @@
 | 738322 | mrfaller | SVMMIT - Reflections | 6
 | 586846 | garlagan | Deflect | 6
 | 664699 | akopa | Empower | 6
+| 685185 | Schtiffles | In The Tigers Den | 6
 | 803971 | ThisIsTheFatRat | TheFatRat - MAYDAY (feat. Laura Brehm) | 6
 | 550054 | Waterflame | -Swirl!- | 6
 | 734427 | KaixoMusic | Pyrolysis (Original Mix) | 6
@@ -563,7 +564,6 @@
 | 488529 | garlagan | Boomerang | 5
 | 590964 | MadhouseDUDE | Sail Ahoy | 5
 | 676993 | viewtifulday | Ember Island - Need You (vd Rmx) | 5
-| 685185 | Schtiffles | In The Tigers Den | 5
 | 771277 | CreoMusic | Creo - Dune | 5
 | 660775 | Namice | ~Mountains~ | 5
 | 582980 | dexarson | Years | 5
@@ -718,6 +718,7 @@
 | 633666 | steampianist | Automaton | 4
 | 678780 | Dj-Rec0il | Gradient Horizon | 4
 | 727933 | dexarson | Dex Arson - Slap Squad Ft SÃ¥vi | 4
+| 781195 | MrKoolTrix | Rockin That Bass | 4
 | 175011 | zirconmusic | Warhead | 4
 | 662444 | CloudDJ | Delani - Serene | 4
 | 658366 | djhoohaa | Where Are Ãœ Now (Ember Island Cover)(djhoohaa RMX) | 4
@@ -893,8 +894,8 @@
 | 666364 | Kyron20 | The Seven Seas Remake [F-777] | 3
 | 731894 | ColBreakz | ColBreakz - Twinrova | 3
 | 768781 | SpazeUnofficial | Spaze - Money | 3
+| 781102 | KaixoMusic | Zimon & Kaixo - Reassemble | 3
 | 498543 | DJVI | Dry Out | 3
-| 781195 | MrKoolTrix | Rockin That Bass | 3
 | 478081 | F-777 | F-777 - Not Afraid | 3
 | 535457 | iPixzel | Monochromatic Dreams | 3
 | 162764 | Parkerman1700 | Tetris Remix [Final] | 3
@@ -985,6 +986,7 @@
 | 553543 | 586rick | -586rick- Sandstorm | 2
 | 705113 | DJ-Zyzyx | Zyzyx - Pixel Jungle | 2
 | 750201 | paperskies | Paper Skies & VAST - Drift Away | 2
+| 774791 | Miyolophone | VATstep | 2
 | 516761 | Waterflame | -Dreamscape- | 2
 | 725676 | DJStriden | DJ Striden & Kestutis K - Refraction [Electro-House] | 2
 | 393910 | Waterflame | -Naive Again- | 2
@@ -1168,7 +1170,6 @@
 | 572129 | EliteFerrex | 8-bit Vengeance | 2
 | 604941 | Flux64 | Transcendence | 2
 | 666416 | dexarson | Welcome To War | 2
-| 781102 | KaixoMusic | Zimon & Kaixo - Reassemble | 2
 | 494398 | Dashi | After Having a Coffee | 2
 | 109377 | Waterflame | -Dark seaside- | 2
 | 748361 | DJ-Zyzyx | Zyzyx - Reinforced | 2
@@ -1205,6 +1206,7 @@
 | 462046 | Rukkus | ~NK~ "Headrush" | 2
 | 707798 | Acid-Notation | Rampant | 2
 | 163061 | DaGrahamCraka | Help Me Up | 2
+| 806165 | Geoplex | Geoplex - Enduring | 2
 | 724271 | mistmurk | Walkaround | 2
 | 769325 | SpazeOfficial | Spaze - Family | 2
 | 523561 | Step | Polargeist | 2
@@ -1471,7 +1473,6 @@
 | 717451 | JoarZ | Glare - "Ascend" (Original Mix) | 1
 | 639626 | Lockyn | Listless | 1
 | 107147 | stealthXG | Battle of Marx | 1
-| 774791 | Miyolophone | VATstep | 1
 | 598682 | Helpegasus | circles kdrew | 1
 | 721566 | NevoMusic | Nine Echoes - Silhouette | 1
 | 336543 | NightHawk22 | Controlled Chaos | 1
@@ -1526,6 +1527,7 @@
 | 721720 | PnG88 | Ragedance | 1
 | 594742 | Skullbeatz | Level 8 | 1
 | 697144 | TheZami999 | Chipzel - Focus (Zami Remix) | 1
+| 566090 | RasmusiBoy | Archer (Original mix) | 1
 | 627535 | erlendflatin | The Midnight Glades | 1
 | 619331 | DJStriden | Dare | 1
 | 643935 | FaunSound | Figurehead (GRTSU RMX) | 1
@@ -1954,6 +1956,7 @@
 | 690576 | Sunryser | Owl City - Fireflies (Instrumental Remake) | 1
 | 108937 | Kr1zF-777 | [Kriz & F-777] - Taken | 1
 | 731526 | viewtifulday | viewtifulday & Archari - On Top | 1
+| 760220 | Codly | Codly - Think About You (ft. Sky Roses) | 1
 | 764314 | Armorstick | Ayjin - Way up | 1
 | 362903 | TMM43 | [TMM43] Electro Rush | 1
 | 809367 | MonvoiceT | PIKASONIC - New start! (Sacry Remix) | 1
@@ -2133,6 +2136,7 @@
 | 756743 | paperskies | Paper Skies & Capri - Cosmos (ft. Lonemoon) | 1
 | 199694 | Deflektor | Emerald City | 1
 | 609310 | Waterflame | Collab: Nightlights | 1
+| 822298 | Sharks | Paper Skies - Celestial (Sharks Remix) | 1
 | 334865 | Blackhole12 | ~BH~ Soar [Original Mix] | 1
 | 642077 | Noisysundae | Mission 01 | 1
 | 437275 | shaggyhaired | SH-LOZ-Bolero Of Fire | 1
@@ -2196,7 +2200,6 @@
 | 666908 | Namice | Phoenix | 1
 | 761119 | AikaMusic | Rise Above [Dubstep] | 1
 | 736543 | DJStriden | Drop The Beat [Electro] | 1
-| 806165 | Geoplex | Geoplex - Enduring | 1
 | 597266 | DJStriden | Midnight | 1
 | 675090 | Zanzlanz | The Masked Machine | 1
 | 212261 | CrimzonWolf777 | Fear Factory 2009 | 1
@@ -2390,3 +2393,4 @@
 | 737245 | jjoon | Next Step | 1
 | 667603 | Miyolophone | Empire | 1
 | 618453 | Densle | Stronger Than You (Remix) | 1
+| 819156 | Xtrullor | F-777 - A New Energy (Xtrullor Remix) | 1
