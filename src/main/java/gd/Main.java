@@ -11,67 +11,38 @@ import java.nio.file.Paths;
 public class Main {
 
     public static void main(String[] args) {
-        generateEpicMarkdownListForDiffs(0);
-        generateFeaturedMarkdownListForDiffs(0);
-        generateEpicWithLongestDescr();
-        generateFeaturedWithLongestDescr();
-        generateFeaturedAudioInfo();
-        generateEpicAudioInfo();
+        processFeatured(0);
+        processEpic(0);
         generateTopDemons();
-        generateEpicBuildersInfo();
-        generateFeaturedBuildersInfo();
     }
 
-    private static void generateEpicMarkdownListForDiffs(int sortingCode) {
-        String[] res = ResponseGenerator.generateList(sortingCode, LevelType.Epic);
-        for(int j =0; j< 11; j++) //magic 11!
+    private static void processFeatured(int sortingCode) {
+        Object[] res = ResponseGenerator.processLevels(LevelType.Featured, sortingCode);
+        for(int j = 0; j < 11; j++)
         {
-            byte data[] = res[j].getBytes();
-            String prefix = getDifficultName(j+1) + " epic";
-            writeToFile(sortingCode, prefix, j+1, data, ".md");
-        }
-        writeToFile(sortingCode, "Epic", 0, res[11].getBytes(), ".md");
-    }
-
-    private static void generateFeaturedMarkdownListForDiffs(int sortingCode) {
-        String[] res = ResponseGenerator.generateList(sortingCode ,LevelType.Featured);
-        for(int j =0; j< 11; j++) //magic 11!
-        {
-            byte data[] = res[j].getBytes();
+            String data = (String)res[j];
             String prefix = getDifficultName(j+1) + " featured";
-            writeToFile(sortingCode, prefix, j+1, data, ".md");
+            writeToFile(sortingCode, prefix, j+1, data.getBytes(), ".md");
         }
-        writeToFile(sortingCode, "Featured", 0, res[11].getBytes(), ".md");
+        writeToFile(sortingCode, "Featured", 0, res[11].toString().getBytes(), ".md");
+        writeToFile(5, "Featured", 0, res[12].toString().getBytes(), ".md");
+        writeToFile(-1, "Featured audio info", 0, res[13].toString().getBytes(), ".md");
+        writeToFile(-1, "Featured builders info", 0, res[14].toString().getBytes(), ".md");
+        System.out.println("All featured lists are finished");
     }
 
-    private static void generateEpicWithLongestDescr() {
-        String[] res = ResponseGenerator.generateListWithLongestDescr(LevelType.Epic);
-        writeToFile(5, "Epic", 0, res[0].getBytes(), ".md");
-    }
-
-    private static void generateFeaturedWithLongestDescr() {
-        String[] res = ResponseGenerator.generateListWithLongestDescr(LevelType.Featured);
-        writeToFile(5, "Featured", 0, res[0].getBytes(), ".md");
-    }
-
-    private static void generateFeaturedAudioInfo() {
-        String[] res = ResponseGenerator.generateMusicList(LevelType.Featured);
-        writeToFile(-1, "Featured audio info", 0, res[0].getBytes(), ".md");
-    }
-
-    private static void generateEpicAudioInfo() {
-        String[] res = ResponseGenerator.generateMusicList(LevelType.Epic);
-        writeToFile(-1, "Epic audio info", 0, res[0].getBytes(), ".md");
-    }
-
-    private static void generateFeaturedBuildersInfo() {
-        String[] res = ResponseGenerator.generateBuildersList(LevelType.Featured);
-        writeToFile(-1, "Featured builders info", 0, res[0].getBytes(), ".md");
-    }
-
-    private static void generateEpicBuildersInfo() {
-        String[] res = ResponseGenerator.generateBuildersList(LevelType.Epic);
-        writeToFile(-1, "Epic builders info", 0, res[0].getBytes(), ".md");
+    private static void processEpic(int sortingCode) {
+        Object[] res = ResponseGenerator.processLevels(LevelType.Epic, sortingCode);
+        for(int j = 0; j < 11; j++)
+        {
+            String prefix = getDifficultName(j+1) + " epic";
+            writeToFile(sortingCode, prefix, j+1, res[j].toString().getBytes(), ".md");
+        }
+        writeToFile(sortingCode, "Epic", 0, res[11].toString().getBytes(), ".md");
+        writeToFile(5, "Epic", 0, res[12].toString().getBytes(), ".md");
+        writeToFile(-1, "Epic audio info", 0, res[13].toString().getBytes(), ".md");
+        writeToFile(-1, "Epic builders info", 0, res[14].toString().getBytes(), ".md");
+        System.out.println("All epic lists are finished");
     }
 
     private static void generateTopDemons() {

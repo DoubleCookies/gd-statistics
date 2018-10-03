@@ -21,7 +21,27 @@ public class ResponseGenerator {
     private static Comparator<GDLevel> ascendingDownloadsComparator = (o1, o2) -> (int) (o1.getDownloads() - o2.getDownloads());
     private static Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> (int) (o2.getDescription().length() - o1.getDescription().length());
 
-    static String[] generateList(int sortingCode, LevelType type) {
+
+    static Object[] processLevels(LevelType levelType, int sortingCode) {
+        List<GDLevel> levels;
+        switch (levelType) {
+            case Featured: { System.out.println("Receiving featured levels list..."); levels = getMostPopularFeatured(sortingCode); break;}
+            default: { System.out.println("Receiving epic levels list..."); levels = getMostPopularEpic(sortingCode); break;}
+        }
+        System.out.println("List received. Total " + levels.size() + " levels.");
+        List<String> info = new ArrayList<>(generateListDiffs(levels));
+        System.out.println("Difficulties list created.");
+        String a = generateListWithLongestDescr(levels);
+        info.add(a);
+        System.out.println("Longest description list created.");
+        info.add(generateMusicList(levels));
+        System.out.println("Music list created.");
+        info.add(generateBuildersList(levels));
+        System.out.println("Builders list created.");
+        return info.toArray();
+    }
+
+    static List<String> generateListDiffs(List<GDLevel> levels) {
         int length = 12;
         String[] stringArray = new String[length];
         StringBuilder[] builders = new StringBuilder[length];
@@ -32,9 +52,7 @@ public class ResponseGenerator {
             builders[i].append("| Name | Creator | ID | Downloads | Likes |\n");
             builders[i].append("|:---:|:---:|:---:|:---:|:---:|\n");
         }
-        List<GDLevel> list = getLevelsList(type);
-        sortLevelList(list, sortingCode);
-        for(GDLevel level : list)
+        for(GDLevel level : levels)
         {
             int i = returnDiff(level);
             builders[i].append(level.markdownString() + "\n");
@@ -48,25 +66,23 @@ public class ResponseGenerator {
         }
         builders[length-1].insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
         stringArray[length-1] = builders[length-1].toString();
-        return stringArray;
+
+        return Arrays.asList(stringArray);
     }
 
-    static String[] generateListWithLongestDescr(LevelType type) {
-        String[] stringArray = new String[1];
+    static String generateListWithLongestDescr(List<GDLevel> levels) {
         int counter=0;
         StringBuilder builder = new StringBuilder();
         builder.append("| Name | Creator | ID | Description |\n");
         builder.append("|:---:|:---:|:---:|:---:|\n");
-        List<GDLevel> list = getLevelsList(type);
-        sortLevelList(list, 5);
-        for(GDLevel level : list)
+        sortLevelList(levels, 5);
+        for(GDLevel level : levels)
         {
             builder.append(level.markdownWithDescrString() + "\n");
             counter++;
         }
         builder.insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
-        stringArray[0] = builder.toString();
-        return stringArray;
+        return builder.toString();
     }
 
     static String[] generateTopDemonsList() {
@@ -89,16 +105,14 @@ public class ResponseGenerator {
         return stringArray;
     }
 
-    static String[] generateMusicList(LevelType type) {
-        String[] stringArray = new String[1];
+    static String generateMusicList(List<GDLevel> levels) {
         int counter=0;
         StringBuilder builder = new StringBuilder();
         builder.append("| Name | Author | ID | Count |\n");
         builder.append("|:---:|:---:|:---:|:---:|\n");
-        List<GDLevel> list = getLevelsList(type);
         HashMap<GDSong, Integer> audio = new HashMap<>();
         GDSong songId;
-        for(GDLevel level : list)
+        for(GDLevel level : levels)
         {
             songId = level.getGdSong();
             if(audio.containsKey(songId))
@@ -116,19 +130,16 @@ public class ResponseGenerator {
         List<Integer> mapValues = new ArrayList<>(result.values());
         for(int i =0; i < mapKeys.size(); i++)
             builder.append(mapKeys.get(i).toListString() + mapValues.get(i) + "\n");
-        stringArray[0] = builder.toString();
-        return stringArray;
+        return builder.toString();
     }
 
-    static String[] generateBuildersList(LevelType type) {
-        String[] stringArray = new String[1];
+    static String generateBuildersList(List<GDLevel> levels) {
         int counter=0;
         StringBuilder builder = new StringBuilder();
         builder.append("| Author | Count |\n");
         builder.append("|:---:|:---:|\n");
-        List<GDLevel> list = getLevelsList(type);
         HashMap<String, Integer> audio = new HashMap<>();
-        for(GDLevel level : list)
+        for(GDLevel level : levels)
         {
             if(audio.containsKey(level.getCreator()))
                 audio.put(level.getCreator(),  audio.get(level.getCreator()) + 1);
@@ -144,19 +155,10 @@ public class ResponseGenerator {
         List<Integer> mapValues = new ArrayList<>(result.values());
         for(int i =0; i < mapKeys.size(); i++)
             builder.append(mapKeys.get(i)+ " | " + mapValues.get(i) + "\n");
-        stringArray[0] = builder.toString();
-        return stringArray;
+        return builder.toString();
     }
 
-    private static List<GDLevel> getLevelsList(LevelType type) {
-        switch (type) {
-            case Featured: {return getMostPopularFeatured(0);}
-            case Epic: {return getMostPopularEpics(0);}
-            default: {return null;}
-        }
-    }
-
-    private static List<GDLevel> getMostPopularEpics(int diffCode) {
+    private static List<GDLevel> getMostPopularEpic(int diffCode) {
         List<GDLevel> list = new ArrayList<>();
         int i = 0;
         try {
@@ -216,31 +218,25 @@ public class ResponseGenerator {
 
     private static void addLevelsToList(List<GDLevel> list, int i, String res) {
         for (int j = 0; j < 10; j++) {
-            int index = i * 10 + j;
             GDLevel level = getLevel(j, res);
             if (level != null)
                 list.add(level);
-            System.out.println("Level #" + index + " checked");
         }
     }
 
     private static void addLevelsToList(List<GDLevel> list, int i, String res, Difficulty difficulty) {
         for (int j = 0; j < 10; j++) {
-            int index = i * 10 + j;
             GDLevel level = getLevel(j, res);
             if (level != null && level.getDifficulty() == difficulty)
                 list.add(level);
-            System.out.println("Level #" + index + " checked");
         }
     }
 
     private static void addLevelsToList(List<GDLevel> list, int i, String res, DemonDifficulty demonDifficulty) {
         for (int j = 0; j < 10; j++) {
-            int index = i * 10 + j;
             GDLevel level = getLevel(j, res);
             if (level != null && level.getDifficulty() == Difficulty.DEMON && level.getDemonDifficulty() == demonDifficulty)
                 list.add(level);
-            System.out.println("Level #" + index + " checked");
         }
     }
 
