@@ -21,12 +21,16 @@ public class ResponseGenerator {
     private static Comparator<GDLevel> ascendingDownloadsComparator = (o1, o2) -> (int) (o1.getDownloads() - o2.getDownloads());
     private static Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> (int) (o2.getDescription().length() - o1.getDescription().length());
 
+    private static List<GDLevel> levels;
 
-    static Object[] processLevels(LevelType levelType, int sortingCode) {
-        List<GDLevel> levels;
-        switch (levelType) {
-            case Featured: { System.out.println("Receiving featured levels list..."); levels = getMostPopularFeatured(sortingCode); break;}
-            default: { System.out.println("Receiving epic levels list..."); levels = getMostPopularEpic(sortingCode); break;}
+    static String[] processLevels(int sortingCode) {
+        if(levels == null) {
+            System.out.println("Receiving featured levels list...");
+            levels = getMostPopularFeatured(sortingCode);
+        }
+        else {
+            System.out.println("Filter epic...");
+            levels.removeIf(item -> !item.isEpic());
         }
         System.out.println("List received. Total " + levels.size() + " levels.");
         List<String> info = new ArrayList<>(generateListDiffs(levels));
@@ -38,7 +42,8 @@ public class ResponseGenerator {
         System.out.println("Music list created.");
         info.add(generateBuildersList(levels));
         System.out.println("Builders list created.");
-        return info.toArray();
+        String[] result = info.toArray(new String[0]);
+        return result;
     }
 
     static List<String> generateListDiffs(List<GDLevel> levels) {
