@@ -24,10 +24,10 @@ alkali | 10
 Berkoo | 10
 ViPriN | 10
 rafer | 10
+distortt | 10
 WerewolfGD | 10
 Nashii | 9
 Axils | 9
-distortt | 9
 BranSilver | 8
 DorSha | 8
 RealZober | 8
@@ -110,12 +110,13 @@ TheRealRow | 3
 lysk | 3
 iZinaD4sh | 3
 JonathanGD | 3
-TrueSquall | 3
 TriPodX | 3
 ithedarki | 3
+Xender Game | 3
 ChiNex splat | 3
 victorinoxX | 3
 Nottus | 3
+TrueSpook | 3
 Dashtrict | 3
 xZoomkS | 3
 neigefeu | 3
@@ -169,7 +170,6 @@ SrPotato | 2
 KFAOpitar | 2
 Bronks | 2
 Pawlogates | 2
-Xender Game | 2
 xSkart | 2
 Cubix06 | 2
 Shutter | 2

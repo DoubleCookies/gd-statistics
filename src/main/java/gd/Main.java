@@ -16,29 +16,6 @@ public class Main {
         generateTopDemons();
     }
 
-    private static void processLevels(int sortingCode) {
-        String[] res = ResponseGenerator.processLevels(sortingCode);
-        for(int j = 0; j < 11; j++)
-        {
-            String prefix = getDifficultName(j+1) + " featured";
-            writeToFile(sortingCode, prefix, j+1, res[j].getBytes(), ".md");
-        }
-        writeToFile(sortingCode, "Featured", 0, res[11].getBytes(), ".md");
-        writeToFile(5, "Featured", 0, res[12].getBytes(), ".md");
-        writeToFile(-1, "Featured audio info", 0, res[13].getBytes(), ".md");
-        writeToFile(-1, "Featured builders info", 0, res[14].getBytes(), ".md");
-        for(int j = 15; j < 26; j++)
-        {
-            String prefix = getDifficultName(j+1) + " epic";
-            writeToFile(sortingCode, prefix, j+1, res[j].getBytes(), ".md");
-        }
-        writeToFile(sortingCode, "Epic", 0, res[26].getBytes(), ".md");
-        writeToFile(5, "Epic", 0, res[27].getBytes(), ".md");
-        writeToFile(-1, "Epic audio info", 0, res[28].getBytes(), ".md");
-        writeToFile(-1, "Epic builders info", 0, res[29].getBytes(), ".md");
-        System.out.println("All featured lists are finished");
-    }
-
     private static void processFeatured(int sortingCode) {
         String[] res = ResponseGenerator.processLevels(sortingCode);
         for(int j = 0; j < 11; j++)
@@ -97,7 +74,6 @@ public class Main {
         {
             String p = "Statistics/" + folder.trim();
             path = Paths.get(p);
-            System.out.println(path.toAbsolutePath().toString());
             if(!Files.exists(path))
                 Files.createDirectories(path);
             secondFolder=folder + "/";

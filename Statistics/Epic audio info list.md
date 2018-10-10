@@ -1,4 +1,4 @@
-#### Total: 1155 levels
+#### Total: 1157 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -391,6 +391,7 @@
 | 677111 | DJVI | God Mode | 1
 | 716046 | Blackhole12 | Starstruck | 1
 | 607493 | MafiaPineapple | The Force | 1
+| 786691 | DjCocsOFFICAL | Zeptonix - Firestorm | 1
 | 799006 | Ultraconsole | Sad time Traveler | 1
 | 553242 | Xtrullor | Hate Everything | 1
 | 742681 | CreoMusic | Creo - Ahead Of The Curve | 1
@@ -585,6 +586,7 @@
 | 732849 | JBeat2k9 | Imogen Heap - Lifeline - K0DeX Remix | 1
 | 785099 | cloudfield | cloudfield - Dream (ft. Hiroto x Luna) | 1
 | 737994 | bossfightofficial | Bossfight - Nowise | 1
+| 817872 | BoomKitty | Shredageddon | 1
 | 686788 | Namice | Ripples | 1
 | 278217 | F-777 | Abyss 2 - F-777 | 1
 | 715461 | BobRatchet | Elevator | 1

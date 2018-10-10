@@ -1,4 +1,4 @@
-#### Total: 1155 levels
+#### Total: 1157 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -139,6 +139,7 @@
 | Pac Man | Sumsar | 35789401 | CONTROLS: If they don't work, try enabling/disabling certain 2-player options in the game settings, especially ALWAYS LIMIT CONTROLS.
 | Dangerous Spikes | DeCody | 34530399 | I really like to recreate games, I hope this level will appeal to you... It's incredible! Thanks to Robert for the featured and epic!
 | believe | killua282 | 29241170 | my best level yet :D dedicated to goose, codex and zober! first 20% made in 2.0 tried to fix some bugs hope you can still enjoy it :D
+| Boss 4 Laser eye | Xender Game | 49347491 | -Project: Electro failed, Loading Project: LASEREYE. (Dedicated to Stubby :3) Enter the madness! can you even catch up to the speed?
 | SAKKARA | OSIRIS GD | 45609031 | After a long time is here, of my best levels and my first attempt to make a bossfight level, I hope you enjoy it as much as I do ^^ 
 | Beyond II | Usermatt18 | 43728547 | Last one? Tell me if you want more of these! Its fun to remake levels. Still a kinda simple style hope you will like it :) LDM added
 | Rewired | JacobROso | 40860010 | After long last, my new demon level is finally finished! I hope it turned out alright, thank you guys for sticking around. Enjoy! :)
@@ -671,7 +672,7 @@
 | Mind Control | Darwin | 40638411 | New simple level, Thanks G4lvatron, who helped me ! (Name suggestion by Aziix)
 | Resplendent | Alderite | 40620957 | Step into the light between time and space. Can you beat and defy its cruelty?
 | Anhydride | Svyre | 38129442 | Collab with CreatorCold. We're really proud of this! 51k objects. Pass: 365356
-| Encased | TrueSquall | 36518185 | Escaping the tension of it all.. (Updated to make last part less annoying.) :P
+| Encased | TrueSpook | 36518185 | Escaping the tension of it all.. (Updated to make last part less annoying.) :P
 | Drafty | Thomartin | 35818755 | New effect lvl based on animations :D Sorry for the long wait and thank you :*
 | Mescalink | JefryKawaiii | 34702638 | Gracias por jugar! - Collab with: Alfred PKness! - Jugar sus niveles :3 <3  *7
 | Fusionity | Piseto | 34424517 | Megacollab with: Hyperfox,Torch121,Bitzel,Zoomks,C Paola and Castrix! Enjoy =)
@@ -1038,14 +1039,14 @@
 | The Lowest Layer | SaabS | 46035910 | For Viprin's CC9. Enjoy!
 | Abomination | Piseto | 41083032 | My Masterpiece! Enjoy =)
 | CraZy | DavJT | 40945673 | Dedicated to MaxyLand :)
-| Remorse | TrueSquall | 37072071 | Shameful and forbidden..
+| Remorse | TrueSpook | 37072071 | Shameful and forbidden..
 | EnFold | lioleo | 36741360 | Calm and peaceful level.
 | Sahara | Lemons | 34399199 | Welcome to the desert...
 | GreeD | DanZmeN | 33594551 | The Fourth Deadly $in...
 | Adust | f3lixsram | 33244195 | Thanks for weekly rob :D
 | Iridescent | ViPriN | 30533157 | >:) - Verified by MaxiS9
 | Evil Ending | Booglee | 48094983 | Exactly 40,000 obj. OwO
-| Boundless | TrueSquall | 46929040 | Its time for a change..
+| Boundless | TrueSpook | 46929040 | Its time for a change..
 | EnvY | DanZmeN | 45411361 | The Sixth Deadly Sin...
 | LyZ | Wixers | 43724724 | I hope you Enjoy it! :D
 | Lockout | Darwin | 37584462 | song by lockyn, enjoy !
@@ -1060,6 +1061,7 @@
 | Off Frequency | forlat | 42677377 | Like driving at night.
 | I Cant Fix You | IronIngot | 38005686 | Upcoming Boramae Demon
 | Psicosis  | abdula | 35327886 | Thanks For Playing! ^^
+| Digital Combo | distortt | 48808992 | pulse trigger is cool
 | Haunted Level | MrZiedZ | 42339959 | -Haunted Description-
 | Skyfall | abdula | 34446044 | Hope You Enjoy   <3  
 | Electr2nic Super Joy | Etzer | 28503954 | oh boy, that was fun.
