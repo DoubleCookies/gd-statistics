@@ -299,6 +299,7 @@ Star117 | 9
 rikkaa | 9
 Nottus | 9
 FilleFjonk | 9
+Manteex | 9
 Snarlax523 | 9
 AceVict | 9
 FastRefleksX | 9
@@ -334,7 +335,6 @@ Ethrakk | 8
 Nightlex | 8
 Pasiblitz | 8
 Hyenaedon | 8
-Manteex | 8
 willy5000 | 8
 Nikce | 8
 Chlorines | 8
@@ -524,6 +524,7 @@ Juffin | 5
 neigefeu | 5
 Aquatias | 5
 GirlyDash | 5
+Male20 | 5
 blackP2Sfull | 5
 Alkatreize | 5
 Ajedaboss | 5
@@ -627,7 +628,6 @@ whitepythor | 4
 Zeidos | 4
 iI Flow Ii | 4
 Chromatik | 4
-Male20 | 4
 Kubias | 4
 EDUARDO 21 | 4
 CompleXx | 4
@@ -648,6 +648,7 @@ gibbon765 | 4
 Kinel | 4
 Bytrius | 4
 ReflexPrince | 4
+BlueRimz | 4
 Mixroid | 4
 Maboflo | 4
 SrGuillester | 4
@@ -793,7 +794,6 @@ Bio21 | 3
 minimaX | 3
 destroyer6401 | 3
 CreaTorShix | 3
-BlueRimz | 3
 Pavyzone | 3
 Atonix | 3
 fishtoon | 3
@@ -966,7 +966,6 @@ Ramenz | 2
 XronoM | 2
 aurumble | 2
 DuDuDuDuDuDuDu | 2
-Gd Captain | 2
 Brigide | 2
 Markydash  | 2
 J0Ni | 2
@@ -1073,7 +1072,6 @@ T3chno | 2
 imDariux | 2
 CdlAwesomeMe | 2
 I  S L E E P | 2
-iISpaceDustIi | 2
 nurong3 | 2
 HelpegasuS | 2
 flunker5 | 2
@@ -1116,6 +1114,7 @@ NachoDark | 2
 White Knight  | 2
 NormDanchik | 2
 Vesta | 2
+Sanea18CM | 2
 Parallax | 2
 HollowEarth13 | 2
 Axile | 2
@@ -1212,6 +1211,7 @@ FrancaDash | 2
 1374 | 2
 SwfCapsLock | 2
 Niji | 2
+iISnailDustIi | 2
 BadgerBoy | 2
 XenoDisastro | 2
 Dragon eye | 2
@@ -1247,6 +1247,7 @@ CheeseFudge  | 2
 Tippymang0 | 2
 Dysphemism | 2
 AKMgg | 2
+xCaptain | 2
 iIJigSawIi | 2
 TrueHyPper | 2
 Dolnerz | 2
@@ -1866,7 +1867,6 @@ DiscJoker | 1
 OrBiTaL | 1
 Anonymous User | 1
 xMale | 1
-Sanea18CM | 1
 W0lF3 | 1
 Caeden117 | 1
 iMaT | 1
@@ -1978,6 +1978,7 @@ HermarGD | 1
 Root4jun | 1
 AncherStram | 1
 CreatorDiana | 1
+ItzKun | 1
 gdapples | 1
 Ysshi | 1
 AngeloLP | 1

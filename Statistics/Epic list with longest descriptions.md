@@ -44,7 +44,7 @@
 | Manhattan | By7on | 49141900 | After many months of hard work, my masterpiece is finally here! Theme is from Manhattan Beach, California. Song by my twin. Use LDM if lag.
 | Qi | Zidnes | 48464721 | Yes... I finished my best level in modern style, it is a good experience for me :) Level dedicated to: DiamondGirl01, OptaWolf, AutoNick X)
 | SOAP | Bronks | 48297506 | I started building this in early 2.1 and I wanted to make it XL but I ran out of Group IDs... Kinda "filler" level for GD's 5th birthday :)
-| Tho | iISpaceDustIi | 48195843 | Dedicated to BlueMo0n, Ellisha, KevinGD27,  XStar7, DiamondGirl01, Erdyuri, By7on, Decody, MarArm, Ezeon, Serponge, Jayuff and Nasgubb. :=(
+| Tho | iISnailDustIi | 48195843 | Dedicated to BlueMo0n, Ellisha, KevinGD27,  XStar7, DiamondGirl01, Erdyuri, By7on, Decody, MarArm, Ezeon, Serponge, Jayuff and Nasgubb. :=(
 | HellGate Menace | ChaSe | 44131636 | This is too hard for an insane level and also it needs a better LDM and also this is a cancer level and also chase sucks and he should quit
 | Imperial | BadKlatt | 43865773 | After a long time it's over! My new masterpiece and my first bossfight created. For Monster Gauntlet! Enjoy, Thanks! LDM for mobile users. 
 | Chilly | Samoht | 42202666 | A spicy collab for Optical's TBCC! In order: Hyenada, Spu7nix, Cancel, Thomartin, me and Kips ~ oh and Datchet left a little surprise... :)
@@ -1108,7 +1108,6 @@
 | Phantom | TheRealSalad | 29424929 | 2.1 editor <3
 | Beauty Of A Goddess | danolex | 35745571 | Simple level
 | split | Knots | 33022525 | 2 Fast 4 ya?
-| HeartBang | Cloud72 | 35588255 | Hangeulbang
 | Negativity | Axils | 34557239 | For Nobody.
 | Soulseas | EpiEpz | 35136617 | for baylyn
 | Ligmatic | Axils | 48716880 | Surprise.
@@ -1120,6 +1119,7 @@
 | Scent | Optical | 28500207 | Timeless.
 | Splash | Jayuff | 38811712 | finally!
 | Fun | Jayuff | 47849218 | omg yes
+| HeartBang | Cloud72 | 35588255 | Mogurii
 | covfefe | Kips | 34462031 | covfefe
 | TECHnos II | stubbypinata | 47214600 | Gahah!
 | Subtorrid | Ballii | 40751958 | uh huh
