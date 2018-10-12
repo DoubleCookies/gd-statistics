@@ -88,6 +88,7 @@ Samoht | 4
 stubbypinata | 4
 AirForce | 4
 JirkGD | 4
+ChiNex splat | 4
 EpiEpz | 4
 OSIRIS GD | 4
 EpicMasta11 | 4
@@ -113,7 +114,6 @@ JonathanGD | 3
 TriPodX | 3
 ithedarki | 3
 Xender Game | 3
-ChiNex splat | 3
 victorinoxX | 3
 Nottus | 3
 TrueSpook | 3
@@ -207,6 +207,7 @@ hyperfox | 2
 GDFlake | 2
 Booglee | 2
 Nampac | 2
+aviovlad | 1
 TeamHFC | 1
 RickTz | 1
 TheRealSalad | 1
@@ -260,6 +261,7 @@ TrueLogiC | 1
 Optonix | 1
 Drob3 | 1
 Vrymer | 1
+ZecretGD | 1
 GDLoco | 1
 xKstrol | 1
 ZeeToss | 1

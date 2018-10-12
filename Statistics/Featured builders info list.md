@@ -147,6 +147,7 @@ GsML3o99 | 16
 MemoRieD | 16
 Vermillion | 16
 Flux | 16
+juandeman | 16
 MrKoolTrix | 16
 BlueLite | 16
 Piseto | 16
@@ -156,7 +157,6 @@ realkamijo | 15
 Roli GD  | 15
 Toxic GD | 15
 abdula | 15
-juandeman | 15
 Zyzyx | 15
 PanMan | 15
 softable | 15
@@ -237,6 +237,7 @@ GrenAde | 11
 Ggb0y | 11
 Ploid | 11
 WolfenGD | 11
+CFteamgd | 11
 rafer | 11
 xPix3lest | 11
 Awzer  | 11
@@ -279,7 +280,6 @@ Iqrar99 | 10
 IyuriI | 10
 EpiEpz | 10
 VrageraGD | 10
-CFteamgd | 10
 RayOriens | 10
 IlIRyanIlI | 10
 KrmaL | 10
@@ -531,6 +531,7 @@ Ajedaboss | 5
 Supmaxy | 5
 Tartofrez | 5
 99percent | 5
+ChiNex splat | 5
 xSioni | 5
 Alderite | 5
 Azeria | 5
@@ -643,7 +644,6 @@ donutcopper | 4
 randodacamando | 4
 reflexmaster | 4
 Mr chips | 4
-ChiNex splat | 4
 gibbon765 | 4
 Kinel | 4
 Bytrius | 4
@@ -706,6 +706,7 @@ mrjedi | 4
 TheKris | 4
 Clasi | 4
 TrigoniX01 | 4
+FateMonsterzz | 4
 Rustle | 4
 VoltJolt | 4
 Waffl3X | 4
@@ -735,7 +736,6 @@ Fixum | 4
 iAres | 4
 Digitalzero | 4
  Vaperz | 4
-iSonicSpeedi | 4
 GDSpeed | 4
 KingKingman01 | 4
 Akinari | 4
@@ -832,6 +832,7 @@ Glouti | 3
 GDL7u7 | 3
 LKH2001 | 3
 GDLoco | 3
+Anubis GD | 3
 Dasher3000 | 3
 NoinCat | 3
 theoryofdobby | 3
@@ -987,6 +988,7 @@ Zurcarax | 2
 R503Sv | 2
 Ligh7ningStrik3 | 2
 Colxic | 2
+LonelyKitty | 2
 Deneb | 2
 N4TH4N | 2
 superkirill | 2
@@ -1078,11 +1080,11 @@ flunker5 | 2
 TruDee Fabian | 2
 tombrid | 2
 WhiPerZz | 2
+im fernando | 2
 dead account lo | 2
 Creator Darkar | 2
 RikLymback | 2
 XShadowWizardX | 2
-Anubis GD | 2
 ZillaGong | 2
 djskilling | 2
 GhostKitty | 2
@@ -1163,6 +1165,7 @@ nahuel2998 | 2
 CanadianKing | 2
 S7arGazer | 2
 ThorMode | 2
+ZecretGD | 2
 Ellasio | 2
 SirKappa | 2
 Hostility | 2
@@ -1469,7 +1472,6 @@ Arthur | 1
 Tr0d3ll | 1
 UniFox | 1
 Souls TRK | 1
-LonelyKitty | 1
 radovan258 | 1
 arb71703 | 1
 M0oN | 1
@@ -1750,7 +1752,6 @@ SixGames | 1
 Qozmim | 1
 SpacialKitty  | 1
 BlizzardCo | 1
-im fernando | 1
 XDDDDDDDDDDDDD1 | 1
 TGBrockS | 1
 EOPRG | 1
@@ -1860,6 +1861,7 @@ DenisPelmenev | 1
 DTheWolf | 1
 Arkonite | 1
 N1XO | 1
+aviovlad | 1
 Stelistul21 | 1
 AsterionPL | 1
 lFuRy | 1
@@ -2012,7 +2014,6 @@ atlantis11656 | 1
 Lazergenix | 1
 Magic Square | 1
 RealMonkey | 1
-ZecretGD | 1
 xCarbon87 | 1
 RoadTrip | 1
 TDC ChRiS | 1

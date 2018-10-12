@@ -1,4 +1,4 @@
-#### Total: 1157 levels
+#### Total: 1160 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -57,6 +57,7 @@
 | 745508 | ColBreakz | ColBreakz - HeartBeat | 3
 | 609313 | bossfightofficial | Bossfight - Glitch Gremlin | 3
 | 750656 | Sharks | Sharks - Fury | 3
+| 680014 | garlagan | agoodgoodbye | 3
 | 704606 | bossfightofficial | Bossfight - Elevatia | 3
 | 488529 | garlagan | Boomerang | 3
 | 699501 | Namice | Dreams | 3
@@ -114,6 +115,7 @@
 | 727020 | Schtiffles | á‘«áµ˜áµ‰Ë¢áµ—á¶¦áµ’á¶° MáµƒÊ³áµ | 2
 | 794623 | DJVI | Cant Let Go 2.0 | 2
 | 610292 | Djjaner | Blue Velvet | 2
+| 743414 | Envy | EnV - Valkyrie | 2
 | 508935 | shadow6nothing9 | Our Darkest Dream -Piano | 2
 | 713743 | ColBreakz | ColBreakz & Protolizard - Deception | 2
 | -7 | Waterflame | Jumper | 2
@@ -125,7 +127,6 @@
 | 738337 | OfficialNovacore | Archangel | 2
 | 477238 | Blackhole12 | ~BH~ Cosminox | 2
 | 687178 | Geoplex | Daybreak | 2
-| 680014 | garlagan | agoodgoodbye | 2
 | 714824 | djhoohaa | Untitled Six | 2
 | 577625 | OcularNebula | Sunlit Thunderscapes | 2
 | 109650 | Dimrain47 | Operation: Evolution | 2
@@ -273,7 +274,6 @@
 | 726003 | F-777 | Hit em Like This! | 1
 | 665585 | ACXLE | Nanobyte (original by Austin C) | 1
 | 575477 | dj-Jo | Fairy Tail Theme Glitch Hop | 1
-| 743414 | Envy | EnV - Valkyrie | 1
 | 778252 | Infinityofficial | Where Did You Go (ft. SK¥E and Dan Levine) | 1
 | 510984 | zerofalse | Magnetic Fields | 1
 | 677900 | LemKuuja | Keep On Baby! (w/ Kill Me Baby) | 1
@@ -442,6 +442,7 @@
 | 559490 | AeronMusic | Celestial Fantasy | 1
 | 467339 | Dimrain47 | At the Speed of Light | 1
 | 725382 | windluxmusic | Karaplex - Slumber | 1
+| 788868 | Geoplex | Geoplex - Resplendent | 1
 | 684441 | DjHoneyb | Summer! | 1
 | 752025 | LawnReality | Living Dream | 1
 | 760212 | Miyolophone | astrEnfant | 1
