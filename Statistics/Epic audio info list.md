@@ -1,4 +1,4 @@
-#### Total: 1160 levels
+#### Total: 1165 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -60,6 +60,7 @@
 | 680014 | garlagan | agoodgoodbye | 3
 | 704606 | bossfightofficial | Bossfight - Elevatia | 3
 | 488529 | garlagan | Boomerang | 3
+| 746583 | FlashyMusic | FlashYizz - Crazy | 3
 | 699501 | Namice | Dreams | 3
 | 715886 | C-Enterprise | Jon Toniq - Beauty of a Goddess | 3
 | 696419 | Miyolophone | Holy Knight (MYP RmX) | 3
@@ -131,7 +132,6 @@
 | 577625 | OcularNebula | Sunlit Thunderscapes | 2
 | 109650 | Dimrain47 | Operation: Evolution | 2
 | 799832 | cloudfield | cloudfield - Artificial (ft. Reichuu) | 2
-| 746583 | FlashyMusic | FlashYizz - Crazy | 2
 | 769110 | canonblade | Canonblade - The Edge | 2
 | 616546 | OfficialNovacore | Desperado | 2
 | 664699 | akopa | Empower | 2
@@ -147,6 +147,7 @@
 | 736423 | BurgeraX | BurgeraX: Circumspectively [Glitch Hop] | 2
 | 413893 | Vertlain | The last flight | 2
 | 771277 | CreoMusic | Creo - Dune | 2
+| 577731 | F-777 | F-777 - Double Jump | 2
 | 705736 | lchavasse | ~:Distance:~ | 2
 | 734427 | KaixoMusic | Pyrolysis (Original Mix) | 2
 | 752857 | Miyolophone | Mandragora | 2
@@ -262,6 +263,7 @@
 | 564162 | DuoCore | DuoCore - Carnage | 2
 | 720859 | steampianist | The Scrap Boy OFF VOCAL | 2
 | 505813 | bossfightofficial | The Maze Of Mayonnaise | 2
+| 614354 | Waterflame | -RadioCutter- | 2
 | 734186 | ChaelMusic | Chael - Dark Skies | 1
 | 815088 | ColBreakz | ColBreakz - Galaxy | 1
 | 751598 | Dovax | Dovax - Desert Bounce | 1
@@ -307,6 +309,7 @@
 | 777275 | ValeriaKitten | Lovely Kitten - Moonlight | 1
 | 626745 | akopa | Warpspeed | 1
 | 639033 | MrKoolTrix | Times Sublime | 1
+| 626747 | akopa | Sanctum | 1
 | 85046 | ParagonX9 | ParagonX9 - Chaoz Fantasy | 1
 | 793658 | Sharks | Sharks - Shining Space (VIP) | 1
 | 589874 | dexarson | Beast Mode | 1
@@ -361,7 +364,6 @@
 | 559305 | Minotics | /Neo Tokyo\ | 1
 | 433359 | Waterflame | -Killstealer- | 1
 | 712897 | TheLivingTombstone | Its Raining Men Remix - The Living Tombstone ft. Eilemonty | 1
-| 577731 | F-777 | F-777 - Double Jump | 1
 | 696514 | Geoplex | Altitude | 1
 | 608456 | Xtrullor | Xtrullor - Reverie | 1
 | 723164 | SpazeUnofficial | Spaze - Deception | 1
@@ -659,6 +661,7 @@
 | 713550 | Lockyn | Daybreak | 1
 | 649039 | Xtrullor | NK - Nine Circles (Xtrullor Remix) | 1
 | 402256 | xKore | xKore - Magnum (FULL) | 1
+| 744264 | Schtiffles | Sawdust Angels | 1
 | 557896 | OcularNebula | Obsolete Sky | 1
 | 643935 | FaunSound | Figurehead (GRTSU RMX) | 1
 | 659283 | lchavasse | ~:Spinning Galaxies:~ | 1
@@ -709,7 +712,6 @@
 | 779227 | 3RUPTIONGamez | ~Eruption - Rose | 1
 | 720858 | steampianist | Sleepyhead OFF VOCAL | 1
 | 737245 | jjoon | Next Step | 1
-| 614354 | Waterflame | -RadioCutter- | 1
 | 738258 | KaixoMusic | Orogenesis (Original Mix) | 1
 | 742353 | DetiousMusic | Detious - Lucidus | 1
 | 451550 | Acid-Notation | ---U So Mad--- | 1
