@@ -1,4 +1,4 @@
-#### Total: 1165 levels
+#### Total: 1172 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -202,6 +202,7 @@
 | Saguaro | OSIRIS GD | 38706212 | two months of hard work finally i finished it! :D hope you like this fun level and thanks for playing ^^ love u rob <3 [update]
 | Together | ByMaxCraft | 36007540 | FINALLY!!! TOGETHER IS OUT! Dedicated to Marwec, Erdyuri and especially to Zober. For Enlex CC2 and Leocreator CC1 (bugs fixed)
 | Quantum Showdown | Tongii | 35648730 | most of you only seem to care about extreme difficulty and demon levels. no thanks, im out :) abrupt ending because I dont care
+| ForeRunner | Paolih | 33135407 | Collab with Jaasim. Enjoy. I know, this level is literally a moving object... anyways i had fun creating this... 1 year... ago.
 | Ahoy Marine II | JirkGD | 32993087 | Hello good sailor. I guess you want my treasure, well...let me tell you one thing, it wont be easy 8). My first MC, Easy demon?
 | Astral Shadow  | Luxew | 46041354 | New level...I hope you enjoy it ! :)...Dedicated to : Danolaa( Paola) , XvictorCreatorX , Minimax , Maxyland and BloodSquad <3
 | the Massive | 1374 | 42951609 | When the sky turns dark, and clouds rise from the mountains, there'll be the massive dragon of thunder, waiting for the end...
@@ -466,6 +467,7 @@
 | Blacklights | TheRealDarnoc | 29165461 | I have returned. Remember, you can turn off shake in the settings if it bothers you too much. Enjoy!
 | Point Blank | Lemons | 49217236 | A fun, intense deadlocked inspired demon! Collab with Distort, Jamz and Cirtrax - Pass is 040400 :)
 | Solitude | Akinari | 48117468 | Sometimes you have to know when to give up. My best level, collab with Cirtrax, sequel to Adherence
+| DeathStep | RehanZ | 46575191 | First Demon level. Thanks to Fairfax and CreatorCaps for helping me in this one. Go check them out!
 | BOOP | Optical | 43220589 | Picking LDM will give you a tutorial on the controls, and make the beginning part easy. #levelution
 | funky  | RobZombiGD | 42809741 | Can we reach 1.000 subscribers on Youtube? :) Pls help me :^) My youtube Channel is "RobzombiGD" :)
 | Battersea | AirForce | 41521672 | Random name for a random level. Huge thanks to serponge for being such a nice and supportive guy <3
@@ -554,6 +556,7 @@
 | IntensitY | Berkoo | 33613966 | Collab with JirkGD, check him out. He's awesome! First 25 seconds from him, rest from me :)
 | Aeflux | Lemons | 33381128 | I am very grateful for the epic even tho it dosen't deserve it <3 Hope you like the song :]
 | Shuriken | danolex | 29123017 | Thanks for playing it...Hope you like video on my youtube channel Enjoy!!! and Good Luck <3
+| Fonter | OptaWolfGD | 47342814 | I decided to do something different for once :) Made in 27h. Dedicated to Fonter <3 Enjoy!
 | Grim Reaper | mulpan | 46817283 | I wanted to make an old style. But you might feel a little more generic. Anyway, enjoy it!
 | Eleonora | DeniPol | 43898136 | The level name is taken from the name of this boss. Rate 8-9 stars. Thanks for the game =)
 | Astrea | Cubix06 | 38819449 | Simplicity is complexity. It took me a lot of time to finish this. Dedicated to Optical :)
@@ -747,6 +750,7 @@
 | Granite | rafer | 31993928 | Song banned, so I changed it, It won't feel the same. - For Tedesco CC1
 | Me Myself and I  | SamMaxx | 49395269 | I just want to stop feeling alone. An uncoopertive screw and the rain.
 | Tentacle Tackle | Hyenaedon | 48352376 | Crazy Colourful collab with Diaso! Check them out, they are amazing =D
+| kNOCK thEM | SylntNyt | 46917339 | Finally a new level! Remaking GDSubzero: Nock Em. Hope you like it. =D
 | Cobalt | BranSilver | 41284022 | A nice schade of blue, BTW lythium came up with the idea for fireflies
 | The hidden land | BlueLite | 37708359 | (GDWE #4) My first art XL lvl, really hard worked on it, Good Luck! ^^
 | TheOriginS | Diamondgirl01 | 37663677 | Maybe my best solo level? sorry if short, hope you like it . Enjoy! :D
@@ -851,6 +855,7 @@
 | Shock | danolex | 28225110 | Thanks for playing my level...Leave a like and enjoy <3
 | Blast Engine | DangerKat | 47396627 | Finally after one month :D | Verified by xXAgustin72Xx
 | WonderGame III | Jayuff | 47169461 | redesigned version of serponges level, "UltraGame III"
+| Game Master | NoWeek | 45627449 | A colorful level appear, dedicated to Rafer a cool guy
 | Stormbringer | Marwec | 37915833 | When the storm comes, you should better be prepared...
 | Amplification | AvaKai | 37722417 | Do you hear something? (DreamEater's CC2 - 3rd winner)
 | Its Raining Men | Spa8 | 36436231 | AdvyStyles will make a 10 minute video of this level. 
@@ -899,6 +904,7 @@
 | Electro Dance Off | DorSha | 36430972 | Im actually quite proud of this level. Enjoy :)
 | Natures Essence | LmAnubis | 34778278 | A buggy little level with zepher and EpicLucas!
 | Night Light | Cristella | 32736905 | Coming Update For A New Song Guys... Or not ;3;
+| Ether | Phaneron | 49512054 | The energy is all around you! Hope you like :)
 | ElecTech | distortt | 48087337 | -?- e n j o y -?- 100009 x 3 - 68 + 36 = pass.
 | Vybe | xSkart | 45427418 | For #levelution. Pass on my YouTube Channel :3
 | Dreamcore | Torch121 | 32781965 | Amazing collab with Filaret - Hope you like it
@@ -1142,6 +1148,7 @@
 | Spicy | Nashii | 38364372 | -_-!
 | Spacelocked II | LazerBlitz | 35610305 | yeet
 | Alula | Jayuff | 32888898 | lmao
+| Luminance | DangerKat | 49582359 | >8)
 | Gloom | Optical | 47546711 | ...
 | Abjuration | BaconPotato | 36767254 | hot
 | Isolation | haoN | 36529045 | ...
