@@ -2,6 +2,7 @@ package gd;
 
 import gd.enums.DemonDifficulty;
 import gd.enums.Difficulty;
+import gd.model.EmptyListException;
 import gd.model.GDLevel;
 import gd.model.GDSong;
 
@@ -25,7 +26,7 @@ public class ResponseGenerator {
     private static List<GDLevel> levels;
     static DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 
-    static String[] processLevels(int sortingCode) {
+    static String[] processLevels(int sortingCode) throws EmptyListException {
         if(levels == null) {
             System.out.println("[" +dateFormat.format(new Date()) + "] Receiving featured levels list...");
             levels = getMostPopularFeatured(sortingCode);
@@ -34,6 +35,8 @@ public class ResponseGenerator {
             System.out.println("[" +dateFormat.format(new Date()) + "] Filter epic...");
             levels.removeIf(item -> !item.isEpic());
         }
+        if(levels == null || levels.size() == 0)
+            throw new EmptyListException();
         System.out.println("[" +dateFormat.format(new Date()) + "] List received. Total " + levels.size() + " levels.");
         List<String> info = new ArrayList<>(generateListDiffs(levels));
         System.out.println("[" +dateFormat.format(new Date()) + "] Difficulties list created.");

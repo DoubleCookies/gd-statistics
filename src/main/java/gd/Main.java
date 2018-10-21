@@ -1,6 +1,6 @@
 package gd;
 
-import gd.enums.LevelType;
+import gd.model.EmptyListException;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -10,13 +10,13 @@ import java.nio.file.Paths;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws EmptyListException {
         processFeatured(0);
         processEpic(0);
         generateTopDemons();
     }
 
-    private static void processFeatured(int sortingCode) {
+    private static void processFeatured(int sortingCode) throws EmptyListException {
         String[] res = ResponseGenerator.processLevels(sortingCode);
         for(int j = 0; j < 11; j++)
         {
@@ -30,7 +30,7 @@ public class Main {
         System.out.println("All featured lists are finished");
     }
 
-    private static void processEpic(int sortingCode) {
+    private static void processEpic(int sortingCode) throws EmptyListException {
         String[] res = ResponseGenerator.processLevels(sortingCode);
         for(int j = 0; j < 11; j++)
         {
