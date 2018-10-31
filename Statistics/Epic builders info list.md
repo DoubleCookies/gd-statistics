@@ -7,8 +7,8 @@ Serponge | 16
 DanZmeN | 16
 Lemons | 16
 CastriX | 15
+Jayuff | 15
 Nico99 | 15
-Jayuff | 14
 Optical | 14
 SaabS | 14
 SirHadoken | 12
@@ -50,7 +50,6 @@ Hyenada | 6
 haoN | 6
 DangerKat | 6
 schady | 6
-xRichtofen | 6
 luis JR | 6
 Alkatraz | 6
 Ferdefunky | 6
@@ -58,6 +57,7 @@ Enlex | 6
 Ragnarok96 | 6
 DesTicY | 6
 Flukester | 6
+Robzombi | 6
 AbstractDark | 5
 FreakEd7 | 5
 ILRELL | 5

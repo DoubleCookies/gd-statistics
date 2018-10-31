@@ -17,8 +17,8 @@ ZelLink | 54
 Echonox | 53
 Etzer | 51
 SirHadoken | 50
+Jayuff | 50
 TheRealDorami | 49
-Jayuff | 49
 Skitten | 49
 JerkRat | 49
 Adiale | 48
@@ -53,9 +53,9 @@ TrueChaos | 32
 Iid4sh3riI | 31
 Oskux | 30
 IIINePtunEIII | 30
-El3ctro1507 | 30
 ASonicMen | 30
 KeiAs | 30
+iEl3ctro | 30
 Pipenashho | 29
 YunHaSeu14 | 29
 GD Jose | 28
@@ -74,8 +74,8 @@ NoWeek | 26
 Lyod | 25
 Torch121 | 25
 lilbin | 25
-xRichtofen | 25
 AirForce | 25
+Robzombi | 25
 DreamEater | 24
 Picha | 24
 Axils | 24
@@ -305,6 +305,7 @@ Nottus | 9
 Ethrakk | 9
 SamMaxx | 9
 Manteex | 9
+Nikce | 9
 Snarlax523 | 9
 Yendis | 9
 AceVict | 9
@@ -343,7 +344,6 @@ Nightlex | 8
 Pasiblitz | 8
 Hyenaedon | 8
 willy5000 | 8
-Nikce | 8
 Chlorines | 8
 LaZye | 8
 Diniiga | 8
@@ -1203,6 +1203,7 @@ Sikatsuka | 2
 LordLethalix | 2
 Coolyoman | 2
 Hellfire51 | 2
+HiIsBacksenpai | 2
 GDSlimJim | 2
 groose22 | 2
 MistFix | 2
@@ -2070,7 +2071,6 @@ red1511 | 1
 XxAviilaxX | 1
 tomi555 | 1
 bobmoneybags | 1
-HiIsBacksenpai | 1
 Xingtik | 1
 RetroScope | 1
 Juhou | 1
