@@ -1,4 +1,4 @@
-#### Total: 1200 levels
+#### Total: 1205 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -87,6 +87,7 @@
 | 685472 | Waterflame | -Clutterfunk Part 2- | 3
 | 737702 | Geoplex | Geoplex - Florescence | 3
 | 702912 | Cursedsnake | calm | 3
+| 796081 | ColBreakz | ColBreakz - Gold Ring | 3
 | 726455 | F-777 | Lets Stomp! | 3
 | 755141 | Geoplex | Geoplex - Chimera | 3
 | 720358 | Kolkian | Rejuvenate | 3
@@ -189,7 +190,6 @@
 | 779692 | ShutEye | Shut Eye - Andromeda [Youth EP] | 2
 | 650660 | SKILLZmakeKILLZ | SmK - Virtual World | 2
 | 757184 | ColBreakz | Dex Arson - Rampage (ColBreakz Remix) | 2
-| 796081 | ColBreakz | ColBreakz - Gold Ring | 2
 | 739765 | cloudfield | cloudfield - Life | 2
 | 731596 | DJ-Zyzyx | Zyzyx - Jazz Battle | 2
 | 750043 | ShutEye | Shut Eye - Our Home | 2
@@ -463,6 +463,7 @@
 | 752025 | LawnReality | Living Dream | 1
 | 760212 | Miyolophone | astrEnfant | 1
 | 753044 | papkee | Timekeeper | 1
+| 803223 | Xtrullor | Xtrullor - Arcana | 1
 | 660882 | DJStriden | Level Five [Final Boss] | 1
 | 765333 | Xtrullor | Xtrullor - Authority | 1
 | 713135 | ThisIsTheFatRat | TheFatRat - Prelude | 1
@@ -478,6 +479,7 @@
 | 727487 | Xtrullor | Xtrullor - Fluorescent Forests (feat. Albert HyrÃ¶nen) | 1
 | 735679 | ToneCrush | Apollo - Cosmic Brownie | 1
 | 771519 | AeronMusic | In Spirit | 1
+| 558528 | OcularNebula | Lateral Descent | 1
 | 729524 | punyasotunes | PUNYASO - Konohas Kid (Naruto Tribute) | 1
 | 520640 | 9Wave | Kortex Kasm | 1
 | 676280 | BurgeraX | BurgeraX: Radiate Remake (Panda Eyes) [Dubstep] | 1
@@ -700,11 +702,13 @@
 | 757640 | KaixoMusic | Myriad (Original Mix) | 1
 | 329609 | vcrock | Ultimate Bowser(Epic Remix) | 1
 | 753562 | G4lvatron | Walking In Style | 1
+| 824224 | GA-H13 | GA-H13: SaabS | 1
 | 485267 | DJM4C | Detendu | 1
 | 57239 | Waterflame | -Space pirates- | 1
 | 748446 | MonvoiceT | Summer Girl [Deltrix Release] | 1
 | 786346 | cysmix | cYsmix - Babaroque (Short Ver.) | 1
 | 749481 | Zooloo75 | drag me with you | 1
+| 175013 | zirconmusic | Nuclear Flash (Mega Man 2) | 1
 | 546724 | Jimmypig | XS - Think | 1
 | 444332 | dj-Nate | {dj-N} Robotic Nightmares | 1
 | 677798 | garlagan | apopopop | 1

@@ -1,4 +1,4 @@
-#### Total: 1200 levels
+#### Total: 1205 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -65,6 +65,7 @@
 | MeatMelter | Nuclear Nacho | 31378074 | The death machine known as the MeatGrinder has been reforged in flames once again, delve into it and destroy it once more! Entry to VCC8 :D
 | Change of Heart | SirHadoken | 30396838 | Probably my best level so far! Dedicated to Xtrullor, for his change of heart with Newgrounds ;) Dedicated to my Twitch viewers as well! <3
 | Color Dance | Underings | 28053320 | Collaboration with Hyenaedon & WolfySaidWoof.This lvl was sitting so long in hyena's account.So i had to make it feature:).Sorry for short 
+| Idi lesom blin besih | DeniPol | 49974684 | Hello! I represent to you the level that i built throughout the summer. Due to the large number of objects, i made several "LDM" functions
 | Wings Of Angel | JerkRat | 48618693 | What is it like after death? No one knows, it's one of the biggest mysteries of mankind. For JonathanGD's CC1. Dedicated to EVW. 180k obj.
 | Auria  | victorinoxX | 48522681 | Finally after 5 months, my first and maybe my only MC has been finished. Thanks a lot to all these great creators who helped me with this.
 | Tokyo Rush | Ramenz | 47702969 | Collab With the one and Only Kips!!!  (He gave me this level btw, i did not steal it from him)  Please Subscribe to both our YT channels!!
@@ -98,7 +99,7 @@
 | Moonlights | Alkatraz | 40149755 | Not my best, but i still like it :) The song is dope too :D UPDATE: Nerfed the 3rd coin cuz too many ppl were asking me how to get it :P
 | Dragon Aspect | Axils | 39323637 | Tongii left this level unfinished, so I decided to finish it up and give it a twist. If you think I copied the entire level, ask Tongii.
 | Kotoruption | Alex1304 | 38693063 | My Doom entry is finally here! It's my first time making a themed level, but I tried my best :3 Also my best gameplay sync so far. GLHF!
-| Materialism | MeEloz | 37073856 | My best solo level so far. Started in June but doesn't created during July. (The first 50% was made in June and the 50 other in august.)
+| Materialism | MeelozGD | 37073856 | My best solo level so far. Started in June but doesn't created during July. (The first 50% was made in June and the 50 other in august.)
 | Crystal Essence | ChaSe | 36792656 | My 3rd 2.1 level and Crystal Gauntet CC entry! Turned out to be a bit harder than i expected, but still, have fun :D v5 fixed 55 forever
 | Simplicity | Peton | 34264590 | Dedicated to GDVacation for being one of my best friends! =) This is a very simple level but i hope i did good! Please rate harder 6! :D
 | Frontlines | Edicts | 32927589 | My first 2.1 level! I spent about 3 months in total on this. Hope you enjoy. For Viprin CC8. I won't be adding LDM for layering reasons.
@@ -579,6 +580,7 @@
 | ChapTer | Xylph | 36764284 | Updated again and fixed the 90% transition 8) Dedicated to Fariszk7 :D thx for epic rub <3
 | Melodic Spell | Darwin | 35291800 | Third level of the "Spell" serie :3 effect this time !  i hope you'll enjoy it, GL HF ^^)/
 | ColorShine | Enlex | 31298966 | First 2.1 level! Awesome collab with Zwenty :3 Thanks for Epic rob <3   (for Viprin's CC8)
+| Against the God | 1374 | 49994214 | Your mighty journey against those gods starts here... Verified by Mulpan. [33% bug fixed]
 | Dark Paradox | SaabS | 48695322 | I was working whole summer on this. I hope you enjoy! For Enlex's CC3 and JonathanGD CC1.
 | Fantasy Winds | Luxew | 48075410 | Amazing collab with Drob3!  Enjoy :)...Dedicated to : Ashx & Minimi427  ~ FANTASY WINDS ~
 | Aphorism | Darwin | 47738497 | New Effect / Art level! A lot of people wanted me to do this style again, so there it is!
@@ -679,6 +681,7 @@
 | Novalis | Gryllex | 33748382 | The hardest solo level I've created so far, Extreme demon difficulty, Good luck.
 | Thought Process | WolfenGD | 30315888 | this level took me a couple of weeks to make, enjoy :thinking: (easiest 8* ever)
 | AlterGame XIV | Serponge | 29812998 | My best AlterGame for sure, hope you like it :) Oh also, obstacles are random 8)
+| Goldize | Agils | 49883463 | My new solo level done for fun, I hope you like it! Gameplay made by Ajedaboss!
 | TeratoGenic | CreatorDiana | 48304195 | a metal beast is destroying the world! we need your help to end this apocalypse
 | HyperDrive | ExpyNormal | 45612066 | For Optical MCR (ball and robot gameplay only) Enjoy this retro themed level :P
 | TripleXtep | CastriX | 45152394 | 1.9 memories. I hope you will like this remake from TripleStep by Picha. Enjoy.
@@ -826,6 +829,7 @@
 | MeowDash | abdula | 33681157 | Dedicated To: F3lixsram & DarwinGD...  Hope You Like It!!   :')
 | Haunted Woods | DorSha | 33516441 | I really like the style I put in this level, enjoy the level :)
 | perception | Darwin | 32569165 | open your eyes.... open your eyes without stopping dreaming....
+| in Silico | rafer | 49941534 | you have 3 minutes to ESCAPE before the whole island EXPLODES!
 | Enchanted Clearing | Nico99 | 49210527 | New level! This time is based on Magic and Creatures. Enjoy!!!
 | Linear | Digitalight | 47800315 | Over 1 year of work. Took way too long. Pass on my YouTube :^)
 | GuThrie | Steven Ksttle | 45970557 | #Levelution level with 60k objs, Ok no!.      Verified by Mbed
@@ -873,6 +877,7 @@
 | Revival | mulpan | 29817911 | Be very peaceful... rate 5 stars, Thanks for playing :3
 | Confusion | schady | 29118648 | My first 2.1 level! Video of the level on my Youtube :)
 | Shock | danolex | 28225110 | Thanks for playing my level...Leave a like and enjoy <3
+| Trick Or Treat | SaabS | 49957313 | Level for Halloween 2018! I hope you enjoy this one :)
 | Blast Engine | DangerKat | 47396627 | Finally after one month :D | Verified by xXAgustin72Xx
 | WonderGame III | Jayuff | 47169461 | redesigned version of serponges level, "UltraGame III"
 | Game Master | NoWeek | 45627449 | A colorful level appear, dedicated to Rafer a cool guy
@@ -1040,7 +1045,7 @@
 | Aquarius | Skitten | 29416734 | Explore the underwater world...
 | Bourn | AlexS2003 | 47932761 | My best. Dedicated to Optical.
 | Flavored Level | MrZiedZ | 43149681 | Sequel to my level Blast Level
-| Sparks | MeEloz | 40785607 | My best design level, enjoy :3
+| Sparks | MeelozGD | 40785607 | My best design level, enjoy :3
 | Overcast | haoN | 42397063 | Finally a new level. Enjoy :)
 | Dyphe | MistFix | 38217881 | ~ O p e n  Y o u r  M i n d ~
 | Crystal Chaos | Spa8 | 36704048 | ESTE ES... EL BOOS MALDITO 8)
