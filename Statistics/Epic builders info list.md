@@ -107,6 +107,7 @@ ChaSe | 3
 TheRealDorami | 3
 Steven Ksttle | 3
 beptile | 3
+GiaMmiX | 3
 AceVict | 3
 LKH2001 | 3
 TheRealRow | 3
@@ -158,7 +159,6 @@ zombier | 2
 Unzor | 2
 HcreatoR | 2
 1374 | 2
-GiaMmiX | 2
 NukAnnguq | 2
 CreatorRT | 2
 Spym | 2
@@ -167,6 +167,7 @@ AyDiePay | 2
 Jeyzor | 2
 Echonox | 2
 GDLoco | 2
+Ploid | 2
 AlexS2003 | 2
 SirZaiss | 2
 Alex1304 | 2
@@ -273,7 +274,6 @@ Vrymer | 1
 ZecretGD | 1
 xKstrol | 1
 ZeeToss | 1
-Ploid | 1
 Soulsand | 1
 Extrox | 1
 IronIngot | 1

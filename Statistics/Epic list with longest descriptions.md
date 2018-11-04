@@ -1,4 +1,4 @@
-#### Total: 1205 levels
+#### Total: 1207 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -759,6 +759,7 @@
 | Flax | Thomartin | 29199166 | I love this game <3 Thank you so much for the epic robtop <3 !! DAILY :O
 | Mindblow | Namtar | 28969151 | It will blow your mind... (UPD: added low detail mode and fixed 66% bug)
 | Vivid escape | Erdyuri | 26861337 | A collab w/ Goose & Thomartin ! We are very proud of how it looks now :D
+| Fossilis | Ploid | 49923473 | Ok, not a demon, everybody understood guys. Schady made the gameplay <3
 | Color Rush | NukAnnguq | 48106654 | The first 5 Parts are made 2-3 Months ago, the end is rushed. Enjoy! :]
 | Holy Power | TheRealDorami | 46220912 | Thanks for Epic :3 / New Updated 3.1 Ver - Bug fixed & Added Ultra LDM.
 | Essence of Fortune | JaoDay | 45037106 | A new solo level by me. Probably my best work. Dedicated to Tobe Hooper
@@ -768,6 +769,7 @@
 | Unravel | Thomartin | 33599790 | Here is my new design lvl ! I tried to focus on colours on this one :) 
 | Invigorate | RealZober | 32371324 | Dream in colors never seen before. For Voop cc8 & Nicki1202 cc2. Enjoy!
 | Granite | rafer | 31993928 | Song banned, so I changed it, It won't feel the same. - For Tedesco CC1
+| Glowy nightmares | GiaMmiX | 49983256 | Enjoy this rushed halloween 2018 level! hope you like it (not my best)
 | Me Myself and I  | SamMaxx | 49395269 | I just want to stop feeling alone. An uncoopertive screw and the rain.
 | Tentacle Tackle | Hyenaedon | 48352376 | Crazy Colourful collab with Diaso! Check them out, they are amazing =D
 | kNOCK thEM | SylntNyt | 46917339 | Finally a new level! Remaking GDSubzero: Nock Em. Hope you like it. =D

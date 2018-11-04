@@ -203,6 +203,7 @@ Flashmick72 | 12
 fayaddd | 12
 FaekI | 12
 MaJackO | 12
+Ploid | 12
 OverZero | 12
 Swirl | 12
 mathboy | 12
@@ -243,7 +244,6 @@ Jabbagrullo | 11
 GrenAde | 11
 Ggb0y | 11
 iZinaD4sh | 11
-Ploid | 11
 WolfenGD | 11
 VrageraGD | 11
 CFteamgd | 11
@@ -382,6 +382,7 @@ felixen | 7
 RoyalPlayer | 7
 CrispyCrepes | 7
 BlazeJcy | 7
+GiaMmiX | 7
 Allan | 7
 Lovarii | 7
 Soulsand | 7
@@ -449,7 +450,6 @@ Skipnotz | 6
 BlUhOl | 6
 YamaDemon | 6
 Ajedaboss | 6
-GiaMmiX | 6
 JonathanGD | 6
 xKstrol | 6
 chokureload | 6
@@ -695,11 +695,11 @@ Yakimaru | 4
 TrueHaron | 4
 SkCray Ace | 4
 F5night | 4
-Suzume | 4
 Panfi2 | 4
 Ironistic | 4
 hfcRed | 4
 OtjiobPakob | 4
+ayuko | 4
 Xender Game | 4
 NeroFX | 4
 jahaziel | 4
@@ -956,6 +956,7 @@ N E C R O | 2
 Fulgore201 | 2
 Csx42Gaming | 2
 forlat | 2
+K76 | 2
 Coreybirdo | 2
 Play3rName | 2
 StanaronGD | 2
@@ -989,7 +990,6 @@ Krexon | 2
 Pyxidus | 2
 DonutTV | 2
 LyoNa | 2
-KaiDash76 | 2
 VesiMeloN | 2
 WizTicFX | 2
 drakeghast | 2
@@ -1082,7 +1082,6 @@ Zidnes | 2
 NightXStalker | 2
 SQRL | 2
 MrClyde | 2
-Viceroy | 2
 Cloud72 | 2
 skelox | 2
 Rezky Gmd | 2
@@ -1096,6 +1095,7 @@ I  S L E E P | 2
 iISpaceDustIi | 2
 nurong3 | 2
 HelpegasuS | 2
+Ldrakeisback | 2
 flunker5 | 2
 DJslimeYT327 | 2
 TruDee Fabian | 2
@@ -1239,6 +1239,7 @@ Arquas | 2
 Yotzin | 2
 Minity | 2
 FrancaDash | 2
+Riki Dash | 2
 SwfCapsLock | 2
 BadgerBoy | 2
 XenoDisastro | 2
@@ -1357,7 +1358,6 @@ Japic | 1
 doritos1 | 1
 NikolaiRei | 1
 SleepyPachirisu | 1
-TanookiSpooki | 1
 Technica | 1
 IiITGTIiI | 1
 Revaus7 | 1
@@ -1633,6 +1633,7 @@ Helecty | 1
 Filarious | 1
 Dextrose | 1
 GmDWolde | 1
+tanook | 1
 Dans2jours | 1
 JFZDash | 1
 VeNiM | 1
@@ -1708,6 +1709,7 @@ matnmath | 1
 UltraChris | 1
 F0xtrot | 1
 desoxicolico | 1
+Viceroy | 1
 iPLAY3R | 1
 Xelin | 1
 CreatorJC | 1
@@ -1835,6 +1837,7 @@ Bandidash | 1
 LuXDmErS | 1
 AzrilDripana | 1
 Ezel142 | 1
+joellllllllllll | 1
 Xiel | 1
 elemelon | 1
 monkeybazooka | 1
@@ -1951,6 +1954,7 @@ Potapo | 1
 YGYoshI | 1
 SuicideMind | 1
 Lythium | 1
+Exasperation | 1
 Findel | 1
 davidbelesp | 1
 StarMage | 1
@@ -2033,10 +2037,8 @@ Vapen | 1
 atlantis11656 | 1
 Lazergenix | 1
 Magic Square | 1
-YoSoyJoel | 1
 RealMonkey | 1
 xCarbon87 | 1
-RoadTrip | 1
 TDC ChRiS | 1
 Sebbax | 1
 AuRuS | 1
@@ -2108,10 +2110,10 @@ iIElDanteIi | 1
 Venomite | 1
 wilbert04 | 1
 Zigma | 1
-MRsauce | 1
 Lss | 1
 Atomic Wall | 1
 CarlYT | 1
+iHugoLAi | 1
 IIp1aY3rII | 1
 Srinkelz | 1
 TheBew | 1
@@ -2158,9 +2160,7 @@ Wafflism | 1
 ShadowChaotic | 1
 Alaiskai | 1
 UnableToWin | 1
-iIiHugoLAiIi | 1
 Shadecat | 1
-Riki Dash | 1
 visuallydynamic | 1
 Skeaten | 1
 capaxl | 1
