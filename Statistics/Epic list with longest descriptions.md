@@ -1,7 +1,8 @@
-#### Total: 1215 levels
+#### Total: 1224 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
+| Naturea | victorinoxX | 50278170 | I always wanted to do an art level, this is my first attempt. Thanks to Skitten & Kips for making great levels that inspired me to do this. 
 | OWIBLION | THEREALPETER | 49435684 | Collab with Snearky! Probably my last level in a long time, thank you everyone who supported me this whole 5 years in GD. Thank You RobTop!!
 | Compaction | Ajedaboss | 49434663 | An ultracollab I started 15 months ago with 38 awesome creators is finally done! Thanks to all the participants and Bronks for end screen :)
 | Hazard | RealZober | 48743596 | Theme of this flashy level inspired by UM18's "FV". Kind of harder than my other levels, enjoy and Gl! Hope its nice despite some flashes...
@@ -67,6 +68,7 @@
 | MeatMelter | Nuclear Nacho | 31378074 | The death machine known as the MeatGrinder has been reforged in flames once again, delve into it and destroy it once more! Entry to VCC8 :D
 | Change of Heart | SirHadoken | 30396838 | Probably my best level so far! Dedicated to Xtrullor, for his change of heart with Newgrounds ;) Dedicated to my Twitch viewers as well! <3
 | Color Dance | Underings | 28053320 | Collaboration with Hyenaedon & WolfySaidWoof.This lvl was sitting so long in hyena's account.So i had to make it feature:).Sorry for short 
+| Basium | Spoby | 50055726 | Have fun with this modern themed level :) let me know if there a some gameplay problems! Update: New BG deco for last part;Gameplay fixes.
 | Idi lesom blin besih | DeniPol | 49974684 | Hello! I represent to you the level that i built throughout the summer. Due to the large number of objects, i made several "LDM" functions
 | Wings Of Angel | JerkRat | 48618693 | What is it like after death? No one knows, it's one of the biggest mysteries of mankind. For JonathanGD's CC1. Dedicated to EVW. 180k obj.
 | Auria  | victorinoxX | 48522681 | Finally after 5 months, my first and maybe my only MC has been finished. Thanks a lot to all these great creators who helped me with this.
@@ -110,6 +112,7 @@
 | Selective | Findexi | 30379189 | Simple short level. Pass: 921064. The level was supposed to be Findexis Madness 3 but whatever. I didn't expect for an "epic" so stop...
 | HyperSonic | ViPriN | 30219145 | Megacollab by Dudex, Serponge, Manix648, Vlacc, Rustam, nasgubb, ZenthicAlpha, me, PanMan, Evasium, Etzer & Terron. Verified by Combined
 | Defiance | Jaasim | 29430891 | Are You Ready To Defy Laws? Come Back When You Are, If Not, I Have A Seat Ready For You... >:) [Rate 10*] [Epic?] video on my youtube <3
+| Hyperyard | Alex1304 | 48227651 | 1 year old project that I finally had motivation to finish. Design is a bit outdated but it's probably the best gameplay I ever made :)
 | NeGai | Glaid | 47526912 | Another XL with the most beatiful song of Garlagan <3 enjoy it guys ^^ And thanks for all the support :) For JonathanGD CC... Again! :D
 | The Last | TrueAzt3k | 46020618 | Can you escape?... My best level that I have done, thanks to all the people who supported me from the beginning, I hope you enjoy it =)
 | Rampage | Spym | 44343414 | The player can only assimilate a certain amount of information when the adrenaline runs throughout his body, collaboration with Nashii.
@@ -213,6 +216,7 @@
 | Quantum Showdown | Tongii | 35648730 | most of you only seem to care about extreme difficulty and demon levels. no thanks, im out :) abrupt ending because I dont care
 | ForeRunner | Paolih | 33135407 | Collab with Jaasim. Enjoy. I know, this level is literally a moving object... anyways i had fun creating this... 1 year... ago.
 | Ahoy Marine II | JirkGD | 32993087 | Hello good sailor. I guess you want my treasure, well...let me tell you one thing, it wont be easy 8). My first MC, Easy demon?
+| Volcanic Factory | DHaner | 49987007 | New level, new stuff after 4 months of inactivity. I promise be more active (though I'm tired of waiting for 2.2 ;-;) Enjoy :3
 | Astral Shadow  | Luxew | 46041354 | New level...I hope you enjoy it ! :)...Dedicated to : Danolaa( Paola) , XvictorCreatorX , Minimax , Maxyland and BloodSquad <3
 | the Massive | 1374 | 42951609 | When the sky turns dark, and clouds rise from the mountains, there'll be the massive dragon of thunder, waiting for the end...
 | Subers | DarkStyle | 40829615 | New solo everyone ! I think you will enjoy this 8) Maybe Harder 6* ? I will try to make a different style for my next level 8)
@@ -463,6 +467,7 @@
 | Somnia | f3lixsram | 40323693 | New level, collab with the amazing Vip3r ! Video/pass on my youtube as always, hope you'll have fun ;3
 | Degraded Energy | Piseto | 37253890 | "Degraded Energy"  Megacollab with: TheRealRow,Zoomks,RekindL,Nashii and DavJT. I hope you enjoy it =)
 | Geist  | fishtoon | 32985059 | awesome collab with itztropica! really cool creator, go check him out he sure deserves more attention!
+| Mechanical Storm | AutoNick | 50195187 | Rafer inspired me a lot recently, which is why I want to dedicate this (for me) special level to him!
 | Forrest Gamp | Th04 | 48871881 | My best and last level.  Thank you all for the support and playing my levels, it really means alot.  
 | Aquamarine | Lemons | 47348577 | Well here it is, my majestic Viprin CC9 contest entry... Enjoy this blue easy demon :) Pass is 040400
 | The Reign Of Moira | Elisione | 46649388 | not overwatch shut up. low detail is in the bottom left corner of the menu so shut up about that too.
@@ -543,6 +548,7 @@
 | Banished | SirHadoken | 34715086 | I wanted to escape my rainbow-y comfort zone, so I made a horror level. For the Bossfight CC1.
 | Dragon Claws | Piseto | 32737350 | "Can you defeat the Dragon Boss?". 40k Obj, my best?. Dedicated to Izhar.  LDM added. Enjoy =)
 | Danger Zone | GD Jose | 28677296 | Welcome to the Danger Zone of the Lava Gauntlet... can you survive ?... video in YT Channel :v
+| OuT oF nAmE iDeAs | ISparkI | 50023776 | Hey look i made an easy demon. Inspired by Distort, Lex and DanZ. For Enlex CC3. Have fun lol
 | Amity | Optical | 46143055 | The coins are hidden in 3 different colour schemes. Which colour scheme is your favourite? =D
 | Teknold Blast | MrLorenzo | 44320573 | Verified by my girlfriend enlex, subscribe to her. Subscribe to me too for awesome content xd
 | Coarse | f3lixsram | 44319716 | Kinda Hinds inspired demon level, collab with Nosef, check him out :D Hope you'll have fun ;)
@@ -610,6 +616,7 @@
 | Furia | f3lixsram | 34160738 | A collab with Jirk and one of my bests levels :3 Pass on my youtube channel, have fun :D
 | Decorus | f3lixsram | 31234058 | A spicy collab with killua282 ! Video and pass on my youtube channel, have a good day :D
 | HyperParadox | ChaSe | 21920664 | Amazing collab with Borgen!!! Big thanks to him for this level! Hope you like it! Enjoy!
+| Space Magic | Serponge | 50211341 | 47k obj - Tried to optimise as much both LDM and full details, hope you'll have fun! :)
 | Hex | OpteX | 49447022 | My first 2.1 level, a huge thanks to all those who kept motivating me to finish a level
 | CholyuX | BlUhOl | 48337102 | A new solo level!! thx Valence for helping me, and I hope this will be my 3rd epic :') 
 | Out | Xender Game | 47453581 | Prepare Project: LASEREYE! (Trying a different style this time, Enjoy and get OUT >:3) 
@@ -651,7 +658,7 @@
 | Energy | Robzombi | 46697878 | Thank you for epic robtop <3 Guys, Go and sub to my youtube channel :D "RobzombiGD"
 | Mitty | f3lixsram | 46289077 | A pretty nice collab with BallisticGmer, video/pass on my youtube channel, enjoy :D
 | Parasite | LeocreatorX | 46048898 | Amazing collab with Rafer, Oskreix and mistfix, i hope you all enjoy playing this. 
-| Propel | Hyper314 | 42516660 | Some thingy that Shutter gave me that I finished. Verified by D a G! (Pass: 372569)
+| Propel | H314 | 42516660 | Some thingy that Shutter gave me that I finished. Verified by D a G! (Pass: 372569)
 | Floward | CastriX | 39645160 | Like nothing that I say is gonna change how you feel now. My best so far, Enjoy. :)
 | Millennium II | Ragnarok96 | 38033626 | Feel The Freedom! The second version of Millennium is here! :) I hope you ENJOY! :D
 | Hesperia | Enlex | 37712174 | Not my best, sorry, but i wanted to try something "different" :)  Hope you like it!
@@ -679,6 +686,7 @@
 | Defiance | crossblade | 44184726 | Dont fall in line with those around you. Stay strong. Be yourself. Take control.
 | Synthesize | schady | 43765346 | Put a lot of effort into this one. Tried to focus on colors, gameplay, and sync.
 | Stay | CreatorRT | 43649834 | Awesome Collab with a talent creator : EpicMasta11 , Hope u Enjoy this level :))
+| Form | Retropt | 42013876 | This new lelvel is one of most dedicated I gave him. Thanks for the wait guys <3
 | Circuit Bop | distortt | 38992577 | A fast-paced, simple yet fun level... Can you find all the coins? Well, enjoy :]
 | Sly Shuffle | MrKoolTrix | 38857027 | Can you surpass the kerfuffle with a sly shuffle? 39k objects used. Have fun! :)
 | Graveyard | SaabS | 38287659 | Halloween themed level :) Hope you enjoy! Update: LDM is much more usable now :)
@@ -903,6 +911,7 @@
 | The Colossus | Manix648 | 32363718 | Some thing dark is coming, trust no one... (Part 1/2)
 | MULTIPLAYER MODE | izhar | 30797440 | I worked hard in this one :') (pass on my YT channel)
 | Lunar Abyss | iIFrostIi | 28806662 | 2.0 - 2.1 level. Thanks for playing, pass on youtube.
+| Lonesome | 1374 | 48035323 | Lonesome 1.1 - moving bg in first part. Rate 2stars!
 | Awesome Sauce | SirHadoken | 47568611 | Collab with TD Epic. Took around 9 months to finish.
 | Purity | BryanC28 | 45786260 | Here I bring you a new job, I hope you like friends.
 | Lets Stomp | Nashii | 34196035 | C: Could you play my new Level Deception please guys
