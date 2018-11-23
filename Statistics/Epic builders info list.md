@@ -250,6 +250,7 @@ Stardevoir | 1
 ExpyNormal | 1
 Hinds | 1
 RehanZ | 1
+Fonter | 1
 Optonix | 1
 Extrox | 1
 IronIngot | 1
@@ -266,6 +267,7 @@ crossblade | 1
 Digitalight | 1
 RoyalPlayer | 1
 SerenoGD | 1
+ZaDoXXZl | 1
 Juffin | 1
 Gryllex | 1
 Ramenz | 1
@@ -380,6 +382,7 @@ By7on | 1
 TD Epic | 1
 G3ingo | 1
 GUYdurian | 1
+DepisH16 | 1
 MoonSpark | 1
 VytraxVerbast | 1
 DimusLv | 1

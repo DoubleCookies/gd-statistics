@@ -1,4 +1,4 @@
-#### Total: 1245 levels
+#### Total: 1248 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -69,6 +69,7 @@
 | MeatMelter | Nuclear Nacho | 31378074 | The death machine known as the MeatGrinder has been reforged in flames once again, delve into it and destroy it once more! Entry to VCC8 :D
 | Change of Heart | SirHadoken | 30396838 | Probably my best level so far! Dedicated to Xtrullor, for his change of heart with Newgrounds ;) Dedicated to my Twitch viewers as well! <3
 | Color Dance | Underings | 28053320 | Collaboration with Hyenaedon & WolfySaidWoof.This lvl was sitting so long in hyena's account.So i had to make it feature:).Sorry for short 
+| Core Operation | DepisH16 | 50430534 | made a new level for my new style. The bad part is with the boss, yes I know...At this moment, watch (->) the pages I set! GoodLuck!!! :,V
 | Basium | Spoby | 50055726 | Have fun with this modern themed level :) let me know if there a some gameplay problems! Update: New BG deco for last part;Gameplay fixes.
 | Idi lesom blin besih | DeniPol | 49974684 | Hello! I represent to you the level that i built throughout the summer. Due to the large number of objects, i made several "LDM" functions
 | Wings Of Angel | JerkRat | 48618693 | What is it like after death? No one knows, it's one of the biggest mysteries of mankind. For JonathanGD's CC1. Dedicated to EVW. 180k obj.
@@ -709,7 +710,6 @@
 | Novalis | Gryllex | 33748382 | The hardest solo level I've created so far, Extreme demon difficulty, Good luck.
 | Thought Process | WolfenGD | 30315888 | this level took me a couple of weeks to make, enjoy :thinking: (easiest 8* ever)
 | AlterGame XIV | Serponge | 29812998 | My best AlterGame for sure, hope you like it :) Oh also, obstacles are random 8)
-| Myself | Filaret | 50270788 | Awesome Collab with VictorinoxX and Mezzo. I think this my last level :v Enjoy)
 | Goldize | Agils | 49883463 | My new solo level done for fun, I hope you like it! Gameplay made by Ajedaboss!
 | TeratoGenic | CreatorDiana | 48304195 | a metal beast is destroying the world! we need your help to end this apocalypse
 | HyperDrive | ExpyNormal | 45612066 | For Optical MCR (ball and robot gameplay only) Enjoy this retro themed level :P
@@ -719,6 +719,7 @@
 | Emoji island | Piseto | 36726074 | "The world of emojis" >Dedicated to Zoomks,Castrix,Partition and Rustam. (o.o)/
 | Incinerator | GDSlimJim | 34122149 | Collab with BananaX. For MrLorenzo CC, GigaRex CC, and Jbeast15 CC. Easy Demon?
 | HyperFlux | Lemons | 33737577 | First demon flux level... Made using my melodic dubstep track :) Pass is 040400
+| Myself | Filaret | 50270788 | Amazin collab with Victorinoxx and Mezzo. I think this my last level :v Enjoy)
 | Despacito OMG OwO | DanZmeN | 48359768 | Verified by Dorami. Why did i think this name was a good idea for a bet tbh...
 | Pixel Party | Cirtrax | 48000423 | A Fun 1.9 Collab with Distort! Rate 7 stars and have fun (Deticated to AArmin)
 | AVENTURA | Berkoo | 45694540 | Collaboration with the incredible Rafer, enjoy this colorful little adventure!
@@ -1020,6 +1021,7 @@
 | Cerulean | iZinaD4sh | 40100624 | Cerulean, like water, soft and quiet...
 | Emotional Release II | Serponge | 39955946 | Here it is, the sequel to my best auto!
 | Extinction | haoN | 38427291 | Can you survive the mass extinction?...
+| Skies | ZaDoXXZl | 50205045 | Dedicated to Peton, Xstar7 and Darwin.
 | Alter Order | FreakEd7 | 47990377 | All Balanced, All In Order, Or not...?
 | CraZy II | DavJT | 47620786 | 2CraZy4me            Collab with N R G
 | Messier 45 | Jayuff | 43409294 | very expirimental level. hope u enjoy!
@@ -1204,9 +1206,11 @@
 | Funky Bliss | FozaeKitty | 36080060 | yay... :)
 | Scent | Optical | 28500207 | Timeless.
 | Splash | Jayuff | 38811712 | finally!
+| Yakumo | Shemo | 49149238 | | gap |
 | Fun | Jayuff | 47849218 | omg yes
 | HeartBang | Cloud72 | 35588255 | Mogurii
 | covfefe | Kips | 34462031 | covfefe
+| cryst | Fonter | 49369521 | collab
 | TECHnos II | stubbypinata | 47214600 | Gahah!
 | Subtorrid | Ballii | 40751958 | uh huh
 | Glimpse | Spu7Nix | 40238745 | Wowers
@@ -1239,7 +1243,6 @@
 | Elevatia | ViPriN | 28755561 | :)
 |   | nasgubb | 39354797 |  
 | Kabosu | Lemons | 35033118 | k
-| Yakumo | Shemo | 49149238 | 
 | nef | Darwin | 45889713 | 
 | Dreim | Darwin | 40693939 | 
 | Galactic Separation | Spectex | 40128318 | 
