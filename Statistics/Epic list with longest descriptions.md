@@ -1,4 +1,4 @@
-#### Total: 1254 levels
+#### Total: 1258 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -373,6 +373,7 @@
 | Sunlit World II | JefryKawaiii | 31725532 | Finally..  Sunlit return - Collab with: RickTz  <3  Simple Level. :3 , Dedicated to: Optical and IZhar <3 LIKE!!!
 | Reality | BadKlatt | 30559780 | My best level and first 2.1, But enjoy this level and Thanks all...! :D Entry for CC'2 realzober..... Hopefully !
 | Popcorn | Superopi | 28418019 | Amazing megacollab by: JaffyTaffy, Desticy, Chase, Superopi, Noriega and Goose! Verified by Chase :) Good luck 8)
+| Steampunk Heart | SamMaxx | 50571940 | Final level of the trilogy. Tried to optimize LDM as best as possible. Dedicated to Manteex. Remember, solitude.
 | Tragic Nights | DanielDlc | 50087915 | finally!! 4 months of creation I am proud of myself, leave a sweet in 21% Enjoy the level !! / Pass ON my chanel
 | One | AutoNick | 47499900 | I tried something different than I normally do again. It looks kinda like something Rafer would build. Enjoy! :)
 | Scaphysm | Lipz | 46715525 | An Awesome level by me and Sirzaiss, special thanks to Sirzaiss for helping me dedicated to elegy and lerevon :3
@@ -467,6 +468,7 @@
 | Schiarendo | Usermatt18 | 31432270 | I've put a lot of effort into it trying to switching some designs! Hope you like it :) Robtop comment :o
 | Carnage | RadiationV2 | 30797525 | Some might think that its too simplistic, but I like it that way! Dedicated to RobTop, for Voop's CC8 :D
 | The Split | Serponge | 28636863 | I would say my best non AlterGame/Demon level, put a lot of work into this, and tried different stuff :)
+| Im a Man | Male20 | 49911661 | This is supposed to be demon; not harder 7*. Wait; now its INSANE 9*?? lol thats better :) Pass: 048367
 | Authority | Usermatt18 | 39564265 | Amazing collab with Chromatik! Might be one of my best! Video on YT soon, also its a really short level
 | BackFire | Myo0 | 35726793 | A Good Collab with Zarkyi! My part has my best designs in my opinion. I hope you enjoy! :) For Enlex CC
 | Underworld | TheRealRow | 33299921 | Collab with TicTac21, check his levles.. Video and pass on my yt channel :) For MrLorenzo CC2. Epic? :)
@@ -517,6 +519,7 @@
 | Mythical descent | Nashii | 40728161 | Inspirado en mi demon FAV<3 Digital Descent Verificado por | EL MAESTRO DORAMI | 8) MADE IN 2 DAYS
 | transform | Enceladus GD | 35216845 | After 4 months of lazy and slow work, here it is! Thanks RobTop for the Epic. Sub to my YouTube ;)
 | TOE IV | Darwin | 34569397 | This is my version of TOE IV :3 thx Thomartin, sharks and Erdyuri who helped me in this project  !
+| Sol | neigefeu | 50560864 | I'm so glad that this is out, 7 months of work was put into this level; Good luck and have fun :)
 | Ascension | Fairfax | 49508604 | Finnaly after 1 month of work.for JerkRat CC2.dedicated to Elegy,Zeetoss,Filaret,and Xenoteric <3
 | Bonart | Nikce | 48260847 | Trying to make simple art, hope you like it! :) Dedicated to Serponge, WerewolfGD and MrKoolTrix.
 | Earthquake  | Sharks | 47748375 | After 6 months of inactivity... Viprin CC9 5th place ! Video on my youtube channel. Pass : 852963
@@ -572,6 +575,7 @@
 | Flatline | alkali | 34222797 | Revisiting my old style this time. Have fun, and make sure to give K0DeX's songs a listen! :D
 | Catharsis | Gravitype | 33564671 | It's finally here! BIG thanks to Shutter who helped me with this! I got my first epic! Thx :D
 | VolT | Serponge | 30295766 | Sorry for taking so much time on this level, well at least its out! Probably my best coins 8)
+| Hangul | TD Epic | 50407991 | My longest level is here! Layout by Yuri14 and dedicated to Partiton, Mulpan, and Cleangame!
 | More Beats | Yakimaru | 48829531 | Directly inspired from the game Just Shapes and Beats which I highly recommend you to play !
 | DyN | Wixers | 41757744 | my best work, I hope you like it, dedicated to all my friends :) Robtop Featured? please ^-^
 | Art of Music | BranSilver | 36121059 | good levepe, Check out Wulzy! He is a unnoticed creator with only 6 cp! Really old level lul
