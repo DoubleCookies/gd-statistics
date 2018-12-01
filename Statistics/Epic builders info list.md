@@ -148,9 +148,11 @@ Alfred PKNess | 3
 MrZiedZ | 3
 Spu7Nix | 3
 Xylluk | 3
+RoiMousti | 3
 ViP3r | 3
 Masterale | 3
 Jghost217 | 3
+Nampac | 3
 lioleo | 2
 TrueAzt3k | 2
 Myo0 | 2
@@ -216,14 +218,12 @@ Nibbler GD | 2
 Cthulu | 2
 Meeloz | 2
 TD Epic | 2
-RoiMousti | 2
 Flashmick72 | 2
 SkyGazer | 2
 GirlyAle02 | 2
 hyperfox | 2
 GDFlake | 2
 Booglee | 2
-Nampac | 2
 aviovlad | 1
 hypercube1 | 1
 Lugunium | 1
