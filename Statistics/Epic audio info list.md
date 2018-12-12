@@ -1,4 +1,4 @@
-#### Total: 1281 levels
+#### Total: 1287 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -125,6 +125,7 @@
 | 747194 | Xtrullor | Xtrullor - Karma (feat. Albert Hyrönen) | 3
 | 681664 | DJStriden | Catalyst [Electro] | 3
 | 759497 | Sharks | Sharks - Shining Space | 3
+| 147150 | Shinrog | Storms of Agony | 3
 | 589597 | Jumper | Purity | 3
 | 771905 | Sharks | Said - Dancing (Sharks Remix) | 3
 | 720737 | ColBreakz | Wubbaduck & ColBreakz - Friends | 3
@@ -240,6 +241,7 @@
 | 720222 | Xtrullor | Xtrullor - Jnana | 2
 | 773458 | PandaEyesOfficial | Panda Eyes - Fake Princess | 2
 | 505207 | dj-Jo | Dearly Beloved Dubstep | 2
+| 568699 | Waterflame | -Hexagon Force- | 2
 | 714113 | PandaEyesOfficial | Panda Eyes - Drippy Dub | 2
 | 779692 | ShutEye | Shut Eye - Andromeda [Youth EP] | 2
 | 650660 | SKILLZmakeKILLZ | SmK - Virtual World | 2
@@ -274,7 +276,6 @@
 | 665266 | bossfightofficial | Bossfight - Sonder | 2
 | 718518 | OfficialNovacore | Teminite - Energize (Novacore Remix) | 2
 | 767693 | AikaMusic | Dawn [Future Bass] | 2
-| 147150 | Shinrog | Storms of Agony | 2
 | 743152 | lemons | Refraction | 2
 | 503544 | bossfightofficial | Starship Showdown | 2
 | 519927 | DJtheSdotcom | Gears of a King | 2
@@ -440,6 +441,7 @@
 | 342542 | Fantomenk | Untitled chipsounds | 1
 | 682504 | Waterflame | -Arcade Punk- | 1
 | 489994 | DarkmasterX | Orchestral Touhou 1 | 1
+| 823812 | CreoMusic | Creo - Outlaw | 1
 | 645661 | Xtrullor | X&HE - Soulstorm | 1
 | 760364 | Zelgeon | [Glitch Hop] HEY! (Original Mix) [Reborn EP] | 1
 | 760365 | BurgeraX | BurgeraX: Bloodthirst [Dubstep] | 1
@@ -636,9 +638,9 @@
 | 712035 | Omnivore | ãƒã‚ªRENAISSANCE | 1
 | 779623 | LawnReality | Digital Mind | 1
 | 738661 | DJKadenza | WICKED | 1
-| 568699 | Waterflame | -Hexagon Force- | 1
 | 765306 | lchavasse | ~:Wander:~ | 1
 | 748921 | Marterro | The Final Encounter | 1
+| 730525 | MonvoiceT | MonvoiceT - Aquamarine w/ Kory | 1
 | 753044 | papkee | Timekeeper | 1
 | 560530 | Stratales | Caramel Orange | 1
 | 660882 | DJStriden | Level Five [Final Boss] | 1
@@ -697,6 +699,7 @@
 | 712328 | cloudfield | cloudfield - Start Again | 1
 | 548505 | Omnivore | OMNI - Run | 1
 | 644761 | Xtrullor | Xtrullor - Ichor | 1
+| 601755 | NyxTheShield | Aquatic Ambiance Remix | 1
 | 771736 | CreoMusic | Creo - Enigma | 1
 | 523943 | Acid-Notation | ---Ground Pound--- | 1
 | 624314 | Geoplex | Afterglow (ft Roy) | 1
@@ -744,6 +747,7 @@
 | 733008 | Namice | Harmonies | 1
 | 730960 | KaixoMusic | Isogon (Original Mix) | 1
 | 733007 | DJVI | Like An Animal | 1
+| 315202 | Fantomenk | The massacre (chipsounds) | 1
 | 649039 | Xtrullor | NK - Nine Circles (Xtrullor Remix) | 1
 | 87895 | cornandbeans | {Rose} Remastered | 1
 | 659283 | lchavasse | ~:Spinning Galaxies:~ | 1
