@@ -349,7 +349,6 @@
 | Endless | luisilloRS | 36723231 | Endless, Collab with Vennom628. Thanks for the featured Robtop! LDM Added, until lag? Buy a good PC and try again. Pass and coins in my YT.
 | Cosmical Delusions | CastriX | 36547543 | Finally,my first MegaCollab by my CC2 is here with amazing creators! :) We have fun creating this great level,enjoy! Verified by Alex Wolf.
 | The Seventh Flame | RyanAB | 36497931 | Hopefully this one is my top 100 creators debut! I tried to make this one more stylistic and have a sort of intense feeling :)  Rate demon!
-| Shattered | nahuel250204 | 36263004 | Awesome collab between me and Ultrachris! Not My last level. Dedicated to: Pauze, Hyenada, Beptile, Schady, SirHadoken and Dagger Spike. <3
 | Carnage Mode | Findexi | 36107975 | Check out the video on youtube! Thanks to Nasgubb, Dudex, Kips, GDSpeed, LassiBoy, Juhou, Lemons and especially SrGuillester for verifying.
 | PierMenti | Altin | 36102515 | I know this is not my style but I tried something that you maybe would like, dedicated to Dreameater, Zanna83, Enlex,and italian community.
 | Weightless | zZenith | 36024781 | After 2 months of work, I present my masterpiece, Weightless. Update: Gameplay is now slightly less horrid. Update 2: verified by hexhammer
@@ -637,7 +636,6 @@
 | Maiden Forest | Nottus | 43239088 | Welcome to the Maiden Forest ! Have a great time here :). Be carefull there are a lot of monsters and spiders ! (pass on my ytb channel).
 | Borderline | Whirl | 42669786 | By best, and hardest level yet. Will you be killed in the crossfire on your quest for loot? Good luck. Effects done by Cthulu. Pass: 2010
 | Direction II | xMisery | 41166197 | My biggest level with my best blocks and 70k obj for now! A great collab with CrazyFusion and help from IvanGamer. Verified by Dorami! :3
-| Aperture | GDLev | 40997271 | Collab with Awzer, originally uploaded on his account but reuploaded after it didn't get attention. Also made beginning parts less empty.
 | Hidden Storm | Agils | 40393581 | After a long time, I present to you one of my best levels! Dedicated to F3lixsram, Mulpan & Lysk! also my friends. 07/02/18: Featured! <3
 | Spectral Tentation | DiscJoker | 40299716 | Finally out! Italian megacollab between me, Zanna83, LaxHDz, Poccottini, Corkscrew and Avakai, final art by Nico99! (96 & 64% bugs fixed)
 | Avalon | Freyda | 39261874 | This is my best one! Put a lot of effort into this level. I hope you enjoy! Dedicated to: Echonox and Hyenada. Thank you all and RobTop!!
@@ -1249,6 +1247,7 @@
 | CalM II | Neutronic | 42679103 | The sequel of CalM,  dedicated and inspired in the best crator, Optical <3, for Erdy and Badklatt! Pass & Video on my YT channel! 
 | I M A | MikanNeko | 41862925 | People who cant enjoy art never live happily....A collab between MikanNeko and Klevin105 , for everyone , specially for Ilrell <3 
 | Harmonia  | MarioLTE | 41512929 | Nuevo nivel porfin despues de tanto tiempo. Espero les guste :3  Dedicado a : Luis Jr, JaxTilanx, Stamina, Erdyuri, Nico99 y Peton
+| Aperture | GDLev | 40997271 | Collab with Awzer, originally uploaded on her account but reuploaded here. Also made beginning parts less empty. Thanks for daily!
 | Sciophobia | RealZober | 40569028 | Sciophobia is known as the fear of shadows (although this level doesn't really follow the theme of the level 100%) Happy New Year!
 | Joavation | Grenate | 40546855 | Collab with Quatrum, quite an old project that gets progressively better in terms of gameplay and design. Video and pass on my YT.
 | Crimson | TrueAzt3k | 39934999 | This is my masterpiece, 1 week of elaboration, I hope you enjoy it, it is the first time that I have tried to finish a 100% level.
@@ -3194,6 +3193,7 @@
 | Alchemist | mulpan | 37452351 | 4th Korean demon collab :D by Sharvo, Soulsand, Dominator, Banila, mulpan, 1234! maybe Medium demon :)
 | Degraded Energy | Piseto | 37253890 | "Degraded Energy"  Megacollab with: TheRealRow,Zoomks,RekindL,Nashii and DavJT. I hope you enjoy it =)
 | Reapers | Zafkiel7 | 37108756 | Finally.. Megacollab by 30 greats creators. Enjoy :D. Verified by ItzFacu.Video and pass on my channel
+| Shattered | nahuel250204 | 36263004 | Awesome collab between me and Ultrachris! Dedicated to Pauze, Hyenada, Beptile, Schady and SirHadoken.
 | Eclipse | SaabS | 34492530 | Level supposed to be a demon :) Dedikejtid to my friends.. V2: Fixed some visual bug and added pass :)
 | Geist  | fishtoon | 32985059 | awesome collab with itztropica! really cool creator, go check him out he sure deserves more attention!
 | Breakdown | SkyGazer | 32299230 | First 2.1 level, don't expect too much as I still have a lot to learn. For Sugarsalt & Nicki's CCs! :)
@@ -7169,7 +7169,6 @@
 | twinkling world | Gelt | 665521 | version 4! demon! thank you! please enjoy and vote good please!
 | Fantasy Adventure R | PIS | 617045 | Custom music is longer than original music.  Password is 123456
 | Auto Time Machine | null | 214793 | So, my second Auto map is released!!! Thanks for like and play!
-| Modernux | Agils | 50683892 | My last collab, and this time with a different style! Enjoy :D
 | Eine seltsame | Neutronic | 50365751 | Collab con Toxxin, AlexEA, Byboy 11, Lahp7 y ShuyGD. Enjoy. :)
 | in Silico | rafer | 49941534 | you have 3 minutes to ESCAPE before the whole island EXPLODES!
 | Enchanted Clearing | Nico99 | 49210527 | New level! This time is based on Magic and Creatures. Enjoy!!!
@@ -8253,6 +8252,7 @@
 | Ice aurum | TrueNature | 452615 | Play my other good maps!-ver2. Added Fade effects
 | Back to the earth | null | 251715 | made by 99products hope you enjoy name 100 random
 | TimeLapse | TheRealDarnoc | 173410 | enjoy! and go to everyplay.com to see the replay!
+| Modernux | Agils | 50683892 | Another collab, with a different style! Enjoy :D
 | PK Industries Inc | Alfred PKNess | 47885487 | Just another Alfred's level :^) [Rate 6-7 stars]
 | Slowing DoWn | BryanC28 | 46942602 | This is my first collab, I hope you like it :] '
 | Fiber | shocksidian | 36834813 | My new level! Fiber as in, glass fiber cable :<>
@@ -8562,6 +8562,7 @@
 | Rapid Rush | Torch121 | 45182394 | Hope you enjoy this level . Easy Demon ?  :D
 | Strawberry Soda  | M3nhHu3 | 44801448 | Can you handle the cuteness ? :3 #levelution
 | novistation | TinyXD | 44677323 | Stop hating on my gameplay, i'm improving :(
+| Phobos | DangerKat | 42466137 | Guitar pasate phobos :v extrim dimon Omg ;3;
 | Socialized | SaabS | 42303076 | Something "new" from me. I hope you enjoy :)
 | Perception | R3XX3R | 42133523 | This is the sequel to my level 'Wanderer' :D
 | Monster Cave | RoyalPlayer | 41370023 | oh im extremely scared  (inspired by Nico99)
@@ -9298,7 +9299,7 @@
 | Lv23 The Maglanics  | IamXstep | 206130 | ehdals0507 . Leave me alone Hey Boss
 | Time Road | IRabb2tI | 116622 | Bug fixed...  Thank you for playing!
 | Even flow | null | 1614 | Chill bro and go with the flow  ,WIP
-| Imagine | Hunnie | 49938598 | Description? Nah! That's for plebs.
+| Imagine | Hunnie | 49938598 | Description? Nah! that's for plebs.
 | Technological Fury | Vertuoz | 49922539 | :) Featured? (: Rate Easy Or Normal
 | DarKew | Stroiter | 49521480 | dedicate to Manteex and Fairfax :) 
 | Nature Seed | Ahab47 | 45511266 | The level no one likes lol ecks dee
@@ -10238,7 +10239,6 @@
 | RaY | SupamarioXx | 46338537 | Dedicated to Wixers :) 
 | EnvY | DanZmeN | 45411361 | The Sixth Deadly Sin...
 | LyZ | Wixers | 43724724 | I hope you Enjoy it! :D
-| Phobos | DangerKat | 42466137 | Guitar pasate phobos :v
 | Minor | Optical | 42287767 | Made with 1000 objects.
 | Guardian | LazerBlitz | 41308635 | Subscribe to Lazerblitz
 | Frigid | Optical | 40182264 | Fan-made SubZero level!
