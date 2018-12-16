@@ -2,12 +2,8 @@ package gd;
 
 import gd.model.GDSong;
 
-import java.io.UnsupportedEncodingException;
-import java.net.URLDecoder;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Set;
-
 
 /**
  * Contains utility static methods

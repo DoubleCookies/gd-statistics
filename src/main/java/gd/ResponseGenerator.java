@@ -47,8 +47,7 @@ public class ResponseGenerator {
         System.out.println("[" +dateFormat.format(new Date()) + "] Music list created.");
         info.add(generateBuildersList(levels));
         System.out.println("[" +dateFormat.format(new Date()) + "] Builders list created.");
-        String[] result = info.toArray(new String[0]);
-        return result;
+        return info.toArray(new String[0]);
     }
 
     private static List<String> generateListDiffs(List<GDLevel> levels) {
@@ -56,7 +55,7 @@ public class ResponseGenerator {
         String[] stringArray = new String[length];
         StringBuilder[] builders = new StringBuilder[length];
         int[] counter = new int[length];
-        for(int i =0; i < length;i++)
+        for(int i = 0; i < length; i++)
         {
             builders[i] = new StringBuilder();
             builders[i].append("| Name | Creator | ID | Downloads | Likes |\n");
@@ -69,7 +68,7 @@ public class ResponseGenerator {
             counter[i]++;
             builders[length-1].append(level.markdownString() + "\n");
         }
-        for(int i =0; i < length-1;i++)
+        for(int i = 0; i < length-1;i++)
         {
             builders[i].insert(0, "#### Total: " + counter[i] + " levels\n\n");
             stringArray[i] = builders[i].toString();
@@ -81,7 +80,7 @@ public class ResponseGenerator {
     }
 
     private static String generateListWithLongestDescr(List<GDLevel> levels) {
-        int counter=0;
+        int counter = 0;
         StringBuilder builder = new StringBuilder();
         builder.append("| Name | Creator | ID | Description |\n");
         builder.append("|:---:|:---:|:---:|:---:|\n");
@@ -97,7 +96,7 @@ public class ResponseGenerator {
 
     static String[] generateTopDemonsList() {
         String[] stringArray = new String[1];
-        int counter=0;
+        int counter = 0;
         StringBuilder builder = new StringBuilder();
         builder.append("| Name | Creator | ID | Downloads | Likes |\n");
         builder.append("|:---:|:---:|:---:|:---:|:---:|\n");
@@ -116,7 +115,7 @@ public class ResponseGenerator {
     }
 
     private static String generateMusicList(List<GDLevel> levels) {
-        int counter=0;
+        int counter = 0;
         StringBuilder builder = new StringBuilder();
         builder.append("| Name | Author | ID | Count |\n");
         builder.append("|:---:|:---:|:---:|:---:|\n");
@@ -193,7 +192,7 @@ public class ResponseGenerator {
 
     private static List<GDLevel> getMostPopularFeatured(int diffCode) {
         List<GDLevel> list = new ArrayList<>();
-        int i =0;
+        int i = 0;
         try {
 
             while(true) {
@@ -238,18 +237,18 @@ public class ResponseGenerator {
     private static void addingSelection(int diffCode, List<GDLevel> list, int i, String res) {
         switch (diffCode)
         {
-            case 1: {addLevelsToList(list, i, res, Difficulty.AUTO); break;}
-            case 2: {addLevelsToList(list, i, res, Difficulty.EASY); break;}
-            case 3: {addLevelsToList(list, i, res, Difficulty.NORMAL); break;}
-            case 4: {addLevelsToList(list, i, res, Difficulty.HARD); break;}
-            case 5: {addLevelsToList(list, i, res, Difficulty.HARDER); break;}
-            case 6: {addLevelsToList(list, i, res, Difficulty.INSANE); break;}
-            case 7: {addLevelsToList(list, i, res, DemonDifficulty.EASY); break;}
-            case 8: {addLevelsToList(list, i, res, DemonDifficulty.MEDIUM); break;}
-            case 9: {addLevelsToList(list, i, res, DemonDifficulty.HARD); break;}
-            case 10: {addLevelsToList(list, i, res, DemonDifficulty.INSANE); break;}
-            case 11: {addLevelsToList(list, i, res, DemonDifficulty.EXTREME); break;}
-            default: {addLevelsToList(list, i, res); break;}
+            case 1: { addLevelsToList(list, i, res, Difficulty.AUTO); break;}
+            case 2: { addLevelsToList(list, i, res, Difficulty.EASY); break;}
+            case 3: { addLevelsToList(list, i, res, Difficulty.NORMAL); break;}
+            case 4: { addLevelsToList(list, i, res, Difficulty.HARD); break;}
+            case 5: { addLevelsToList(list, i, res, Difficulty.HARDER); break;}
+            case 6: { addLevelsToList(list, i, res, Difficulty.INSANE); break;}
+            case 7: { addLevelsToList(list, i, res, DemonDifficulty.EASY); break;}
+            case 8: { addLevelsToList(list, i, res, DemonDifficulty.MEDIUM); break;}
+            case 9: { addLevelsToList(list, i, res, DemonDifficulty.HARD); break;}
+            case 10: { addLevelsToList(list, i, res, DemonDifficulty.INSANE); break;}
+            case 11: { addLevelsToList(list, i, res, DemonDifficulty.EXTREME); break;}
+            default: { addLevelsToList(list, i, res); break;}
         }
     }
 
@@ -269,7 +268,7 @@ public class ResponseGenerator {
             case 2: { list.sort(ascendingLikesComparator); break;}
             case 3: { list.sort(descendingDownloadsComparator); break;}
             case 4: { list.sort(ascendingDownloadsComparator); break;}
-            case 5: {list.sort(descriptionLengthComparator); break;}
+            case 5: { list.sort(descriptionLengthComparator); break;}
         }
     }
 }

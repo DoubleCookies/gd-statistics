@@ -47,47 +47,6 @@ public abstract class GDServer {
 
 			return result.replaceAll("\n", "");
 	}
-	
-	/**
-	 * Fetches the latest awarded levels
-	 * 
-	 * @return server response as String
-	 * @throws IOException
-	 *             if a problem occurs while connecting to GD servers
-	 */
-	public static String fetchNewAwardedLevels() throws IOException {
-		return sendRequest("getGJLevels21.php",
-				"gameVersion=21&binaryVersion=34&gdw=0&type=11&str=&diff=-&len=-&page=0&total=0"
-						+ "&uncompleted=0&onlyCompleted=0&featured=0&original=0&twoPlayer=0&coins=0&epic=0"
-						+ "&secret=" + SECRET);
-	}
-
-	/**
-	 * Fetches the latest uploaded levels
-	 * @return server response as String
-	 * @throws IOException
-	 *             if a problem occurs while connecting to GD servers
-	 */
-	public static String fetchMostRecentLevels() throws IOException {
-		return sendRequest("getGJLevels21.php",
-				"gameVersion=21&binaryVersion=34&gdw=0&type=4&str=&diff=-&len=-&page=0&total=9999"
-				+ "&uncompleted=0&onlyCompleted=0&featured=0&original=0&twoPlayer=0&coins=0&epic=0"
-				+ "&secret=" + SECRET);
-	}
-
-    /**
-     * Fetches the latest epic levels
-     * @param i number of page
-     * @return server response as String
-     * @throws IOException
-     *             if a problem occurs while connecting to GD servers
-     */
-    public static String fetchRecentEpicLevels(int i) throws IOException {
-        return sendRequest("getGJLevels21.php",
-                "gameVersion=21&binaryVersion=34&gdw=0&type=4&str=&diff=-&len=-&page=" + i + "&total=0"
-                        + "&uncompleted=0&onlyCompleted=0&featured=0&original=0&twoPlayer=0&coins=0&epic=1"
-                        + "&secret=" + SECRET);
-    }
 
     /**
      * Fetches the latest featured levels
@@ -116,18 +75,4 @@ public abstract class GDServer {
 						+ "&uncompleted=0&onlyCompleted=0&featured=0&original=0&twoPlayer=0&coins=0&epic=0"
 						+ "&secret=" + SECRET);
 	}
-
-    /**
-     * Fetches the latest awarded levels. This method doesn't work properly.
-     * @param i number of page
-     * @return server response as String
-     * @throws IOException
-     *             if a problem occurs while connecting to GD servers
-     */
-    public static String fetchRecentAwardedLevels(int i) throws IOException {
-        return sendRequest("getGJLevels21.php",
-                "gameVersion=20&binaryVersion=34&gdw=0&type=11&str=&diff=-&len=-&page=" + i + "&total=0"
-                        + "&uncompleted=0&onlyCompleted=0&featured=0&original=0&twoPlayer=0&coins=0&epic=0"
-                        + "&secret=" + SECRET);
-    }
 }

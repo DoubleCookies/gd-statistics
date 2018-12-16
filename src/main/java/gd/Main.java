@@ -82,11 +82,11 @@ public class Main {
         switch (sortingCode)
         {
             case 1: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending likes" + filetype); break;}
-            case 2: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending likes"+ filetype); break;}
+            case 2: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending likes" + filetype); break;}
             case 3: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending downloads" + filetype); break;}
             case 4: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending downloads" + filetype); break;}
             case 5: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with longest descriptions" + filetype); break;}
-            default: {out = new FileOutputStream(baseFolder + secondFolder + prefix + " list"+ filetype); break;}
+            default: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list" + filetype); break;}
         }
         return out;
     }
