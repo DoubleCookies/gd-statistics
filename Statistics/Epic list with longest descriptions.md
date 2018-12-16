@@ -1,4 +1,4 @@
-#### Total: 1290 levels
+#### Total: 1292 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -495,6 +495,7 @@
 | Degraded Energy | Piseto | 37253890 | "Degraded Energy"  Megacollab with: TheRealRow,Zoomks,RekindL,Nashii and DavJT. I hope you enjoy it =)
 | Geist  | fishtoon | 32985059 | awesome collab with itztropica! really cool creator, go check him out he sure deserves more attention!
 | Mechanical Storm | AutoNick | 50195187 | Rafer inspired me a lot recently, which is why I want to dedicate this (for me) special level to him!
+| Ghostbusters | X trailz | 49551087 | This is actually an experimental lvl, i did never try this style and now its EPIC, thx to everyone :D
 | Forrest Gamp | Th04 | 48871881 | My best and last level.  Thank you all for the support and playing my levels, it really means alot.  
 | Aquamarine | Lemons | 47348577 | Well here it is, my majestic Viprin CC9 contest entry... Enjoy this blue easy demon :) Pass is 040400
 | The Reign Of Moira | Elisione | 46649388 | not overwatch shut up. low detail is in the bottom left corner of the menu so shut up about that too.
@@ -653,6 +654,7 @@
 | Furia | f3lixsram | 34160738 | A collab with Jirk and one of my bests levels :3 Pass on my youtube channel, have fun :D
 | Decorus | f3lixsram | 31234058 | A spicy collab with killua282 ! Video and pass on my youtube channel, have a good day :D
 | HyperParadox | ChaSe | 21920664 | Amazing collab with Borgen!!! Big thanks to him for this level! Hope you like it! Enjoy!
+| skitten | OSIRIS GD | 51046058 | old level inspired in skitten, i hope you like this and have fun! thanks for playing :)
 | Space Magic | Serponge | 50211341 | 47k obj - Tried to optimise as much both LDM and full details, hope you'll have fun! :)
 | MahaMeru | ZeeToss | 50168329 | Introducing my new master piece. 19k obj and made in 2 weeks. For JerkRat CC2. Enjoy :)
 | Hex | OpteX | 49447022 | My first 2.1 level, a huge thanks to all those who kept motivating me to finish a level

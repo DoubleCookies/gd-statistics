@@ -67,6 +67,7 @@ ithedarki | 5
 RadiationV2 | 5
 RyanAB | 5
 Ballii | 5
+OSIRIS GD | 5
 FaekI | 5
 R3XX3R | 5
 Fault | 5
@@ -89,7 +90,6 @@ BryanC28 | 4
 stubbypinata | 4
 victorinoxX | 4
 neigefeu | 4
-OSIRIS GD | 4
 Nightlex | 4
 Hyenaedon | 4
 jacr360 | 4
@@ -283,6 +283,7 @@ TheDevon | 1
 JaoDay | 1
 ByMaxCraft | 1
 Zeidos | 1
+X trailz | 1
 ItzMezzo | 1
 THEREALPETER | 1
 Cloud72 | 1
