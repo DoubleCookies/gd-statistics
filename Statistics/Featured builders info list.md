@@ -56,8 +56,8 @@ Iid4sh3riI | 31
 Pipenashho | 30
 Oskux | 30
 IIINePtunEIII | 30
-balliii | 30
 ASonicMen | 30
+el3ctro1507 | 30
 KeiAs | 30
 GD Jose | 28
 NoWeek | 28
@@ -322,6 +322,7 @@ Snarlax523 | 9
 Yendis | 9
 Filaret | 9
 Minimi427 | 9
+RaccGD | 9
 xXLOCOXx | 9
 NiTro451 | 9
 Xnail | 9
@@ -373,7 +374,6 @@ ElEcmEtAl | 8
 Defiant | 8
 Stormfly | 8
 dhk2725 | 8
-RaccGD | 8
 Rlol | 8
 Drakaglin | 8
 Chiand | 8
@@ -828,6 +828,7 @@ RickTz | 3
 Glaid | 3
 DT Mark | 3
 TheJuandissimo | 3
+Crombie | 3
 LandonGMD | 3
 zBM | 3
 CreatorForce | 3
@@ -848,10 +849,10 @@ RNBW | 3
 Nik Gambardella | 3
 griffyn87 | 3
 Zaphkiel | 3
-Hunnie | 3
 RealsCoPa | 3
 Hahaha | 3
 Lipz | 3
+Fiiora | 3
 StrikeKing22 | 3
 Chaos | 3
 Ulasp | 3
@@ -1042,7 +1043,6 @@ WizTicFX | 2
 drakeghast | 2
 NoName01 | 2
 Pl4sma | 2
-Crombie | 2
 ZePor | 2
 Dastan21 | 2
 Amverial | 2
@@ -1999,6 +1999,7 @@ zuax | 1
 GodzDash | 1
 FaKob | 1
 Meteor Strike | 1
+JuanBit | 1
 crazilogan | 1
 Rashi | 1
 iiIneonIii | 1
@@ -2007,7 +2008,6 @@ DaKSouL | 1
 Mordeth | 1
 LimeGun | 1
 PixelCat | 1
-Tinom | 1
 mbed | 1
 xchezzex | 1
 ZiMkIl | 1
@@ -2203,7 +2203,6 @@ Pakki | 1
 FinnFlama | 1
 iIAtlinIi | 1
 DeS | 1
-ZheNt | 1
 GeRon | 1
 Ackr0 | 1
 Jcglasser | 1
@@ -2454,6 +2453,7 @@ Zacx199 | 1
 RealWater | 1
 GCDarkGGG | 1
 iiEthereal | 1
+Saionji | 1
 XXDalmanskiXX | 1
 NinjaShrimp | 1
 KriticK | 1

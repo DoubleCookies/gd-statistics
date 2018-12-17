@@ -1,5 +1,3 @@
 package gd.model;
 
-public class EmptyListException extends Exception {
-
-}
+public class EmptyListException extends Exception {}

@@ -32,14 +32,14 @@ public class ResponseGenerator {
             levels = getMostPopularFeatured(sortingCode);
         }
         else {
-            System.out.println("[" +dateFormat.format(new Date()) + "] Filter epic...");
+            System.out.println("[" +dateFormat.format(new Date()) + "] Filter epic levels...");
             levels.removeIf(item -> !item.isEpic());
         }
         if(levels == null || levels.size() == 0)
             throw new EmptyListException();
         System.out.println("[" +dateFormat.format(new Date()) + "] List received. Total " + levels.size() + " levels.");
         List<String> info = new ArrayList<>(generateListDiffs(levels));
-        System.out.println("[" +dateFormat.format(new Date()) + "] Difficulties list created.");
+        System.out.println("[" +dateFormat.format(new Date()) + "] Difficulties lists created.");
         String a = generateListWithLongestDescr(levels);
         info.add(a);
         System.out.println("[" +dateFormat.format(new Date()) + "] Longest description list created.");
@@ -68,7 +68,7 @@ public class ResponseGenerator {
             counter[i]++;
             builders[length-1].append(level.markdownString() + "\n");
         }
-        for(int i = 0; i < length-1;i++)
+        for(int i = 0; i < length-1; i++)
         {
             builders[i].insert(0, "#### Total: " + counter[i] + " levels\n\n");
             stringArray[i] = builders[i].toString();
