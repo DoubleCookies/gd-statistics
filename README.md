@@ -15,3 +15,6 @@ Tool for collecting statistics about Geometry Dash featured levels. Based on Ale
 ## Structure
 - **Statistics** folder contains a lot of markdown lists with different statistics information (most useful part, to be honest).
 - **src** folder contains... sources!
+
+## License
+This project has [MIT License](https://opensource.org/licenses/MIT)
