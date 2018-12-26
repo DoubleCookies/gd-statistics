@@ -1,4 +1,4 @@
-#### Total: 1309 levels
+#### Total: 1312 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -382,7 +382,7 @@
 | Lightning | RyanAB | 35842238 | For this one, I focused on how playable the level is, while attempting to still keep it hard! I hope you enjoy :)
 | Believer | SirHadoken | 35440747 | A mashup of the two levels that influenced me the most as a creator: Dreamer by FunnyGame and Believe by TriAxis!
 | Glitch | JirkGD | 34221069 | This time I decided to make an Easy 5* lvl | Dedicated to F3lix for being and amazing person, creator and friend.
-| Sunlit World II | JefryKawaiii | 31725532 | Finally..  Sunlit return - Collab with: RickTz  <3  Simple Level. :3 , Dedicated to: Optical and IZhar <3 LIKE!!!
+| Sunlit World II | suxide | 31725532 | Finally..  Sunlit return - Collab with: RickTz  <3  Simple Level. :3 , Dedicated to: Optical and IZhar <3 LIKE!!!
 | Reality | BadKlatt | 30559780 | My best level and first 2.1, But enjoy this level and Thanks all...! :D Entry for CC'2 realzober..... Hopefully !
 | Popcorn | Superopi | 28418019 | Amazing megacollab by: JaffyTaffy, Desticy, Chase, Superopi, Noriega and Goose! Verified by Chase :) Good luck 8)
 | Retro Hacker III | NoWeek | 50662053 | Well, at least, I tried to make something more decent this time. Thanks to Pyxidus for verify bugs on the level.
@@ -654,6 +654,7 @@
 | Vooper | Serponge | 29089716 | Worked hard on this one! I kept extending it xD Updated : second coin is now more fair :)
 | Impact X | NiTro451 | 28461869 | My first 2.1 level. I hope you enjoy it. Free copy. Please check my new level ToXiCiTy ;D
 | Cosm | shocksidian | 48722180 | Update: check the LDM box if the glowverdose at the drop is too much for your device :<>
+| Rhythm | VytraxVerbast | 48527568 | Lost in the rhythm *w*...1:30's of level and 60k objects :P Dedicated to CreatorDiana <3
 | optical | BlowMyPooh | 44807198 | Special made for optical. [LDM outside level, gets rit art and heavy moving structures].
 | Volatile | TheTrueEclipse | 43415745 | Enjoy my first demon! French Bandits CC2, Lythium CC2, and Mazl Gameplay CC. Easy demon?
 | Cold Fire | danolex | 42658263 | Amazing double collab with Izhar the other level was uploaded on his account have fun :D
@@ -701,7 +702,7 @@
 | Invasion | mulpan | 33796924 | It's finally done. This level must be quite difficult, but it'll be fun! Enjoy it :P
 | Inner Rival | FreakEd7 | 33528325 | You Are Your Own Enemy. Thanks For All The Support Guys! U Remember Me Rub-Senpai <3
 | Feels | RyanAB | 31396152 | My best level to date! Thanks for playing and please leave a like if you enjoyed! :D
-| Impurity | JefryKawaiii | 30190181 | Kawaii Creators Collab <3 - Rate 4 stars :D like!!! - :3 Dedicated to KanamiChan <3 
+| Impurity | suxide | 30190181 | Kawaii Creators Collab <3 - Rate 4 stars :D like!!! - :3 Dedicated to KanamiChan <3 
 | Span | motleyorc | 30178884 | Dedicated to all of my wonderful viewers. 25k Objects, for Pauze's CC. Please enjoy!
 | Another Easy Demon | BranSilver | 49108174 | Collab with DanZmeN!! oooh yes its finally out, and I only had to update it 2 times
 | Slanted | Knots | 48152571 | dont worry, everything is alright. this is probably just a dream... *pigeon sounds*
@@ -741,7 +742,7 @@
 | Circuit Bop | distortt | 38992577 | A fast-paced, simple yet fun level... Can you find all the coins? Well, enjoy :]
 | Sly Shuffle | MrKoolTrix | 38857027 | Can you surpass the kerfuffle with a sly shuffle? 39k objects used. Have fun! :)
 | Graveyard | SaabS | 38287659 | Halloween themed level :) Hope you enjoy! Update: LDM is much more usable now :)
-| The Light | JefryKawaiii | 36920682 | Collaboracion con: RickTZ - LeocreatorX - N R G <3 gracias por jugar! - Update 2
+| The Light | suxide | 36920682 | Collaboracion con: RickTZ - LeocreatorX - N R G <3 gracias por jugar! - Update 2
 | Distort | schady | 36443055 | Tried to do unique gameplay, and tried to make a 'glitch' effect for this one :)
 | Iro | Xstar7 | 35444390 | Iro: The Japanese word for Color. The official sequel to Niji ;) Please enjoy :)
 | Novalis | Gryllex | 33748382 | The hardest solo level I've created so far, Extreme demon difficulty, Good luck.
@@ -767,7 +768,7 @@
 | Anhydride | Svyre | 38129442 | Collab with CreatorCold. We're really proud of this! 51k objects. Pass: 365356
 | Encased | AeroStorm | 36518185 | Escaping the tension of it all.. (Updated to make last part less annoying.) :P
 | Drafty | Thomartin | 35818755 | New effect lvl based on animations :D Sorry for the long wait and thank you :*
-| Mescalink | JefryKawaiii | 34702638 | Gracias por jugar! - Collab with: Alfred PKness! - Jugar sus niveles :3 <3  *7
+| Mescalink | suxide | 34702638 | Gracias por jugar! - Collab with: Alfred PKness! - Jugar sus niveles :3 <3  *7
 | Fusionity | Piseto | 34424517 | Megacollab with: Hyperfox,Torch121,Bitzel,Zoomks,C Paola and Castrix! Enjoy =)
 | Overcharged | RadiationV2 | 34288763 | After almost a year, this megacollab with 23 awesome creators is finally done!
 | OutBurst | BloodStorm GD | 34198563 | hope you enjoy this amazing collab with Jaasim ! rate 7-8 stars )/ love you <3
@@ -926,7 +927,7 @@
 | FiX | Wixers | 44227133 | I hope you Enjoy it! Gameplay on my YT channel as always :)
 | Envious | LeocreatorX | 37818350 | My best lvl 8),For DreamEater CC  name suggested by Snarlax
 | yagmur | Berkoo | 35904510 | My new art level is here... and it's storm-themed! Enjoy :)
-| Dreamland | JefryKawaiii | 31462205 | Gracias por jugar :3 - Dedicado a todos los wapos 7w7 ahrre
+| Dreamland | suxide | 31462205 | Gracias por jugar :3 - Dedicado a todos los wapos 7w7 ahrre
 | Stressy | Robzombi | 49101798 | My new simple art level! dedicated to knots and litkira <3
 | Breakdown | Diaso | 48970244 | this isnt a sequel to Takedown, the names are just similar
 | Unique  | Pipenashho | 47674962 | The eyes was the window from your soul! hope you enjoy. :)
@@ -1053,6 +1054,7 @@
 | Mystical Vibrant | Olympic | 31674537 | Thank you. password in my YouTube Channel
 | Simple Travel | danolex | 30689427 | Thanks for playing..Hope you like Guys :)
 | Emotional Journey | RadiationV2 | 24676724 | My 2.0 masterpiece, rate demon please! :D
+| Epic Drive | ithedarki | 51164415 | A new level! Trying something new again)
 | Atmosphere | Fault | 50309126 | that thing between the earth and the sky
 | Monolithic Rush | BranSilver | 44089512 | Monster Gauntlet entry! updated version!
 | Flage | Regulus24 | 39356953 | Definitely my best. I hope you enjoy it!
@@ -1121,7 +1123,7 @@
 | Wake Up | mulpan | 29096428 | First 2.1 Level :P / Pass - oooo
 | SimPle JumP 2 | izhar | 28087089 | Can you get the 3 coins? Ha ha..
 | Inseparable | Ballii | 46755826 | Inspired by Erdyuri, for Suzume
-| Fire Boi | JefryKawaiii | 46026306 | v3: Christmas Update! Enjoy! <3
+| Fire Boi | suxide | 46026306 | v3: Christmas Update! Enjoy! <3
 | Xenomorphosis | goose | 44686830 | 1 year later......my best level
 | Orbitwolf | WerewolfGD | 41178950 | Breath....... Enjoy and rate 7*
 | Ivory | BranSilver | 38517145 | Thanks for epic RobTop!!!!!! :D
@@ -1146,6 +1148,7 @@
 | Volt | Kips | 32705925 | lo detail adddeddddhchjdjjdj
 | Veto | Optical | 29112193 | Focus on user interaction :)
 | Yes | BryanC28 | 49217317 | Description [Simple level?]
+| Vivid | Alt3r3d | 48454347 | i think you may love it uwu
 | Cumi Asin | Xevenfurious | 47244406 | ADDED MORE DECO , as u wish
 | Amorous | Jayuff | 45937808 | gayest level i've ever made
 | Solluna | AmorAltra | 43711117 | Day and night, Sun and moon

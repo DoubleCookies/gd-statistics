@@ -42,6 +42,7 @@ NoWeek | 8
 DangerKat | 8
 mulpan | 8
 Manix648 | 8
+ithedarki | 7
 Nikce | 7
 luis JR | 7
 BadKlatt | 7
@@ -52,11 +53,10 @@ Hyenada | 6
 haoN | 6
 AutoNick | 6
 schady | 6
-ithedarki | 6
 Alkatraz | 6
 Ferdefunky | 6
 OSIRIS GD | 6
-JefryKawaiii | 6
+suxide | 6
 Enlex | 6
 Ragnarok96 | 6
 DesTicY | 6
@@ -225,6 +225,7 @@ TD Epic | 2
 Konobiz | 2
 DepisH16 | 2
 Flashmick72 | 2
+VytraxVerbast | 2
 Stroiter | 2
 SkyGazer | 2
 GirlyAle02 | 2
@@ -385,6 +386,7 @@ Zafkiel7 | 1
 Coolyoman | 1
 piramidka | 1
 GDSlimJim | 1
+Alt3r3d | 1
 Pxj | 1
 Wintter | 1
 Ezel142 | 1
@@ -403,7 +405,6 @@ Real48EggNogZ | 1
 G3ingo | 1
 GUYdurian | 1
 MoonSpark | 1
-VytraxVerbast | 1
 DimusLv | 1
 Th04 | 1
 Svyre | 1
