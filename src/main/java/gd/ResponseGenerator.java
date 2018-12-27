@@ -14,6 +14,8 @@ import java.util.stream.IntStream;
 
 /**
  * Class for generating level lists
+ *
+ * @author Killhtf
  */
 public class ResponseGenerator {
 
@@ -82,12 +84,12 @@ public class ResponseGenerator {
     private static String generateListWithLongestDescr(List<GDLevel> levels) {
         int counter = 0;
         StringBuilder builder = new StringBuilder();
-        builder.append("| Name | Creator | ID | Description |\n");
-        builder.append("|:---:|:---:|:---:|:---:|\n");
+        builder.append("| Name | Creator | ID | Length | Description |\n");
+        builder.append("|:---:|:---:|:---:|:---:|:---:|\n");
         sortLevelList(levels, 5);
         for(GDLevel level : levels)
         {
-            builder.append(level.markdownWithDescrString() + "\n");
+            builder.append(level.markdownWithDescriptionString() + "\n");
             counter++;
         }
         builder.insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");

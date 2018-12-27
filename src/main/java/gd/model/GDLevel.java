@@ -7,8 +7,8 @@ import gd.enums.Difficulty;
  * Represents one level in Geometry Dash. All statistics and attributes of a Geometry
  * Dash level are defined here (name, creator, difficulty, stars, length, etc)
  * 
- * @author Alex1304
- *
+ * @author Alex1304 (almost everything there)
+ * @author Killhtf (different toString methods)
  */
 public class GDLevel {
 	
@@ -240,30 +240,12 @@ public class GDLevel {
 	}
 
 	/**
-	 * Sets the type of Demon difficulty
-	 *
-	 * @param demonDifficulty - gd.enums.DemonDifficulty
-	 */
-	public void setDemonDifficulty(DemonDifficulty demonDifficulty) {
-		this.demonDifficulty = demonDifficulty;
-	}
-
-	/**
 	 * Sets the number of stars assigned to the level
 	 *
 	 * @param stars - short
 	 */
 	public void setStars(short stars) {
 		this.stars = stars;
-	}
-
-	/**
-	 * Sets the featured score of the level, or a value &lt;= 0 if not featured
-	 *
-	 * @param featuredScore - int
-	 */
-	public void setFeaturedScore(int featuredScore) {
-		this.featuredScore = featuredScore;
 	}
 
 	/**
@@ -335,21 +317,32 @@ public class GDLevel {
 		return gdSong;
 	}
 
-	public void setGdSong(GDSong gdSong) {
-		this.gdSong = gdSong;
-	}
-
+	/**
+	 * Default overrided toString() method
+	 *
+	 * @return string with name, creator, id, amount of likes and downloads
+	 */
 	@Override
 	public String toString() {
 		return "\"" + name + "\" by " + creator + " (" + id + ") — likes: " + likes + ", downloads: " + downloads;
 	}
 
+	/**
+	 * Create string for markdown tables
+	 *
+	 * @return markdown string with name, creator, id, amount of likes and downloads
+	 */
 	public String markdownString() {
 		return "| " + name + " | " + creator + " | " + id + " | " + downloads + " | " + likes;
 	}
 
-	public String markdownWithDescrString() {
-		return "| " + name + " | " + creator + " | " + id + " | " + description;
+	/**
+	 * Create string for markdown tables about level descriptions
+	 *
+	 * @return markdown string with name, creator, id, description length and description itself
+	 */
+	public String markdownWithDescriptionString() {
+		return "| " + name + " | " + creator + " | " + id + " | " + description.length() + " | " + description;
 	}
 
 	@Override
