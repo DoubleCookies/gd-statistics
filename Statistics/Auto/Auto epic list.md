@@ -2,7 +2,7 @@
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| technoloid | hypercube1 | 34059030 | 1478213 | 241296
-| Emotional Release II | Serponge | 39955946 | 920750 | 119500
-| What The F | Serponge | 41621791 | 809979 | 89117
-| Stick Figure Maze 2 | Coolyoman | 32713497 | 714122 | 118560
+| technoloid | hypercube1 | 34059030 | 1479974 | 241527
+| Emotional Release II | Serponge | 39955946 | 921552 | 119587
+| What The F | Serponge | 41621791 | 811126 | 89218
+| Stick Figure Maze 2 | Coolyoman | 32713497 | 715364 | 118735

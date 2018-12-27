@@ -6,10 +6,10 @@ Tool for collecting statistics about Geometry Dash featured levels. Based on Ale
 
 ## Features
 - Collect information about featured and epic levels.
-- Split levels by difficulties.
-- List with longest descriptions.
+- Split statistics by difficulties.
+- List with longest levels descriptions.
 - Information about most used soundtracks.
-- Also information about "featured" creators!
+- Also information about most productive "featured" and "epic" creators!
 - Little bonus: top-50 most popular demons!
 
 ## Structure

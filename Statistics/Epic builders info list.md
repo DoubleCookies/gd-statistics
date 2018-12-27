@@ -11,10 +11,10 @@ Jayuff | 15
 SaabS | 15
 Nico99 | 15
 Optical | 14
+WerewolfGD | 13
 Knots | 13
 Wixers | 12
 izhar | 12
-WerewolfGD | 12
 SirHadoken | 12
 rafer | 11
 LeocreatorX | 11
@@ -201,6 +201,7 @@ Spym | 2
 Echonox | 2
 HollowEarth | 2
 GDLoco | 2
+Anubis GD | 2
 Ploid | 2
 FozaeKitty | 2
 KFAOpitar | 2
@@ -313,6 +314,7 @@ Male20 | 1
 iISpaceDustIi | 1
 Ellisha | 1
 OmegaFalcon | 1
+Real48NogZ | 1
 Shuffle49 | 1
 EmyX | 1
 Geom3zon | 1
@@ -350,7 +352,6 @@ ML500 | 1
 Drob3 | 1
 Vrymer | 1
 ZecretGD | 1
-Anubis GD | 1
 xKstrol | 1
 Soulsand | 1
 Phaneron | 1
@@ -401,7 +402,6 @@ TheRealDarnoc | 1
 Nicki1202 | 1
 fishtoon | 1
 By7on | 1
-Real48EggNogZ | 1
 G3ingo | 1
 GUYdurian | 1
 MoonSpark | 1

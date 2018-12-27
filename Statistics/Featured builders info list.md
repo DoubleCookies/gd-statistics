@@ -60,6 +60,7 @@ ASonicMen | 30
 el3ctro1507 | 30
 KeiAs | 30
 GD Jose | 28
+WerewolfGD | 28
 NoWeek | 28
 Dudex | 27
 Nicki1202 | 27
@@ -68,7 +69,6 @@ Hyenada | 27
 AbstractDark | 27
 SaabS | 27
 RealZober | 27
-WerewolfGD | 27
 noobas | 26
 Florent | 26
 DesTicY | 26
@@ -587,6 +587,7 @@ Kyromi | 5
 RedDragoN1404 | 5
 Fir3wall | 5
 HyperSoul | 5
+Anubis GD | 5
 ClasterJack | 5
 DarkEvan | 5
 JiJangs | 5
@@ -609,6 +610,7 @@ DavJT | 5
 Colombia Dash | 5
  Swift  | 5
 Whitehead | 5
+Real48NogZ | 5
 EVAD3 | 5
 Desx74 | 5
 TheEvolution2 | 5
@@ -628,7 +630,6 @@ Zafkiel7 | 5
 Scxpe | 5
 TMNGaming | 5
 BoyoftheCones | 5
-Real48EggNogZ | 5
 RexionZ | 5
 GDFlake | 5
 Knobbelboy | 5
@@ -719,7 +720,6 @@ TruDee Fabian | 4
 zombier | 4
 Aru9 | 4
 GDLoco | 4
-Anubis GD | 4
 DemonBestGG | 4
 Slashvoid | 4
 TrueAspiral | 4
@@ -887,6 +887,7 @@ DJslimeYT327 | 3
 oligarhen | 3
 D0meR | 3
  Cancel | 3
+Nexender | 3
 Glouti | 3
 im fernando | 3
 GDL7u7 | 3
@@ -1153,7 +1154,6 @@ nurong3 | 2
 HelpegasuS | 2
 EmyX | 2
 flunker5 | 2
-Nexender | 2
 CorroX | 2
 tombrid | 2
 WhiPerZz | 2
@@ -1193,6 +1193,7 @@ Enboy | 2
 Airus X | 2
 Aslambek | 2
 AEROSTATIK | 2
+Neutrii | 2
 VytraxVerbast | 2
 DryBones | 2
 RealInf3ction | 2
@@ -1521,7 +1522,6 @@ dudley | 1
 Tomwinns15 | 1
 anderxab1 | 1
 AlrexX | 1
-TaeilMX127 | 1
 TDG Productions | 1
 WSKKung | 1
 joelmacool | 1
@@ -1606,6 +1606,7 @@ Geemi | 1
 Koooper | 1
 scrumpy | 1
 Sensation | 1
+SPAnjony | 1
 NosiGamer | 1
 Plygon | 1
 Aleiz21 | 1
@@ -1903,6 +1904,7 @@ FieryGlaceon | 1
 Nach170 | 1
 zim | 1
 Maiki012 | 1
+xSonicJr | 1
 Doge164 | 1
 Priisma | 1
 Sir Heis | 1
@@ -1935,7 +1937,6 @@ Metronic | 1
 Oskulicious | 1
 edc | 1
 Step4enko | 1
-Neutrii | 1
 DimusLv | 1
 xJadztax | 1
 Quatrum | 1
@@ -2175,7 +2176,6 @@ Zak Senpai | 1
 llKrooXll | 1
 Lucaryio | 1
 Nosaima | 1
-crazyalpha | 1
 Oxiblitz | 1
 XxspacekatzxX | 1
 Gragon | 1
@@ -2394,6 +2394,7 @@ Reminant | 1
 DangerZ | 1
 Flups | 1
 LouisPF494 | 1
+JimJunTae | 1
 MetryMasterJJ | 1
 OdeII | 1
 Djoxy | 1

@@ -1,4 +1,4 @@
-#### Total: 1312 levels
+#### Total: 1314 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -379,6 +379,7 @@
 | 645399 | Lifesound | [Progressive] Lifesound - Origins | 1
 | 405786 | Stratales | The Cake Tastes Fine | 1
 | 739625 | DetiousMusic | Detious - Envision | 1
+| 825634 | dirtypawsofficial | DirtyPaws - Secrets (Original Mix) | 1
 | 758065 | Xtrullor | Xtrullor & HeliXiX - The One Who Flies | 1
 | 473413 | F-777 | F-777 - Viper (Full) | 1
 | 598349 | Waterflame | -Final Battle- | 1
@@ -681,6 +682,7 @@
 | 560628 | DuoCore | DuoCore - Beyond | 1
 | 691703 | vffg | Kumquat | 1
 | 712184 | OfficialNovacore | LazyTown - We Are Number One (Dubstep Remix) | 1
+| 499194 | Euphy | S. - Cavalcade Evolution | 1
 | 60938 | cycerin | Wet Asphalt | 1
 | 620049 | Xtrullor | Hidden Dangers [DUBSTEP] | 1
 | 613929 | F-777 | Dance Of The Violins | 1

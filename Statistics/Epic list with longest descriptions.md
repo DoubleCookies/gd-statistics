@@ -1,4 +1,4 @@
-#### Total: 1312 levels
+#### Total: 1314 levels
 
 | Name | Creator | ID | Description |
 |:---:|:---:|:---:|:---:|
@@ -533,7 +533,7 @@
 | All Around | Flukester | 40091034 | Definitely my best. Be sure to play thru the whole level :D The drop is amazing. Merry Christmas :)
 | Pastel | beptile | 32402517 | ;) Thanks for Epic Rob! And thanks to Squall, Pauze, Bucc, and RyanAB for sending :D (Added LDM :D)
 | Drift | Superopi | 30102666 | Quite hard in my opinion! Made in 2.0 but it's now a bit longer and I fixed some stuff! Have fun :)
-| Ruminant | Real48EggNogZ | 51090690 | Imagine not making a laggy level with over 40k objects (ldm in the bottom left corner by the way) 
+| Ruminant | Real48NogZ | 51090690 | Imagine not making a laggy level with over 40k objects (ldm in the bottom left corner by the way) 
 | Prime | Minity | 50284463 | after 6 and a half months of demotivation, lack of inspiration, here it is, prime. enjoy - rate 7*
 | Dreamy Abyss | f3lixsram | 47770907 | My new solo level, for viprin CC9 ! Hope you like it, have a nice day ;) Edit : It got 4th place !
 | TriForce | TroxxP1 | 47768149 | New Level dedicated to all my friends OwO. Thx for all the suport. Rate 5-6 stars (made in mobile)
@@ -628,6 +628,7 @@
 | IntensitY | Berkoo | 33613966 | Collab with JirkGD, check him out. He's awesome! First 25 seconds from him, rest from me :)
 | Aeflux | Lemons | 33381128 | I am very grateful for the epic even tho it dosen't deserve it <3 Hope you like the song :]
 | Shuriken | danolex | 29123017 | Thanks for playing it...Hope you like video on my youtube channel Enjoy!!! and Good Luck <3
+| Code | Anubis GD | 51115607 | Finally after a few weeks of absence I bring a new level, I hope you like it...Enyoy it :D
 | Whinging | Stroiter | 50360796 | i hope you like it, and thx Fairfax for helping me finish this, and for the level name :)!
 | Fonter | OptaWolfGD | 47342814 | I decided to do something different for once :) Made in 27h. Dedicated to Fonter <3 Enjoy!
 | Grim Reaper | mulpan | 46817283 | I wanted to make an old style. But you might feel a little more generic. Anyway, enjoy it!
@@ -638,6 +639,7 @@
 | ChapTer | Xylph | 36764284 | Updated again and fixed the 90% transition 8) Dedicated to Fariszk7 :D thx for epic rub <3
 | Melodic Spell | Darwin | 35291800 | Third level of the "Spell" serie :3 effect this time !  i hope you'll enjoy it, GL HF ^^)/
 | ColorShine | Enlex | 31298966 | First 2.1 level! Awesome collab with Zwenty :3 Thanks for Epic rob <3   (for Viprin's CC8)
+| Lychinius | WerewolfGD | 51071895 | 97% of this lvl made with glow owo | Name suggestion by DafaIdham | Enjoy and rate 7-8*! 
 | Neon | IFSGeorge | 50319229 | Vamos! -Layout by Blych95 :) | Pass on my channel :) #13 Guys, subscribe to my channel :)
 | Dark Paradox | SaabS | 48695322 | I was working whole summer on this. I hope you enjoy! For Enlex's CC3 and JonathanGD CC1.
 | Fantasy Winds | Luxew | 48075410 | Amazing collab with Drob3!  Enjoy :)...Dedicated to : Ashx & Minimi427  ~ FANTASY WINDS ~
@@ -728,6 +730,7 @@
 | Thought Process II | WolfenGD | 35455451 | really makes you think. (thanks to The Dolphiner for making me the thinking emoji)
 | RAPID | Berkoo | 31927876 | Collab with Torch121, please check him out! Thanks for epic 1st place and daily :O
 | Lucidum | f3lixsram | 31420516 | A cool easy demon collab with ragnarok96 ! Pass and video on my youtube channel :3
+| Epic Drive | ithedarki | 51164415 | A new level! Trying something new again) [Follow me to play my new levels first!]
 | Dusty Factory | Nico99 | 46878013 | New level with new animated pixel arts! Video and coin on my yt channel. Enjoy!!!
 | excessive | alkali | 44721808 | No need to worry about speed boosts in this one! Unique layout by Shig, gl hf! :D
 | Electrodynamix 2 | izhar | 38357498 | Collab with Osiris GD and Cyber Jupiter!! YAY! Video and pass on my YT channel :)
@@ -1054,7 +1057,6 @@
 | Mystical Vibrant | Olympic | 31674537 | Thank you. password in my YouTube Channel
 | Simple Travel | danolex | 30689427 | Thanks for playing..Hope you like Guys :)
 | Emotional Journey | RadiationV2 | 24676724 | My 2.0 masterpiece, rate demon please! :D
-| Epic Drive | ithedarki | 51164415 | A new level! Trying something new again)
 | Atmosphere | Fault | 50309126 | that thing between the earth and the sky
 | Monolithic Rush | BranSilver | 44089512 | Monster Gauntlet entry! updated version!
 | Flage | Regulus24 | 39356953 | Definitely my best. I hope you enjoy it!
