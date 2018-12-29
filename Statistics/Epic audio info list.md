@@ -1,4 +1,4 @@
-#### Total: 1314 levels
+#### Total: 1319 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -70,6 +70,7 @@
 | 778652 | CricketSaysChill | Fisher Price | 3
 | 737702 | Geoplex | Geoplex - Florescence | 3
 | 702912 | Cursedsnake | calm | 3
+| 770546 | dj-Nate | {dj-N} Geometry Bounce | 3
 | 463361 | Waterflame | -Bosshunter- | 3
 | 702983 | Xtrullor | Xtrullor - Birth of the Sun | 3
 | 782870 | bossfightofficial | Bossfight - Nock Em | 3
@@ -180,7 +181,6 @@
 | 530913 | Xtrullor | Wonderpunch | 2
 | 676349 | Schtiffles | Ghost House | 2
 | 645631 | lchavasse | ~:Lunar Abyss:~ | 2
-| 770546 | dj-Nate | {dj-N} Geometry Bounce | 2
 | 637450 | Xsalvaz | Panda Dance | 2
 | 655888 | DeadRewind | Detious - Telluric (Original Mix) | 2
 | 727594 | Volterix | Volterix - Pulsar | 2
@@ -202,6 +202,7 @@
 | 692963 | MrKoolTrix | Confuzzled | 2
 | 604897 | Jumper | Jumper - To Worlds End | 2
 | 731894 | ColBreakz | ColBreakz - Twinrova | 2
+| 684816 | Fionnhodgson | fï½•cï½ˆsï½‰a ï½ƒiï½”y | 2
 | 500495 | Acid-Notation | ---Kitty--- | 2
 | 815901 | KaixoMusic | Quixotic (Original Mix) | 2
 | 719636 | NeonRage | Reversed | 2
@@ -322,6 +323,7 @@
 | 542728 | Omnivore | Omnivore - Drowning | 1
 | 385048 | DavidOrr | -Orr- Soaring in the Stars | 1
 | 555026 | SKILLZmakeKILLZ | SmK - Reanimated | 1
+| 579626 | Elephly | Bash | 1
 | 792620 | dirtypawsofficial | DirtyPaws - ALIEN (Original Mix) | 1
 | 798764 | F-777 | F-777 - Dubstepah | 1
 | 639033 | MrKoolTrix | Times Sublime | 1
@@ -510,7 +512,6 @@
 | 590577 | ForeverBound | Stereo Madness 2 | 1
 | 727817 | Djjaner | Eliminator (Contest Remake/Remix) | 1
 | 713482 | 1f1n1ty | Mystical Forest (1f1n1ty Mini Remix) | 1
-| 684816 | Fionnhodgson | fï½•cï½ˆsï½‰a ï½ƒiï½”y | 1
 | 768781 | SpazeUnofficial | Spaze - Money | 1
 | 688899 | dexarson | Dex Arson - Immunity | 1
 | 684828 | meganeko | Super Mario World - Castle Theme Remix | 1
@@ -596,7 +597,9 @@
 | 556081 | OcularNebula | The Lopez | 1
 | 724043 | Lockyn | TRUE - Hiryuu no Kishi (Lockyn Remix) | 1
 | 650320 | Mattashi | Here They Come | 1
+| 832588 | MrKoolTrix | Liven Up! | 1
 | 701507 | AzazalEDM | Azazal - Right Meow | 1
+| 838726 | CreoMusic | Creo - Glome | 1
 | 697410 | BoomKitty | Danque | 1
 | 541786 | Rukkus | NK - Fairydust | 1
 | 744530 | Psybot | Psybot - Enhanced | 1

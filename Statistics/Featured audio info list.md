@@ -1,4 +1,4 @@
-#### Total: 12173 levels
+#### Total: 12194 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -60,12 +60,12 @@
 | 561277 | Lockyn | Lockout | 25
 | 508568 | Dimrain47 | The Falling Mysts | 25
 | 591412 | DjAbbic | Euphoria {Dj-Abbic} | 25
+| 64842 | Dimrain47 | Infernoplex | 25
 | 648035 | bossfightofficial | Milky Ways Redux | 24
 | 652927 | ThisIsTheFatRat | TheFatRat - Monody (feat. Laura Brehm) | 24
 | 665266 | bossfightofficial | Bossfight - Sonder | 24
 | 600451 | DJStriden | Level One | 24
 | 584324 | Xtrullor | Cry | 24
-| 64842 | Dimrain47 | Infernoplex | 24
 | 589597 | Jumper | Purity | 24
 | 544646 | Stratales | Spaghetti On The Side | 24
 | -19 | Waterflame | Geometrical Dominator | 23
@@ -96,6 +96,7 @@
 | 686789 | Namice | Open Your Eyes | 20
 | 478283 | Waterflame | -Haunted woods- | 20
 | 679344 | KabukiTunes | Anki & Kabuki - Come Alive | 20
+| 499772 | Dimrain47 | Duality | 19
 | 619258 | Jumper | Jumper - Beyond The Walls | 19
 | 431149 | bossfightofficial | Wobbly Tooth, Crunchy Apple | 19
 | 316681 | Waterflame | -Chaotic- | 19
@@ -106,7 +107,6 @@
 | 609313 | bossfightofficial | Bossfight - Glitch Gremlin | 19
 | 621675 | AeronMusic | Retry | 19
 | 597874 | Rukkus | Astronaut - 13 (Rukkus Remix) | 19
-| 499772 | Dimrain47 | Duality | 18
 | 704606 | bossfightofficial | Bossfight - Elevatia | 18
 | 110798 | Waterflame | -Race around the world- | 18
 | 463664 | F-777 | Fijiwiji- Insomnia (F-777 RMX) | 18
@@ -578,7 +578,6 @@
 | 581799 | megawolf77 | Remix â€¢ Super Mario Bros. | 5
 | 790745 | ColBreakz | Loxive & ColBreakz - Always With You <3 | 5
 | 745724 | lemons | Lemons & SirHadoken - Crystal Clear | 5
-| 155999 | tobycreed | Phazd | 5
 | 733545 | Schtiffles | Marbl | 5
 | 758119 | bossfightofficial | Dex Arson - Bipolar [Bossfight Remix] | 5
 | 659843 | Razorrekker | Another World | 5
@@ -649,6 +648,7 @@
 | 654295 | FillipsMen | New Dimensions | 5
 | 593001 | Qold | Timeless A-2 | 5
 | 605321 | DJStriden | Density | 5
+| 752857 | Miyolophone | Mandragora | 5
 | 482542 | megawolf77 | Cosmic Dolphin | 5
 | 634109 | Shtriga | Serenity | 5
 | 777494 | Sharks | Kotori & Similar Outskirts - Numazu (Sharks Remix) | 5
@@ -684,6 +684,7 @@
 | 708904 | lchavasse | ~:Lonely Forest:~ | 4
 | 221506 | Waterflame | -Orange- | 4
 | 541008 | Rukkus | ~NK~ Figures | 4
+| 155999 | tobycreed | Phazd | 4
 | 758101 | xDimMitx | Manila Killa & AObeats - Im Ok (DimMit remix) | 4
 | 479630 | Stryker92 | La Campanella Nu Rave | 4
 | 803223 | Xtrullor | Xtrullor - Arcana | 4
@@ -691,6 +692,7 @@
 | 520640 | 9Wave | Kortex Kasm | 4
 | 729537 | ColBreakz | ColBreakz & Boiria - Future Life | 4
 | 668139 | JoarZ | JoarZ - Bamboo (Short Version) | 4
+| 770546 | dj-Nate | {dj-N} Geometry Bounce | 4
 | 602613 | Geoplex | Duality | 4
 | 823812 | CreoMusic | Creo - Outlaw | 4
 | 737826 | Sharks | Said - Nya (Sharks remix) | 4
@@ -709,6 +711,7 @@
 | 574601 | MadhouseDUDE | Chipparoony | 4
 | 517270 | Stratales | Polarity | 4
 | 566422 | ForeverBound | Cosmic Harmony | 4
+| 771302 | Jassummisko | Uranus | 4
 | 464120 | Rukkus | ~NK~ "Sweet Dreams" FULL | 4
 | 697643 | Waterflame | -Below- | 4
 | 304432 | Fantomenk | DisChipo (disco chip) | 4
@@ -720,6 +723,7 @@
 | 570799 | kirja100 | Run Away | 4
 | 640423 | Domyeah | Domyeah - Final Race | 4
 | 796081 | ColBreakz | ColBreakz - Gold Ring | 4
+| 349627 | shadow6nothing9 | Quiet Slumber | 4
 | 755141 | Geoplex | Geoplex - Chimera | 4
 | 464352 | ParagonX9 | ParagonX9 - Red 13 | 4
 | 689624 | Argofox | DOCTOR VOX - Level Up [Argofox] | 4
@@ -746,6 +750,7 @@
 | 501631 | Geoplex | Fractal | 4
 | 800646 | CreoMusic | Creo - Slow Down | 4
 | 796604 | whiscaskaat | Leaves & Flowers | 4
+| 665585 | ACXLE | Nanobyte (original by Austin C) | 4
 | 296983 | Fantomenk | 8 bit dance party! | 4
 | 186428 | Rukkus | "Everlasting" | 4
 | 628806 | Thefz | A Spark Of Life | 4
@@ -770,9 +775,11 @@
 | 555607 | BoomKitty | Spicy Noodles | 4
 | 506474 | viewtifulday | Lift (viewtifulday Remix) | 4
 | 772738 | ColBreakz | ColBreakz - 30.000 | 4
+| 707245 | HoriZonDubs | Unbreakable | 4
 | 514722 | Acid-Notation | ---Bandit--- | 4
 | 461489 | DJS1207 | DJS - All I Ever Wanted Remix | 4
 | 817872 | BoomKitty | Shredageddon | 4
+| 740063 | N1NJA-Official | the beach | 4
 | 740062 | AikaMusic | Rainforest [ Chillstep ] | 4
 | 731894 | ColBreakz | ColBreakz - Twinrova | 4
 | 465681 | TIMarbury | ~NK~ VS TI:. Amity | 4
@@ -786,6 +793,7 @@
 | 781195 | MrKoolTrix | Rockin That Bass | 4
 | 175011 | zirconmusic | Warhead | 4
 | 658366 | djhoohaa | Where Are Ãœ Now (Ember Island Cover)(djhoohaa RMX) | 4
+| 826320 | ColBreakz | Saiph - Epimedium (ColBreakz Remix) | 4
 | 699343 | 1f1n1ty | Veva | 4
 | 490479 | Gls | Flawless Wings of Yatagarasu | 4
 | 695272 | MadhouseDUDE | Transform | 4
@@ -793,7 +801,6 @@
 | 498828 | Waterflame | -Rupture- | 4
 | 560315 | Stratales | Delta 03 | 4
 | 638150 | Waterflame | -ThunderZone v2- | 4
-| 752857 | Miyolophone | Mandragora | 4
 | 363730 | dj-Nate | {dj-N} Ambientronica | 4
 | 724179 | ggaero | Wake Up | 4
 | 163061 | DaGrahamCraka | Help Me Up | 4
@@ -826,6 +833,7 @@
 | 778463 | KaixoMusic | Ziggurat (Original Mix) | 3
 | 479470 | keosni391 | ~Boombox 2012~ | 3
 | 737526 | Lockyn | 3MBER + SRK - Night Owls (Lockyn Remix) | 3
+| 659744 | Blackhole12 | Avast Your Ass [Remix] | 3
 | 536893 | OcularNebula | Stab Victims! | 3
 | 639309 | AeronMusic | Sidestep | 3
 | 319829 | Fantomenk | CPU Mood (videogamedance) | 3
@@ -837,7 +845,6 @@
 | 713134 | ThisIsTheFatRat | TheFatRat - Elegy | 3
 | 688582 | lchavasse | ~:Drift:~ | 3
 | 750043 | ShutEye | Shut Eye - Our Home | 3
-| 770546 | dj-Nate | {dj-N} Geometry Bounce | 3
 | 684559 | Geoplex | Azure Dusk | 3
 | 463361 | Waterflame | -Bosshunter- | 3
 | 672264 | TheLivingTombstone | I Got No Time | 3
@@ -874,7 +881,6 @@
 | 795798 | Rosendale | Divine | 3
 | 779441 | xDimMitx | Zedd Feat. Alessia Cara - Stay (DimMit remix) | 3
 | 705736 | lchavasse | ~:Distance:~ | 3
-| 771302 | Jassummisko | Uranus | 3
 | 685298 | KaixoMusic | Encryptic (Original Mix) | 3
 | 599301 | MadhouseDUDE | Slam | 3
 | 742681 | CreoMusic | Creo - Ahead Of The Curve | 3
@@ -891,7 +897,6 @@
 | 718225 | meganeko | Empyrean | 3
 | 714130 | dexarson | Dex Arson - Lady Killer Instrumental | 3
 | 791974 | ephixa | ye | 3
-| 349627 | shadow6nothing9 | Quiet Slumber | 3
 | 509397 | Acid-Notation | ---Spiders--- | 3
 | 722400 | dexarson | Dex Arson - Rampage | 3
 | 591346 | EliteFerrex | Mega Man 2 Dr. Wily Elite | 3
@@ -929,9 +934,9 @@
 | 686032 | Jimmypig | Fira - The Temptation Of Knowledge | 3
 | 653252 | Waterflame | -Rivals- | 3
 | 718786 | meganeko | Computer Blues | 3
-| 665585 | ACXLE | Nanobyte (original by Austin C) | 3
 | 743414 | Envy | EnV - Valkyrie | 3
 | 555026 | SKILLZmakeKILLZ | SmK - Reanimated | 3
+| 579626 | Elephly | Bash | 3
 | 477238 | Blackhole12 | ~BH~ Cosminox | 3
 | 579645 | ForeverBound | Popping Flowers | 3
 | 714861 | csx42gaming | Evolve | 3
@@ -959,10 +964,8 @@
 | 215657 | dj-Nate | {dj-N} The Power | 3
 | 694911 | Waterflame | -Toil- | 3
 | 481927 | Kubbi | Bitpop | 3
-| 707245 | HoriZonDubs | Unbreakable | 3
 | 588452 | MadhouseDUDE | Check Out | 3
 | 223931 | F-777 | Journey Into Twilight - F-777 | 3
-| 740063 | N1NJA-Official | the beach | 3
 | 506586 | dj-Nate | {dj-N} halo4remix.com | 3
 | 117474 | cycerin | Winterbliss | 3
 | 666364 | Kyron20 | The Seven Seas Remake [F-777] | 3
@@ -973,7 +976,6 @@
 | 478081 | F-777 | F-777 - Not Afraid | 3
 | 748446 | MonvoiceT | Summer Girl [Deltrix Release] | 3
 | 535457 | iPixzel | Monochromatic Dreams | 3
-| 826320 | ColBreakz | Saiph - Epimedium (ColBreakz Remix) | 3
 | 162764 | Parkerman1700 | Tetris Remix [Final] | 3
 | 682970 | Waterflame | -Arcade Punk- (No vocal) | 3
 | 646113 | Lockyn | Hiatus | 3
@@ -1018,6 +1020,7 @@
 | 642765 | TheLivingTombstone | Squid Melody [Blue Version] | 3
 | 659143 | MsRAnthraX | Fairy Realm | 3
 | 532198 | OcularNebula | Eurorave Delirium | 3
+| 347881 | Waterflame | -Surface- | 3
 | 749324 | alexizgd | Flower Dance (AleXiz Remake & Remix) Newgrounds Version | 3
 | 634640 | SKILLZmakeKILLZ | Smk & Itro - Weekend (Ft. Lisa De Novo) | 3
 | 581396 | ESTAR48 | Dreamer | 3
@@ -1049,7 +1052,6 @@
 | 688354 | DJVI | On Tonight | 2
 | 680191 | mrfaller | SVMMIT - Sojourn | 2
 | 643356 | EliteFerrex | Let it Burn (8-bit) | 2
-| 659744 | Blackhole12 | Avast Your Ass [Remix] | 2
 | 794919 | OnlineGraphics | Bazzi - Mine (Zeuz Remix) | 2
 | 758065 | Xtrullor | Xtrullor & HeliXiX - The One Who Flies | 2
 | 811338 | Namice | Seashore | 2
@@ -1089,6 +1091,7 @@
 | 746216 | 1f1n1ty | Peaks | 2
 | 500479 | buttfloss | sadness incognito | 2
 | 660234 | VideogameMusician | Kirbys Dream Course: Stage 3 | 2
+| 684816 | Fionnhodgson | fï½•cï½ˆsï½‰a ï½ƒiï½”y | 2
 | 500495 | Acid-Notation | ---Kitty--- | 2
 | 447242 | DreamEater | Dire Dire Docks (Dj Sonik | 2
 | 815901 | KaixoMusic | Quixotic (Original Mix) | 2
@@ -1143,6 +1146,7 @@
 | 521606 | DJT3chnic | Lets Get Down (Dubstep) | 2
 | 595342 | Romos | Magic Touch(31SongMashup) | 2
 | 660867 | DJ-mellon | Alan Walker - Fade (RMX) | 2
+| 583068 | dj-Jo | unravel Dubstep Full Remix | 2
 | 447904 | Envy | Envy - Flare (Preview) | 2
 | 677265 | TheLivingTombstone | H3H3Productions - Two Handed Great Sword (Remix) | 2
 | 595361 | Rasmuz | Clouds | 2
@@ -1157,6 +1161,7 @@
 | 747006 | F-777 | F-777 - The Secret Dynasty | 2
 | 779763 | canonblade | Canonblade Escape | 2
 | 730609 | TheFlear | Back For More | 2
+| 538102 | Kubbi | Up In My Jam | 2
 | 30208 | Dimrain47 | Twilight Techno | 2
 | 665095 | Lunate | [Lunate]Rainy Waltz(Remix) | 2
 | 673286 | DJStriden | Melody From Hell [Dream Trance] | 2
@@ -1199,7 +1204,6 @@
 | 51203 | Mind-Portal | Fractating | 2
 | 591883 | megawolf77 | To the Happyâ™¥Park | 2
 | 776220 | Lockyn | Spirit of the Lilies | 2
-| 579626 | Elephly | Bash | 2
 | 600103 | GDPlayer | Xi - Halcyon GD | 2
 | 239675 | F-777 | Mountain Flowers - F-777 | 2
 | 628787 | SynthR | Starbound | 2
@@ -1274,6 +1278,7 @@
 | 572129 | EliteFerrex | 8-bit Vengeance | 2
 | 723722 | dj-Nate | {dj-N} God Complex Rmx | 2
 | 604941 | Flux64 | Transcendence | 2
+| 449306 | Waterflame | -Cats!- | 2
 | 109377 | Waterflame | -Dark seaside- | 2
 | 748361 | DJ-Zyzyx | Zyzyx - Reinforced | 2
 | 744264 | Schtiffles | Sawdust Angels | 2
@@ -1328,6 +1333,7 @@
 | 462155 | OcularNebula | Dysfunctional Love | 2
 | 712035 | Omnivore | ãƒã‚ªRENAISSANCE | 2
 | 572770 | steampianist | Fox-trot Fletcher | 2
+| 765306 | lchavasse | ~:Wander:~ | 2
 | 499066 | AetherNG | [Jay T] B-Bit Fantasy | 2
 | 773529 | PandaEyesOfficial | Panda Eyes - Take My Hand | 2
 | 347539 | AikaMusic | Kirbys Dreamland N64 | 2
@@ -1363,7 +1369,6 @@
 | 20171 | NemesisTheory | Show No Tears | 2
 | 704216 | Schtiffles | Nine Twelve | 2
 | 663274 | TheLivingTombstone | Ghostbusters Theme (Remix) | 2
-| 347881 | Waterflame | -Surface- | 2
 | 519927 | DJtheSdotcom | Gears of a King | 2
 | 171780 | SupraDarky | [SD] Strollin | 2
 | 478991 | Ihsman07 | Ghosts of Haunted Halls | 2
@@ -1390,6 +1395,7 @@
 | 516067 | SKILLZmakeKILLZ | SmK - Hybrid | 1
 | 630765 | Schtiffles | The Funk Tank | 1
 | 565217 | plasma3music | Sky Sanctuary Zone Remix | 1
+| 835557 | Lapse | Reentry+ | 1
 | 602086 | Evil-Dog | Evil-Dog - Old Times | 1
 | 737255 | MrKoolTrix | Sheepish | 1
 | 647143 | Soutfast | Rainbow | 1
@@ -1626,7 +1632,6 @@
 | 561914 | alextheDJ | Tetris B (B4SSfreq Remix) | 1
 | 369402 | YanX | Touhou 11 - The dark blowhole. | 1
 | 500476 | ForeverBound | Stereo Madness | 1
-| 684816 | Fionnhodgson | fï½•cï½ˆsï½‰a ï½ƒiï½”y | 1
 | 459522 | Sorrow-316 | VVVVVV - Pushing Onward | 1
 | 688897 | dexarson | Dex Arson - Round 3 | 1
 | 697093 | TheEvilDevil | Undertale - Gasters Theme [Electro Swing] | 1
@@ -1712,10 +1717,12 @@
 | 615479 | 1f1n1ty | Scorching Desert (1f1n1ty RMX) | 1
 | 451653 | TheBlackAssasin | Skrillex Cinema Remix | 1
 | 599120 | Collain | Collain - Reunion | 1
+| 832588 | MrKoolTrix | Liven Up! | 1
 | 721997 | TenodiBoris | Violin Dub | 1
 | 275534 | Waterflame | -Flight- | 1
 | 734273 | garlagan | Leight Weight | 1
 | 509014 | Solkrieg | [Silent Hill Dubstep]* | 1
+| 816218 | TeslaX11 | TeslaX - Celestial Abyss | 1
 | 816213 | SlyceCaik | Sonic Unleashed - Windmill Isle [DnB Remix] ???? | 1
 | 705617 | Pandasticality | Close To.. | 1
 | 492636 | Geoplex | Reflection | 1
@@ -1813,7 +1820,6 @@
 | 693648 | JoarZ | JoarZ - Clouds (Original Mix) | 1
 | 603536 | EliteFerrex | Inferno Unleashed | 1
 | 800134 | ValentInsanity | Valent - Radio Beam [Chipstep] | 1
-| 583068 | dj-Jo | unravel Dubstep Full Remix | 1
 | 718237 | 8-bitheroes | Hidden gem | 1
 | 750996 | Mydogbuddy7 | Futa Dick | 1
 | 710033 | SpazeUnofficial | Intereo - Ecstasy Love (Spaze Remix) | 1
@@ -1841,7 +1847,6 @@
 | 628222 | garlagan | Frisky Hornet | 1
 | 497149 | Acid-Notation | ---Crash--- | 1
 | 701938 | 5TanLey | Future Imperfect | 1
-| 538102 | Kubbi | Up In My Jam | 1
 | 513539 | ShadowBeatzInc | Death Note Dubstep [SB] | 1
 | 79368 | Dimrain47 | Jetstream! | 1
 | 660994 | Schtiffles | Time Flies | 1
@@ -2213,7 +2218,6 @@
 | 723714 | hyperdemented | Epilogue | 1
 | 752415 | lemons | Origin | 1
 | 699166 | larrynachos | HAPPY_ | 1
-| 449306 | Waterflame | -Cats!- | 1
 | 555800 | TheBiocide | -= Infiltration =- | 1
 | 584490 | VolcansMusic | 8Bit Forest Interlude | 1
 | 572208 | Solkrieg | [Lavender Town Dream Eater Rem | 1
@@ -2310,6 +2314,7 @@
 | 240712 | Blizzaine | !Dragostea Din Tei (Remix)! | 1
 | 650320 | Mattashi | Here They Come | 1
 | 719950 | Waterflame | -Sinking Feeling- | 1
+| 838726 | CreoMusic | Creo - Glome | 1
 | 732229 | OfficialNovacore | Railroad Town | 1
 | 744530 | Psybot | Psybot - Enhanced | 1
 | 515165 | Geoplex | Cascade | 1
@@ -2383,7 +2388,6 @@
 | 105834 | studio-nightbird | The Lonely Life | 1
 | 351600 | TranceCrafter | [TC] Hope Will Come Again | 1
 | 662887 | Lethalix | Courage | 1
-| 765306 | lchavasse | ~:Wander:~ | 1
 | 748921 | Marterro | The Final Encounter | 1
 | 531831 | danyool777 | Secret of the Forest [CT] | 1
 | 703881 | Ravitex | Knockout | 1
