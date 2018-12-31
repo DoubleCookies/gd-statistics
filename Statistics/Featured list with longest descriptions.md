@@ -2416,6 +2416,7 @@
 | Speedbreaker | iIFrostIi | 10875305 | 115 | Mini wave is now normal wave. Anubis that was cancer and you know it. Also, coin update! Collab with AncientAnubis.
 | Glorious Morning | Warrek | 10657894 | 115 | Wake up dreamer! Thanks for stars and Featured! Subscribe to my YT channel: Geometry Dash Warrek (weekly videos) :)
 | Grind District | desoxicolico | 9490246 | 115 | Fist level created on steam and last 1.9!! 12k objects. Harder 7 stars? Please rate it! THANKS RUBRUB FOR FEATURED!
+| Abstort II | LeX97 | 50569364 | 114 | Abstort II is here now ! I feel like the first one is better though ^^' | Update: the coins are easier to get now.
 | Dark Manor | SamMaxx | 49710146 | 114 | I am very happy to bring you my best art level, and my best theme as well :) For Pauze, Loserchik, and Optawolf <3
 | Psycho Burst |  GeometryTom  | 48598746 | 114 | Finally a new solo level! Tried to make something fun and intense, hope you enjoy it! | Dedicated to GaidenHertuny
 | Bathroom Lagoon | CactusDimension | 47752718 | 114 | this level was made mostly as a joke. i never thought it would get so much attention. well, i'm not complaining :)
@@ -3062,7 +3063,6 @@
 | Game Over | Exlextron | 4876828 | 105 | Again... Game Over. Dont Die. Please Rate and Like Please. 9979 blocks. 50-72 percent has fixed. COINS???
 | SkyCamp | PLEHEMPLEASE | 4849991 | 105 | Collaboration by Wiztic and ZelLink! Enjoy and Subscribe to ZelLink Geometry Dash youtube channel. COINS!
 | Blast power | Star77 | 3274119 | 105 | Get ready for a lot of fun and excitement!.  Dont forget to check my other levels. R6 - Now with coins :)
-| Abstort II | LeX97 | 50569364 | 104 | Abstort II is here now ! I feel like the first one is better tho .. Anyway, I hope you like this one ^^'
 | Fallen King | Agils | 50352118 | 104 | My new solo and first level easy, I hope you like it! Dedicated to the game Undertale! and my friends :D
 | Dias Felices | GMD Max | 50074813 | 104 | He estado preparando este nivel por varios meses. Solo pido que lo disfruten :'D (03/11/18) *(14/11/18)*
 | Accelerate | ZerchDash | 49683687 | 104 | My first Demon level, Inspirated in GD RetroFunk, Dedicated to all my friends... Thanks for Playing!! :D

@@ -359,6 +359,7 @@
 | Virtual World | Fault | 37207644 | 115 | A Collaboration Featuring ByMaxCraft, RyanAB, & AmorAltra! 3 Coins Are Overrated c: -added low detail for the world
 | SubBass | TriPodX | 36054065 | 115 | My best work!! Amazing Collab With Furix, You should Go check out his awesome levels:D Enjoy and Practice the boss!
 | Alphaverse | Xstar7 | 35114282 | 115 | The 6th installment in my "Verse" series! I hope you all enjoy the level! Collab with Rapace & Glory. THX FOR EPIC!
+| Abstort II | LeX97 | 50569364 | 114 | Abstort II is here now ! I feel like the first one is better though ^^' | Update: the coins are easier to get now.
 | Dark Manor | SamMaxx | 49710146 | 114 | I am very happy to bring you my best art level, and my best theme as well :) For Pauze, Loserchik, and Optawolf <3
 | BOSS 3 Electro | Xender Game | 45479009 | 114 | 3rd series of my Boss fight! This time, Virus - Electro will bring the DESTRUCTION to GD! (inspired by badland :v)
 | Predator | Samoht | 43537990 | 114 | My entry to the Monster Gauntlet and FBCC2! Give some love to Xenoteric for helping me with some glitch effects <3
@@ -481,7 +482,6 @@
 | Direction  | Konobiz | 34526077 | 105 | please, check pulverize, a cool level by my friend manu123890, I think it deserves a feature :)  34923683
 | IZnite | izhar | 32400752 | 105 | Finally the first easy epic in GD? :P dedicated to TickleGD and Wooobs! (Pass and Coins on my YT channel)
 | One | Ragnarok96 | 30753202 | 105 | My first DEMON level on 2.1!,Iam sory for rushed gameplay and many moving object :),ENJOY! :D,Pass:*(@$#^
-| Abstort II | LeX97 | 50569364 | 104 | Abstort II is here now ! I feel like the first one is better tho .. Anyway, I hope you like this one ^^'
 | Purpose  | Xstar7 | 48561623 | 104 | Everyone has a purpose. Pressing the LDM button on the level select screen shows different BGs! Enjoy :)
 | Neowolf | WerewolfGD | 45063264 | 104 | Tech level | Thanks to CreatorCaps for helping me | Name suggestion by Nekomancer | Enjoy and rate 9-10*
 | Piano Slap | Nico99 | 39607173 | 104 | Last level of the Slap Trilogy. Thanks to Terron for this awesome music, also dedicated to him. Enjoy!!!
