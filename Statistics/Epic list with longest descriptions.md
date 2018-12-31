@@ -373,7 +373,7 @@
 | oNe | NukAnnguq | 47602711 | 113 | finally finished :D  sorry if its a bit messy, but i hope u enjoyed this! dedicated to Berkoo, Alkali, Rafer. :3 
 | Im not furRy | xenoteric | 46478676 | 113 | Hope you guys like this level as much as i do! <3 for Viprin CC9 and MCR #2: Make a level with a song by Wolf7ech
 | 12 00 am | Knots | 43976540 | 113 | like if youre playing this at 12:00 am :) (fixed a bug with the speed portals, the music should be in sync now :)
-| Prototype | Menterno | 43752262 | 113 | My first ever bossfight! I could've added more to it but I didn't want the level to lag too much. PRACTICE FIRST!
+| Prototype | JustWemo | 43752262 | 113 | My first ever bossfight! I could've added more to it but I didn't want the level to lag too much. PRACTICE FIRST!
 | Bloodlust | Knobbelboy | 42584142 | 113 | Your thirst for blood continues? Very well, let the blood spill. Let the demons feed off your unfortunate soul...
 | Nature Journey | CookiesGirly | 40641787 | 113 | collab with Glimpse.. I'm not satisfied of my part, if the end is a UGLY problem i'll fix it tomorrow. i'm sorry 
 | Empyrean | ViPriN | 39853458 | 113 | By ChaSe, Darwin, Nicki1202, MrKoolTrix & Enlex, who won Gauntlet Contest 3 for famous creators (15 cp or above).

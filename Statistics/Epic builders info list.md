@@ -344,7 +344,6 @@ Agils | 1
 iiMRTii | 1
 Fofii | 1
 AleeIsMe | 1
-Menterno | 1
 MagicXdash | 1
 Robotic24 | 1
 neogamerGD | 1
@@ -372,6 +371,7 @@ iIFrostIi | 1
 IFSGeorge | 1
 MrPPs | 1
 minimaX | 1
+JustWemo | 1
 FurroZady | 1
 Kebabbo | 1
 Riky2610 | 1
