@@ -1925,6 +1925,7 @@
 | Geometrycal Fantasy | Rangerlust | 11550345 | 122 | 11K Objects Inspirated On Geometrycal Run Like n Harder 7 Stars Featured RobRob Pls Thx 4 Playing ENJOY FIRST 2.0 LEVEL :D
 | Heaven | Florent | 10554597 | 122 | My first effect level! Credit to Squinty303 for helping me with the background effect on the wave section! Added coins! :D
 | Lyra | chamoylol | 50905658 | 121 | I tried to be more minimalist on this level. Another one of my best art levels! More new things are coming...   31k obj. 
+| The Zone | GMDBlockbite | 50815279 | 121 | zone out and enjoy this retro level... dedicated to Kitoun & SirFluffyBeans. update- added a low detail mode for the wave
 | Glowne | Xatz | 49600358 | 121 | MC#03 by Glow Generation Team... Dedicado a Darwin, F3lixsRam and Sharks <3. Simple style guys :'3 PD: Gameplay by me 7u7
 | Empyreal | Ruby17 | 49141055 | 121 | Mike4VN's unfinished level. I decided to take his level and finish it. Enjoy! Dedicated to IMythraI, SaabS & Robzombi! :)
 | Andromeda | EpicMasta11 | 48627268 | 121 | One of Ajedaboss's old, unfinished mcs that he let me finish and upload. Collab with DangerKat, Ross12344, and Tartofrez.
@@ -6051,7 +6052,6 @@
 | Pixel Parade | Jeyzor | 518113 | 76 | very hard. Try my other maps too. version 2 made the start little bit easier
 | SewerStep  | TheRealDarnoc | 198694 | 76 | Check out the replay on my youtube channel League of Legends and iOS! Enjoy!
 | rocket jumper | null | 64900 | 76 | Please let me know if there is anything I can fix. This is Rocket Jumper v2.
-| The Zone | GMDBlockbite | 50815279 | 75 | zone out and enjoy this retro level... dedicated to Kitoun & SirFluffyBeans
 | oKoK | Chromatik | 50517205 | 75 | Most likely my last level. Might not be my best but I like it a lot. Enjoy!
 | The fear | BryanC28 | 50262741 | 75 | You can escape but not hide from me, your destiny is written (+21k objects)
 | Vapor Light | TeamUprising | 49295085 | 75 | The first official TeamUprising megacollab!  Thanks to everyone who joined!
