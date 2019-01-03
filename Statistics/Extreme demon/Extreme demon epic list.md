@@ -2,14 +2,14 @@
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Carnage Mode | Findexi | 36107975 | 473119 | 45009
-| Blade of Justice | Manix648 | 35448603 | 933503 | 96411
-| Heat Wave | Nico99 | 45818014 | 75678 | 7040
-| SubSonic | ViPriN | 33387622 | 1882284 | 143334
-| Deception Dive | Rustam | 34379100 | 440231 | 29026
-| Digital Descent | ViPriN | 37456092 | 942361 | 88464
-| Bloodlust | Knobbelboy | 42584142 | 2435527 | 235850
-| Under lavaland | N R G | 44169362 | 253690 | 22955
-| Paroxysm | Lemons | 42631377 | 152731 | 12600
-| Novalis | Gryllex | 33748382 | 238501 | 21590
-| EnvY | DanZmeN | 45411361 | 285800 | 25385
+| Carnage Mode | Findexi | 36107975 | 473909 | 45076
+| Blade of Justice | Manix648 | 35448603 | 935630 | 96560
+| Heat Wave | Nico99 | 45818014 | 76578 | 7098
+| SubSonic | ViPriN | 33387622 | 1885693 | 143568
+| Deception Dive | Rustam | 34379100 | 441373 | 29124
+| Digital Descent | ViPriN | 37456092 | 944227 | 88615
+| Bloodlust | Knobbelboy | 42584142 | 2448281 | 236876
+| Under lavaland | N R G | 44169362 | 254200 | 22986
+| Paroxysm | Lemons | 42631377 | 153299 | 12637
+| Novalis | Gryllex | 33748382 | 238843 | 21616
+| EnvY | DanZmeN | 45411361 | 286905 | 25473
