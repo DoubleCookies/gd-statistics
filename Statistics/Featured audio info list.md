@@ -1,4 +1,4 @@
-#### Total: 12242 levels
+#### Total: 12245 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -164,6 +164,7 @@
 | 631875 | DJStriden | Level Two [Melodic EDM] | 14
 | 574678 | djahmusic | SAO - Crossing Field RMX | 14
 | 714112 | PandaEyesOfficial | Panda Eyes X FYER - Shuriken | 14
+| 726455 | F-777 | Lets Stomp! | 14
 | 734702 | 1f1n1ty | Calm Craggy Area (1f1n1ty Remix) | 14
 | 591519 | Geoplex | Look Up | 14
 | 771866 | ThisIsTheFatRat | TheFatRat - Oblivion (feat. Lola Blanc) | 14
@@ -194,7 +195,6 @@
 | 726252 | ShutEye | Shut Eye - Nerf This! (feat. D.Va) | 13
 | 722221 | TenodiBoris | Far Away | 13
 | 349494 | F-777 | Wander of Thought - F-777 | 13
-| 726455 | F-777 | Lets Stomp! | 13
 | 476613 | Waterflame | -Toxic sewers- | 13
 | 661012 | F-777 | Space Battle | 13
 | 681533 | hinkik | Ena | 13
@@ -856,6 +856,7 @@
 | 709185 | Acid-Notation | Boss Theme Remix (KRtD) | 3
 | 397934 | Fantomenk | Getting Melodies Of My Head | 3
 | 688744 | Cerzak | -Synapse Vocal Version Remastered- | 3
+| 750201 | paperskies | Paper Skies & VAST - Drift Away | 3
 | 12922 | ParagonX9 | ParagonX9 - Chaoz Devotion | 3
 | 750199 | paperskies | Paper Skies & Nanqo - Orbit | 3
 | 774791 | Miyolophone | VATstep | 3
@@ -1087,7 +1088,6 @@
 | 684651 | meganeko | nano love | 2
 | 365163 | Fantomenk | Follow me Remix | 2
 | 750202 | paperskies | Paper Skies - Inverted | 2
-| 750201 | paperskies | Paper Skies & VAST - Drift Away | 2
 | 393910 | Waterflame | -Naive Again- | 2
 | 717494 | ChaelMusic | Aivan & Chael - Airway | 2
 | 742091 | SpazeOfficial | Magic Dubble Single OUT NOW!! | 2
@@ -2096,6 +2096,7 @@
 | 584031 | GabrielNovakStudios | Hexagonal (SH Megamix) | 1
 | 346461 | Ultigonio | Snowy Getaway (Kirby 64 Remix) | 1
 | 612692 | ZeroCakes | Lightspeed | 1
+| 772439 | Cursedsnake | Get smooshed! | 1
 | 719190 | VisceralSounds | Tranquility [Glitch Funk] | 1
 | 387419 | CelestOrion | Unwavering Emotions [B/W] | 1
 | 604521 | EmeraldDemon | Tobu - Colors | 1

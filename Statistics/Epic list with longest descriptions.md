@@ -1,4 +1,4 @@
-#### Total: 1339 levels
+#### Total: 1340 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -962,6 +962,7 @@
 | PridE | DanZmeN | 39122651 | 57 | The Fifth Deadly Sin... Also first daily level of 2018 :D
 | Nucleus | Riky2610 | 37169373 | 57 | Dedicated to ILRELL, Radaskino and MrLorenzo. Have fun .D
 | Pae Ki | GD Jose | 34869321 | 57 | New effects  XL level... video & pass in my YT channel ;)
+| Ultimate Ascension | Geom3zon | 51170790 | 56 | My masterpiece is finally here... i hope you like it owo
 | Melody at Pause | Knots | 47021443 | 56 | just random arts to celebrate the summer. not much else.
 | Detonate | Cirtrax | 41151551 | 56 | A unfinished Level Distort let me have! 8) Rate 5 Stars!
 | Imp3rf3rct1on | NoWeek | 39269485 | 56 | Humanity corrupt the world, the robots take the controls

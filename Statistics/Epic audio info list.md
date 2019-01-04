@@ -1,4 +1,4 @@
-#### Total: 1339 levels
+#### Total: 1340 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -54,6 +54,7 @@
 | 722221 | TenodiBoris | Far Away | 4
 | 707932 | Acid-Notation | Vulgarity | 4
 | 796081 | ColBreakz | ColBreakz - Gold Ring | 4
+| 726455 | F-777 | Lets Stomp! | 4
 | 734693 | ColBreakz | Protolizard & ColBreakz - Nevermind | 4
 | 724586 | LemKuuja | Golden Funky Groove | 4
 | 740966 | ColBreakz | ColBreakz - Invasion | 4
@@ -115,7 +116,6 @@
 | 714112 | PandaEyesOfficial | Panda Eyes X FYER - Shuriken | 3
 | 808312 | BoomKitty | Tokyo Takedown | 3
 | 685472 | Waterflame | -Clutterfunk Part 2- | 3
-| 726455 | F-777 | Lets Stomp! | 3
 | 755141 | Geoplex | Geoplex - Chimera | 3
 | 720358 | Kolkian | Rejuvenate | 3
 | 704018 | windluxmusic | Karaplex - Heartburn (Melodic Dubstep) | 3

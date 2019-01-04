@@ -193,6 +193,7 @@ Whitehead | 2
 Findexi | 2
 Regulus24 | 2
 Real48NogZ | 2
+Geom3zon | 2
 xPix3lest | 2
 Manteex | 2
 Alkatreize | 2
@@ -322,7 +323,6 @@ Ellisha | 1
 OmegaFalcon | 1
 Shuffle49 | 1
 EmyX | 1
-Geom3zon | 1
 BlowMyPooh | 1
 Edge | 1
 Alexcont | 1
