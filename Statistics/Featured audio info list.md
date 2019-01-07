@@ -1,4 +1,4 @@
-#### Total: 1353 levels
+#### Total: 1360 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -107,6 +107,7 @@
 | 591519 | Geoplex | Look Up | 3
 | 784087 | Xtrullor | Xtrullor - Samsara | 3
 | 749324 | alexizgd | Flower Dance (AleXiz Remake & Remix) Newgrounds Version | 3
+| 733008 | Namice | Harmonies | 3
 | 730960 | KaixoMusic | Isogon (Original Mix) | 3
 | 786346 | cysmix | cYsmix - Babaroque (Short Ver.) | 3
 | 747450 | DetiousMusic | Detious - Divinity (VIP) | 3
@@ -162,6 +163,7 @@
 | 645593 | Geoplex | Aether | 2
 | 770520 | dj-Nate | {dj-N} Thermodynamix | 2
 | 381421 | LoveKavi | Cherry Blossoms - LoveKavi | 2
+| 801273 | teminiteofficial | Teminite - Beastmode | 2
 | 801275 | teminiteofficial | Teminite - Earthquake | 2
 | 770546 | dj-Nate | {dj-N} Geometry Bounce | 2
 | 637450 | Xsalvaz | Panda Dance | 2
@@ -240,7 +242,9 @@
 | 568699 | Waterflame | -Hexagon Force- | 2
 | 765306 | lchavasse | ~:Wander:~ | 2
 | 714113 | PandaEyesOfficial | Panda Eyes - Drippy Dub | 2
+| 730525 | MonvoiceT | MonvoiceT - Aquamarine w/ Kory | 2
 | 558528 | OcularNebula | Lateral Descent | 2
+| 771517 | AeronMusic | Rebirth | 2
 | 720307 | MonvoiceT | Partition Zion | 2
 | 474579 | Spiriax | Japanology | 2
 | 734702 | 1f1n1ty | Calm Craggy Area (1f1n1ty Remix) | 2
@@ -271,7 +275,6 @@
 | 663334 | Cacola | Yellow and Purple | 2
 | 583488 | dj-Jo | Ignite Drumstep RmX | 2
 | 667445 | LawnReality | Lonely Voyage | 2
-| 733008 | Namice | Harmonies | 2
 | 315202 | Fantomenk | The massacre (chipsounds) | 2
 | 87895 | cornandbeans | {Rose} Remastered | 2
 | 780135 | PandaEyesOfficial | Panda Eyes - Fruits | 2
@@ -424,7 +427,6 @@
 | 410082 | ZeRo-BaSs | *In Her Eyes* / ZeRo BaSs | 1
 | 592355 | Shinyblue | Nitro Fun - New Game | 1
 | 801277 | teminiteofficial | Teminite - Ascent | 1
-| 801273 | teminiteofficial | Teminite - Beastmode | 1
 | 709117 | cloudfield | Zedd - Ignite (cloudfield Bootleg) | 1
 | 532991 | Envy | EnV - Bloom(Radio Edit) | 1
 | 676349 | Schtiffles | Ghost House | 1
@@ -490,6 +492,7 @@
 | 490203 | DrPhonics | Dr. Phonics - Firepower | 1
 | 805587 | Xomu10 | Lanterns | 1
 | 807662 | ACXLE | Wishing (original by Austin C) | 1
+| 807664 | ACXLE | Never (original by Austin C) | 1
 | 539387 | steampianist | Industrial Lullaby | 1
 | 764666 | NoVAmusicofficial | NoVA - Cherry On Top [Tropical House] | 1
 | 600827 | sanyaclassic | Stonebank - Stronger | 1
@@ -499,6 +502,7 @@
 | 688900 | dexarson | Dex Arson - All Party | 1
 | 500495 | Acid-Notation | ---Kitty--- | 1
 | 684828 | meganeko | Super Mario World - Castle Theme Remix | 1
+| 598812 | Step | To the Stars | 1
 | 643870 | DeadRewind | Detious & Lockyn - Allure | 1
 | 652064 | bassfiddlejones | Wake the Dawn | 1
 | 719636 | NeonRage | Reversed | 1
@@ -691,7 +695,6 @@
 | 773529 | PandaEyesOfficial | Panda Eyes - Take My Hand | 1
 | 583068 | dj-Jo | unravel Dubstep Full Remix | 1
 | 492947 | stratkat | Gasoline Rainbows [ext] | 1
-| 730525 | MonvoiceT | MonvoiceT - Aquamarine w/ Kory | 1
 | 587168 | AeronMusic | Voluto | 1
 | 750996 | Mydogbuddy7 | Futa Dick | 1
 | 753044 | papkee | Timekeeper | 1
@@ -705,7 +708,7 @@
 | 775591 | ThiefOfVoid | Love Abused (feat. SK¥E) | 1
 | 781733 | alexizgd | Helizahr Jhaston & ALESDA! - The Hills | 1
 | 75190 | DaGrahamCraka | {Runaway} | 1
-| 771517 | AeronMusic | Rebirth | 1
+| 732596 | liaquo | lia;quo?Crystal Corruption??Nightcore Edit? | 1
 | 755141 | Geoplex | Geoplex - Chimera | 1
 | 722400 | dexarson | Dex Arson - Rampage | 1
 | 828892 | ACXLE | Faces (original by Austin C) | 1

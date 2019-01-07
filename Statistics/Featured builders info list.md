@@ -7,7 +7,7 @@ AutoNick | 12
 ithedarki | 12
 WerewolfGD | 12
 Vertuoz | 12
-Cortez28 | 11
+BryanC2 | 11
 mulpan | 11
 juandeman | 11
 Cirtrax | 10
@@ -28,6 +28,7 @@ ByBoy 11 | 7
 SaabS | 7
 VrageraGD | 6
 Luxew | 6
+Ballii | 6
 OSIRIS GD | 6
 Zoroa GD | 6
 Wixers | 6
@@ -41,12 +42,12 @@ Dioxis GD | 6
 EpicMasta11 | 6
 GirlyAle02 | 6
 Nico99 | 6
+Pipenashho | 5
 Olympic | 5
 DHaner | 5
 DashTy | 5
 RealZober | 5
 wulz | 5
-Ballii | 5
 charky | 5
 Lixars | 5
 FlacoGD | 5
@@ -60,7 +61,6 @@ Anubis GD | 5
 Whirl | 5
 Spord | 5
 DarkStyle | 5
-Pipenashho | 4
 MrKoolTrix | 4
 Axile | 4
 wless | 4
@@ -88,6 +88,7 @@ Ajedaboss | 4
 R503Sv | 4
 Robotic24 | 4
 Hyper314 | 4
+IFSGeorge | 4
 Kebabbo | 4
 Fairfax | 4
 ZelfTix | 4
@@ -149,7 +150,7 @@ Droit jr | 3
 ISJ3Y | 3
 luis JR | 3
 AmIXam | 3
-IFSGeorge | 3
+Optation | 3
 Morce | 3
 Yendis | 3
 HTigerzGD | 3
@@ -266,13 +267,13 @@ Wiktord1 | 2
 xstaticstorm | 2
 Chiand | 2
 Shemo | 2
-Optation | 2
 kolbyyy | 2
 minimaX | 2
 FurroZady | 2
 Riky2610 | 2
 Waffl3X | 2
 shocksidian | 2
+Doge164 | 2
 xJes | 2
 Zafkiel7 | 2
 HiIsBacksenpai | 2
@@ -304,6 +305,7 @@ iIGameproIi | 1
 Belphox | 1
 Lugunium | 1
 Platnuu | 1
+Knobbelboy | 1
 SylntNyt | 1
 Penttagram | 1
 Arcri | 1
@@ -369,6 +371,7 @@ Polli | 1
 RainSpade | 1
 LakeIverson | 1
 Cubix06 | 1
+LRelix | 1
 Vlacc | 1
 TD Jbs2000 | 1
 Rex3rGD | 1
@@ -500,7 +503,6 @@ FieryGlaceon | 1
 IIKun | 1
 xSonicJr | 1
 Ruby17 | 1
-Doge164 | 1
 ARLUNOJO | 1
 VadriX | 1
 BlueRimz | 1

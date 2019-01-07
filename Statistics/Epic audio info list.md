@@ -1,4 +1,4 @@
-#### Total: 422 levels
+#### Total: 425 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -16,6 +16,7 @@
 | 808312 | BoomKitty | Tokyo Takedown | 3
 | 786863 | CreoMusic | Creo - In Circles | 3
 | 640986 | lamsorz | Bluemoon | 3
+| 801273 | teminiteofficial | Teminite - Beastmode | 2
 | 830459 | meganeko | Space Magic | 2
 | 823812 | CreoMusic | Creo - Outlaw | 2
 | 782870 | bossfightofficial | Bossfight - Nock Em | 2
@@ -69,7 +70,6 @@
 | 801277 | teminiteofficial | Teminite - Ascent | 1
 | 820222 | RainingHotDogs | I Think That If Androids Have Dreams Then They Probably Have Nightmares Too | 1
 | 794623 | DJVI | Cant Let Go 2.0 | 1
-| 801273 | teminiteofficial | Teminite - Beastmode | 1
 | 513012 | SSJ3-Goku4567 | SSJ3 - U.N.Owen Arranged | 1
 | 747006 | F-777 | F-777 - The Secret Dynasty | 1
 | 709117 | cloudfield | Zedd - Ignite (cloudfield Bootleg) | 1
@@ -327,7 +327,9 @@
 | 781733 | alexizgd | Helizahr Jhaston & ALESDA! - The Hills | 1
 | 787391 | PhantomSageMusic | Different Heaven - Far Away (Phantom Sage Remix) | 1
 | 558528 | OcularNebula | Lateral Descent | 1
+| 771517 | AeronMusic | Rebirth | 1
 | 821173 | alexizgd | ALESDA! - Wake Up | 1
+| 732596 | liaquo | lia;quo?Crystal Corruption??Nightcore Edit? | 1
 | 480190 | Step | Morocco | 1
 | 726455 | F-777 | Lets Stomp! | 1
 | 731596 | DJ-Zyzyx | Zyzyx - Jazz Battle | 1

@@ -1,4 +1,4 @@
-#### Total: 422 levels
+#### Total: 425 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -59,6 +59,7 @@
 | Just Kidding | DangerKat | 48493005 | 128 | finally new level solo <3 dedicated for my friends <3 Team Watermelon and  pacific Team :)  Inspirated in Erdyuri And Darwin ;3;
 | Havoc | EpicMasta11 | 48066350 | 128 | So here is another one of my weird solo levels. I have no idea if I'm improving or getting worse at creating. Anyways, enjoy! :3
 | Tritanopia Pulse | Cthulu | 45803164 | 128 | From the depths of your screen radiates a strange light that emits an aura of joy. No, please, don't fall into its trap again...
+| Beastmode | Pipenashho | 51705784 | 126 | After hard months of work can I present to you this collaboration with an extremely good creator, Filaret! (Verified by Allan)
 | Six | Ezel142 | 50676602 | 126 | Hexagons have six sides, this level has seven stars...? An easier level for more casual players this time. I hope you enjoy :)
 | Volcanic Factory | DHaner | 49987007 | 126 | New level, new stuff after 4 months of inactivity. I promise be more active (though I'm tired of waiting for 2.2 ;-;) Enjoy :3
 | Astral Shadow  | Luxew | 46041354 | 126 | New level...I hope you enjoy it ! :)...Dedicated to : Danolaa( Paola) , XvictorCreatorX , Minimax , Maxyland and BloodSquad <3
@@ -125,7 +126,7 @@
 | Ambient | BranSilver | 47571009 | 110 | After almost 4 months of doing barely anything here is my new level (thats is rushed, sorry) ITS FEATURED HECK
 | Drowned in Darkness | SamMaxx | 50228503 | 109 | When faced with isolation you can look back and reflect to yourself, but It seems I can't find a nice result.
 | Cosmology | LeX97 | 47893850 | 109 | Special level for xSavic >OwO> | name suggestion by Ajedaboss ! :> (The second entry for HiIsBackSenpai's CC)
-| The END | Cortez28 | 46334132 | 109 | Here I bring you something new, this is my best level and work, I hope you enjoy it :)/ Pass: 286403 " Thx !!
+| The END | BryanC2 | 46334132 | 109 | Here I bring you something new, this is my best level and work, I hope you enjoy it :)/ Pass: 286403 " Thx !!
 | Narcosis | EpicMasta11 | 46301334 | 109 | New solo! Might be my best work idk lol. The amazing gameplay is by Ajedaboss, check him out!! GLHF!       x)
 | Summers Nigth | DanielDlc | 48029120 | 108 | My best design? Finally enjoy it, Thanks to all for supporting me :'D! The password will be on my YT channel
 | ElecMech | distortt | 47783815 | 108 | simple tech styled level [excuse the empty beginning; it gets better] dedicated to elisione, my biggest fan*
@@ -211,6 +212,7 @@
 | Rhythm | VytraxVerbast | 48527568 | 88 | Lost in the rhythm *w*...1:30's of level and 60k objects :P Dedicated to CreatorDiana <3
 | optical | BlowMyPooh | 44807198 | 88 | Special made for optical. [LDM outside level, gets rit art and heavy moving structures].
 | skitten | OSIRIS GD | 51046058 | 87 | old level inspired in skitten, i hope you like this and have fun! thanks for playing :)
+| Unleashed | gdapples | 50491043 | 87 | Unleash your potential... Enjoy :) Thank you RobTop and everyone that supported me!! <3
 | Space Magic | Serponge | 50211341 | 87 | 47k obj - Tried to optimise as much both LDM and full details, hope you'll have fun! :)
 | MahaMeru | ZeeToss | 50168329 | 87 | Introducing my new master piece. 19k obj and made in 2 weeks. For JerkRat CC2. Enjoy :)
 | Hex | OpteX | 49447022 | 87 | My first 2.1 level, a huge thanks to all those who kept motivating me to finish a level
@@ -316,7 +318,7 @@
 | ObamA RebirtH | DanZmeN | 46917410 | 53 | Verified by Golden. Don't mind the name. I lost a bet
 | Gleeful Groove | MrKoolTrix | 44797163 | 53 | Here's a collab between me & WerewolfGD! Have fun. :)
 | Awesome Sauce | SirHadoken | 47568611 | 52 | Collab with TD Epic. Took around 9 months to finish.
-| Purity | Cortez28 | 45786260 | 52 | Here I bring you a new job, I hope you like friends.
+| Purity | BryanC2 | 45786260 | 52 | Here I bring you a new job, I hope you like friends.
 | Khaki | Jayuff | 51377104 | 50 | empty ass level cause i dont have time to decorate
 | Against the God | 1374 | 49994214 | 50 | Your mighty journey against the god starts here...
 | Anything | Jayuff | 49166702 | 50 | built whatever came to mind~ simple level, bite me
@@ -329,7 +331,7 @@
 | Triste | Olympic | 48911188 | 49 | Oly, Alka, Fila, M3nh, Digi, Ele, Wwgd, Finn, Zaf
 | neXus  | Schneider9 | 50780745 | 48 | No pain, no gain. Dedicated to Mulpan & Desticy.
 | PK Industries Inc | Alfred PKNess | 47885487 | 48 | Just another Alfred's level :^) [Rate 6-7 stars]
-| VarietY | Cortez28 | 51207516 | 47 | I hope you like my level and happy holidays :)/
+| VarietY | BryanC2 | 51207516 | 47 | I hope you like my level and happy holidays :)/
 | Meraki | Alkatraz | 47181310 | 47 | Finally a new level! Rainbow-themed as usual ;)
 | Ether | Phaneron | 49512054 | 46 | The energy is all around you! Hope you like :)
 | ElecTech | distortt | 48087337 | 46 | -?- e n j o y -?- 100009 x 3 - 68 + 36 = pass.
@@ -356,10 +358,10 @@
 | RyD | Wixers | 49191804 | 36 | Gameplay on my YT channel . Enjoy <3
 | The Dalbaeb | ithedarki | 46589600 | 36 | 4th level. Some effects on this time
 | Les Go | Unzor | 51409713 | 34 | HAPPY NEW YEAR! LES' GOOOOO! \^o^/
-| Unleashed | gdapples | 50491043 | 34 | Unleash your potential... Enjoy :)
 | Lunii | Piseto | 50081197 | 34 | After 4 months, i'm back! Enjoy =)
 | Amaze | Xevenfurious | 48099692 | 34 | best drop i ever made <3 since 2.0
 | The Glitch | SaabS | 46705022 | 34 | Retro themed boss level. Enjoy! :)
+| God Eater | Knobbelboy | 51775692 | 32 | Rise Above A World Of Desolation
 | Storm Run | SamMaxx | 51383038 | 32 | Nothing to see here, run along. 
 | Knock Out | Yakimaru | 48682510 | 32 | Here you go ! Pass on my youtube
 | Glow Essence | DHaner | 47148086 | 32 | Another Solo lvl. Have Fun!!! :)
@@ -371,7 +373,7 @@
 | Sharp | EmyX | 46986584 | 29 | update (and thanks for epic:)
 | Bright | luis JR | 45618958 | 28 | Shine bright like a diamond.
 | Glam | luis JR | 44934055 | 28 | Operation: 'save your life'.
-| Yes | Cortez28 | 49217317 | 27 | Description [Simple level?]
+| Yes | BryanC2 | 49217317 | 27 | Description [Simple level?]
 | Vivid | Alt3r3d | 48454347 | 27 | i think you may love it uwu
 | Cumi Asin | Xevenfurious | 47244406 | 27 | ADDED MORE DECO , as u wish
 | Amorous | Jayuff | 45937808 | 27 | gayest level i've ever made
@@ -408,8 +410,9 @@
 | Sway | Knots | 48697659 | 14 | yay school .v.
 | Aqua | haoN | 47673627 | 14 | Stay hydrated.
 | yeet of dOOM | Elisione | 49331455 | 13 | serious level
+| Ebullient | Ballii | 51746931 | 10 | very level
 | Saao | ZecretGD | 47959278 | 10 | ULDM added
-| CalM | Cortez28 | 49469234 | 9 | Enjoy! :]
+| CalM | BryanC2 | 49469234 | 9 | Enjoy! :]
 | Ligmatic | Axils | 48716880 | 9 | Surprise.
 | Atmosfera | FozaeKitty | 48469085 | 9 | ~ sweet ~
 | FurY | TheRealDorami | 47490086 | 9 | Surprise!
