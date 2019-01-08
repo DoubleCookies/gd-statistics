@@ -11,66 +11,6 @@ import gd.enums.Difficulty;
  * @author Killhtf (different toString methods)
  */
 public class GDLevel {
-	
-	/**
-	 * The ID of the level
-	 */
-	private long id;
-	
-	/**
-	 * The name of the level
-	 */
-	private String name;
-	
-	/**
-	 * The name of the creator who created this level
-	 */
-	private String creator;
-	
-	/**
-	 * The level difficulty
-	 */
-	private Difficulty difficulty;
-	
-	/**
-	 * If it's a Demon, the type of Demon difficulty
-	 */
-	private DemonDifficulty demonDifficulty;
-	
-	/**
-	 * The number of stars assigned to the level
-	 */
-	private short stars;
-	
-	/**
-	 * The featured score of the level, or a value &lt;= 0 if not featured
-	 */
-	private int featuredScore;
-	
-	/**
-	 * Whether the level is marked as Epic
-	 */
-	private boolean epic;
-	
-	/**
-	 * Amount of downloads for the level
-	 */
-	private long downloads;
-	
-	/**
-	 * Amount of likes for the level
-	 */
-	private long likes;
-
-	/**
-	 * The level description
-	 */
-	private String description;
-
-	/**
-	 * Level soundtrack
-	 */
-	private GDSong gdSong;
 
 	/**
 	 * Constructs an instance of gd.model.GDLevel by providing all of its attributes at
@@ -120,7 +60,19 @@ public class GDLevel {
 		this.description = description;
 		this.gdSong = gdSong;
 	}
-	
+
+	private long id;
+	private String name;
+	private String creator;
+	private Difficulty difficulty;
+	private DemonDifficulty demonDifficulty;
+	private short stars;
+	private int featuredScore;
+	private boolean epic;
+	private long downloads;
+	private long likes;
+	private String description;
+	private GDSong gdSong;
 	/**
 	 * Gets the ID of the level
 	 * 
@@ -170,7 +122,7 @@ public class GDLevel {
 	/**
 	 * Gets the number of stars assigned to the level
 	 * 
-	 * @return
+	 * @return short
 	 */
 	public short getStars() {
 		return stars;
@@ -212,69 +164,6 @@ public class GDLevel {
 		return likes;
 	}
 
-	/**
-	 * Sets the name of the level
-	 *
-	 * @param name - String
-	 */
-	public void setName(String name) {
-		this.name = name;
-	}
-
-	/**
-	 * Sets the name of the creator who created this level
-	 *
-	 * @param creator - String
-	 */
-	public void setCreator(String creator) {
-		this.creator = creator;
-	}
-
-	/**
-	 * Sets the level difficulty
-	 *
-	 * @param difficulty - gd.enums.Difficulty
-	 */
-	public void setDifficulty(Difficulty difficulty) {
-		this.difficulty = difficulty;
-	}
-
-	/**
-	 * Sets the number of stars assigned to the level
-	 *
-	 * @param stars - short
-	 */
-	public void setStars(short stars) {
-		this.stars = stars;
-	}
-
-	/**
-	 * Sets whether the level is marked as Epic
-	 *
-	 * @param epic - boolean
-	 */
-	public void setEpic(boolean epic) {
-		this.epic = epic;
-	}
-
-	/**
-	 * Sets the amount of downloads for the level
-	 *
-	 * @param downloads - long
-	 */
-	public void setDownloads(long downloads) {
-		this.downloads = downloads;
-	}
-
-	/**
-	 * Sets the amount of likes for the level
-	 *
-	 * @param likes - long
-	 */
-	public void setLikes(long likes) {
-		this.likes = likes;
-	}
-
 
 	/**
 	 * Whether the level is featured.
@@ -303,16 +192,11 @@ public class GDLevel {
 		return description;
 	}
 
-	/**
-	 * Sets the level description
-	 *
-	 * @param description - String
-	 */
-	public void setDescription(String description) {
-		this.description = description;
-	}
-
-
+    /**
+     * Gets the level song
+     *
+     * @return gd.model.GDSong
+     */
 	public GDSong getGdSong() {
 		return gdSong;
 	}
