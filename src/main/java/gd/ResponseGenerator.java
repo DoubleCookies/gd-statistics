@@ -203,6 +203,7 @@ public class ResponseGenerator {
                 i++;
             }
         } catch (Exception e) {
+            System.out.println(e);
             System.out.println("Limit reached!");
         }
         return list;

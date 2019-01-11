@@ -72,6 +72,14 @@ public abstract class GDLevelFactory {
 			String creator = "-";
 			if (structuredCreatorsInfo != null && structuredLvlInfo.containsKey(6))
 				creator = structuredCreatorsInfo.get(Long.parseLong(structuredLvlInfo.get(6)));
+
+			String description = "";
+			try {
+				description = new String(Base64.getUrlDecoder().decode(structuredLvlInfo.get(3)));
+			} catch (IllegalArgumentException e) {
+				System.out.println("Description decode error, lvl id: " + Long.parseLong(structuredLvlInfo.get(1)));
+				description = "—";
+			}
 		
 			return new GDLevel(
 				Long.parseLong(structuredLvlInfo.get(1)),
@@ -84,7 +92,7 @@ public abstract class GDLevelFactory {
 				structuredLvlInfo.get(42).equals("1"),
 				Long.parseLong(structuredLvlInfo.get(10)),
 				Long.parseLong(structuredLvlInfo.get(14)),
-				new String(Base64.getUrlDecoder().decode(structuredLvlInfo.get(3))),
+				description,
 				song
 			);
 		} catch (NullPointerException|IllegalArgumentException e) {
