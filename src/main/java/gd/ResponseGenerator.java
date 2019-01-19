@@ -123,14 +123,19 @@ public class ResponseGenerator {
         builder.append("|:---:|:---:|:---:|:---:|\n");
         HashMap<GDSong, Integer> audio = new HashMap<>();
         GDSong songId;
+        int f = 0;
         for(GDLevel level : levels)
         {
             songId = level.getGdSong();
-            if(audio.containsKey(songId))
-                audio.put(songId,  audio.get(songId) + 1);
-            else
-                audio.put(songId,  1);
-            counter++;
+            if(songId == null) {
+                System.out.println("Null GDSong object for level " + level.getId());
+            } else {
+                if(audio.containsKey(songId))
+                    audio.put(songId,  audio.get(songId) + 1);
+                else
+                    audio.put(songId,  1);
+                counter++;
+            }
         }
         Map<GDSong, Integer> result = audio.entrySet().stream()
                 .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
@@ -203,7 +208,6 @@ public class ResponseGenerator {
                 i++;
             }
         } catch (Exception e) {
-            System.out.println(e);
             System.out.println("Limit reached!");
         }
         return list;

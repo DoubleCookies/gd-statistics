@@ -2,15 +2,15 @@
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Carnage Mode | Findexi | 36107975 | 477612 | 45330
-| Blade of Justice | Manix648 | 35448603 | 945157 | 97280
-| Heat Wave | Nico99 | 45818014 | 79695 | 7364
-| SubSonic | ViPriN | 33387622 | 1900897 | 144553
-| Deception Dive | Rustam | 34379100 | 446460 | 29588
-| Digital Descent | ViPriN | 37456092 | 952675 | 89256
-| Bloodlust | Knobbelboy | 42584142 | 2508408 | 241550
-| Under lavaland | N R G | 44169362 | 256847 | 23222
-| Paroxysm | Lemons | 42631377 | 155647 | 12800
-| Novalis | Gryllex | 33748382 | 240325 | 21733
-| God Eater | Knobbelboy | 51775692 | 249825 | 40320
-| EnvY | DanZmeN | 45411361 | 291687 | 25902
+| Carnage Mode | Findexi | 36107975 | 479702 | 45487
+| Blade of Justice | Manix648 | 35448603 | 950494 | 97726
+| Heat Wave | Nico99 | 45818014 | 80967 | 7464
+| SubSonic | ViPriN | 33387622 | 1908724 | 145102
+| Deception Dive | Rustam | 34379100 | 449143 | 29788
+| Digital Descent | ViPriN | 37456092 | 957114 | 89587
+| Bloodlust | Knobbelboy | 42584142 | 2539118 | 243940
+| Under lavaland | N R G | 44169362 | 258186 | 23311
+| Paroxysm | Lemons | 42631377 | 156819 | 12867
+| Novalis | Gryllex | 33748382 | 241122 | 21779
+| God Eater | Knobbelboy | 51775692 | 326937 | 49352
+| EnvY | DanZmeN | 45411361 | 294082 | 26106
