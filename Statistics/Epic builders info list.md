@@ -2,10 +2,10 @@
 |:---:|:---:|
 Darwin | 34
 f3lixsram | 22
+DanZmeN | 19
 danolex | 18
+Jayuff | 17
 Serponge | 17
-DanZmeN | 17
-Jayuff | 16
 Lemons | 16
 CastriX | 15
 SaabS | 15
@@ -19,22 +19,22 @@ SirHadoken | 12
 distortt | 12
 Nashii | 11
 rafer | 11
+GD Jose | 11
 LeocreatorX | 11
 Usermatt18 | 11
 Thomartin | 11
 MrKoolTrix | 10
 alkali | 10
 SamMaxx | 10
-GD Jose | 10
 Berkoo | 10
 ViPriN | 10
 Piseto | 10
 Pipenashho | 9
 Axils | 9
+XVQ | 9
 Torch121 | 9
 NoWeek | 9
 BranSilver | 9
-suxide | 9
 DorSha | 8
 RealZober | 8
 Skitten | 8
@@ -59,6 +59,7 @@ Alkatraz | 6
 Ferdefunky | 6
 Ballii | 6
 OSIRIS GD | 6
+FaekI | 6
 Xstar7 | 6
 Enlex | 6
 Ragnarok96 | 6
@@ -69,9 +70,9 @@ Robzombi | 6
 DHaner | 5
 nasgubb | 5
 Filaret | 5
+M3nhHu3 | 5
 RadiationV2 | 5
 RyanAB | 5
-FaekI | 5
 R3XX3R | 5
 Fault | 5
 AbstractDark | 5
@@ -86,7 +87,6 @@ WolfenGD | 5
 Tongii | 4
 Kips | 4
 ChiN3x | 4
-M3nhHu3 | 4
 motleyorc | 4
 Luxew | 4
 stubbypinata | 4
@@ -100,10 +100,10 @@ jacr360 | 4
 Dudex | 4
 Erdyuri | 4
 JacobROso | 4
+Onixalium | 4
 Samoht | 4
 AirForce | 4
 JirkGD | 4
-Paolih | 4
 EpiEpz | 4
 EpicMasta11 | 4
 Elisione | 4
@@ -188,6 +188,7 @@ Enceladus GD | 2
 Jaasim | 2
 ItzMezzo | 2
 Superopi | 2
+Zoroa GD | 2
 CookiesGirly | 2
 TroxxP1 | 2
 Marwec | 2
@@ -197,7 +198,7 @@ Whitehead | 2
 Findexi | 2
 Regulus24 | 2
 VytraX | 2
-Real48NogZ | 2
+GETZUCCED | 2
 Geom3zon | 2
 xPix3lest | 2
 CreatorDiana | 2
@@ -223,6 +224,7 @@ xSkart | 2
 Spa8 | 2
 ISparkI | 2
 Existence | 2
+TheCrimsonChin | 2
 Luminiion | 2
 shocksidian | 2
 ARLUNOJO | 2
@@ -232,6 +234,7 @@ MistFix | 2
 Hjk31d8da | 2
 Nibbler GD | 2
 Cthulu | 2
+Subw00fer | 2
 ByBoy 11 | 2
 Meeloz | 2
 TD Epic | 2
@@ -239,10 +242,8 @@ Konobiz | 2
 Flashmick72 | 2
 Stroiter | 2
 SkyGazer | 2
-Skyturtle | 2
 GirlyAle02 | 2
 hyperfox | 2
-GDFlake | 2
 Booglee | 2
 aviovlad | 1
 hypercube1 | 1
@@ -311,7 +312,6 @@ Akame GD | 1
 konsi | 1
 RaccGD | 1
 shaggy23 | 1
-Zoroa GD | 1
 PanMan | 1
 charky | 1
 Mineber | 1
