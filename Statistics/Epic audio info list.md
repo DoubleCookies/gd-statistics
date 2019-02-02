@@ -1,4 +1,4 @@
-#### Total: 1388 levels
+#### Total: 1389 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -159,6 +159,7 @@
 | 614535 | dexarson | [ Electro ] Frontlines | 2
 | 774298 | dirtypawsofficial | Circus Contraption - Charmed Im Sure (DirtyPaws Remix) (NEW MIX) (Instrumental) | 2
 | 471206 | bossfightofficial | Be Gone Mr. Gawne | 2
+| 559276 | Waterflame | -StreetWise- | 2
 | 805033 | LemKuuja | April | 2
 | 784548 | ColBreakz | ColBreakz - Robots | 2
 | 413893 | Vertlain | The last flight | 2
@@ -373,7 +374,6 @@
 | 815237 | dawphin | Dawphin - Cobalt (Free Download) | 1
 | 520335 | Acid-Notation | ---Route Glitch--- | 1
 | 743578 | DjThiscom | Thiscom - Human Hunt II [House] | 1
-| 559276 | Waterflame | -StreetWise- | 1
 | 377005 | feintDNB | Feint - Lift (Instrumental) | 1
 | 583846 | Shtriga | Trepidation | 1
 | 49327 | ParagonX9 | ParagonX9 - No. 5 (NG Edit) | 1
