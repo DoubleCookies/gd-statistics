@@ -1,4 +1,4 @@
-#### Total: 1389 levels
+#### Total: 1394 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -366,7 +366,6 @@
 | Sleek Tweaks | MrKoolTrix | 46426237 | 115 | The Modernistic style... it's something I have wanted to try for a while now. :) Around 30k objects used; enjoy! :D
 | paraIIel | Knots | 43227025 | 115 | was originally supposed to be uploaded on valentines day, thanks to school and sickness, its delayed by a month. :[
 | Colorful Chaos | GETZUCCED | 43104234 | 115 | Probably my best in terms of colors and design! Enjoy :) Updated the end a bit. Secret way fixed. Thanks for epic! 
-| Surge | SirHadoken | 40249367 | 115 | An exhilirating experiment that hybridizes design and effect. This level contains no glow (dedicated to Motleyorc).
 | TerrAkioN | Masterale | 38051151 | 115 | Collab with SirZaiss, check him, he's a good creator! Thanks to Mulpan for the final art. Hope u enjoy the level :3
 | Epitome | Xstar7 | 38017934 | 115 | Epitome: A person or thing that is a perfect example of a particular quality or type. Effect collab with MaganenZo!
 | Virtual World | Fault | 37207644 | 115 | A Collaboration Featuring ByMaxCraft, RyanAB, & AmorAltra! 3 Coins Are Overrated c: -added low detail for the world
@@ -428,6 +427,7 @@
 | Empower | BranSilver | 36526211 | 111 | For optical's creator contest! :) WOW! so suprised this actually got epic! O: thanks everyone for the support! 
 | Magnum | f3lixsram | 30997779 | 111 | A sexy collab with bloodstorm ! Pass and vid on my channel :) Thanks rob for first place O:  (nerfed wave part)
 | reborn kingdoms | Enceladus GD | 28920582 | 111 | FIRST 2.1 LEVEL! My best level Iever made I guess, 30k objects used. Insane 8-9*? Anyways, I hope you enjoy ^-^
+| Cursed Lore | LeX97 | 52498293 | 110 | Collaboration with: Ploid, Amverial, iSparki, Texic, TheAlmightyWave, xKR1T1K4L and Apep. Dedicated to Ploid !
 | 80s Drunkers | NoWeek | 51766776 | 110 | A new retrowave level join the battle. Dedicated to Expynormal, Xenoteric, Digitalight, G4lvatron and Erdyuri.
 | Innervision | Nampac | 50705114 | 110 | Well this level could've been longer, but I exceeded the group ID limit of 1000. Hope you guys and gals enjoy.
 | OuT oF nAmE iDeAs | ISparkI | 50023776 | 110 | Hey look i made an easy demon. Inspired by Distort, Lex and DanZ. Enlex CC3 3rd place winner :^). Have fun lol
@@ -482,12 +482,14 @@
 | Nebula Realms | King Woofy | 45538002 | 106 | After a long time, My new level is here! Worked quite hard on this so hope you enjoy & Thanks for playing.
 | Suslov | Kohtpojiep | 43248476 | 106 | French Bandits CC2. I lost all motivation for that... Sidorovich was better... Collab with PeroxXxide (no)
 | Mescarade | CastriX | 42159901 | 106 | My entry for Monster GC. I worked hard on it, I tried my best...enjoy. <3 (I hope the LDM is good for all)
+| Surge | SirHadoken | 40249367 | 106 | An exhilirating experiment that hybridizes design and effect. This level contains no glow (for Motleyorc).
 | Stereo | PotatoBaby | 39599737 | 106 | My best easy demon! Tried alot of new stuff in this, hope you enjoy!!! Feedback appreciated! Pass is 3459.
 | Shiny Mirage | f3lixsram | 37537903 | 106 | Collab with Castrix and Autonick ;3  Video and pass on my youtube channel, hope you enjoy ! For sharks CC1
 | Clutterfunk 2017 | GD Jose | 35418030 | 106 | Some parts are a bit buffed... and the coins are harder >:D... video with coins & pass in my YT channel ;)
 | Space Cloud | DarinLou | 33544850 | 106 | Update 1.4: Added some clutches on the Spider Gamemode and few bugfixes along the way. Thanks for playing!
 | Cocktail | Supmaxy | 32940610 | 106 | Cocktail is an alcoholic drink... My best level... Have fun! :) THX FOR EPIC RUBRUB! i made it copyable :)
 | Gawne | GD Jose | 29998675 | 106 | I think this is more easy that my last levels... the coins are hard >:D... video and pass in YT channel :]
+| Retina | Thomartin | 51621423 | 105 | Woah finally a new lvl! Dedicated to Serponge because it was supposed to be a collab with him <3 have fun
 | Alien | TroxxP1 | 49942943 | 105 | This level needs a better description, Rate 8-9 stars... Experimental level for Enlex CC3 and JerkRat CC2
 | Canyon Run | SamMaxx | 48998353 | 105 | Watch calmly as you embark on a journey through the vast desert and canyons. To SupamarioXx and Nukannguq
 | Obscure | Whitehead | 48951601 | 105 | Here is an old collab by me, RekindL, Matty2003, and Reunomi. We're sorry for the bad gameplay. Rate 6-7*
@@ -667,6 +669,7 @@
 | ChapTer | Xylph | 36764284 | 90 | Updated again and fixed the 90% transition 8) Dedicated to Fariszk7 :D thx for epic rub <3
 | Melodic Spell | Darwin | 35291800 | 90 | Third level of the "Spell" serie :3 effect this time !  i hope you'll enjoy it, GL HF ^^)/
 | ColorShine | Enlex | 31298966 | 90 | First 2.1 level! Awesome collab with Zwenty :3 Thanks for Epic rob <3   (for Viprin's CC8)
+| lunar ii | alkali | 52414003 | 89 | Collab with Zikronik, it's a remake of his level Lunar :) I had fun building on this one!
 | Lychinius | WerewolfGD | 51071895 | 89 | 97% of this lvl made with glow owo | Name suggestion by DafaIdham | Enjoy and rate 7-8*! 
 | Neon | IFSGeorge | 50319229 | 89 | Vamos! -Layout by Blych95 :) | Pass on my channel :) #13 Guys, subscribe to my channel :)
 | Dark Paradox | SaabS | 48695322 | 89 | I was working whole summer on this. I hope you enjoy! For Enlex's CC3 and JonathanGD CC1.
@@ -795,6 +798,7 @@
 | Emoji island | Piseto | 36726074 | 79 | "The world of emojis" >Dedicated to Zoomks,Castrix,Partition and Rustam. (o.o)/
 | Incinerator | GDSlimJim | 34122149 | 79 | Collab with BananaX. For MrLorenzo CC, GigaRex CC, and Jbeast15 CC. Easy Demon?
 | HyperFlux | Lemons | 33737577 | 79 | First demon flux level... Made using my melodic dubstep track :) Pass is 040400
+| Circus | Nikce | 52485734 | 78 | Welcome to the Circus city! Simple and relaxing art level, hope you like it :)
 | Myself | Filaret | 50270788 | 78 | Amazin collab with Victorinoxx and Mezzo. I think this my last level :v Enjoy)
 | Despacito OMG OwO | DanZmeN | 48359768 | 78 | Verified by Dorami. Why did i think this name was a good idea for a bet tbh...
 | Pixel Party | Cirtrax | 48000423 | 78 | A Fun 1.9 Collab with Distort! Rate 7 stars and have fun (Deticated to AArmin)
@@ -1050,6 +1054,7 @@
 | Triste | Olympic | 48911188 | 49 | Oly, Alka, Fila, M3nh, Digi, Ele, Wwgd, Finn, Zaf
 | Omega | Darwin | 35890421 | 49 | new demon lvl :3 good gameplay this time ! enjoy 
 | Tenebris | f3lixsram | 34851342 | 49 | Thanks for spike gauntlet rob ! Good luck guys :D
+| Jump | haoN | 52448053 | 48 | Collaboration with Lex97, who built from 0 - 45%
 | neXus  | Schneider9 | 50780745 | 48 | No pain, no gain. Dedicated to Mulpan & Desticy.
 | Against the God | 1374 | 49994214 | 48 | Your mighty journey against the god starts here.
 | PK Industries Inc | Alfred PKNess | 47885487 | 48 | Just another Alfred's level :^) [Rate 6-7 stars]
