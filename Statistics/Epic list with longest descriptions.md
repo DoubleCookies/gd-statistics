@@ -1,4 +1,4 @@
-#### Total: 1395 levels
+#### Total: 1403 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -279,6 +279,7 @@
 | Hostile Apocalypse | shaggy23 | 40463389 | 123 | After 5 months, my best megacollab is out! Will you survive? 8) Video on my YT Channel. EASY DEMON! Thanks for epic Rub! :)
 | Fluctuation | schady | 32916053 | 123 | I'm really proud of this one, I think its my best work :) Sequel to Vibration, and a Viprin CC8 entry. - Verified by Lemons
 | Solitude | ILRELL | 32559622 | 123 | Just a chill level (kinda laggy tho) | 28K Objects | Pass: !@$%&* | Dedicated to cloudfield | Update: removed random object
+| Quantum Rush | AutoNick | 52478373 | 122 | xPix3lest didn't want to finish this, so I did. :) I hope you like this and big thanks to Pix for letting me finish it! <3
 | Davide | CookiesGirly | 48926714 | 122 | new level! dedicated to Davide (Seventh.Hokage) <33 i know is not really a good level but hey.. i create for fun ;) enjoy!
 | LaZY | Zoroa GD | 48147313 | 122 | Very lazy collab w/ Unzor made in 4 days. Hope you enjoy our laziness :P  (HOW TF DID THIS GET EPIC?!?! Thanks RubRub! XD)
 | Aphelion | ILRELL | 42961817 | 122 | Collab with Echonox! | 73K Objects | Pass: !)@%^& | Insane 8*? | Dedicated to Glory | Update: Last part LDM, Visual Tweaks
@@ -323,6 +324,7 @@
 | Uretre | MagicXdash | 36719922 | 119 | goal of this level was to make a super fun gameplay, enjoy...76k obj ( les francais followez moi pour plus de gags (8 )
 | Deformed | MikyFC | 35777563 | 119 | Thanks to all who participated in this level, especially Ownbit, is my best friend and also thanks, check their lvls :)
 | Leaping | MrLorenzo | 34654431 | 119 | Collab with SirZaiss! He is a great creator, check him out!! There are some bugs, sorry about that. Hope you like it :)
+| NeoN 18 | Xender Game | 52048795 | 118 | Let us LIGHT up the year of 2019 with our last Collab (Deco by me and layout by DspectrumNGK :3) See you later NGK :')
 | Amber | Ethrakk | 48617590 | 118 | Collab with Systile, my part is pretty old but still looks decent I guess. Hope you enjoy ! Pass on my YouTube channel
 | Power Of Track | NormDanchik | 48414093 | 118 | My new collab. Made by me, DeniPol, Renodex, Aslambek and Siester. Please rate 8*. Now sorry, I need to feed my cat...
 | Magic Woods | Nico99 | 42329209 | 118 | I turned my Magic Gauntlet Entry into a level!  I hope you like it. Password in the level. Video on my youtube channel
@@ -429,6 +431,7 @@
 | Magnum | f3lixsram | 30997779 | 111 | A sexy collab with bloodstorm ! Pass and vid on my channel :) Thanks rob for first place O:  (nerfed wave part)
 | reborn kingdoms | Enceladus GD | 28920582 | 111 | FIRST 2.1 LEVEL! My best level Iever made I guess, 30k objects used. Insane 8-9*? Anyways, I hope you enjoy ^-^
 | Cursed Lore | LeX97 | 52498293 | 110 | Collaboration with: Ploid, Amverial, iSparki, Texic, TheAlmightyWave, xKR1T1K4L and Apep. Dedicated to Ploid !
+| Roseate | BranSilver | 52446182 | 110 | My new solo level! I hope you enjoy! THANKS FOR DAILY and also thanks people who support me in this community!
 | 80s Drunkers | NoWeek | 51766776 | 110 | A new retrowave level join the battle. Dedicated to Expynormal, Xenoteric, Digitalight, G4lvatron and Erdyuri.
 | Innervision | Nampac | 50705114 | 110 | Well this level could've been longer, but I exceeded the group ID limit of 1000. Hope you guys and gals enjoy.
 | OuT oF nAmE iDeAs | ISparkI | 50023776 | 110 | Hey look i made an easy demon. Inspired by Distort, Lex and DanZ. Enlex CC3 3rd place winner :^). Have fun lol
@@ -1009,6 +1012,7 @@
 | Revival | mulpan | 29817911 | 55 | Be very peaceful... rate 5 stars, Thanks for playing :3
 | Confusion | schady | 29118648 | 55 | My first 2.1 level! Video of the level on my Youtube :)
 | Shock | danolex | 28225110 | 55 | Thanks for playing my level...Leave a like and enjoy <3
+| Divena | Polli | 52478506 | 54 | Enjoy this collab with Spym =) , pass on my Yt channel
 | Trick Or Treat | SaabS | 49957313 | 54 | Level for Halloween 2018! I hope you enjoy this one :)
 | Blast Engine | DangerKat | 47396627 | 54 | Finally after one month :D | Verified by xXAgustin72Xx
 | WonderGame III | Jayuff | 47169461 | 54 | redesigned version of serponges level, "UltraGame III"
@@ -1030,6 +1034,7 @@
 | Purity | BryanC2 | 45786260 | 52 | Here I bring you a new job, I hope you like friends.
 | Lets Stomp | Nashii | 34196035 | 52 | C: Could you play my new Level Deception please guys
 | Subway | Existence | 30893856 | 52 | Maybe my best 2.1 level? Hope u enjoy! For Jovc CC1.
+| Eternity | JustBasic | 51770639 | 51 | Level made in 1 day :) Dedicated to all my friends 
 | Galvanic | distortt | 42497026 | 51 | Simple lvl, inspired by Fury0313. Hope you enjoy...
 | Energize | Nashii | 38113246 | 51 | C:      the dedications are at the end of the level
 | kalaxian | Thomartin | 36997718 | 51 | My first collab with JerkRat ! Wubba lubba dub dub.
@@ -1099,6 +1104,7 @@
 | Xeflux | Lemons | 36647186 | 43 | Just a simple little flux level... Enjoy :)
 | Pureland | Torch121 | 34194741 | 43 | A sequel of Amnesty 8) - Thanks for playing
 | Winter | LeocreatorX | 33322088 | 43 | My first easy level :) I hope u enjoy it <3
+| UncleVernam  | Nexender | 52446378 | 42 | Dedicated to Vernam (Uncle) and my friends
 | Friend Of Honor | Spoby | 51368093 | 42 | Merry Christmas! :) Dedication at the end!
 | Cirrus | Knots | 48441790 | 42 | good luck trying to download this song lol
 | Acid Rush II | Serponge | 42629936 | 42 | Its finally verified! Video on my youtube!
@@ -1143,6 +1149,7 @@
 | Messier 45 | Jayuff | 43409294 | 38 | very expirimental level. hope u enjoy!
 | Refresh | DesTicY | 38459797 | 38 | Well looks like I'm not dead... yet...
 | Cybernetic Showdown  | Tongii | 32243307 | 38 | 9% bug fixed - Verified by ChiefFlurry
+| Zagato | GiaMmiX | 52153801 | 37 | 1.9 inspired level, hope you enjoy :)
 | Mechanize | Waffl3X | 48438974 | 37 | the weeb sacrifice begins at midnight
 | Wubner | Gachristian1 | 47982257 | 37 | Shooting from the hip. My first epic!
 | Resonance | Ballii | 47787455 | 37 | Inspired by Erdyuri once again pppppp
@@ -1203,6 +1210,7 @@
 | Movement | Jayuff | 31265587 | 31 | One coin for the price of three
 | Aquarius | Skitten | 29416734 | 31 | Explore the underwater world...
 | Pink Nightmares | Jghost217 | 51939013 | 30 | Took two pills and fell asleep
+| TrackBash | PleoSlim RMD | 51862065 | 30 | 10 hours , 52 minutes to build
 | Euphoria | konsi | 50950866 | 30 | it will help u lose ur mind...
 | Bourn | AlexS2003 | 47932761 | 30 | My best. Dedicated to Optical.
 | Flavored Level | MrZiedZ | 43149681 | 30 | Sequel to my level Blast Level
