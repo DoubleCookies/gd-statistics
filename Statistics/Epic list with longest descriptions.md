@@ -1,4 +1,4 @@
-#### Total: 1427 levels
+#### Total: 1428 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -408,7 +408,7 @@
 | Lightning | RyanAB | 35842238 | 113 | For this one, I focused on how playable the level is, while attempting to still keep it hard! I hope you enjoy :)
 | Believer | SirHadoken | 35440747 | 113 | A mashup of the two levels that influenced me the most as a creator: Dreamer by FunnyGame and Believe by TriAxis!
 | Glitch | JirkGD | 34221069 | 113 | This time I decided to make an Easy 5* lvl | Dedicated to F3lix for being and amazing person, creator and friend.
-| Sunlit World II | RoqToq | 31725532 | 113 | Finally..  Sunlit return - Collab with: RickTz  <3  Simple Level. :3 , Dedicated to: Optical and IZhar <3 LIKE!!!
+| Sunlit World II | suxide | 31725532 | 113 | Finally..  Sunlit return - Collab with: RickTz  <3  Simple Level. :3 , Dedicated to: Optical and IZhar <3 LIKE!!!
 | Reality | BadKlatt | 30559780 | 113 | My best level and first 2.1, But enjoy this level and Thanks all...! :D Entry for CC'2 realzober..... Hopefully !
 | Popcorn | Superopi | 28418019 | 113 | Amazing megacollab by: JaffyTaffy, Desticy, Chase, Superopi, Noriega and Goose! Verified by Chase :) Good luck 8)
 | Dreams Come True | Manteex | 51566022 | 112 | Thanks everyone for giving me motivation play GD, and I'm sorry for everything bad I've done. Happy New Year! :D
@@ -455,7 +455,7 @@
 | Eliminator | Alderite | 33405447 | 110 | Added Uldm for laggy mobile users, and rendered the spider part so you can finish the level. Hope it works ;-;
 | SYNT | ZaDoXXZl | 52783112 | 109 | Dedicated to team Uniqueminds and Watermelon.My inspiration from always Thomartin :). After a 1 month.Enjoy;)
 | Epilogue | Xstar7 | 52019783 | 109 | Thank You Echonox for being an Inspiration to us all. Created by Neigefeu, Cancel, Echonox, Zoroa GD & Xstar7
-| Chromatic 37 | RoqToq | 51785505 | 109 | Thanks for play guys and the support, and to all spectators who stay in my streaming; Chromatic 37 by Suxide.
+| Chromatic 37 | suxide | 51785505 | 109 | Thanks for play guys and the support, and to all spectators who stay in my streaming; Chromatic 37 by Suxide.
 | Drowned in Darkness | SamMaxx | 50228503 | 109 | When faced with isolation you can look back and reflect to yourself, but It seems I can't find a nice result.
 | Cosmology | LeX97 | 47893850 | 109 | Special level for xSavic >OwO> | name suggestion by Ajedaboss ! :> (The second entry for HiIsBackSenpai's CC)
 | The END | BryanC2 | 46334132 | 109 | Here I bring you something new, this is my best level and work, I hope you enjoy it :)/ Pass: 286403 " Thx !!
@@ -531,7 +531,7 @@
 | Amarillo | Jayuff | 28577725 | 103 | My first 2.1 level! Still so much to figure out in the editor, but I hope you enjoy! :)) ps ily mbed <3
 | mysticality | alkali | 52766969 | 102 | Tried to go for a simpler + cleaner style with easier gameplay than usual :] My first four star level?
 | Reality | DangerKat | 50374878 | 102 | At last new level after 3 weeks of rest. I decided Use this music because alesda makes good tracks  :)
-| GoodBye To the world | RoqToq | 48872009 | 102 | Hello guys, i'm not dead or something; thanks for play! i hope you support me hehe, thanks for epic :D
+| GoodBye To the world | suxide | 48872009 | 102 | Hello guys, i'm not dead or something; thanks for play! i hope you support me hehe, thanks for epic :D
 | Artificial Love | Erdyuri | 48713988 | 102 | Finally a new level, and this has a very strong meaning for me.. hope you'll enjoy ! Made for Zarkyi !
 | Bosshunter | Nico99 | 47281969 | 102 | New Demon level with animated Pixel Arts! This  time is based on Enemies. I hope you like it, Enjoy!!!
 | Somnia | f3lixsram | 40323693 | 102 | New level, collab with the amazing Vip3r ! Video/pass on my youtube as always, hope you'll have fun ;3
@@ -754,7 +754,7 @@
 | Invasion | mulpan | 33796924 | 84 | It's finally done. This level must be quite difficult, but it'll be fun! Enjoy it :P
 | Inner Rival | FreakEd7 | 33528325 | 84 | You Are Your Own Enemy. Thanks For All The Support Guys! U Remember Me Rub-Senpai <3
 | Feels | RyanAB | 31396152 | 84 | My best level to date! Thanks for playing and please leave a like if you enjoyed! :D
-| Impurity | RoqToq | 30190181 | 84 | Kawaii Creators Collab <3 - Rate 4 stars :D like!!! - :3 Dedicated to KanamiChan <3 
+| Impurity | suxide | 30190181 | 84 | Kawaii Creators Collab <3 - Rate 4 stars :D like!!! - :3 Dedicated to KanamiChan <3 
 | Span | motleyorc | 30178884 | 84 | Dedicated to all of my wonderful viewers. 25k Objects, for Pauze's CC. Please enjoy!
 | Another Easy Demon | BranSilver | 49108174 | 83 | Collab with DanZmeN!! oooh yes its finally out, and I only had to update it 2 times
 | Slanted | Knots | 48152571 | 83 | dont worry, everything is alright. this is probably just a dream... *pigeon sounds*
@@ -797,7 +797,7 @@
 | Circuit Bop | distortt | 38992577 | 80 | A fast-paced, simple yet fun level... Can you find all the coins? Well, enjoy :]
 | Sly Shuffle | MrKoolTrix | 38857027 | 80 | Can you surpass the kerfuffle with a sly shuffle? 39k objects used. Have fun! :)
 | Graveyard | SaabS | 38287659 | 80 | Halloween themed level :) Hope you enjoy! Update: LDM is much more usable now :)
-| The Light | RoqToq | 36920682 | 80 | Collaboracion con: RickTZ - LeocreatorX - N R G <3 gracias por jugar! - Update 2
+| The Light | suxide | 36920682 | 80 | Collaboracion con: RickTZ - LeocreatorX - N R G <3 gracias por jugar! - Update 2
 | Distort | schady | 36443055 | 80 | Tried to do unique gameplay, and tried to make a 'glitch' effect for this one :)
 | Iro | Xstar7 | 35444390 | 80 | Iro: The Japanese word for Color. The official sequel to Niji ;) Please enjoy :)
 | Novalis | Gryllex | 33748382 | 80 | The hardest solo level I've created so far, Extreme demon difficulty, Good Luck.
@@ -824,7 +824,7 @@
 | Anhydride | Svyre | 38129442 | 78 | Collab with CreatorCold. We're really proud of this! 51k objects. Pass: 365356
 | Encased | AeroStorm | 36518185 | 78 | Escaping the tension of it all.. (Updated to make last part less annoying.) :P
 | Drafty | Thomartin | 35818755 | 78 | New effect lvl based on animations :D Sorry for the long wait and thank you :*
-| Mescalink | RoqToq | 34702638 | 78 | Gracias por jugar! - Collab with: Alfred PKness! - Jugar sus niveles :3 <3  *7
+| Mescalink | suxide | 34702638 | 78 | Gracias por jugar! - Collab with: Alfred PKness! - Jugar sus niveles :3 <3  *7
 | Fusionity | Piseto | 34424517 | 78 | Megacollab with: Hyperfox,Torch121,Bitzel,Zoomks,C Paola and Castrix! Enjoy =)
 | Overcharged | RadiationV2 | 34288763 | 78 | After almost a year, this megacollab with 23 awesome creators is finally done!
 | OutBurst | BloodStorm GD | 34198563 | 78 | hope you enjoy this amazing collab with Jaasim ! rate 7-8 stars )/ love you <3
@@ -903,6 +903,7 @@
 | Unravel | Thomartin | 33599790 | 71 | Here is my new design lvl ! I tried to focus on colours on this one :) 
 | Invigorate | RealZober | 32371324 | 71 | Dream in colors never seen before. For Voop cc8 & Nicki1202 cc2. Enjoy!
 | Granite | rafer | 31993928 | 71 | Song banned, so I changed it, It won't feel the same. - For Tedesco CC1
+| Dragon Slayer | Subw00fer | 52990858 | 70 | Storm the castle, slay the dragon, save the "princess". Simple enough.
 | Glowy nightmares | GiaMmiX | 49983256 | 70 | Enjoy this rushed halloween 2018 level! hope you like it (not my best)
 | Me Myself and I  | SamMaxx | 49395269 | 70 | I just want to stop feeling alone. An uncoopertive screw and the rain.
 | Tentacle Tackle | Hyenaedon | 48352376 | 70 | Crazy Colourful collab with Diaso! Check them out, they are amazing =D
@@ -954,7 +955,7 @@
 | Slap Squad II | DanZmeN | 43276194 | 64 | S  L  A  P     S  Q  U  A  D     B  A  C  K     M  O  T  H  A  -
 | Powerful | GD Jose | 39749578 | 64 | Two paths in one level :o... Videos and pass in my YT channel ;)
 | Unique | SrPotato | 35569937 | 64 | Unique doesnt mean exactly good , enjoy ;) Thanks for the epic !
-| Paper Clouds | RoqToq | 51538512 | 63 | Trying other style / Thanks for the epic! you guys are amazzing
+| Paper Clouds | suxide | 51538512 | 63 | Trying other style / Thanks for the epic! you guys are amazzing
 | Binary Enfold | Olympic | 49718667 | 63 | Collab with Reunomi, 95k objects. Check Low Detail Mode for LDM
 | Something | Unzor | 47315218 | 63 | JUST UPLOAD SOMETHING ALREADY YOU DUMB BLUE DRAGON CAT THING...
 | Wisp | AirForce | 47063240 | 63 | Probably my best. This song is totally not overused so enjoy 8)
@@ -996,7 +997,7 @@
 | FiX | Wixers | 44227133 | 59 | I hope you Enjoy it! Gameplay on my YT channel as always :)
 | Envious | LeocreatorX | 37818350 | 59 | My best lvl 8),For DreamEater CC  name suggested by Snarlax
 | yagmur | Berkoo | 35904510 | 59 | My new art level is here... and it's storm-themed! Enjoy :)
-| Dreamland | RoqToq | 31462205 | 59 | Gracias por jugar :3 - Dedicado a todos los wapos 7w7 ahrre
+| Dreamland | suxide | 31462205 | 59 | Gracias por jugar :3 - Dedicado a todos los wapos 7w7 ahrre
 | Stressy | Bnet | 49101798 | 58 | My new simple art level! dedicated to knots and litkira <3
 | Breakdown | Diaso | 48970244 | 58 | this isnt a sequel to Takedown, the names are just similar
 | Unique  | Pipenashho | 47674962 | 58 | The eyes was the window from your soul! hope you enjoy. :)
@@ -1147,7 +1148,6 @@
 | Emotional Journey | RadiationV2 | 24676724 | 41 | My 2.0 masterpiece, rate demon please! :D
 | Atmosphere | Fault | 50309126 | 40 | that thing between the earth and the sky
 | Monolithic Rush | BranSilver | 44089512 | 40 | Monster Gauntlet entry! updated version!
-| Flage | Regulus24 | 39356953 | 40 | Definitely my best. I hope you enjoy it!
 | Sanctuary of Light | AbstractDark | 37187779 | 40 | My entry for Crystal Gauntlet CC! Enjoy!
 | Honshitsu | Dashtrict | 35872642 | 40 | just a simple level with Japanese theme.
 | Dream Traveller | N R G | 35606643 | 40 | My first 2.1 lvl...rate (insane) pls ;3;
@@ -1339,7 +1339,7 @@
 | Aurora | Sharks | 33218690 | 17 | Quick nerf update
 | Achronic | luis JR | 51134816 | 16 | Nothing special.
 | Wynn | Darwin | 47896521 | 16 | My full power...
-| Fire Boi | RoqToq | 46026306 | 16 | v4: 2019 Update!
+| Fire Boi | suxide | 46026306 | 16 | v4: 2019 Update!
 | Electromechanism | luis JR | 44417977 | 16 | like my levels ?
 | Boundless | Hyenaedon | 36553838 | 16 | Forever Gawne...
 | Vesper | ViP3r | 35507499 | 16 | Wassup palls! <3
@@ -1377,6 +1377,7 @@
 | GlowLith | Girthhart | 40799640 | 9 | he he boi
 | Funky Bliss | FozaeKitty | 36080060 | 9 | yay... :)
 | Scent | Optical | 28500207 | 9 | Timeless.
+| Flage | Regulus24 | 39356953 | 8 | Enjoy :3
 | Splash | Jayuff | 38811712 | 8 | finally!
 | Fun | Jayuff | 47849218 | 7 | omg yes
 | HeartBang | Cloud72 | 35588255 | 7 | Mogurii

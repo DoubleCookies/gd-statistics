@@ -1,4 +1,4 @@
-#### Total: 12627 levels
+#### Total: 12628 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -160,7 +160,6 @@
 | 581556 | AeronMusic | Spare Time | 15
 | -20 | F-777 | Deadlocked | 14
 | 504114 | bossfightofficial | Flirt Flirt Oh It Hurts | 14
-| 573817 | DuoCore | DuoCore - The Furious | 14
 | 233860 | Waterflame | -Ricochet Love- | 14
 | 725417 | F-777 | Hydra | 14
 | 623104 | bossfightofficial | Bossfight - Milky Ways | 14
@@ -190,6 +189,7 @@
 | 396912 | ParagonX9 | ParagonX9 - Infinity | 14
 | 675458 | JoarZ | JoarZ x Zion - Reflection (Original Mix) | 14
 | 581444 | F-777 | Tuxedo Lightsaber Battle | 14
+| 573817 | DuoCore | DuoCore - The Furious | 13
 | 451158 | F-777 | Backstabber - F-777 | 13
 | 537203 | Geoplex | Solar Rain | 13
 | 677007 | TheArdor | Sad Machine (Ardor Remix) | 13
@@ -724,6 +724,7 @@
 | 749676 | Geoplex | Geoplex - Zenith | 4
 | 651406 | MegaSphere | NGs DnB | 4
 | 565377 | Shtriga | Massive Discharge | 4
+| 65711 | cornandbeans | {Rose} | 4
 | 716985 | Ilrell | Respire | 4
 | 712897 | TheLivingTombstone | Its Raining Men Remix - The Living Tombstone ft. Eilemonty | 4
 | 778463 | KaixoMusic | Ziggurat (Original Mix) | 4
@@ -867,7 +868,6 @@
 | 757876 | ACXLE | Smile (original by Austin C) | 3
 | 393342 | Rukkus | ~NK~ "PlaneT Ten" (wip) | 3
 | 602261 | IchigoChamploo | Mechanical Flow | 3
-| 65711 | cornandbeans | {Rose} | 3
 | 479470 | keosni391 | ~Boombox 2012~ | 3
 | 737526 | Lockyn | 3MBER + SRK - Night Owls (Lockyn Remix) | 3
 | 536893 | OcularNebula | Stab Victims! | 3
@@ -1669,8 +1669,8 @@
 | 717544 | HeadphoneHeaven | TheDiabolicalWaffle - Without Fear (Headphone Heaven Remix) | 1
 | 590567 | Neojock | Manure | 1
 | 561914 | alextheDJ | Tetris B (B4SSfreq Remix) | 1
-| 369402 | YanX | Touhou 11 - The dark blowhole. | 1
 | 500476 | ForeverBound | Stereo Madness | 1
+| 369402 | YanX | Touhou 11 - The dark blowhole. | 1
 | 459522 | Sorrow-316 | VVVVVV - Pushing Onward | 1
 | 688897 | dexarson | Dex Arson - Round 3 | 1
 | 697093 | TheEvilDevil | Undertale - Gasters Theme [Electro Swing] | 1
@@ -2228,6 +2228,7 @@
 | 719453 | ParisLookyTV | Goodbye | 1
 | 203355 | WeedKiller87 | Zelda NES Medley (8-Bit) | 1
 | 739928 | SpazeUnofficial | 1-SPAZE_-_MAGNIFICENT_09_(MAGNIFY) | 1
+| 735852 | Mattashi | Crushed To Bits (Save The Princess) | 1
 | 653929 | MafiaPineapple | Rebirth | 1
 | 772718 | KestutisK | Rain Dance | 1
 | 592483 | OpenLight | Unending Horizon | 1
