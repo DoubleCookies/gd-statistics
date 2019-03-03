@@ -15,10 +15,6 @@ public class GDSong {
     private String downloadURL;
     private boolean isCustom;
 
-    public GDSong() {
-
-    }
-
     /**
      * @param songID
      *            - the song ID
@@ -53,10 +49,6 @@ public class GDSong {
      */
     public GDSong(int id, String songAuthorName, String songTitle) {
         this(id, songAuthorName, "", songTitle, "", false);
-    }
-
-    public static GDSong unknownSong(long songID) {
-        return new GDSong(songID, "-", "", "Unknown", "", songID > 0);
     }
 
     /**
@@ -194,8 +186,6 @@ public class GDSong {
         if (!(obj instanceof GDSong))
             return false;
         GDSong other = (GDSong) obj;
-        if (songID != other.songID)
-            return false;
-        return true;
+        return songID == other.songID;
     }
 }

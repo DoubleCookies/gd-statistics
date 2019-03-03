@@ -214,7 +214,7 @@ public class GDLevel {
 	/**
 	 * Create string for markdown tables
 	 *
-	 * @return markdown string with name, creator, id, amount of likes and downloads
+	 * @return string with name, creator, id, amount of likes and downloads
 	 */
 	public String markdownString() {
 		return "| " + name + " | " + creator + " | " + id + " | " + downloads + " | " + likes;
@@ -223,7 +223,7 @@ public class GDLevel {
 	/**
 	 * Create string for markdown tables about level descriptions
 	 *
-	 * @return markdown string with name, creator, id, description length and description itself
+	 * @return string with name, creator, id, description length and description itself
 	 */
 	public String markdownWithDescriptionString() {
 		return "| " + name + " | " + creator + " | " + id + " | " + description.length() + " | " + description;
@@ -252,9 +252,7 @@ public class GDLevel {
 		if (getClass() != obj.getClass())
 			return false;
 		GDLevel other = (GDLevel) obj;
-		if (id != other.id)
-			return false;
-		return true;
+		return id == other.id;
 	}
 
 }

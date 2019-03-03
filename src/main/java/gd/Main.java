@@ -21,12 +21,12 @@ public class Main {
         for(int j = 0; j < 11; j++)
         {
             String prefix = getDifficultName(j+1) + " featured";
-            writeToFile(sortingCode, prefix, j+1, res[j].getBytes(), ".md");
+            writeToFile(sortingCode, prefix, j+1, res[j].getBytes());
         }
-        writeToFile(sortingCode, "Featured", 0, res[11].getBytes(), ".md");
-        writeToFile(5, "Featured", 0, res[12].getBytes(), ".md");
-        writeToFile(-1, "Featured audio info", 0, res[13].getBytes(), ".md");
-        writeToFile(-1, "Featured builders info", 0, res[14].getBytes(), ".md");
+        writeToFile(sortingCode, "Featured", 0, res[11].getBytes());
+        writeToFile(5, "Featured", 0, res[12].getBytes());
+        writeToFile(-1, "Featured audio info", 0, res[13].getBytes());
+        writeToFile(-1, "Featured builders info", 0, res[14].getBytes());
         System.out.println("All featured lists are finished");
     }
 
@@ -35,25 +35,25 @@ public class Main {
         for(int j = 0; j < 11; j++)
         {
             String prefix = getDifficultName(j+1) + " epic";
-            writeToFile(sortingCode, prefix, j+1, res[j].getBytes(), ".md");
+            writeToFile(sortingCode, prefix, j+1, res[j].getBytes());
         }
-        writeToFile(sortingCode, "Epic", 0, res[11].getBytes(), ".md");
-        writeToFile(5, "Epic", 0, res[12].getBytes(), ".md");
-        writeToFile(-1, "Epic audio info", 0, res[13].getBytes(), ".md");
-        writeToFile(-1, "Epic builders info", 0, res[14].getBytes(), ".md");
+        writeToFile(sortingCode, "Epic", 0, res[11].getBytes());
+        writeToFile(5, "Epic", 0, res[12].getBytes());
+        writeToFile(-1, "Epic audio info", 0, res[13].getBytes());
+        writeToFile(-1, "Epic builders info", 0, res[14].getBytes());
         System.out.println("All epic lists are finished");
     }
 
     private static void generateTopDemons() {
         String[] res = ResponseGenerator.generateTopDemonsList();
-        writeToFile(0, "Top 50 popular demons", 0, res[0].getBytes(), ".md");
+        writeToFile(0, "Top 50 popular demons", 0, res[0].getBytes());
     }
 
 
-    private static void writeToFile(int sortingCode, String prefix, int diffCode, byte[] data, String filetype) {
+    private static void writeToFile(int sortingCode, String prefix, int diffCode, byte[] data) {
         FileOutputStream out;
         try {
-            out = getFileOutputStream(sortingCode, prefix, diffCode, filetype);
+            out = getFileOutputStream(sortingCode, prefix, diffCode);
             out.write(data);
             out.close();
         } catch (IOException e) {
@@ -61,7 +61,7 @@ public class Main {
         }
     }
 
-    private static FileOutputStream getFileOutputStream(int sortingCode, String prefix, int diffcode, String filetype) throws IOException {
+    private static FileOutputStream getFileOutputStream(int sortingCode, String prefix, int diffcode) throws IOException {
         FileOutputStream out;
         String baseFolder = "Statistics";
         Path path = Paths.get(baseFolder);
@@ -81,12 +81,12 @@ public class Main {
 
         switch (sortingCode)
         {
-            case 1: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending likes" + filetype); break;}
-            case 2: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending likes" + filetype); break;}
-            case 3: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending downloads" + filetype); break;}
-            case 4: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending downloads" + filetype); break;}
-            case 5: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with longest descriptions" + filetype); break;}
-            default: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list" + filetype); break;}
+            case 1: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending likes" + ".md"); break;}
+            case 2: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending likes" + ".md"); break;}
+            case 3: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending downloads" + ".md"); break;}
+            case 4: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending downloads" + ".md"); break;}
+            case 5: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with longest descriptions" + ".md"); break;}
+            default: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list" + ".md"); break;}
         }
         return out;
     }

@@ -26,7 +26,7 @@ public class ResponseGenerator {
     private static Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> (int) (o2.getDescription().length() - o1.getDescription().length());
 
     private static List<GDLevel> levels;
-    static DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+    private static DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 
     static String[] processLevels(int sortingCode) throws EmptyListException {
         if(levels == null) {
@@ -66,9 +66,9 @@ public class ResponseGenerator {
         for(GDLevel level : levels)
         {
             int i = returnDiff(level);
-            builders[i].append(level.markdownString() + "\n");
+            builders[i].append(level.markdownString()).append("\n");
             counter[i]++;
-            builders[length-1].append(level.markdownString() + "\n");
+            builders[length - 1].append(level.markdownString()).append("\n");
         }
         for(int i = 0; i < length-1; i++)
         {
@@ -89,7 +89,7 @@ public class ResponseGenerator {
         sortLevelList(levels, 5);
         for(GDLevel level : levels)
         {
-            builder.append(level.markdownWithDescriptionString() + "\n");
+            builder.append(level.markdownWithDescriptionString()).append("\n");
             counter++;
         }
         builder.insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
@@ -107,7 +107,7 @@ public class ResponseGenerator {
         {
             if(counter < 50)
             {
-                builder.append(level.markdownString() + "\n");
+                builder.append(level.markdownString()).append("\n");
                 counter++;
             }
         }
@@ -123,7 +123,6 @@ public class ResponseGenerator {
         builder.append("|:---:|:---:|:---:|:---:|\n");
         HashMap<GDSong, Integer> audio = new HashMap<>();
         GDSong songId;
-        int f = 0;
         for(GDLevel level : levels)
         {
             songId = level.getGdSong();
@@ -145,7 +144,7 @@ public class ResponseGenerator {
         List<GDSong> mapKeys = new ArrayList<>(result.keySet());
         List<Integer> mapValues = new ArrayList<>(result.values());
         for(int i =0; i < mapKeys.size(); i++)
-            builder.append(mapKeys.get(i).toListString() + mapValues.get(i) + "\n");
+            builder.append(mapKeys.get(i).toListString()).append(mapValues.get(i)).append("\n");
         return builder.toString();
     }
 
@@ -177,7 +176,7 @@ public class ResponseGenerator {
         int i = 0;
         int count = 0;
         try {
-            while(count < 50) {
+            while (count < 50) {
                 String res = GDServer.fetchMostPopularLevels(i);
                 for (int j = 0; j < 10; j++) {
                     GDLevel level = getLevel(j, res);
@@ -202,9 +201,9 @@ public class ResponseGenerator {
         int i = 0;
         try {
 
-            while(true) {
+            while (true) {
                 String res = GDServer.fetchRecentFeaturedLevels(i);
-                addingSelection(diffCode, list, i, res);
+                addingSelection(diffCode, list, res);
                 i++;
             }
         } catch (Exception e) {
@@ -213,7 +212,7 @@ public class ResponseGenerator {
         return list;
     }
 
-    private static void addLevelsToList(List<GDLevel> list, int i, String res) {
+    private static void addLevelsToList(List<GDLevel> list, String res) {
         for (int j = 0; j < 10; j++) {
             GDLevel level = getLevel(j, res);
             if (level != null)
@@ -221,7 +220,7 @@ public class ResponseGenerator {
         }
     }
 
-    private static void addLevelsToList(List<GDLevel> list, int i, String res, Difficulty difficulty) {
+    private static void addLevelsToList(List<GDLevel> list, String res, Difficulty difficulty) {
         for (int j = 0; j < 10; j++) {
             GDLevel level = getLevel(j, res);
             if (level != null && level.getDifficulty() == difficulty)
@@ -229,7 +228,7 @@ public class ResponseGenerator {
         }
     }
 
-    private static void addLevelsToList(List<GDLevel> list, int i, String res, DemonDifficulty demonDifficulty) {
+    private static void addLevelsToList(List<GDLevel> list, String res, DemonDifficulty demonDifficulty) {
         for (int j = 0; j < 10; j++) {
             GDLevel level = getLevel(j, res);
             if (level != null && level.getDifficulty() == Difficulty.DEMON && level.getDemonDifficulty() == demonDifficulty)
@@ -241,27 +240,27 @@ public class ResponseGenerator {
         return GDLevelFactory.buildGDLevelSearchedByFilter(res, j, false);
     }
 
-    private static void addingSelection(int diffCode, List<GDLevel> list, int i, String res) {
+    private static void addingSelection(int diffCode, List<GDLevel> list, String res) {
         switch (diffCode)
         {
-            case 1: { addLevelsToList(list, i, res, Difficulty.AUTO); break;}
-            case 2: { addLevelsToList(list, i, res, Difficulty.EASY); break;}
-            case 3: { addLevelsToList(list, i, res, Difficulty.NORMAL); break;}
-            case 4: { addLevelsToList(list, i, res, Difficulty.HARD); break;}
-            case 5: { addLevelsToList(list, i, res, Difficulty.HARDER); break;}
-            case 6: { addLevelsToList(list, i, res, Difficulty.INSANE); break;}
-            case 7: { addLevelsToList(list, i, res, DemonDifficulty.EASY); break;}
-            case 8: { addLevelsToList(list, i, res, DemonDifficulty.MEDIUM); break;}
-            case 9: { addLevelsToList(list, i, res, DemonDifficulty.HARD); break;}
-            case 10: { addLevelsToList(list, i, res, DemonDifficulty.INSANE); break;}
-            case 11: { addLevelsToList(list, i, res, DemonDifficulty.EXTREME); break;}
-            default: { addLevelsToList(list, i, res); break;}
+            case 1: { addLevelsToList(list, res, Difficulty.AUTO); break;}
+            case 2: { addLevelsToList(list, res, Difficulty.EASY); break;}
+            case 3: { addLevelsToList(list, res, Difficulty.NORMAL); break;}
+            case 4: { addLevelsToList(list, res, Difficulty.HARD); break;}
+            case 5: { addLevelsToList(list, res, Difficulty.HARDER); break;}
+            case 6: { addLevelsToList(list, res, Difficulty.INSANE); break;}
+            case 7: { addLevelsToList(list, res, DemonDifficulty.EASY); break;}
+            case 8: { addLevelsToList(list, res, DemonDifficulty.MEDIUM); break;}
+            case 9: { addLevelsToList(list, res, DemonDifficulty.HARD); break;}
+            case 10: { addLevelsToList(list, res, DemonDifficulty.INSANE); break;}
+            case 11: { addLevelsToList(list, res, DemonDifficulty.EXTREME); break;}
+            default: { addLevelsToList(list, res); break;}
         }
     }
 
     private static int returnDiff(GDLevel gdLevel)
     {
-        // -1!; Difficulty 0 = NA, which is unused in featured and epic
+        // -1; Difficulty 0 = NA, which is unused in featured and epic
         int code = Difficulty.valueOf(gdLevel.getDifficulty().toString()).ordinal() - 1;
         if(code == 6)
             code += DemonDifficulty.valueOf(gdLevel.getDemonDifficulty().toString()).ordinal();

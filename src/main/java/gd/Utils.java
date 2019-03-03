@@ -15,8 +15,6 @@ import static gd.Constants.AUDIO_TRACKS;
  */
 public abstract class Utils {
 
-
-
     /**
      * Transforms a string into a map. The string must be in a specific format for this
      * method to work. For example, a string formatted as <code>"1:abc:2:def:3:xyz"</code>
