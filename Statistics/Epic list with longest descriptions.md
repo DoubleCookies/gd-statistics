@@ -189,7 +189,7 @@
 | Duality | ViPriN | 47594736 | 131 | A megacollab where 2 creators collaborated on each part, separating their parts in different ways, and using mainly one color each.
 | Blast Conducting | DorSha | 42074338 | 131 | Blast Processing remake! I lost a lot of progress in this level so it may look a bit rushed or bad in general. Anyways, have fun :)
 | The Deathless | Edicts | 41352267 | 131 | The official sequel to The Badland. Dedicated to EricVanWilderman for the awesome entertainment and to Boomkity! LDM IMPROVED AGAIN
-| Retro Hacker II | Girthhart | 35418205 | 131 | The second and maybe last Retro Hacker cuz out of idea as you can see at the end of the level but hope you will enjoy this level 8)
+| Retro Hacker II | Noweekk | 35418205 | 131 | The second and maybe last Retro Hacker cuz out of idea as you can see at the end of the level but hope you will enjoy this level 8)
 | The Unknown | AbstractDark | 29872584 | 131 | Finally finished this level that i started in early 2.1. I hope you guys like this full effects level! Video on my Youtube channel!
 | AI Inc | OptaWolfGD | 51147798 | 130 | Artificial Intelligence Incorporation, At your service. To Jghost, AlfredPKNess and Xstar7. Maybe my last last solo level of 2.11.
 | Radiance | PotatoBaby | 47574315 | 130 | Finally finished this level after a year of never working on it! Hope you enjoy this glowy monstrosity! (updated fade in at start)
@@ -280,7 +280,7 @@
 | Sadness | DanielDlc | 46150226 | 123 | My first minimalist MC I hope you love after 3 months an amazing result enjoy ;D!!/ Thanks for playing Pass On my Chanel ^^
 | Alt F4 | TeamHFC | 45954010 | 123 | The 2nd megacollab from HyperFireCreators (hosted by 8BitFudge, PrismDash and Sharkarie)! Verified by Stormfly. V2: Big fix
 | Spring | Arysta | 43879123 | 123 | Merged this time pale colors with some discrete designs, it's time to prove that even simple concepts could be really cool.
-| Retro VirUs | Girthhart | 42659957 | 123 | Not my best but I making this for fun. Dedicated to ppl who helped me too much:Partition, F3lixsram, F5Night and DragneelGD
+| Retro VirUs | Noweekk | 42659957 | 123 | Not my best but I making this for fun. Dedicated to ppl who helped me too much:Partition, F3lixsram, F5Night and DragneelGD
 | Inside | SaabS | 41287705 | 123 | My level "supposed to be demon". I hope you enjoy! Dedications are in the end :) Update: Got rid of some visual glitches ;)
 | Magitech | CastriX | 40474932 | 123 | People who live in glass houses should not throw stones... Dedicated to my favorite artist Canonblade :). Happy New Year <3
 | Hostile Apocalypse | shaggy23 | 40463389 | 123 | After 5 months, my best megacollab is out! Will you survive? 8) Video on my YT Channel. EASY DEMON! Thanks for epic Rub! :)
@@ -415,7 +415,7 @@
 | Reality | BadKlatt | 30559780 | 113 | My best level and first 2.1, But enjoy this level and Thanks all...! :D Entry for CC'2 realzober..... Hopefully !
 | Popcorn | Superopi | 28418019 | 113 | Amazing megacollab by: JaffyTaffy, Desticy, Chase, Superopi, Noriega and Goose! Verified by Chase :) Good luck 8)
 | Dreams Come True | Manteex | 51566022 | 112 | Thanks everyone for giving me motivation play GD, and I'm sorry for everything bad I've done. Happy New Year! :D
-| Retro Hacker III | Girthhart | 50662053 | 112 | Well, at least, I tried to make something more decent this time. Thanks to Pyxidus for verify bugs on the level.
+| Retro Hacker III | Noweekk | 50662053 | 112 | Well, at least, I tried to make something more decent this time. Thanks to Pyxidus for verify bugs on the level.
 | Steampunk Heart | SamMaxx | 50571940 | 112 | Final level of the trilogy. Tried to optimize LDM as best as possible. Dedicated to Manteex. Remember, solitude.
 | Tragic Nights | DanielDlc | 50087915 | 112 | finally!! 4 months of creation I am proud of myself, leave a sweet in 21% Enjoy the level !! / Pass ON my chanel
 | Splaash | Axile | 49689598 | 112 | if ldm is still laggy just use force smooth fix, enjoy! ^_^ (first modern proper art level) Gameplay bad pls fix
@@ -442,7 +442,7 @@
 | Shimmering | DashTy | 52817505 | 110 | Yeah Boi ! Hope you like this new level :D ! Layout By Ploid ! :) ( Pass on my YT Channel ) My best ! Enjoy :3
 | Cursed Lore | LeX97 | 52498293 | 110 | Collaboration with: Ploid, Amverial, iSparki, Texic, TheAlmightyWave, xKR1T1K4L and Apep. Dedicated to Ploid !
 | Roseate | BranSilver | 52446182 | 110 | My new solo level! I hope you enjoy! THANKS FOR DAILY and also thanks people who support me in this community!
-| 80s Drunkers | Girthhart | 51766776 | 110 | A new retrowave level join the battle. Dedicated to Expynormal, Xenoteric, Digitalight, G4lvatron and Erdyuri.
+| 80s Drunkers | Noweekk | 51766776 | 110 | A new retrowave level join the battle. Dedicated to Expynormal, Xenoteric, Digitalight, G4lvatron and Erdyuri.
 | Innervision | Nampac | 50705114 | 110 | Well this level could've been longer, but I exceeded the group ID limit of 1000. Hope you guys and gals enjoy.
 | OuT oF nAmE iDeAs | ISparkI | 50023776 | 110 | Hey look i made an easy demon. Inspired by Distort, Lex and DanZ. Enlex CC3 3rd place winner :^). Have fun lol
 | Ambient | BranSilver | 47571009 | 110 | After almost 4 months of doing barely anything here is my new level (thats is rushed, sorry) ITS FEATURED HECK
@@ -492,6 +492,7 @@
 | Forgotten Fraction | FreakEd7 | 34707665 | 107 | A lot of Effort On This Big Project Tbh, U Did it again Rob-Senpai 8) Thx For All The Love Guys! Enjoy!!!!!
 | Enzymic | Enlex | 34078964 | 107 | Lot of pain for build this level. Collab with Enzore :D  can we get 8* this time rob? or i will kill you 8)
 | Stomper | Slashvoid | 33321428 | 107 | Awesome collab betweeb Lyskate, Slashvoid, PotatoBaby and Shutter, thanks to Fury for the gameplay.. enjoy!
+| Fossilis | Ploid | 49923473 | 106 | My best level at the moment. Schady Is a big part of this too, It would not get epic without this gameplay
 | Triagonal Corundum | Nibbler GD | 49166541 | 106 | Awesome collab by 11 players, hosted by me. Dedicated to all my friends from russian community. Good luck!
 | Strekit | Bnet | 48261228 | 106 | collab with zeetoss! Hey guys, Go and check my youtube channel "RobzombiGD" I do level request and more <3
 | Sheikah | Ethrakk | 47915091 | 106 | Tried to make the gameplay as fun as possible. Inspired by Thomartin and HaoN, pass on my YouTube channel.
@@ -518,6 +519,7 @@
 | Direction  | Konobiz | 34526077 | 105 | please, check pulverize, a cool level by my friend manu123890, I think it deserves a feature :)  34923683
 | IZnite | izhar | 32400752 | 105 | Finally the first easy epic in GD? :P dedicated to TickleGD and Wooobs! (Pass and Coins on my YT channel)
 | One | Ragnarok96 | 30753202 | 105 | My first DEMON level on 2.1!,Iam sory for rushed gameplay and many moving object :),ENJOY! :D,Pass:*(@$#^
+| Splatter | Waffl3X | 53650457 | 104 | I was just trying to make a mechanical themed level, but someone just HAD to spill paint on it... Enjoy!
 | Purpose  | Xstar7 | 48561623 | 104 | Everyone has a purpose. Pressing the LDM button on the level select screen shows different BGs! Enjoy :)
 | Neowolf | WerewolfGD | 45063264 | 104 | Tech level | Thanks to CreatorCaps for helping me | Name suggestion by Nekomancer | Enjoy and rate 9-10*
 | Piano Slap | Nico99 | 39607173 | 104 | Last level of the Slap Trilogy. Thanks to Terron for this awesome music, also dedicated to him. Enjoy!!!
@@ -848,6 +850,7 @@
 | Tundra | Jayuff | 51962726 | 76 | one of my biggest projects. hope yall enjoy, this was a nightmare to produce
 | Inneretro | WerewolfGD | 50425055 | 76 | A remake of Retrowolf | Ufo part : hold to move forward : Enjoy and rate 7*!
 | FantasyTrip II | ReYzen | 48912392 | 76 | Level 2/3.......... Dedicated to Jayuff...................... Natural theme.
+| Mayday | Ploid | 46451535 | 76 | First epic ! P.s, It Is also the first ever rated level that uses this song.
 | Idea Dump | Elisione | 46050008 | 76 | My most experimental level! Made this just for fun, hope you guys like it :)
 | StarStruck | Darwin | 43925827 | 76 | One of my best level, dedicated to my favorite creator in this game, Goose !
 | Teriyaki Soba | Alfred PKNess | 42198034 | 76 | Awesome WaterFlame's song, i love it :D, made in 5 days :0 [Rate 6 Stars] ;3
@@ -898,7 +901,6 @@
 | Flax | Thomartin | 29199166 | 72 | I love this game <3 Thank you so much for the epic robtop <3 !! DAILY :O
 | Mindblow | Namtar | 28969151 | 72 | It will blow your mind... (UPD: added low detail mode and fixed 66% bug)
 | Vivid escape | Erdyuri | 26861337 | 72 | A collab w/ Goose & Thomartin ! We are very proud of how it looks now :D
-| Fossilis | Ploid | 49923473 | 71 | Ok, not a demon, everybody understood guys. Schady made the gameplay <3
 | Color Rush | NukAnnguq | 48106654 | 71 | The first 5 Parts are made 2-3 Months ago, the end is rushed. Enjoy! :]
 | Exclamation Mark | WerewolfGD | 47535841 | 71 | Question mark sequel | Player-color based level | Enjoy and rate7* | ;3
 | Holy Power | TheRealDorami | 46220912 | 71 | Thanks for Epic :3 / New Updated 3.1 Ver - Bug fixed & Added Ultra LDM.
@@ -1024,7 +1026,7 @@
 | Ultimate Ascension | Geom3zon | 51170790 | 56 | My masterpiece is finally here... i hope you like it owo
 | Melody at Pause | Knots | 47021443 | 56 | just random arts to celebrate the summer. not much else.
 | Detonate | Cirtrax | 41151551 | 56 | A unfinished Level Distort let me have! 8) Rate 5 Stars!
-| Imp3rf3rct1on | Girthhart | 39269485 | 56 | Humanity corrupt the world, the robots take the controls
+| Imp3rf3rct1on | Noweekk | 39269485 | 56 | Humanity corrupt the world, the robots take the controls
 | Transcendence | Alderite | 35345329 | 56 | Amazing collab with xMisery. Added Uldm for you guys ;-;
 | Believe | AceVict | 28879542 | 56 | Simple and easy level, please rate hard 4 stars! thx! :)
 | JusT RobS n TopS | DanZmeN | 52070793 | 55 | The world's first extreme auto. Verified by Technical49
@@ -1035,12 +1037,11 @@
 | Revival | mulpan | 29817911 | 55 | Be very peaceful... rate 5 stars, Thanks for playing :3
 | Confusion | schady | 29118648 | 55 | My first 2.1 level! Video of the level on my Youtube :)
 | Shock | danolex | 28225110 | 55 | Thanks for playing my level...Leave a like and enjoy <3
-| Splatter | Waffl3X | 53650457 | 54 | Nothing special, just a level that's probably my last.
 | Divena | Polli | 52478506 | 54 | Enjoy this collab with Spym =) , pass on my Yt channel
 | Trick Or Treat | SaabS | 49957313 | 54 | Level for Halloween 2018! I hope you enjoy this one :)
 | Blast Engine | DangerKat | 47396627 | 54 | Finally after one month :D | Verified by xXAgustin72Xx
 | WonderGame III | Jayuff | 47169461 | 54 | redesigned version of serponges level, "UltraGame III"
-| Game Master | Girthhart | 45627449 | 54 | A colorful level appear, dedicated to Rafer a cool guy
+| Game Master | Noweekk | 45627449 | 54 | A colorful level appear, dedicated to Rafer a cool guy
 | Stormbringer | Marwec | 37915833 | 54 | When the storm comes, you should better be prepared...
 | Its Raining Men | Spa8 | 36436231 | 54 | AdvyStyles will make a 10 minute video of this level. 
 | Soulseas | EpiEpz | 35136617 | 54 | for baylyn (update: nerfed spider part thank me later)
@@ -1079,7 +1080,7 @@
 | SoW | Wixers | 45887485 | 50 | i hope you enjoy it! Gameplay on my YT channel! =)
 | Origin | Play3rName | 43000402 | 50 | Made during Summer break | Enjoy! ;D | (LDM Added)
 | Nox | Flashmick72 | 36827844 | 50 | thanks so much to rob for giving me my first epic!
-| Phoenix | Girthhart | 34167869 | 50 | The rise of the Phoenix will mindblow your soul...
+| Phoenix | Noweekk | 34167869 | 50 | The rise of the Phoenix will mindblow your soul...
 | Another | DavJT | 51776115 | 49 | Analyze_(Another.exe), a virus has been detected!
 | howl | Mineber | 49266956 | 49 | Collab with lucariusm, emyliano ftrop and lixars.
 | Triste | Olympic | 48911188 | 49 | Oly, Alka, Fila, M3nh, Digi, Ele, Wwgd, Finn, Zaf
@@ -1116,7 +1117,6 @@
 | Blood Sugar | rafer | 34318505 | 45 | Inspired by Pendulum's song. 940 groups used.
 | Experience | AyDiePay | 31420440 | 45 | Probably my best:) Hope for an epic<3 Enjoy;)
 | Ecleon | Piseto | 51079547 | 44 | Different worlds, one level...  80k obj used
-| Mayday | Ploid | 46451535 | 44 | Well, second level that I'm kinda proud of..
 | Strawberry Soda  | M3nhHu3 | 44801448 | 44 | Can you handle the cuteness ? :3 #levelution
 | Perception | R3XX3R | 42133523 | 44 | This is the sequel to my level 'Wanderer' :D
 | Interstellar | Darwin | 37889982 | 44 | Travel in time... in space... in the unknown
@@ -1328,7 +1328,7 @@
 | Haunted Level | MrZiedZ | 42339959 | 21 | -Haunted Description-
 | Skyfall | abdula | 34446044 | 21 | Hope You Enjoy   <3  
 | Electr2nic Super Joy | Etzer | 28503954 | 21 | oh boy, that was fun.
-| Mojito | Girthhart | 44567922 | 20 | dance till your dead
+| Mojito | Noweekk | 44567922 | 20 | dance till your dead
 | Mixed Signals | SirHadoken | 43875571 | 20 | Kzmyjivhz, Jgqdyzhz.
 | Dasani | LKH2001 | 43316846 | 20 | Purity in every drop
 | Aquafina | Kips | 43258813 | 20 | i dont know japanese
@@ -1389,7 +1389,7 @@
 | Atmosfera | FozaeKitty | 48469085 | 9 | ~ sweet ~
 | FurY | TheRealDorami | 47490086 | 9 | Surprise!
 | Dream Paradise | DHaner | 44133646 | 9 | Enjoy ^-^
-| GlowLith | Girthhart | 40799640 | 9 | he he boi
+| GlowLith | Noweekk | 40799640 | 9 | he he boi
 | Funky Bliss | FozaeKitty | 36080060 | 9 | yay... :)
 | Scent | Optical | 28500207 | 9 | Timeless.
 | Flage | Regulus24 | 39356953 | 8 | Enjoy :3

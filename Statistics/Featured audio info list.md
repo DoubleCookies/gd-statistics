@@ -1,4 +1,4 @@
-#### Total: 12754 levels
+#### Total: 12760 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -1227,6 +1227,7 @@
 | 128599 | XsakuX | Sunset Park Act 3 - (Sonic TT) | 2
 | 714326 | windluxmusic | 3MBER & SRK - Night Owls (Karaplex Remix) | 2
 | 599661 | Dimoria | Flow Of Motion | 2
+| 714356 | KaixoMusic | Lycanthropy (Original Mix) | 2
 | 771736 | CreoMusic | Creo - Enigma | 2
 | 657081 | Cacola | Lit Fuse | 2
 | 673470 | Gravidi | ~Fateful Mist~ | 2
@@ -1248,6 +1249,7 @@
 | 468806 | CreaperX | Avicii - Levels RemiX | 2
 | 313170 | Willrock07 | A-ha - Take On Me 8bit | 2
 | 87895 | cornandbeans | {Rose} Remastered | 2
+| 763734 | ELEPS44 | Lemons - Mango (ELEPS REMIX) | 2
 | 620398 | EtzerGD | ~Emerald Brine~ | 2
 | 796519 | ToneCrush | Attack on Titan - Call of Silence (Apollo Remix) | 2
 | 497523 | DJVI | Active (2012 World End Edit) | 2
@@ -1506,6 +1508,7 @@
 | 708694 | Acid-Notation | Shadow Queen Pt. 2 Remix | 1
 | 241764 | F-777 | Sinking In - F-777 ReMiX | 1
 | 790633 | Sharks | WASTED! - Desu Ka (Sharks Remix) | 1
+| 770159 | TwelfthChromatic | Galleria | 1
 | 475234 | Waterflame | -Run!- | 1
 | 479329 | DuttonsaysHi | Adventure Time Remix | 1
 | 573563 | DarkstyleProductions | Ice Temple | 1
@@ -1865,6 +1868,7 @@
 | 505123 | TooColdToHold | Chaos Attack | 1
 | 804139 | Kyron20 | -Vibrant- | 1
 | 460066 | AshleyAlyse | The Mystic Forest | 1
+| 656673 | Namice | ~Utopia~ | 1
 | 689442 | ChaelMusic | Chael - Nightmare | 1
 | 705829 | DJ-CJ-Doty | Tranquility | 1
 | 685349 | TheEvilDevil | Better Days [Glitch/Electro Swing] | 1
@@ -1962,7 +1966,6 @@
 | 599654 | TheKillerLegacy | Itsbeensolong(fnaf2)-tlt | 1
 | 558695 | SamoStudios | Beyond The Glass | 1
 | 747134 | PrismaticMusic | Shelter (Prismatic Remix) | 1
-| 714356 | KaixoMusic | Lycanthropy (Original Mix) | 1
 | 685686 | EagleGuard | Africa calls | 1
 | 726667 | lxSparklerxl | Sparkler - Freedom | 1
 | 493188 | SKILLZmakeKILLZ | SmK - Extinct | 1
@@ -2030,6 +2033,7 @@
 | 726822 | FelixSanHaro | Night Light | 1
 | 542521 | gvdclubber | Skyrim (Dragonborn) | 1
 | 673595 | Waterflame | -Theme Of Skyworld- | 1
+| 845622 | DJVI | Wildcard | 1
 | 558900 | chaoticmarin | Thunderwave Cave (8 bit) | 1
 | 530241 | viewtifulday | Rose (viewtifulday Remix) | 1
 | 710468 | 1AHN | IAHN - Uppity Cat | 1
@@ -2039,7 +2043,6 @@
 | 173916 | Caine1989 | Need U 2 B Complete [C89] | 1
 | 780114 | OfficialNovacore | The Lost Cave | 1
 | 472925 | dj-Nate | Theory of Everything 2 | 1
-| 763734 | ELEPS44 | Lemons - Mango (ELEPS REMIX) | 1
 | 661355 | aliaspharow | ~Fore~ Mystical Cabbage | 1
 | 63340 | PERVOK | BobbleHeads--_--(4:20) | 1
 | 530298 | Xtrullor | Oomb | 1
@@ -2273,6 +2276,7 @@
 | 699031 | AeronMusic | Pacifist | 1
 | 563862 | AdamCorporation | ~AZ~ Pixel Universe | 1
 | 780971 | DanJohansen | Neon Whispers | 1
+| 785071 | ToneCrush | Or3o - Doki Doki Forever (Apollo Remix) | 1
 | 744098 | AlexPig60 | Electrodynamix 2 (Desx Remix) | 1
 | 567996 | ARentz07 | Yogurt Yard Remix | 1
 | 731840 | BurgeraX | BurgeraX: Jitter [Glitch Hop] | 1
