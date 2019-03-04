@@ -224,6 +224,7 @@ Chlorines | 2
 zombier | 2
 HcreatoR | 2
 Spym | 2
+7229 | 2
 KeiAs | 2
 Echonox | 2
 HollowEarth | 2
@@ -248,7 +249,6 @@ Cthulu | 2
 ByBoy 11 | 2
 Meeloz | 2
 TD Epic | 2
-Konobiz | 2
 Flashmick72 | 2
 Stroiter | 2
 SkyGazer | 2

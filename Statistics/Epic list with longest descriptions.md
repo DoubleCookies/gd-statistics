@@ -382,7 +382,6 @@
 | SubBass | TriPodX | 36054065 | 115 | My best work!! Amazing Collab With Furix, You should Go check out his awesome levels:D Enjoy and Practice the boss!
 | Alphaverse | Xstar7 | 35114282 | 115 | The 6th installment in my "Verse" series! I hope you all enjoy the level! Collab with Rapace & Glory. THX FOR EPIC!
 | Flores | ZecretDash | 52257635 | 114 | i hope you enjoy, dedicated for some creators and friends, and for the more special friend what i have "Flores" <3
-| Corrupted | Vancis | 51420551 | 114 | My best and last level of 2018! Special thanks to Agate and Xaren for helping me when I was demotivated. Enjoy! :3
 | Abstort II | LeX97 | 50569364 | 114 | Abstort II is here now ! I feel like the first one is better though ^^' | Update: the coins are easier to get now.
 | Dark Manor | SamMaxx | 49710146 | 114 | I am very happy to bring you my best art level, and my best theme as well :) For Pauze, Loserchik, and Optawolf <3
 | BOSS 3 Electro | Xender Game | 45479009 | 114 | 3rd series of my Boss fight! This time, Virus - Electro will bring the DESTRUCTION to GD! (inspired by badland :v)
@@ -428,6 +427,7 @@
 | Gear II | GD Jose | 33568628 | 112 | isn't too hard... just practice :D... video in & pass in my YT channel [activate shakes for a better experience]
 | Afterlife | Fillipsmen | 29267493 | 112 | Finally a new level :). I really enjoyed bulding this and learning to use all the new stuff, hope you like it :D
 | Wack | Yendis | 52356195 | 111 | My weirdest, wackiest and craziest level. The majority was built on my Twitch stream, please rate easy demon :)
+| Corrupted | Vancis | 51420551 | 111 | My best and last level of 2018! Special thanks to Agate and Xaren for helping me when I was demotivated. Enjoy!
 | To the Top | Cirtrax | 50863505 | 111 | My First XL Level! 2 mins long! Inspired from Robtop, Lemons, and Distort, Rate 9 stars and Have Fun!! 48k Objs
 | Opportunity | DJslimeYT327 | 49126699 | 111 | The Journey's begin ? My Entry for Optical's MCR 5, Dedicated to Robtop, and my friends. I hope you liked it :>
 | CiRcuTeCnO | HcreatoR | 45109234 | 111 | Amazing collab with my friend Abdula' I hope u like it. dedicated to Pacific team and Team Watermeleon Enjoy :D
@@ -516,10 +516,9 @@
 | dynasty | Alkatreize | 38373714 | 105 | My New level! modernistic style,GamePlay by Ewan67000 dedicated to optical,azertiop and my all friends ;)
 | Ejection | Pipenashho | 38318679 | 105 | Finally new level! Also more simple this time, Hope You enjoy! Play with particles for better experience.
 | Luma | DesTicY | 37745103 | 105 | Old level that I left alone months ago, huge thanks to TrueLogic for reviving and finishing it for me! <3
-| Direction  | Konobiz | 34526077 | 105 | please, check pulverize, a cool level by my friend manu123890, I think it deserves a feature :)  34923683
+| Direction  | 7229 | 34526077 | 105 | please, check pulverize, a cool level by my friend manu123890, I think it deserves a feature :)  34923683
 | IZnite | izhar | 32400752 | 105 | Finally the first easy epic in GD? :P dedicated to TickleGD and Wooobs! (Pass and Coins on my YT channel)
 | One | Ragnarok96 | 30753202 | 105 | My first DEMON level on 2.1!,Iam sory for rushed gameplay and many moving object :),ENJOY! :D,Pass:*(@$#^
-| Splatter | Waffl3X | 53650457 | 104 | I was just trying to make a mechanical themed level, but someone just HAD to spill paint on it... Enjoy!
 | Purpose  | Xstar7 | 48561623 | 104 | Everyone has a purpose. Pressing the LDM button on the level select screen shows different BGs! Enjoy :)
 | Neowolf | WerewolfGD | 45063264 | 104 | Tech level | Thanks to CreatorCaps for helping me | Name suggestion by Nekomancer | Enjoy and rate 9-10*
 | Piano Slap | Nico99 | 39607173 | 104 | Last level of the Slap Trilogy. Thanks to Terron for this awesome music, also dedicated to him. Enjoy!!!
@@ -950,6 +949,7 @@
 | Colored Dimension | f3lixsram | 34536501 | 67 | Video/pass on my youtube ;) Collab with star117 go check him out ;3
 | Clutterfocus  | Andro3d | 32667717 | 67 | Awesome collab with JaffyTaffy!  Video and Pass on Youtube- Andro3d
 | Ad Honorem | Echonox | 31777902 | 67 | My first demon level wooh! Video on my channel. Hope you all enjoy!
+| Splatter | Waffl3X | 53650457 | 66 | Nothing special, just a level that's probably going to be my last.
 | The Last Fraction | FreakEd7 | 47737567 | 66 | The Epic Conclusion Of Fraction Series, All End Here, Good Luck...
 | Low Midnight | SaabS | 43896656 | 66 | My second western themed level! :) I hope you all enjoy this one. 
 | ViX | Wixers | 42383036 | 66 | my masterpiece, I hope you enjoy it , Gameplay on my YT channel :D
@@ -1429,7 +1429,7 @@
 | Tekunorojii | M3nhHu3 | 39809137 | 2 | :)
 | Translucent | Torch121 | 38669931 | 2 | 8)
 | Comeback | danolex | 38484036 | 2 | :)
-| Immersive  | Konobiz | 37489485 | 2 | :)
+| Immersive  | 7229 | 37489485 | 2 | :)
 | Napalm | WolfenGD | 34848621 | 2 | yo
 | Subway II | Existence | 32045809 | 2 | <3
 | Elevatia | ViPriN | 28755561 | 2 | :)
