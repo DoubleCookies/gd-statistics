@@ -1,4 +1,4 @@
-#### Total: 12763 levels
+#### Total: 12770 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -1660,6 +1660,7 @@
 | Six | Ezel142 | 50676602 | 126 | Hexagons have six sides, this level has seven stars...? An easier level for more casual players this time. I hope you enjoy :)
 | Volcanic Factory | DHaner | 49987007 | 126 | New level, new stuff after 4 months of inactivity. I promise be more active (though I'm tired of waiting for 2.2 ;-;) Enjoy :3
 | CaNdYlAnD | SHAZIMA | 49789385 | 126 | Finally! My Masterpiece It's here ! Chocolates, Ice Creams, Cookies, Punsheen And... A Cake Boss o.O!? Thx For Support guys ;)
+| Covet | RNBW | 49098949 | 126 | Nothing too different here - another modern level with rotation-centric backgrounds. Still, hopefully, it should be enjoyable.
 | Mechanical Overload | Dominuus | 48886820 | 126 | Collab I've been working on for ~5 months. Featuring: Dominuus (me), Subverse, BluzkyGD, TinyXD and DyronGD, hope you enjoy :)
 | Optimism | Yendis | 48655029 | 126 | A fairly old collab with DLKLthepro, made the last part entirely on stream 8) Please try and enjoy this and rate 7 or 8 stars!
 | JoY | Milos482 | 47733919 | 126 | My Masterpiece!Thanks to LaysManCZ for helping me with some gameplay.Check his acc :D Dedications are in end! Made on phone :)
@@ -2857,6 +2858,7 @@
 | System Error | bloodshot | 13015106 | 111 | Yay another level 8) I might update this level and make it look better :) Thanks for feature. As always, ENJOY!
 | GenoChrome | cybronaut | 12917092 | 111 | Tried a lot of different styles on this one... enjoy? (PS: this was my first time hitting the 30k object mark!)
 | MANRAY | sweetdude | 12655843 | 111 | ma-ma-ma-ma-ma-ma-ma, Thanks to my Newgrounds friend Zanzlanz for uploading this song on Newgrounds just for me
+| Fields | Texic | 53765525 | 110 | My new collab with Janucha lmao | I will make solo level next time, I promise | Dedicated to G04T and ItzMezzo
 | Shimmering | DashTy | 52817505 | 110 | Yeah Boi ! Hope you like this new level :D ! Layout By Ploid ! :) ( Pass on my YT Channel ) My best ! Enjoy :3
 | Cursed Lore | LeX97 | 52498293 | 110 | Collaboration with: Ploid, Amverial, iSparki, Texic, TheAlmightyWave, xKR1T1K4L and Apep. Dedicated to Ploid !
 | Roseate | BranSilver | 52446182 | 110 | My new solo level! I hope you enjoy! THANKS FOR DAILY and also thanks people who support me in this community!
@@ -3794,7 +3796,7 @@
 | Beautiful Chaos | null | 130414 | 100 | Veriosn 2 changes the end so that it is correctly displayed,  and also a very unfair part in the end
 | Sunny End | TheRealDarnoc | 116716 | 100 | Wow this turned out really great! It is probably about as hard as base after base! Made on a 20 hour
 | Smooth Bouncer | null | 10306 | 100 | The 3rd level in my Smooth series of levels. the smooth series are easy levels designed for both new
-| red yahooey | null | 4539 | 100 | i will have a replay vid once everyplay is released!  level is completely finished to the end of the
+| red yahooey | - | 4539 | 100 | i will have a replay vid once everyplay is released!  level is completely finished to the end of the
 | The first labour | null | 207 | 100 | The first of 12 labours of Hercules, when all are completed they will be made into one Trial of God.
 | Mello | GamerPG11 | 51373547 | 99 | My new level collaboration whit great creators and friends i hop you like ( magical a unique level)
 | Contrast II | mrjedi | 50401170 | 99 | Second part of "Contrast" my first featured level, enjoy! dedicate to fcraft, raruto, tropicoot. XD
@@ -4686,7 +4688,7 @@
 | Edge of Universe | Oskux | 3539673 | 91 | 10th fan made level! for Edge! Check out Mafia Pineapples other songs! 8k attemps to verify
 | Dehydrated | JerkRat | 2310118 | 91 | this is 1st level were i use jumper. i hope u enjoy please remember to like and rate stars.
 | ElectroGate | ZenthicAlpha | 1100161 | 91 | I created my youtube channel ! Please search ZenthicAlpha Geometry Dash and subscribe it xD
-| Smooth Caverns | - | 8485 | 91 | Perfect for beginners looking for a semi easy challenge!  updating to make a better ending.
+| Smooth Caverns | null | 8485 | 91 | Perfect for beginners looking for a semi easy challenge!  updating to make a better ending.
 | Milosofia | PleoSlim RMD | 52870361 | 90 | 1 month of  building.. Sorry for bug on 2 player mod, I dont know how fix this. Good Luck!
 | MiNImAl | Pechuga20 | 51917811 | 90 | My First Level of 2019 | I Hope You Enjoy The Level | Dedicated To: Partition & G1E | 0w0.
 | Alicization | Akinari | 51860631 | 90 | First level of 2019! 1 day solo challenge that took a week lmao. Sorry for rushing the end
@@ -6143,6 +6145,7 @@
 | Adherence | Akinari | 39451674 | 77 | A solo after 7 months. My masterpiece. Thank you everyone for sailing with me
 | Spectral Velocity | QuantumFlux | 39210266 | 77 | My best by far! Just under 80k objects lol. Hope you guys like it! Insane 9*?
 | Silent Steels | Noweekk | 38855550 | 77 | I reupload this level without lags, made by Tartofrez, Intrepid and me, enjoy
+| Uhhhhh | Minerjoeb2 | 38557238 | 77 | an level. first legit effect level. downloading the song is a suggestion lmao
 | Alkali | Chiand | 38266310 | 77 | the first collab of team watermelon | 7 Amazing Creators  | thanks rubrub :')
 | Be There | Sharks | 37648271 | 77 | trying to improve my design style :^) dedicated to everyone who support me <3
 | Brightness | bloodshot | 37065751 | 77 | I appreciate the feature, even if it is a little... late lol. Hope you enjoy.
@@ -8022,6 +8025,7 @@
 | Sky Realm | TheRealDarnoc | 214523 | 58 | Not the best, but its still a level! fixeda bug at the end
 | Maximum Risk | FunnyGame | 156473 | 58 | I could make the level is one of the most difficult levels
 | Zstep | 99geometrydash | 73825 | 58 | Making  gwangjin middle school                            
+| hizY | VoltCreator | 52649575 | 57 | dedicated... itzmezzo,Nbp and all my friends :D good luck
 | Ubi | EfrainGDM | 51918484 | 57 | GG FEATURED THANKS ROBTOP AND MODS!! Gracias por jugar <3
 | Hitori | DHaner | 50684328 | 57 | Trying new stuff! Who said that easy levels are bored? :)
 | No Time | VesiMeloN | 49764264 | 57 | I have nothing to say, so imagine here a good description
@@ -8467,6 +8471,7 @@
 | Breakthrough | ZenthicAlpha | 884256 | 52 | Over like 500, I will give you a password to copy XD
 | Flappy Bird remix | The Carrot | 601365 | 52 | I fixed some parts. It's more easier than Version 1.
 | The First Crepuscule | null | 587026 | 52 | Easy level by crepuscule. Enjoy! You will like this.
+| Erase Me | CreatorRT | 52163553 | 51 | Erase me now bby . Collaboration with iAndyV /(:D)/
 | Eternity | JustBasic | 51770639 | 51 | Level made in 1 day :) Dedicated to all my friends 
 | CloudY | Lapis337 | 50059973 | 51 | Cloudy! Probably my best..? Please Rate Harder 7 :P
 | Combo Ambition | DangerKat | 49061720 | 51 | finally another easy demon level :) Thx for play <3
@@ -8872,7 +8877,7 @@
 | Natural step | TrueNature | 511533 | 47 | Updated! Fixed bug, and..... changed the route!
 | Auto Showtime | MasK463 | 345756 | 47 | My third auto map. Can you find all 3 coins? :O
 | Easy and Hard | TheRealDarnoc | 63419 | 47 | easy at first, then it ramps up the difficulty!
-| Chill Out Remake | - | 8828 | 47 | A remake of one of my first levels made, Enjoy!
+| Chill Out Remake | null | 8828 | 47 | A remake of one of my first levels made, Enjoy!
 | Smooth | GDObsco | 52544596 | 46 | distort                                      .
 | Jghost | Awzer  | 49970551 | 46 | Halloween               time              boys
 | Ether | Phaneron | 49512054 | 46 | The energy is all around you! Hope you like :)
@@ -9387,6 +9392,7 @@
 | SkyGround | MasK463 | 189107 | 41 | New map by mask with a simple design. XD 
 | Time Warp | Prayer | 73955 | 41 | You need to get out of there NOW!!!!!!!!!
 | Summer Vacation | SpKale | 53480577 | 40 | "but its march" -the northern hemisphere
+| Gaine | Atlant | 51353824 | 40 | a weird concept.. THX FOR EPIC BTW hUhuU
 | BOA | ghathiitho | 51239624 | 40 | thanks for your support enjoy the level.
 | Atmosphere | Fault | 50309126 | 40 | that thing between the earth and the sky
 | Chaotic | mulpan | 49750346 | 40 | made in 1.9 GDPS again, in retrospect...
@@ -12465,10 +12471,11 @@
 | 11 Demon EA | null | 973476 | 1 | C
 | geometry dash | GDZimnior12 | 148508 | 1 | g
 | 0 | null | 22459 | 1 | 0
-| 5 | - | 8612 | 1 | C
+| 5 | null | 8612 | 1 | C
 | 3 | - | 5291 | 1 | C
-| 2 | null | 4229 | 1 | C
+| 2 | - | 4229 | 1 | C
 | 1 | null | 3785 | 1 | C
+| nasa | distortt | 52953027 | 0 | 
 | Lament | SamMaxx | 52762750 | 0 | 
 | Hoppa II | LuDDee | 52737070 | 0 | 
 | kiroshi | distortt | 50850470 | 0 | 
@@ -12761,7 +12768,7 @@
 | creeper | rkawlqkf123 | 66513 | 0 | 
 | Black White | YunHaSeu14 | 64834 | 0 | 
 | auto jumper | FunnyGame | 38671 | 0 | 
-| crystal cave | null | 4213 | 0 | 
+| crystal cave | - | 4213 | 0 | 
 | the red carpet | null | 3470 | 0 | 
 | quicky | null | 2570 | 0 | 
 | no | YoXdie | 1707 | 0 | 

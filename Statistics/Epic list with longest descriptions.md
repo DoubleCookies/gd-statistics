@@ -1,4 +1,4 @@
-#### Total: 1443 levels
+#### Total: 1446 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -244,6 +244,7 @@
 | Beastmode | Pipenashho | 51705784 | 126 | After hard months of work can I present to you this collaboration with an extremely good creator, Filaret! (Verified by Allan)
 | Six | Ezel142 | 50676602 | 126 | Hexagons have six sides, this level has seven stars...? An easier level for more casual players this time. I hope you enjoy :)
 | Volcanic Factory | DHaner | 49987007 | 126 | New level, new stuff after 4 months of inactivity. I promise be more active (though I'm tired of waiting for 2.2 ;-;) Enjoy :3
+| Covet | RNBW | 49098949 | 126 | Nothing too different here - another modern level with rotation-centric backgrounds. Still, hopefully, it should be enjoyable.
 | Astral Shadow  | Luxew | 46041354 | 126 | New level...I hope you enjoy it ! :)...Dedicated to : Danolaa( Paola) , XvictorCreatorX , Minimax , Maxyland and BloodSquad <3
 | Energy Intolerance | distortt | 44600930 | 126 | New level. I tried more effects and experimented with rotating objects... I hope it's not too similar to my previous levels :/
 | the Massive | 1374 | 42951609 | 126 | When the sky turns dark, and clouds rise from the mountains, there'll be the massive dragon of thunder, waiting for the end...
@@ -1155,6 +1156,7 @@
 | Mystical Vibrant | Olympic | 31674537 | 41 | Thank you. password in my YouTube Channel
 | Simple Travel | danolex | 30689427 | 41 | Thanks for playing..Hope you like Guys :)
 | Emotional Journey | RadiationV2 | 24676724 | 41 | My 2.0 masterpiece, rate demon please! :D
+| Gaine | Atlant | 51353824 | 40 | a weird concept.. THX FOR EPIC BTW hUhuU
 | Atmosphere | Fault | 50309126 | 40 | that thing between the earth and the sky
 | Monolithic Rush | BranSilver | 44089512 | 40 | Monster Gauntlet entry! updated version!
 | Sanctuary of Light | AbstractDark | 37187779 | 40 | My entry for Crystal Gauntlet CC! Enjoy!
@@ -1435,6 +1437,7 @@
 | Elevatia | ViPriN | 28755561 | 2 | :)
 |   | nasgubb | 39354797 | 1 |  
 | Kabosu | Lemons | 35033118 | 1 | k
+| nasa | distortt | 52953027 | 0 | 
 | Lament | SamMaxx | 52762750 | 0 | 
 | kiroshi | distortt | 50850470 | 0 | 
 | iui | ithedarki | 49428829 | 0 | 

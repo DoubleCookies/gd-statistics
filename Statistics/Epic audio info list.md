@@ -1,4 +1,4 @@
-#### Total: 1443 levels
+#### Total: 1446 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -371,6 +371,7 @@
 | 708694 | Acid-Notation | Shadow Queen Pt. 2 Remix | 1
 | 749676 | Geoplex | Geoplex - Zenith | 1
 | 714861 | csx42gaming | Evolve | 1
+| 845923 | cysmix | cYsmix - Mr. Megaman | 1
 | 718971 | sasuke-uchiha42475 | BRING ME THE HORIZON - DROWN (INSTRUMENTAL REMAKE) | 1
 | 739456 | GD-Tanooki116 | WaterWashed | 1
 | 727165 | F-777 | Bow Wow | 1
@@ -704,6 +705,7 @@
 | 765306 | lchavasse | ~:Wander:~ | 1
 | 748921 | Marterro | The Final Encounter | 1
 | 548239 | Envy | EnV - Streetlights | 1
+| 802188 | GalaxyUnknown | Galaxy Unknown - Chill [ChiNex Instrumental VIP] | 1
 | 492947 | stratkat | Gasoline Rainbows [ext] | 1
 | 753044 | papkee | Timekeeper | 1
 | 560530 | Stratales | Caramel Orange | 1
@@ -725,6 +727,7 @@
 | 32207 | Dimrain47 | Forsaken Neon | 1
 | 722400 | dexarson | Dex Arson - Rampage | 1
 | 662995 | Jumper | Jumper - Stone Guardian | 1
+| 808406 | Geoplex | Geoplex - Affinity | 1
 | 763346 | DjHoneyb | Jacques Melissa - Tarnished imagination | 1
 | 622036 | Lockyn | Sabrepulse Horizons Remix | 1
 | 591319 | garlagan | Skyless | 1
