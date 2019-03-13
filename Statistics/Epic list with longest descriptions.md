@@ -1,8 +1,9 @@
-#### Total: 1451 levels
+#### Total: 1453 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
 | Sensual Dance | DepisH16 | 51053748 | 147 | A new level in terms of hell arena. Briefly, the last part seems to me very bad, because of this boss and his complex animations, but still like :v
+| Astray | Suixam | 54503216 | 140 | Started this right when the song was announced, and it took about 3 weeks. Without a doubt my best level in terms of visuals and gameplay ;)
 | Loudness Zone | ItzMezzo | 52671583 | 140 | Casual level made in about two weeks ! Had a lot of fun while building it ! Not my best, but I still think it didn't turn that bad. Enjoy :D
 | Christmas Sleep | DeniPol | 51797882 | 140 | Merry Christmas and Happy New Year 2019! Thanks for this collab my friend iISpaceDustIi and Me)  Rate 7-9 stars! Load on Orthodox Christmas)
 | Sounds | ItzMezzo | 51579290 | 140 | My ultimate masterpiece for 2018 ! Thanks for support you've been giving me this year, it was really amazing! Dedicated to Honestyyy! Enjoy!
@@ -520,7 +521,7 @@
 | dynasty | Alkatreize | 38373714 | 105 | My New level! modernistic style,GamePlay by Ewan67000 dedicated to optical,azertiop and my all friends ;)
 | Ejection | Pipenashho | 38318679 | 105 | Finally new level! Also more simple this time, Hope You enjoy! Play with particles for better experience.
 | Luma | DesTicY | 37745103 | 105 | Old level that I left alone months ago, huge thanks to TrueLogic for reviving and finishing it for me! <3
-| Direction  | 7229 | 34526077 | 105 | please, check pulverize, a cool level by my friend manu123890, I think it deserves a feature :)  34923683
+| Direction  | i7229 | 34526077 | 105 | please, check pulverize, a cool level by my friend manu123890, I think it deserves a feature :)  34923683
 | IZnite | izhar | 32400752 | 105 | Finally the first easy epic in GD? :P dedicated to TickleGD and Wooobs! (Pass and Coins on my YT channel)
 | One | Ragnarok96 | 30753202 | 105 | My first DEMON level on 2.1!,Iam sory for rushed gameplay and many moving object :),ENJOY! :D,Pass:*(@$#^
 | Purpose  | Xstar7 | 48561623 | 104 | Everyone has a purpose. Pressing the LDM button on the level select screen shows different BGs! Enjoy :)
@@ -733,7 +734,6 @@
 | PanTioN | Bnet | 47234639 | 87 | hey guys, I do level request on my youtube channel! Go and check it out :D "RobzombiGD"
 | Elzeko | AutoNick | 46423900 | 87 | My second easy demon and first bossfight! I hope you all enjoy this very easy demon! :)
 | Frizzantino Vibes | Usermatt18 | 44734648 | 87 | The hardest demon I have ever made! Took not so long to build. Verified by enlex! GL HF
-| Fury of Speed | SRaVeNS | 42843501 | 87 | Is this fast? Furious? Speed? Race? Light? Dash? Maximum? Get ready to ROCK! #Darwinism
 | Hexagram Bounce | DorSha | 40392875 | 87 | My Hexagon Force remake! Dedicated to Rynoxious, Sugarsalt, CX Random, and AmorAltra :)
 | RETRY  | lysk | 37175491 | 87 | After a long time its finally here! An amazing megacollab with cool creators :) GLHF <3
 | Nitro Festival | Mazl | 36521897 | 87 | Awesome XXL Megacollab starring alot of Awesome Creators! Exactly 80k Objects! Enjoy :)
@@ -858,6 +858,7 @@
 | Mayday | Ploid | 46451535 | 76 | First epic ! P.s, It Is also the first ever rated level that uses this song.
 | Idea Dump | Elisione | 46050008 | 76 | My most experimental level! Made this just for fun, hope you guys like it :)
 | StarStruck | Darwin | 43925827 | 76 | One of my best level, dedicated to my favorite creator in this game, Goose !
+| Fury of Speed | SRaVeNS | 42843501 | 76 | Is this fast? Furious? Speed? Race? Light? Dash? Maximum? Get ready to ROCK!
 | Teriyaki Soba | Alfred PKNess | 42198034 | 76 | Awesome WaterFlame's song, i love it :D, made in 5 days :0 [Rate 6 Stars] ;3
 | Earth Break | mulpan | 37589679 | 76 | I hope gameplay is fun, Enjoy! :) Dedicated to alkali, Triaboy and Lemons :>
 | The Reaper | SaabS | 36032856 | 76 | My best bossfight level :) Enjoy! Thanks to Radovan258 for making me icon :)
@@ -1129,6 +1130,7 @@
 | Fiery cauldron | N R G | 37542663 | 44 | Collab con Moe Machine. El pollo ardiente...
 | Bloodwolf | WerewolfGD | 35066069 | 44 | Easiest 9* lvl enjoy and Thanks for epic ;3;
 | Friendship | AmorAltra | 34177489 | 44 | Collab with Peton, Td Epic, Fault & Ardant! 
+| Forget it in time | SamMaxx | 54479232 | 43 | It starts at the top and ends on the bottom
 | Hydrus | Nikce | 51923169 | 43 | My first level of 2019! Hope you like it :D
 | Altiora Petamus | G4lvatron | 51694267 | 43 | Updated, I will try to do better next time.
 | MayDay | BlueLite | 48587134 | 43 | Another new level! Hope you will like it ;)
@@ -1161,7 +1163,6 @@
 | Mystical Vibrant | Olympic | 31674537 | 41 | Thank you. password in my YouTube Channel
 | Simple Travel | danolex | 30689427 | 41 | Thanks for playing..Hope you like Guys :)
 | Emotional Journey | RadiationV2 | 24676724 | 41 | My 2.0 masterpiece, rate demon please! :D
-| Gaine | Atlant | 51353824 | 40 | a weird concept.. THX FOR EPIC BTW hUhuU
 | Atmosphere | Fault | 50309126 | 40 | that thing between the earth and the sky
 | Monolithic Rush | BranSilver | 44089512 | 40 | Monster Gauntlet entry! updated version!
 | Sanctuary of Light | AbstractDark | 37187779 | 40 | My entry for Crystal Gauntlet CC! Enjoy!
@@ -1296,7 +1297,7 @@
 | Steam machine | N R G | 39964950 | 25 | Collab con Alfred PKness.
 | Fall | Olympic | 37193104 | 25 | Fall into the Darkness...
 | Division | Darwin | 33842108 | 25 | --\__/^___/-|-\___^\__/--
-| Final Boss | RoyalPlayer | 29910462 | 25 | Thanks guys :) bugs fixed
+| Final Boss | RoyalP | 29910462 | 25 | Thanks guys :) bugs fixed
 | Somnambulist journey | Knots | 49681756 | 24 | a not so halloween level
 | Jakari | ithedarki | 48916085 | 24 | For mcr#5.LDM = day mode
 | BackWash  | PleoSlim RMD | 48617617 | 24 | My First SOLO lvl!!!!!! 
@@ -1355,6 +1356,7 @@
 | OptiGe | minimaX | 45850956 | 18 | For #Levelution =)
 | Simple Drop | danolex | 42008751 | 18 | Thanks for playing
 | Unarmed | Xylluk | 31537385 | 18 | Enjoy the level :)
+| Gaine | Atlant | 51353824 | 17 | scale concepttttt
 | Grakis | AceVict | 46437162 | 17 | I still alive ;3;
 | Odd | Jayuff | 41092171 | 17 | this level is odd
 | Exordium | DesTicY | 40555200 | 17 | happy new year <3
@@ -1393,7 +1395,6 @@
 | Mechanicus | Desumari | 52463978 | 9 | ~ gl hf ~
 | CalM | BryanC2 | 49469234 | 9 | Enjoy! :]
 | Ligmatic | Axils | 48716880 | 9 | Surprise.
-| Atmosfera | FozaeKitty | 48469085 | 9 | ~ sweet ~
 | FurY | TheRealDorami | 47490086 | 9 | Surprise!
 | Dream Paradise | DHaner | 44133646 | 9 | Enjoy ^-^
 | GlowLith | Noweek | 40799640 | 9 | he he boi
@@ -1436,7 +1437,7 @@
 | Tekunorojii | M3nhHu3 | 39809137 | 2 | :)
 | Translucent | Torch121 | 38669931 | 2 | 8)
 | Comeback | danolex | 38484036 | 2 | :)
-| Immersive  | 7229 | 37489485 | 2 | :)
+| Immersive  | i7229 | 37489485 | 2 | :)
 | Napalm | WolfenGD | 34848621 | 2 | yo
 | Subway II | Existence | 32045809 | 2 | <3
 | Elevatia | ViPriN | 28755561 | 2 | :)
@@ -1446,6 +1447,7 @@
 | Lament | SamMaxx | 52762750 | 0 | 
 | kiroshi | distortt | 50850470 | 0 | 
 | iui | ithedarki | 49428829 | 0 | 
+| Atmosfera | FozaeKitty | 48469085 | 0 | 
 | nef | Darwin | 45889713 | 0 | 
 | Dreim | Darwin | 40693939 | 0 | 
 | Galactic Separation | Spectex | 40128318 | 0 | 
