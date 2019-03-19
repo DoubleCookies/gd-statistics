@@ -1,4 +1,4 @@
-#### Total: 1458 levels
+#### Total: 1463 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -13,6 +13,7 @@
 | 738335 | canonblade | Canonblade - Debug | 6
 | 730956 | csx42gaming | Detonate | 6
 | 725417 | F-777 | Hydra | 5
+| 782870 | bossfightofficial | Bossfight - Nock Em | 5
 | 737995 | bossfightofficial | Bossfight - Mescalink | 5
 | 690885 | ColchianCat | Zaphkiel | 5
 | 686789 | Namice | Open Your Eyes | 5
@@ -45,7 +46,6 @@
 | 551385 | Djjaner | Lullaby /Remix | 4
 | 713190 | PandaEyesOfficial | Panda Eyes - Colorblind | 4
 | 709117 | cloudfield | Zedd - Ignite (cloudfield Bootleg) | 4
-| 782870 | bossfightofficial | Bossfight - Nock Em | 4
 | 701013 | LemKuuja | Whats a Future Funk? | 4
 | 555607 | BoomKitty | Spicy Noodles | 4
 | 744021 | LemKuuja | Ai ?? ?? | 4
@@ -140,6 +140,7 @@
 | 669275 | 1f1n1ty | Within The Sadness (1f1n1ty RMX) | 3
 | 677465 | dexarson | Dex Arson Vs Charlie Zane - Nexus | 3
 | 831066 | ColBreakz | ColBreakz - 50.000 | 3
+| 743019 | dj-Nate | {dj-N} Hypercharged | 3
 | 657021 | PandaEyesOfficial | Panda Eyes - 95K | 3
 | 634513 | DeadRewind | Detious - Divinity | 3
 | 747194 | Xtrullor | Xtrullor - Karma (feat. Albert Hyrönen) | 3
@@ -300,7 +301,6 @@
 | 759390 | MafiaPineapple | Glitch City | 2
 | 216661 | dj-Nate | {dj-N} Three Step | 2
 | 763473 | canonblade | Canonblade - MoonSugar | 2
-| 743019 | dj-Nate | {dj-N} Hypercharged | 2
 | 710256 | Phyrnna | Hexennacht ~P~ | 2
 | 525926 | bossfightofficial | Dr Wilys Stage 1 (Remix) | 2
 | 718457 | meganeko | Delete | 2
@@ -433,6 +433,7 @@
 | 702786 | Reptiore | ND - ã€ï»¿ï»¿ï½’ï½ï½„ï½‰ï½ï½Žï½ƒï½… ï¼‘ï¼™ï¼˜ï¼™ã€‘ | 1
 | 690498 | Sunryser | Owl City - Fireflies (Sunryser Remake) | 1
 | 827714 | Sharks | Oliverse - Get High (Sharks Remix) | 1
+| 493898 | Jumper | [J] - Solar Wind | 1
 | 708954 | DJ-Zyzyx | Zyzyx - Cubed Galaxy | 1
 | 680273 | windluxmusic | Fallen Tears (Dream Trance) | 1
 | 772433 | PandaEyesOfficial | Panda Eyes feat. Subkey - Galaxica | 1
@@ -517,6 +518,7 @@
 | 588392 | Waterflame | -Fuzzy- | 1
 | 365163 | Fantomenk | Follow me Remix | 1
 | 750203 | paperskies | Virtual Riot - Earth & Sky (Paper Skies Remix) | 1
+| 750202 | paperskies | Paper Skies - Inverted | 1
 | 750201 | paperskies | Paper Skies & VAST - Drift Away | 1
 | 694911 | Waterflame | -Toil- | 1
 | 692849 | Namice | Space Ride | 1
@@ -733,6 +735,7 @@
 | 722400 | dexarson | Dex Arson - Rampage | 1
 | 662995 | Jumper | Jumper - Stone Guardian | 1
 | 808406 | Geoplex | Geoplex - Affinity | 1
+| 839126 | jjoon | Oh Ee Ah | 1
 | 763346 | DjHoneyb | Jacques Melissa - Tarnished imagination | 1
 | 622036 | Lockyn | Sabrepulse Horizons Remix | 1
 | 591319 | garlagan | Skyless | 1

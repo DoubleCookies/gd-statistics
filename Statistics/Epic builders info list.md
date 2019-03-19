@@ -46,20 +46,20 @@ DangerKat | 8
 mulpan | 8
 Manix648 | 8
 Peton | 8
+Cirtrax | 7
 Hyenada | 7
 haoN | 7
 ithedarki | 7
+OSIRIS GD | 7
 luis JR | 7
 BadKlatt | 7
 PotatoBaby | 7
-Cirtrax | 6
 Olympic | 6
 DHaner | 6
 schady | 6
 Alkatraz | 6
 Ferdefunky | 6
 Ballii | 6
-OSIRIS GD | 6
 FaekI | 6
 Bnet | 6
 Xstar7 | 6
@@ -188,6 +188,7 @@ AlexS2003 | 2
 SirZaiss | 2
 G4lvatron | 2
 goose | 2
+Discordy | 2
 SrPotato | 2
 Bronks | 2
 Pawlogates | 2
@@ -218,6 +219,7 @@ Geom3zon | 2
 xPix3lest | 2
 CreatorDiana | 2
 gdapples | 2
+Nexender | 2
 Alkatreize | 2
 ScorchVx | 2
 Ajedaboss | 2
@@ -299,7 +301,6 @@ Extrox | 1
 IronIngot | 1
 greXxio | 1
 TinyGamer | 1
-Discordy | 1
 HadiGD | 1
 wulz | 1
 TheTrueEclipse | 1
@@ -352,12 +353,12 @@ Alexcont | 1
 TeamHFC | 1
 RickTz | 1
 TheRealSalad | 1
+LuDDee | 1
 DJslimeYT327 | 1
 Glaid | 1
 Akinari | 1
 AvaKai | 1
 DarinLou | 1
-Nexender | 1
 Reunomi | 1
 TheJuandissimo | 1
 Crombie | 1
