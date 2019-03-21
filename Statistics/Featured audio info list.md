@@ -1,4 +1,4 @@
-#### Total: 12911 levels
+#### Total: 12919 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -575,10 +575,12 @@
 | 587629 | Waterflame | -Combo Breaker- | 6
 | 517994 | Stratales | Fluid Dynamics | 6
 | 640986 | lamsorz | Bluemoon | 6
+| 575477 | dj-Jo | Fairy Tail Theme Glitch Hop | 6
 | 550961 | Envy | EnV - Shinto | 6
 | 616546 | OfficialNovacore | Desperado | 6
 | 465080 | dj-Nate | {dj-N} Beginning of Time {RmX} | 6
 | 383154 | bossfightofficial | The Empire Of Toads | 6
+| 731487 | LemKuuja | A NEWER DAWN (REMASTER) | 6
 | 772434 | PandaEyesOfficial | Panda Eyes - Insomnia | 6
 | 715116 | AzazalEDM | Azazal - 9 Lives | 6
 | 756073 | csx42gaming | Empower | 6
@@ -675,13 +677,11 @@
 | 583598 | Geoplex | Bioluminescent | 5
 | 796604 | whiscaskaat | Leaves & Flowers | 5
 | 727020 | Schtiffles | á‘«áµ˜áµ‰Ë¢áµ—á¶¦áµ’á¶° MáµƒÊ³áµ | 5
-| 575477 | dj-Jo | Fairy Tail Theme Glitch Hop | 5
 | 563285 | Zanzlanz | Secret Box | 5
 | 768163 | 1f1n1ty | Ivory Dance | 5
 | 780537 | ColBreakz | ColBreakz - GoodBye | 5
 | 137492 | Goukisan | Goukisan - Betrayal of Fate | 5
 | 788777 | Zelgeon | Just Kidding! [Glitch Hop] | 5
-| 731487 | LemKuuja | A NEWER DAWN (REMASTER) | 5
 | 559490 | AeronMusic | Celestial Fantasy | 5
 | 788868 | Geoplex | Geoplex - Resplendent | 5
 | 747953 | ThisIsTheFatRat | TheFatRat - Fly Away feat. Anjulie | 5
@@ -814,6 +814,7 @@
 | 567537 | Geoplex | SkyDrive | 4
 | 751951 | Geoplex | Geoplex - Drift | 4
 | 772433 | PandaEyesOfficial | Panda Eyes feat. Subkey - Galaxica | 4
+| 768383 | Geoplex | Geoplex - Eminence | 4
 | 616845 | Darkmetroidomega | The Final Phase | 4
 | 321948 | Envy | ~EnV~On The Move!(NG Cut) | 4
 | 641459 | Schtiffles | Hide & Seek | 4
@@ -947,6 +948,7 @@
 | 447794 | Or4nges | - For Science! | 3
 | 165200 | BlazingDragon | Serenade of Storms | 3
 | 554330 | TomDavies | Martin Garrix - Animals Remix | 3
+| 181621 | F-777 | A Distant Gaze [Prev] - F-777 | 3
 | 730505 | lemons | Cascade | 3
 | 677262 | HiY3ti | Hi Y3ti - Heaven | 3
 | 603521 | isagamer2 | hamsin-makou | 3
@@ -955,6 +957,7 @@
 | 439735 | F-777 | F-777 - Life | 3
 | 771517 | AeronMusic | Rebirth | 3
 | 722400 | dexarson | Dex Arson - Rampage | 3
+| 763346 | DjHoneyb | Jacques Melissa - Tarnished imagination | 3
 | 591346 | EliteFerrex | Mega Man 2 Dr. Wily Elite | 3
 | 91656 | F-777 | F-777 Dark Dragon Fire | 3
 | 620049 | Xtrullor | Hidden Dangers [DUBSTEP] | 3
@@ -972,6 +975,7 @@
 | 767693 | AikaMusic | Dawn [Future Bass] | 3
 | 784086 | SKYWRD | Nero - Promises (SKYWRD remix) | 3
 | 595709 | OpenLight | Fireball | 3
+| 759576 | djrazz93 | Eternal Summer Instrumental mix | 3
 | 493348 | iamted99 | Super Mario Bros. Rock | 3
 | 517924 | Geoplex | Origin | 3
 | 550703 | AeronMusic | Sustain | 3
@@ -1000,7 +1004,6 @@
 | 604391 | PhatBoiJ | Back On Track (Remix) | 3
 | 604440 | MadhouseDUDE | Omega | 3
 | 772435 | PandaEyesOfficial | Panda Eyes feat. Subkey - Continue | 3
-| 768383 | Geoplex | Geoplex - Eminence | 3
 | 571807 | dj-Jo | Before My Body Is Dry Dubstep | 3
 | 760212 | Miyolophone | astrEnfant | 3
 | 682387 | Domyeah | 21 Pilots - Ride {Domyeah Remix} | 3
@@ -1012,6 +1015,7 @@
 | 801277 | teminiteofficial | Teminite - Ascent | 3
 | 801273 | teminiteofficial | Teminite - Beastmode | 3
 | 801275 | teminiteofficial | Teminite - Earthquake | 3
+| 776719 | Xtrullor | Xtrullor - Paradigm Shift | 3
 | 592427 | J-Yniesta | Digimon - Fire! (Piano) | 3
 | 477776 | dj-Jo | Safe and Sound Dubstep | 3
 | 596550 | Xtrullor | Enigma | 3
@@ -1215,7 +1219,6 @@
 | 587093 | Tosmatobeef | FeedBack | 2
 | 611689 | EliteFerrex | 8-bit Against the Odds Redux | 2
 | 779623 | LawnReality | Digital Mind | 2
-| 181621 | F-777 | A Distant Gaze [Prev] - F-777 | 2
 | 587122 | ZipZipper | The Mouse Went Up The Clock | 2
 | 521606 | DJT3chnic | Lets Get Down (Dubstep) | 2
 | 595342 | Romos | Magic Touch(31SongMashup) | 2
@@ -1231,7 +1234,6 @@
 | 91591 | dj-Nate | {dj-N} The Euphoria | 2
 | 828892 | ACXLE | Faces (original by Austin C) | 2
 | 808406 | Geoplex | Geoplex - Affinity | 2
-| 763346 | DjHoneyb | Jacques Melissa - Tarnished imagination | 2
 | 656850 | hyperdemented | Creo - Phantasm | 2
 | 54766 | snayk | lost youth | 2
 | 759290 | alexizgd | ALESDA! - STMS Nation | 2
@@ -1269,7 +1271,6 @@
 | 83733 | dj-Nate | {dj-N} Tears In My Eyes [Full] | 2
 | 743197 | DJ-Zyzyx | Zyzyx - Time Shaper | 2
 | 575250 | MrJoesseppi | 4AM | 2
-| 759576 | djrazz93 | Eternal Summer Instrumental mix | 2
 | 223017 | Rukkus | Positive Vibe | 2
 | 653094 | Djjaner | Metal Crusher (Rmx v.2) Loop | 2
 | 624444 | lchavasse | ~:Surfing The Wind:~ | 2
@@ -1362,7 +1363,6 @@
 | 723448 | windluxmusic | Lockyn - Vapor (Karaplex Remix) | 2
 | 473595 | SteNcils | Pixel Blending | 2
 | 322053 | Rukkus | ~NK~ Spaceman | 2
-| 776719 | Xtrullor | Xtrullor - Paradigm Shift | 2
 | 707075 | hyperdemented | 322 | 2
 | 707077 | DJVI | Carnival | 2
 | 604697 | Adhenoid | Hyper Bonus Stage | 2
@@ -2558,6 +2558,7 @@
 | 724389 | MiguelVolkov | Hyrule Field | 1
 | 699835 | MadhouseDUDE | Loose | 1
 | 732596 | liaquo | lia;quo?Crystal Corruption??Nightcore Edit? | 1
+| 834998 | Koraii | Elephantine | 1
 | 462265 | GrayZ | super cute kitty anime techno. | 1
 | 114114 | NemesisTheory | Weeping Demon | 1
 | 486851 | Indigorain | RW - Rainbow Squad | 1
