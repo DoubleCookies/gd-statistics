@@ -17,6 +17,7 @@ Tool for collecting statistics about Geometry Dash featured levels. Based on Ale
 - **src** folder contains... sources!
 
 ## Plans (for the distant future)
+- Add navigation and additional lists
 - Do web-interface + create some github page
 - Describe how project works
 - Create some illustrations?

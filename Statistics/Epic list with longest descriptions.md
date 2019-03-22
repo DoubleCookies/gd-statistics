@@ -1,4 +1,4 @@
-#### Total: 1465 levels
+#### Total: 1472 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -297,7 +297,6 @@
 | My Love | AutoNick | 52679354 | 122 | Level for Valentines day. I hope you enjoy. Inspired by Jayuff, because I think his style fits this topic the most. Enjoy.
 | Boss V Devourers | Xender Game | 52637454 | 122 | You are still alive because I allowed it... You will be Destroyed today because I demand it. (My hardest Bossfight! Enjoy)
 | Quantum Rush | AutoNick | 52478373 | 122 | xPix3lest didn't want to finish this, so I did. :) I hope you like this and big thanks to Pix for letting me finish it! <3
-| Davide | CookiesGirly | 48926714 | 122 | new level! dedicated to Davide (Seventh.Hokage) <33 i know is not really a good level but hey.. i create for fun ;) enjoy!
 | LaZY | Zoroa GD | 48147313 | 122 | Very lazy collab w/ Unzor made in 4 days. Hope you enjoy our laziness :P  (HOW TF DID THIS GET EPIC?!?! Thanks RubRub! XD)
 | Aphelion | ILRELL | 42961817 | 122 | Collab with Echonox! | 73K Objects | Pass: !)@%^& | Insane 8*? | Dedicated to Glory | Update: Last part LDM, Visual Tweaks
 | Immortals | TriPodX | 42199324 | 122 | Can you survive the Immortals? Amazing collab with Quarnii and NeoSweet | My first demon! Dedicated to Erdyuri, My idol :3
@@ -520,6 +519,7 @@
 | Alien | TroxxP1 | 49942943 | 105 | This level needs a better description, Rate 8-9 stars... Experimental level for Enlex CC3 and JerkRat CC2
 | Canyon Run | SamMaxx | 48998353 | 105 | Watch calmly as you embark on a journey through the vast desert and canyons. To SupamarioXx and Nukannguq
 | Obscure | Whitehead | 48951601 | 105 | Here is an old collab by me, RekindL, Matty2003, and Reunomi. We're sorry for the bad gameplay. Rate 6-7*
+| Davide | CookiesGirly | 48926714 | 105 | new level! dedicated to Davide <33 i know is not really a good level but hey.. i create for fun ;) enjoy!
 | Animatronics II | FlacoGD | 48816963 | 105 | Damn, Dr. Maxis seeks revenge and will not stop until he destroys our world of GD, Robtop needs our help!
 | Danger | GirlyAle02 | 48762538 | 105 | dangerous level :   -   : ... special thanks to ruby17 for helping me in the gameplay ^^ <3 [50k objects]
 | Absent | xPix3lest | 43965119 | 105 | Megacollab with EnZore, Nampac, Hyenaedon, SaabS, PotatoBaby and Axils. Hope you like it Verified by Mazl
@@ -587,6 +587,7 @@
 | All Around | Flukester | 40091034 | 99 | Definitely my best. Be sure to play thru the whole level :D The drop is amazing. Merry Christmas :)
 | Pastel | beptile | 32402517 | 99 | ;) Thanks for Epic Rob! And thanks to Squall, Pauze, Bucc, and RyanAB for sending :D (Added LDM :D)
 | Drift | Superopi | 30102666 | 99 | Quite hard in my opinion! Made in 2.0 but it's now a bit longer and I fixed some stuff! Have fun :)
+| I N | Xender Game | 54448827 | 98 | A level made in 5 days for 1000 subs xddd, Dedidcated to Yendis. GLHF! (my first effect level ;3;)
 | Ruminant | Real48NogZ | 51090690 | 98 | Imagine not making a laggy level with over 40k objects (ldm in the bottom left corner by the way) 
 | Prime | Minity | 50284463 | 98 | after 6 and a half months of demotivation, lack of inspiration, here it is, prime. enjoy - rate 7*
 | Dreamy Abyss | f3lixsram | 47770907 | 98 | My new solo level, for viprin CC9 ! Hope you like it, have a nice day ;) Edit : It got 4th place !
@@ -755,6 +756,7 @@
 | Kiwi | Codex | 33174526 | 86 | Made in 18 hours but still good. Dedicated to Schady and Torch121... for MrLorenzo CC!
 | AlterGame XVI | Serponge | 32590109 | 86 | Rush | A total of 40 rooms to play, good luck beating 35 rooms for the final reward :)
 | Graceful | Berkoo | 32322618 | 86 | Collab with LumiNexa, an amazing creator. Check him out. Thanks for epic and daily! :)
+| The Yandere | TheRealDorami | 54615662 | 85 | The Yandere: WARNING! / Update 1.2: Fixed some bugs & the way to be easier to pass 8)
 | Big Boom | Pennutoh | 49755752 | 85 | My first solo level since the time of the ancient romans, and hopefully not the last!
 | Major Motions | MrKoolTrix | 48941187 | 85 | Tried out some dynamic movements. 33k objects & over 470 groups utilized... Enjoy! :)
 | Paroxysm | Lemons | 42631377 | 85 | My first extreme demon. Used lots of strange colours this time... Verified by Mix991 
@@ -928,6 +930,7 @@
 | Unravel | Thomartin | 33599790 | 71 | Here is my new design lvl ! I tried to focus on colours on this one :) 
 | Invigorate | RealZober | 32371324 | 71 | Dream in colors never seen before. For Voop cc8 & Nicki1202 cc2. Enjoy!
 | Granite | rafer | 31993928 | 71 | Song banned, so I changed it, It won't feel the same. - For Tedesco CC1
+| CUBED GALAXY | WILZ | 54525995 | 70 | My new level cubed galaxy/Inpired by:victorinoxx,Chiand,etc.#Featured?
 | Dragon Slayer | Subw00fer | 52990858 | 70 | Storm the castle, slay the dragon, save the "princess". Simple enough.
 | Glowy nightmares | GiaMmiX | 49983256 | 70 | Enjoy this rushed halloween 2018 level! hope you like it (not my best)
 | Me Myself and I  | SamMaxx | 49395269 | 70 | I just want to stop feeling alone. An uncoopertive screw and the rain.
@@ -1045,6 +1048,7 @@
 | Imp3rf3rct1on | Noweek | 39269485 | 56 | Humanity corrupt the world, the robots take the controls
 | Transcendence | Alderite | 35345329 | 56 | Amazing collab with xMisery. Added Uldm for you guys ;-;
 | Believe | AceVict | 28879542 | 56 | Simple and easy level, please rate hard 4 stars! thx! :)
+| One Good Day II | PleoSlim RMD | 54569231 | 55 | The End Is Near...                 (please, Rate Demon)
 | JusT RobS n TopS | DanZmeN | 52070793 | 55 | The world's first extreme auto. Verified by Technical49
 | Sparkle | Thomartin | 46823268 | 55 | This time I tried to use only blending colors! Enjoy <3
 | Lullaby | GiaMmiX | 41220983 | 55 | 50.000+ objs! :D THANK YOU ROB FOR THE EPIC RATING :OOO
@@ -1150,6 +1154,7 @@
 | Xeflux | Lemons | 36647186 | 43 | Just a simple little flux level... Enjoy :)
 | Pureland | Torch121 | 34194741 | 43 | A sequel of Amnesty 8) - Thanks for playing
 | Winter | LeocreatorX | 33322088 | 43 | My first easy level :) I hope u enjoy it <3
+| infintesimal | TyphoonThunder | 54576567 | 42 | had a few ideas while i was in outer space
 | Dreamy Illusion | SamMaxx | 54379509 | 42 | Reimagined version of Illusion. To: dverry
 | UncleVernam  | Nexender | 52446378 | 42 | Dedicated to Vernam (Uncle) and my friends
 | Friend Of Honor | Spoby | 51368093 | 42 | Merry Christmas! :) Dedication at the end!
@@ -1173,6 +1178,7 @@
 | Mystical Vibrant | Olympic | 31674537 | 41 | Thank you. password in my YouTube Channel
 | Simple Travel | danolex | 30689427 | 41 | Thanks for playing..Hope you like Guys :)
 | Emotional Journey | RadiationV2 | 24676724 | 41 | My 2.0 masterpiece, rate demon please! :D
+| LockDown | R3XX3R | 54375171 | 40 | Finally a new level ^^ Layout by Nampac.
 | Atmosphere | Fault | 50309126 | 40 | that thing between the earth and the sky
 | Monolithic Rush | BranSilver | 44089512 | 40 | Monster Gauntlet entry! updated version!
 | Sanctuary of Light | AbstractDark | 37187779 | 40 | My entry for Crystal Gauntlet CC! Enjoy!
@@ -1298,6 +1304,7 @@
 | Shadow Rush | Tongii | 34279935 | 26 | new level, enjoy. whatever
 | Mystical Cloud | Piseto | 30167322 | 26 | "Mystical Cloud". Enjoy =)
 | The Hydragaryu | Manix648 | 29996879 | 26 | Update 2: Fixed Secret Way
+| Glitz | Regulus24 | 54558807 | 25 | Creativity takes courage.
 | alone | RaccGD | 50755297 | 25 | hey, it's been a while :)
 | Wonder | Unzor | 50471300 | 25 | Made in 4 days for fun xp
 | NeOn | Alex112300 | 48517578 | 25 | Hope you enjoy. :) 5-6*? 
@@ -1306,7 +1313,6 @@
 | Steam machine | N R G | 39964950 | 25 | Collab con Alfred PKness.
 | Fall | Olympic | 37193104 | 25 | Fall into the Darkness...
 | Division | Darwin | 33842108 | 25 | --\__/^___/-|-\___^\__/--
-| Final Boss | RoyalP | 29910462 | 25 | Thanks guys :) bugs fixed
 | Somnambulist journey | Knots | 49681756 | 24 | a not so halloween level
 | Jakari | ithedarki | 48916085 | 24 | For mcr#5.LDM = day mode
 | BackWash  | PleoSlim RMD | 48617617 | 24 | My First SOLO lvl!!!!!! 
@@ -1467,3 +1473,4 @@
 | PRISM | Darwin | 35693992 | 0 | 
 | Cantina | ModoDiabloo | 33861234 | 0 | 
 | Inscius | f3lixsram | 33118209 | 0 | 
+| Final Boss | RoyalP | 29910462 | 0 | 

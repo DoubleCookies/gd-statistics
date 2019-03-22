@@ -1,19 +1,20 @@
-#### Total: 15 levels
+#### Total: 16 levels
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Carnage Mode | Findexi | 36107975 | 501840 | 47195
-| Blade of Justice | Manix648 | 35448603 | 1010615 | 102444
-| Heat Wave | Nico99 | 45818014 | 93366 | 8413
-| SubSonic | ViPriN | 33387622 | 2005837 | 151403
-| Deception Dive | Rustam | 34379100 | 488033 | 33212
-| Digital Descent | ViPriN | 37456092 | 1009695 | 93477
-| Bloodlust | Knobbelboy | 42584142 | 2912664 | 272110
-| Under lavaland | N R G | 44169362 | 270991 | 24343
-| Violently X | TheRealDorami | 39976494 | 137350 | 12066
-| Paroxysm | Lemons | 42631377 | 169135 | 13728
-| Novalis | Gryllex | 33748382 | 249664 | 22383
-| Dark Flare | KeiAs | 48942548 | 35808 | 3922
-| Cromulent | Relayx | 48808692 | 37664 | 4762
-| God Eater | Knobbelboy | 51775692 | 704068 | 90715
-| EnvY | DanZmeN | 45411361 | 331282 | 29167
+| Carnage Mode | Findexi | 36107975 | 502224 | 47221
+| Blade of Justice | Manix648 | 35448603 | 1011628 | 102533
+| Heat Wave | Nico99 | 45818014 | 93575 | 8432
+| SubSonic | ViPriN | 33387622 | 2007553 | 151502
+| Deception Dive | Rustam | 34379100 | 488768 | 33275
+| Digital Descent | ViPriN | 37456092 | 1010506 | 93525
+| Bloodlust | Knobbelboy | 42584142 | 2919549 | 272621
+| Under lavaland | N R G | 44169362 | 271226 | 24369
+| Violently X | TheRealDorami | 39976494 | 138369 | 12142
+| The Yandere | TheRealDorami | 54615662 | 78184 | 24933
+| Paroxysm | Lemons | 42631377 | 169308 | 13738
+| Novalis | Gryllex | 33748382 | 249816 | 22398
+| Dark Flare | KeiAs | 48942548 | 36183 | 3956
+| Cromulent | Relayx | 48808692 | 37851 | 4777
+| God Eater | Knobbelboy | 51775692 | 709601 | 91338
+| EnvY | DanZmeN | 45411361 | 332024 | 29221
