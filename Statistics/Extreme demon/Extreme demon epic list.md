@@ -2,19 +2,19 @@
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Carnage Mode | Findexi | 36107975 | 502224 | 47221
-| Blade of Justice | Manix648 | 35448603 | 1011628 | 102533
-| Heat Wave | Nico99 | 45818014 | 93575 | 8432
-| SubSonic | ViPriN | 33387622 | 2007553 | 151502
-| Deception Dive | Rustam | 34379100 | 488768 | 33275
-| Digital Descent | ViPriN | 37456092 | 1010506 | 93525
-| Bloodlust | Knobbelboy | 42584142 | 2919549 | 272621
-| Under lavaland | N R G | 44169362 | 271226 | 24369
-| Violently X | TheRealDorami | 39976494 | 138369 | 12142
-| The Yandere | TheRealDorami | 54615662 | 78184 | 24933
-| Paroxysm | Lemons | 42631377 | 169308 | 13738
-| Novalis | Gryllex | 33748382 | 249816 | 22398
-| Dark Flare | KeiAs | 48942548 | 36183 | 3956
-| Cromulent | Relayx | 48808692 | 37851 | 4777
-| God Eater | Knobbelboy | 51775692 | 709601 | 91338
-| EnvY | DanZmeN | 45411361 | 332024 | 29221
+| Carnage Mode | Findexi | 36107975 | 504052 | 47364
+| Blade of Justice | Manix648 | 35448603 | 1016398 | 102887
+| Heat Wave | Nico99 | 45818014 | 94593 | 8525
+| SubSonic | ViPriN | 33387622 | 2015153 | 152002
+| Deception Dive | Rustam | 34379100 | 492140 | 33579
+| Digital Descent | ViPriN | 37456092 | 1014477 | 93846
+| Bloodlust | Knobbelboy | 42584142 | 2949334 | 274784
+| Under lavaland | N R G | 44169362 | 272192 | 24452
+| Violently X | TheRealDorami | 39976494 | 140874 | 12344
+| The Yandere | TheRealDorami | 54615662 | 220329 | 44591
+| Paroxysm | Lemons | 42631377 | 170240 | 13808
+| Novalis | Gryllex | 33748382 | 250371 | 22456
+| Dark Flare | KeiAs | 48942548 | 37476 | 4054
+| Cromulent | Relayx | 48808692 | 38538 | 4837
+| God Eater | Knobbelboy | 51775692 | 736133 | 94256
+| EnvY | DanZmeN | 45411361 | 334620 | 29424

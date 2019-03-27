@@ -1,4 +1,4 @@
-#### Total: 1472 levels
+#### Total: 1481 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -217,6 +217,7 @@
 | 735811 | garlagan | wistfuljiffy | 2
 | 709185 | Acid-Notation | Boss Theme Remix (KRtD) | 2
 | 764502 | BurgeraX | BurgeraX & YoshiGMD: Acceptance [Electro House] | 2
+| 588392 | Waterflame | -Fuzzy- | 2
 | 750199 | paperskies | Paper Skies & Nanqo - Orbit | 2
 | 791181 | archefluxx | Conqueror | 2
 | 739991 | CreoMusic | Creo - Sphere | 2
@@ -240,6 +241,8 @@
 | 693041 | 1f1n1ty | Dark Matter Suite (1f1n1ty + LOrbSheddy Remix) | 2
 | 748361 | DJ-Zyzyx | Zyzyx - Reinforced | 2
 | 732008 | hyperdemented | Creo - Challenger | 2
+| 580456 | DeadRewind | Detious - Serenade | 2
+| 754547 | ACXLE | Follow (original by Austin C) | 2
 | 781195 | MrKoolTrix | Rockin That Bass | 2
 | 529291 | Acid-Notation | ---Fury--- | 2
 | 732047 | MegaSphere | Emphatic Outcry CUT | 2
@@ -247,6 +250,7 @@
 | 175011 | zirconmusic | Warhead | 2
 | 730018 | DjHoneyb | Jacques Melissa - O-oh hi-i t-there, J-J-Jaclyn | 2
 | 814016 | Blarrgensnorf | AIM - Junkyard Kidz | 2
+| 828342 | FarOutOfficial | Star Wars - The Force Theme (Far Out Remix) | 2
 | 826320 | ColBreakz | Saiph - Epimedium (ColBreakz Remix) | 2
 | 695247 | 1f1n1ty | Asau | 2
 | 564162 | DuoCore | DuoCore - Carnage | 2
@@ -274,8 +278,10 @@
 | 826604 | teminiteofficial | Teminite & Evilwave - Rattlesnake | 2
 | 595194 | Romos | Chaoz Fantasy Romos Remix | 2
 | 728314 | Waterflame | -Absent- | 2
+| 552191 | OcularNebula | Pulsar | 2
 | 685298 | KaixoMusic | Encryptic (Original Mix) | 2
 | 707843 | Lockyn | Vapor | 2
+| 826626 | ShutEye | Shut Eye - Call Me | 2
 | 806165 | Geoplex | Geoplex - Enduring | 2
 | 697643 | Waterflame | -Below- | 2
 | 720222 | Xtrullor | Xtrullor - Jnana | 2
@@ -517,7 +523,6 @@
 | 684652 | meganeko | Milkshake | 1
 | 549475 | TwelfthChromatic | Mountain Light (WIP) | 1
 | 506474 | viewtifulday | Lift (viewtifulday Remix) | 1
-| 588392 | Waterflame | -Fuzzy- | 1
 | 365163 | Fantomenk | Follow me Remix | 1
 | 750203 | paperskies | Virtual Riot - Earth & Sky (Paper Skies Remix) | 1
 | 750202 | paperskies | Paper Skies - Inverted | 1
@@ -584,13 +589,11 @@
 | 627564 | ForeverBound | Stereo Madness (2015) | 1
 | 801642 | KaixoMusic | Ataraxia (Original Mix) | 1
 | 648035 | bossfightofficial | Milky Ways Redux | 1
-| 580456 | DeadRewind | Detious - Serenade | 1
 | 678780 | Dj-Rec0il | Gradient Horizon | 1
 | 330613 | EliteFerrex | Hyperion Overdrive | 1
 | 793470 | MonvoiceT | Sacry - Strawberry Soda | 1
 | 469873 | Step | Sanctuary | 1
 | 779133 | dexarson | Fox Stevenson - MIss You ( Dex Arson Remix ) | 1
-| 754547 | ACXLE | Follow (original by Austin C) | 1
 | 760696 | NoVAmusicofficial | NoVA - Breathe [Tropical House] | 1
 | 822154 | CrystalSirens | Rachel Costanzo - Comfortable (Crystal Sirens Remix) | 1
 | 693127 | xenith800 | Styx Helix [x800 remix] | 1
@@ -599,7 +602,6 @@
 | 545706 | Lockyn | Sequence | 1
 | 175013 | zirconmusic | Nuclear Flash (Mega Man 2) | 1
 | 658366 | djhoohaa | Where Are Ãœ Now (Ember Island Cover)(djhoohaa RMX) | 1
-| 828342 | FarOutOfficial | Star Wars - The Force Theme (Far Out Remix) | 1
 | 480190 | Step | Morocco | 1
 | 672690 | SSJ3-Goku4567 | SSJ3 - Nuclear Fusion REDUX | 1
 | 662470 | Lockyn | His Memory (His Themeâ€‹/â€‹Memory Lockyn Undertale Remix) | 1
@@ -684,19 +686,19 @@
 | 720097 | xXSharaXx | SharaX - Dark Darker Yet Monster | 1
 | 771302 | Jassummisko | Uranus | 1
 | 597245 | Domyeah | Domyeah - ToE 3 | 1
-| 552191 | OcularNebula | Pulsar | 1
 | 677111 | DJVI | God Mode | 1
 | 593161 | XxColozisoxX | Five hours 2 | 1
 | 834826 | Sharks | Sharks - Light | 1
+| 847116 | CreoMusic | Creo - Place On Fire | 1
 | 716046 | Blackhole12 | Starstruck | 1
 | 607493 | MafiaPineapple | The Force | 1
-| 826626 | ShutEye | Shut Eye - Call Me | 1
 | 742681 | CreoMusic | Creo - Ahead Of The Curve | 1
 | 761119 | AikaMusic | Rise Above [Dubstep] | 1
 | 736543 | DJStriden | Drop The Beat [Electro] | 1
 | 705822 | Dovax | Wubbaduck - Danger (Dovax Remix) | 1
 | 105753 | Envy | ~EnV~Heaven Rd. 2 (Ng mix) | 1
 | 777494 | Sharks | Kotori & Similar Outskirts - Numazu (Sharks Remix) | 1
+| 841006 | SpazeOfficial | Spaze - Raw Picture | 1
 | 212261 | CrimzonWolf777 | Fear Factory 2009 | 1
 | 769325 | SpazeOfficial | Spaze - Family | 1
 | 503096 | bossfightofficial | Pirate Manners | 1
@@ -705,6 +707,7 @@
 | 167229 | Goukisan | Goukisan - Betrayal of Fear | 1
 | 666960 | Waterflame | -Dance-Off- | 1
 | 793924 | ShutEye | Shut Eye - The City | 1
+| 810349 | BiTSTER | Sea-Salt Ice Cream | 1
 | 750960 | Ravitex | Ravitex & TeslaX - Night Bullet | 1
 | 748911 | lemons | Skydive | 1
 | 712035 | Omnivore | ãƒã‚ªRENAISSANCE | 1
