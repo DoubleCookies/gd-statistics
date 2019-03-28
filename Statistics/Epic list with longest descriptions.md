@@ -52,7 +52,7 @@
 | nitrosphere | alkali | 34699785 | 140 | Collab with BranSilver! Sorry if it's not my usual quality, most of the parts were made in early 2.1. Enjoy :]  Check out Bran's latest lvl!
 | Eventide | FastRefleksX | 34528850 | 140 | This is unarguably my best level, with somewhat more detail, and WAY more glow than before! For MrLorenzo's 2nd CC ;D Password on YouTube :P
 | Toxin Lab IV | Xaro | 29917082 | 140 | Here it is, Toxin Lab IV. I dedicate this Toxin Lab to Loserchik67 for motivating me to not cancel the lab series. Enjoy and try to survive.
-| FREEDOM | MrPPs | 29247995 | 140 | Amazing Megacollab with Nuclear Nacho , SlovaHands , 11 Made in 2.0 Hope you Enjoy  GD Heroes Work ,  Thank you Rubrub for The Epic So Much!
+| FREEDOM | QuitedGD | 29247995 | 140 | Amazing Megacollab with Nuclear Nacho , SlovaHands , 11 Made in 2.0 Hope you Enjoy  GD Heroes Work ,  Thank you Rubrub for The Epic So Much!
 | legend  | HadiGD | 28943996 | 140 | A collab between gibbon765, optical, izinad4sh, g4lvatron, thomartin, stubbypinata, funnygame and me! Thx to starship, zhander and neogamer.
 | Powerade | Pechuga20 | 54451001 | 139 | Epic Collab With my friends,I Hope To Enjoy This Level By: Pechuga20 (me),ZecretDash,Lixars,Fletzer and Lorena GD. Dedicated to: DavJT   <3
 | Halcyon | CastriX | 54342252 | 139 | After 1 year this is finally out. I lost some creators from my CC3, but I got new ones. Here's another collab with awesome creators, enjoy.
@@ -1292,7 +1292,6 @@
 | Veto | Optical | 29112193 | 28 | Focus on user interaction :)
 | Psyshpere | SamMaxx | 53767407 | 27 | Collaboration with Knots :D
 | Time Travel | Fletzer | 52797005 | 27 | I hope you like it! ('_>')b
-| Boomtri | Piseto | 52191588 | 27 | My last 2.1 level! Enjoy :)
 | Yes | BryanC2 | 49217317 | 27 | Description [Simple level?]
 | Vivid | Alt3r3d | 48454347 | 27 | i think you may love it uwu
 | Cumi Asin | Xevenfurious | 47244406 | 27 | ADDED MORE DECO , as u wish
@@ -1425,6 +1424,7 @@
 | Funky Bliss | FozaeKitty | 36080060 | 9 | yay... :)
 | Scent | Optical | 28500207 | 9 | Timeless.
 | Aclua | Zidnes | 54651404 | 8 | Have fun
+| Boomtri | Piseto | 52191588 | 8 | S a n s 
 | Flage | Regulus24 | 39356953 | 8 | Enjoy :3
 | Splash | Jayuff | 38811712 | 8 | finally!
 | Fun | Jayuff | 47849218 | 7 | omg yes

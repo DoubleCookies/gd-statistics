@@ -339,6 +339,7 @@ PanMan | 1
 charky | 1
 Mineber | 1
 Zwenty | 1
+QuitedGD | 1
 Sumsar | 1
 YunHaSeu14 | 1
 Player Time | 1
@@ -399,7 +400,6 @@ OpteX | 1
 Hayper | 1
 iIFrostIi | 1
 IFSGeorge | 1
-MrPPs | 1
 minimaX | 1
 JustWemo | 1
 FurroZady | 1
