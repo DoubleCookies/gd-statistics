@@ -3,9 +3,9 @@
 Darwin | 36
 f3lixsram | 22
 DanZmeN | 20
+Jayuff | 18
 danolex | 18
 CastriX | 17
-Jayuff | 17
 Serponge | 17
 Lemons | 16
 Nico99 | 16

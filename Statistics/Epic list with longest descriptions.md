@@ -1,4 +1,4 @@
-#### Total: 1481 levels
+#### Total: 1482 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -1439,6 +1439,7 @@
 | Punchline | Shuffle49 | 36342881 | 6 | shuish
 | Question Mark | WerewolfGD | 35755401 | 6 | Awoooo
 | Glyph | Optical | 30247774 | 6 | Enjoy.
+| Mashup | Jayuff | 54724490 | 5 | mmmmf
 | Yakumo | Shemo | 49149238 | 5 | bayun
 | Aline | DangerKat | 43130199 | 5 | ;3;)/
 | Chronos | ViPriN | 41893726 | 5 | Time.

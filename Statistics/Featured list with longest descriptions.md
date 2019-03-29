@@ -1889,7 +1889,6 @@
 | Vision | lbpa | 15035474 | 125 | I know, it isn't a good name. Ty Montezuma. Sorry for the lag and buggy parts. this level isnt perfect, and you arent also :)
 | Toxic Sorrow | Ashes  | 14570069 | 125 | Entry for Havok's Creator Contest, hope you enjoy! The start is copied because u need to use that start to enter the contest!
 | The Legend  |  Juvia  | 14193650 | 125 | collab with glock :) demon? nerfed the robot part a bit because took me to re-verify. secret at 42 fixed, thanks for tell me 
-| Battle of the Shades | GD virus | 13536376 | 125 | phase 4. without deco. BEFORE YOU REPORT PLEASE BE AWARE IT IS BEING DECORATED RN BY TRAXIL_. Please keep it rated for now :)
 | level one | AirForce | 13353436 | 125 | First lvl of a new serie :) Purple theme. Wich color theme do u want in next lvl ? Comment ur color choice in the comments :D
 | Ego Death | Lucidal | 13132367 | 125 | My first level! Collab with TxVenomxT and TeaZChaos! Replay on my YouTube! Subscribe! THANKYOU ROBTOP!!! <3 Pass is 050500 :)
 | RIP IT | Filarious | 12547242 | 125 | Okay, so i fixed the secret way (sorry no sorry heh) But pls dont complain about the lag or how bad lvl is...its my first :v)
@@ -12391,6 +12390,7 @@
 | auto clutterfunk | null | 126214 | 6 | fourth
 | jamaican blond | null | 117884 | 6 | BENSON
 | super auto xstep | null | 69996 | 6 | Fixed!
+| Mashup | Jayuff | 54724490 | 5 | mmmmf
 | Zapricot | Manteex | 54447225 | 5 | fresh
 | Losing Interest | suxide | 52314211 | 5 | ? ? ?
 | Tatsuro Yamashita | Fss | 52150224 | 5 | nah b

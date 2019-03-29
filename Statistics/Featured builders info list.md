@@ -14,7 +14,7 @@ Gelt | 62
 Minesap | 61
 SMBlacktime | 56
 TheRealZelLInk | 54
-Jayuff | 53
+Jayuff | 54
 Echonox | 53
 Etzer | 51
 SirHadoken | 50
@@ -1183,7 +1183,6 @@ Prometheus | 2
 Orange09 | 2
 RenoVatio | 2
 MitKit | 2
-GD virus | 2
 CreatorRC | 2
 Yael Ximil | 2
 BitZGD | 2
@@ -1783,6 +1782,7 @@ bendykid | 1
 LIBetaIL | 1
 Al3M0N | 1
 Jrockmonster | 1
+GD virus | 1
 Gyrus | 1
 SylntNyt | 1
 ZakKestGD | 1
