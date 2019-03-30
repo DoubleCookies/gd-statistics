@@ -1,4 +1,4 @@
-#### Total: 1482 levels
+#### Total: 1491 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -14,7 +14,9 @@
 | 730956 | csx42gaming | Detonate | 6
 | 725417 | F-777 | Hydra | 5
 | 782870 | bossfightofficial | Bossfight - Nock Em | 5
+| 701013 | LemKuuja | Whats a Future Funk? | 5
 | 737995 | bossfightofficial | Bossfight - Mescalink | 5
+| 817872 | BoomKitty | Shredageddon | 5
 | 690885 | ColchianCat | Zaphkiel | 5
 | 686789 | Namice | Open Your Eyes | 5
 | 684823 | meganeko | 2k9 battle jam | 5
@@ -46,12 +48,10 @@
 | 551385 | Djjaner | Lullaby /Remix | 4
 | 713190 | PandaEyesOfficial | Panda Eyes - Colorblind | 4
 | 709117 | cloudfield | Zedd - Ignite (cloudfield Bootleg) | 4
-| 701013 | LemKuuja | Whats a Future Funk? | 4
 | 555607 | BoomKitty | Spicy Noodles | 4
 | 744021 | LemKuuja | Ai ?? ?? | 4
 | 717459 | Lethalix | Little Flame | 4
 | 678590 | ForeverBound | Harmony of the Heart | 4
-| 817872 | BoomKitty | Shredageddon | 4
 | 643870 | DeadRewind | Detious & Lockyn - Allure | 4
 | 684892 | meganeko | TAK - PAE-KI (meganeko Remix) | 4
 | 570208 | basheman | Like a Blast! | 4
@@ -224,6 +224,7 @@
 | 623256 | bossfightofficial | Milkshake - [Bossfight Remix] | 2
 | 686782 | BoomKitty | Badland | 2
 | 785100 | cloudfield | cloudfield - Fantasy (ft. Reichuu) | 2
+| 746191 | Codly | Rie Takahashi - Stay Alive (Luan x Codly Remix) | 2
 | 686788 | Namice | Ripples | 2
 | 740062 | AikaMusic | Rainforest [ Chillstep ] | 2
 | 690904 | SKILLZmakeKILLZ | Activate | 2
@@ -243,6 +244,7 @@
 | 732008 | hyperdemented | Creo - Challenger | 2
 | 580456 | DeadRewind | Detious - Serenade | 2
 | 754547 | ACXLE | Follow (original by Austin C) | 2
+| 760696 | NoVAmusicofficial | NoVA - Breathe [Tropical House] | 2
 | 781195 | MrKoolTrix | Rockin That Bass | 2
 | 529291 | Acid-Notation | ---Fury--- | 2
 | 732047 | MegaSphere | Emphatic Outcry CUT | 2
@@ -312,6 +314,7 @@
 | 763473 | canonblade | Canonblade - MoonSugar | 2
 | 710256 | Phyrnna | Hexennacht ~P~ | 2
 | 525926 | bossfightofficial | Dr Wilys Stage 1 (Remix) | 2
+| 745084 | Miyolophone | Stray | 2
 | 718457 | meganeko | Delete | 2
 | 810618 | CreoMusic | Creo - Crystallize | 2
 | 771703 | BoomKitty | Holy War | 2
@@ -359,6 +362,7 @@
 | 665585 | ACXLE | Nanobyte (original by Austin C) | 1
 | 575477 | dj-Jo | Fairy Tail Theme Glitch Hop | 1
 | 778252 | Infinityofficial | Where Did You Go (ft. SK¥E and Dan Levine) | 1
+| -3 | Step | Polargeist | 1
 | 677900 | LemKuuja | Keep On Baby! (w/ Kill Me Baby) | 1
 | 659469 | Cochu | Zedd - Beautiful Now (Cochu Remix) | 1
 | 538627 | Xtrullor | Attack | 1
@@ -420,6 +424,7 @@
 | 762111 | MrKoolTrix | Confuzzled... Again! | 1
 | 436465 | Acid-Notation | ---Excessive Energy--- | 1
 | 663796 | NyxTheShield | Undertale - Asgore, The Fallen King | 1
+| 852209 | lchavasse | Fried Sushi | 1
 | 719117 | Cursedsnake | Thoughts | 1
 | 786691 | DjCocsOFFICAL | Zeptonix - Firestorm | 1
 | 799006 | Ultraconsole | Sad time Traveler | 1
@@ -507,6 +512,7 @@
 | 342542 | Fantomenk | Untitled chipsounds | 1
 | 682504 | Waterflame | -Arcade Punk- | 1
 | 489994 | DarkmasterX | Orchestral Touhou 1 | 1
+| 852510 | DerpCatOfficial | Derpcat - Hypocrisy | 1
 | 645661 | Xtrullor | X&HE - Soulstorm | 1
 | 760364 | Zelgeon | [Glitch Hop] HEY! (Original Mix) [Reborn EP] | 1
 | 760365 | BurgeraX | BurgeraX: Bloodthirst [Dubstep] | 1
@@ -547,7 +553,6 @@
 | 576177 | Acid-Notation | ---Accelerate--- | 1
 | 785099 | cloudfield | cloudfield - Dream (ft. Hiroto x Luna) | 1
 | 737994 | bossfightofficial | Bossfight - Nowise | 1
-| 746191 | Codly | Rie Takahashi - Stay Alive (Luan x Codly Remix) | 1
 | 715461 | BobRatchet | Elevator | 1
 | 740063 | N1NJA-Official | the beach | 1
 | 735966 | lemons | Lemons - Arc | 1
@@ -594,7 +599,7 @@
 | 793470 | MonvoiceT | Sacry - Strawberry Soda | 1
 | 469873 | Step | Sanctuary | 1
 | 779133 | dexarson | Fox Stevenson - MIss You ( Dex Arson Remix ) | 1
-| 760696 | NoVAmusicofficial | NoVA - Breathe [Tropical House] | 1
+| 844658 | CreoMusic | Creo - Aura | 1
 | 822154 | CrystalSirens | Rachel Costanzo - Comfortable (Crystal Sirens Remix) | 1
 | 693127 | xenith800 | Styx Helix [x800 remix] | 1
 | 824224 | GA-H13 | GA-H13: SaabS | 1
@@ -777,7 +782,6 @@
 | 665200 | MegaSphere | 128 | 1
 | 396912 | ParagonX9 | ParagonX9 - Infinity | 1
 | 794212 | MrKoolTrix | Nice Vibes | 1
-| 745084 | Miyolophone | Stray | 1
 | 714356 | KaixoMusic | Lycanthropy (Original Mix) | 1
 | 708236 | cloudfield | cloudfield - Nostalgia | 1
 | 493188 | SKILLZmakeKILLZ | SmK - Extinct | 1
