@@ -79,6 +79,7 @@ M3nhHu3 | 5
 OptaWolfGD | 5
 RadiationV2 | 5
 RyanAB | 5
+Hyenaedon | 5
 Fault | 5
 AbstractDark | 5
 FreakEd7 | 5
@@ -102,7 +103,6 @@ LeX97 | 4
 DavJT | 4
 Nightlex | 4
 Regulus24 | 4
-Hyenaedon | 4
 jacr360 | 4
 Dudex | 4
 TheRealDorami | 4

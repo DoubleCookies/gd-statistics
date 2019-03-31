@@ -1,4 +1,4 @@
-#### Total: 1491 levels
+#### Total: 1492 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -527,6 +527,7 @@
 | 541266 | Stratales | Chips Ahoy! | 1
 | 735852 | Mattashi | Crushed To Bits (Save The Princess) | 1
 | 684652 | meganeko | Milkshake | 1
+| 500335 | Waterflame | -conclusion- | 1
 | 549475 | TwelfthChromatic | Mountain Light (WIP) | 1
 | 506474 | viewtifulday | Lift (viewtifulday Remix) | 1
 | 365163 | Fantomenk | Follow me Remix | 1
