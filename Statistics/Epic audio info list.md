@@ -1,4 +1,4 @@
-#### Total: 1492 levels
+#### Total: 1494 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -228,6 +228,7 @@
 | 686788 | Namice | Ripples | 2
 | 740062 | AikaMusic | Rainforest [ Chillstep ] | 2
 | 690904 | SKILLZmakeKILLZ | Activate | 2
+| 805587 | Xomu10 | Lanterns | 2
 | 692963 | MrKoolTrix | Confuzzled | 2
 | 604897 | Jumper | Jumper - To Worlds End | 2
 | 619258 | Jumper | Jumper - Beyond The Walls | 2
@@ -561,7 +562,6 @@
 | 787153 | LemKuuja | Ouais Ouais (ft. SlyLeaf) | 1
 | 627413 | Mattashi | Our Last Hope | 1
 | 576215 | Geoplex | StarDrive | 1
-| 805587 | Xomu10 | Lanterns | 1
 | 715501 | ColBreakz | ColBreakz - Reunited [Undertale Remix] | 1
 | 539387 | steampianist | Industrial Lullaby | 1
 | 727817 | Djjaner | Eliminator (Contest Remake/Remix) | 1
@@ -603,6 +603,7 @@
 | 844658 | CreoMusic | Creo - Aura | 1
 | 822154 | CrystalSirens | Rachel Costanzo - Comfortable (Crystal Sirens Remix) | 1
 | 693127 | xenith800 | Styx Helix [x800 remix] | 1
+| 818078 | Cametek | Quaoar | 1
 | 824224 | GA-H13 | GA-H13: SaabS | 1
 | 748446 | MonvoiceT | Summer Girl [Deltrix Release] | 1
 | 545706 | Lockyn | Sequence | 1

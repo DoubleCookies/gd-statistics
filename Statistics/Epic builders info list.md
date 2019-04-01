@@ -68,6 +68,7 @@ Unzor | 6
 Xstar7 | 6
 abdula | 6
 BryanC2 | 6
+xMisery | 6
 Enlex | 6
 Ragnarok96 | 6
 DesTicY | 6
@@ -85,7 +86,6 @@ AbstractDark | 5
 FreakEd7 | 5
 ILRELL | 5
 Sharks | 5
-xMisery | 5
 EpicMasta11 | 5
 Arysta | 5
 WolfenGD | 5
@@ -372,6 +372,7 @@ Crombie | 1
 Expy | 1
 XanN | 1
 Kohtpojiep | 1
+RikLymback | 1
 Nuclear Nacho | 1
 ThrioNico | 1
 Supmaxy | 1

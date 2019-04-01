@@ -1,4 +1,4 @@
-#### Total: 1492 levels
+#### Total: 1494 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -215,6 +215,7 @@
 | Invert | stubbypinata | 34300290 | 130 | Finally, another level! I considered this not too special BUT I changed my mind 8) Thanks for everything, you guys are amazing! :)
 | Purity | Peton | 33924990 | 130 | Hey guys! Ive been a bit busy sorry for that! But im back with another level! :) Dedicated to: Thomartin Thanks for first place :)
 | TechnitiuM | Darwin | 32321683 | 130 | My new masterpiece ! :D worked hard on this :3  Dedicated to Thomartin <3  Who will be the first to beat it ? 8)   Name by Geefogo
+| Afire | xMisery | 54779397 | 129 | After a year I finally managed to finish this! Hope you like it, huge thanks to iSparki for encouraging me :3 <3 (The LDM works!)
 | Kyoto Rush | nasgubb | 51916778 | 129 | Be sure to play the original level by clicking the [Original] button above, and big thanks to RoXas for making such a great level
 | Bubbly Blast | Cirtrax | 51881109 | 129 | Take a drink of this fizzy drink! Awesome level that Alkali let me finish off, he made the whole layout as well. Rate Easy Demon!
 | Soundwolf | WerewolfGD | 46664545 | 129 | A realm of beautiful spirits | Chill and very experimental level | Not my best work but I hope you enjoy ;3 | Rate 4-5* | 16k obj
@@ -816,6 +817,7 @@
 | Melodic Travel | R3XX3R | 35233399 | 81 | My biggest project. 129k objects placed in 93 hours of work. Verified by Quantum.
 | ToE 2017 | GD Jose | 31372254 | 81 | Theory of Everything in 2.1 !!... Video with 3 coins and pass in my YT channel ;)
 | Colorblind | danolex | 27961648 | 81 | Epic level...Thanks for playing leave a like and enjoy For Geometry Dash World :)
+| Kurli Batik | RikLymback | 54795218 | 80 | Pattern that lives within everyday life, sitting there under appreciated. . . . 
 | Glitz | Regulus24 | 54558807 | 80 | If you wanna know how to get the coins, there's a video on my youtube channel ^^
 | Conqueblaze | WerewolfGD | 52187040 | 80 | First lvl in 2019! | Maybe my best effect level? | Enjoy and rate 7-8*! | Awooo!
 | TechnoLaser | GirlyAle02 | 50188461 | 80 | After almost 1 month, my first demon level is done :D , enjoy! :)    [LDM fixed]
