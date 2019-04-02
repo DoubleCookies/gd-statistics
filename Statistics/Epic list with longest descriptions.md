@@ -1,4 +1,4 @@
-#### Total: 1494 levels
+#### Total: 1495 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -531,7 +531,7 @@
 | dynasty | Alkatreize | 38373714 | 105 | My New level! modernistic style,GamePlay by Ewan67000 dedicated to optical,azertiop and my all friends ;)
 | Ejection | Pipenashho | 38318679 | 105 | Finally new level! Also more simple this time, Hope You enjoy! Play with particles for better experience.
 | Luma | DesTicY | 37745103 | 105 | Old level that I left alone months ago, huge thanks to TrueLogic for reviving and finishing it for me! <3
-| Direction  | Wobs | 34526077 | 105 | please, check pulverize, a cool level by my friend manu123890, I think it deserves a feature :)  34923683
+| Direction  | Yardley | 34526077 | 105 | please, check pulverize, a cool level by my friend manu123890, I think it deserves a feature :)  34923683
 | IZnite | izhar | 32400752 | 105 | Finally the first easy epic in GD? :P dedicated to TickleGD and Wooobs! (Pass and Coins on my YT channel)
 | One | Ragnarok96 | 30753202 | 105 | My first DEMON level on 2.1!,Iam sory for rushed gameplay and many moving object :),ENJOY! :D,Pass:*(@$#^
 | Purpose  | Xstar7 | 48561623 | 104 | Everyone has a purpose. Pressing the LDM button on the level select screen shows different BGs! Enjoy :)
@@ -1208,6 +1208,7 @@
 | Cerulean | iZinaD4sh | 40100624 | 39 | Cerulean, like water, soft and quiet...
 | Emotional Release II | Serponge | 39955946 | 39 | Here it is, the sequel to my best auto!
 | Extinction | haoN | 38427291 | 39 | Can you survive the mass extinction?...
+| Shinobue | Hyenaedon | 54747724 | 38 | Awesome collab with my bud Zikronik <3
 | Electro Dash | DHaner | 52783139 | 38 | My last 2.1 level. I hope you enjoy c;
 | Skies | ZaDoXXZl | 50205045 | 38 | Dedicated to Peton, Xstar7 and Darwin.
 | Alter Order | FreakEd7 | 47990377 | 38 | All Balanced, All In Order, Or not...?
@@ -1476,7 +1477,7 @@
 | Tekunorojii | M3nhHu3 | 39809137 | 2 | :)
 | Translucent | Torch121 | 38669931 | 2 | 8)
 | Comeback | danolex | 38484036 | 2 | :)
-| Immersive  | Wobs | 37489485 | 2 | :)
+| Immersive  | Yardley | 37489485 | 2 | :)
 | Napalm | WolfenGD | 34848621 | 2 | yo
 | Subway II | Existence | 32045809 | 2 | <3
 | Elevatia | ViPriN | 28755561 | 2 | :)
