@@ -138,6 +138,7 @@ Shutter | 3
 Zidnes | 3
 Nottus | 3
 Ethrakk | 3
+X trailz | 3
 ItzMezzo | 3
 King Woofy | 3
 Zoroa GD | 3
@@ -205,7 +206,6 @@ ZaDoXXZl | 2
 LmAnubis | 2
 Enceladus GD | 2
 Jaasim | 2
-X trailz | 2
 Superopi | 2
 Desumari | 2
 CookiesGirly | 2
@@ -220,6 +220,7 @@ Findexi | 2
 GETZUCCED | 2
 Geom3zon | 2
 xPix3lest | 2
+LuDDee | 2
 CreatorDiana | 2
 gdapples | 2
 Alkatreize | 2
@@ -360,7 +361,6 @@ Alexcont | 1
 TeamHFC | 1
 RickTz | 1
 TheRealSalad | 1
-LuDDee | 1
 DJslimeYT327 | 1
 Glaid | 1
 Akinari | 1

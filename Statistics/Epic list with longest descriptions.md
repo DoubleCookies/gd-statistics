@@ -1,4 +1,4 @@
-#### Total: 1495 levels
+#### Total: 1497 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -1142,6 +1142,7 @@
 | Vybe | xSkart | 45427418 | 46 | For #levelution. Pass on my YouTube Channel :3
 | Dreamcore | Torch121 | 32781965 | 46 | Amazing collab with Filaret - Hope you like it
 | LETs  RUN | izhar | 31280642 | 46 | reuploated and longer :) Pass on my YT channel
+| Lugnt | LuDDee | 54799522 | 45 | Spend many hours on this.. dedications at end
 | Friends | Unzor | 50844374 | 45 | Yey i got friends, im not lonely anymore ._.'
 | Final Smash | DepisH16 | 47431578 | 45 | My next super level! There was inspiration =)
 | Destiny | BadKlatt | 39475333 | 45 | forge and build an excellent destiny for you!
@@ -1166,6 +1167,7 @@
 | Xeflux | Lemons | 36647186 | 43 | Just a simple little flux level... Enjoy :)
 | Pureland | Torch121 | 34194741 | 43 | A sequel of Amnesty 8) - Thanks for playing
 | Winter | LeocreatorX | 33322088 | 43 | My first easy level :) I hope u enjoy it <3
+| Miasma | X trailz | 54724877 | 42 | [Corrupt matter emanating from the ground]
 | Translucent | Yakimaru | 54681694 | 42 | There are so many dimensions to explore...
 | infintesimal | TyphoonThunder | 54576567 | 42 | had a few ideas while i was in outer space
 | Dreamy Illusion | SamMaxx | 54379509 | 42 | Reimagined version of Illusion. To: dverry

@@ -1,4 +1,4 @@
-#### Total: 1495 levels
+#### Total: 1497 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -178,6 +178,7 @@
 | 559276 | Waterflame | -StreetWise- | 2
 | 805033 | LemKuuja | April | 2
 | 784548 | ColBreakz | ColBreakz - Robots | 2
+| 559305 | Minotics | /Neo Tokyo\ | 2
 | 413893 | Vertlain | The last flight | 2
 | 577731 | F-777 | F-777 - Double Jump | 2
 | 747737 | Wolf7ech | Ascension (Chillstep) | 2
@@ -411,7 +412,6 @@
 | 503989 | Jabicho | Amelie (Cover) | 1
 | 383154 | bossfightofficial | The Empire Of Toads | 1
 | 827576 | Dunderpatrullen | Pixie Crust | 1
-| 559305 | Minotics | /Neo Tokyo\ | 1
 | 712897 | TheLivingTombstone | Its Raining Men Remix - The Living Tombstone ft. Eilemonty | 1
 | 696514 | Geoplex | Altitude | 1
 | 608456 | Xtrullor | Xtrullor - Reverie | 1
@@ -781,6 +781,7 @@
 | 573010 | DuoCore | DuoCore - Endorphins | 1
 | 525908 | OcularNebula | Xtreme Throat Anthem | 1
 | 407131 | NemesisTheory | Mysterious Sleeper | 1
+| 841300 | NirvanaTytanMcAnguns | Stranger Things Theme FRemix | 1
 | 591467 | johnfn | i can see you now | 1
 | 665200 | MegaSphere | 128 | 1
 | 396912 | ParagonX9 | ParagonX9 - Infinity | 1
