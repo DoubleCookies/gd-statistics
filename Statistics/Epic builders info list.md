@@ -56,8 +56,8 @@ BadKlatt | 7
 PotatoBaby | 7
 Olympic | 6
 DHaner | 6
-ModoDiabloo | 6
 schady | 6
+NeoPistea | 6
 Alkatraz | 6
 Xender Game | 6
 Ferdefunky | 6
@@ -265,6 +265,7 @@ Jezzel | 2
 Allex20 | 2
 DarkStyle | 2
 Booglee | 2
+Gachristian1 | 2
 aviovlad | 1
 hypercube1 | 1
 RoyalP | 1
@@ -457,7 +458,6 @@ griffyn87 | 1
 Sakana | 1
 Pennutoh | 1
 Erickblaster | 1
-Gachristian1 | 1
 DeCody | 1
 killua282 | 1
 Zyplex | 1

@@ -1,4 +1,4 @@
-#### Total: 1497 levels
+#### Total: 1498 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -299,6 +299,7 @@
 | 757184 | ColBreakz | Dex Arson - Rampage (ColBreakz Remix) | 2
 | 349627 | shadow6nothing9 | Quiet Slumber | 2
 | 474579 | Spiriax | Japanology | 2
+| 662995 | Jumper | Jumper - Stone Guardian | 2
 | 689624 | Argofox | DOCTOR VOX - Level Up [Argofox] | 2
 | 720362 | MafiaPineapple | Snowfall | 2
 | 712181 | TheArdor | Atlantis | 2
@@ -748,7 +749,6 @@
 | 32207 | Dimrain47 | Forsaken Neon | 1
 | 847328 | Andersson187 | EPIC (ALBUM PREVIEW) | 1
 | 722400 | dexarson | Dex Arson - Rampage | 1
-| 662995 | Jumper | Jumper - Stone Guardian | 1
 | 808406 | Geoplex | Geoplex - Affinity | 1
 | 839126 | jjoon | Oh Ee Ah | 1
 | 763346 | DjHoneyb | Jacques Melissa - Tarnished imagination | 1
