@@ -1,4 +1,4 @@
-#### Total: 1498 levels
+#### Total: 1499 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -781,6 +781,7 @@
 | 573010 | DuoCore | DuoCore - Endorphins | 1
 | 525908 | OcularNebula | Xtreme Throat Anthem | 1
 | 407131 | NemesisTheory | Mysterious Sleeper | 1
+| 794193 | Cursedsnake | Gloomy | 1
 | 841300 | NirvanaTytanMcAnguns | Stranger Things Theme FRemix | 1
 | 591467 | johnfn | i can see you now | 1
 | 665200 | MegaSphere | 128 | 1
