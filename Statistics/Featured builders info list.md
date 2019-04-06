@@ -60,10 +60,10 @@ el3ctro1507 | 31
 Noweek | 31
 KeiAs | 31
 IIINePtunEIII | 30
+Xstar7 | 30
 ASonicMen | 30
 suxide | 30
 DanZmeN | 29
-Xstar7 | 29
 GD Jose | 29
 Hyenada | 28
 Dudex | 27
@@ -179,15 +179,18 @@ Havok | 15
 softable | 15
 Riky2610 | 15
 DWShin | 15
+Vertuoz | 15
 2turntdeezy | 14
 99geometrydash | 14
 DORABAE | 14
 TheDevon | 14
+OSIRIS GD | 14
 Edge | 14
 MrCheeseTigrr | 14
 Flukester | 14
 RoiMousti | 14
 ithedarki | 14
+Nexender | 14
 Nikce | 14
 Andro3d | 14
 LuisGX12 | 14
@@ -201,7 +204,6 @@ Insendium | 14
 Xaro | 14
 Non4med | 14
 Wixers | 14
-Vertuoz | 14
 iIFrostIi | 14
 PotatoBaby | 14
 DarkStyle | 14
@@ -209,13 +211,11 @@ jaffytaffy | 13
 Annon | 13
 Lerevon | 13
 Ninetales | 13
-OSIRIS GD | 13
 Falkuma  | 13
 HyperFlameGD | 13
 GirlyAle02 | 13
 Blaireswip | 13
 Ethrakk | 13
-Nexender | 13
 Tedesc0 | 13
 Diamondgirl01 | 13
 Flashmick72 | 13
@@ -403,6 +403,7 @@ DaFinn | 8
 Nightlex | 8
 Pasiblitz | 8
 willy5000 | 8
+SpKale | 8
 LaZye | 8
 Alfred PKNess | 8
 Jo2000 | 8
@@ -413,6 +414,7 @@ wless | 8
 Defiant | 8
 Stormfly | 8
 dhk2725 | 8
+ItzMezzo | 8
 Rlol | 8
 Drakaglin | 8
 chamoylol | 8
@@ -444,6 +446,8 @@ Systile | 7
 Desumari | 7
 CrispyCrepes | 7
 BlazeJcy | 7
+VesiMeloN | 7
+Alkatreize | 7
 xenoteric | 7
 JonathanGD | 7
 Allan | 7
@@ -461,7 +465,7 @@ weoweoteo | 7
 Gachristian1 | 7
 JustPark | 7
 matty2003 | 7
-SpKale | 7
+Mike4VN | 7
 Anubis GD | 7
 iMXA | 7
 Kebabbo | 7
@@ -472,7 +476,6 @@ tunar98 | 7
 TheTrueEclipse | 7
 Xender Game | 7
 Schneider9 | 7
-ItzMezzo | 7
 Defectum | 7
 Alexcont | 7
 XanN | 7
@@ -520,9 +523,7 @@ Underings | 6
 Chromatik | 6
 Skipnotz | 6
 BlUhOl | 6
-VesiMeloN | 6
 YamaDemon | 6
-Alkatreize | 6
 SupamarioXx | 6
 R503Sv | 6
 neogamerGD | 6
@@ -534,7 +535,6 @@ DafaIdham | 6
 danielost | 6
 snowmage | 6
 Vallier | 6
-Mike4VN | 6
 BobRatchet | 6
 Millepatte | 6
 ZeeToss | 6
@@ -631,6 +631,7 @@ BlueRimz | 5
 Azeria | 5
 Ardant | 5
 Snowbound | 5
+LRelix | 5
  Glory | 5
 VirtualCrack | 5
 Cristella | 5
@@ -777,7 +778,6 @@ XDream | 4
 ZephiroX | 4
 Sandal | 4
 T3mpl4te | 4
-LRelix | 4
 Edicts | 4
 Enceladus GD | 4
 JaoDay | 4
@@ -788,6 +788,7 @@ Marwec | 4
 Bryan1150 | 4
 Scanbrux | 4
 Dragn3el | 4
+DJslimeYT327 | 4
 EDSJustin | 4
 zombier | 4
 im fernando | 4
@@ -875,6 +876,7 @@ IIBackfischII | 4
 RayRayReig | 4
 Syndromed | 4
 exploreX6 | 4
+Fixinator | 4
 Igno | 4
 iIiRulasiIi | 4
 gwbocajuniors | 4
@@ -956,7 +958,6 @@ Legowanwan | 3
 HelpegasuS | 3
 EmyX | 3
 TheRealThawe | 3
-DJslimeYT327 | 3
 oligarhen | 3
 D0meR | 3
  Cancel | 3
@@ -1071,7 +1072,6 @@ geometrico10 | 3
 Sigma | 3
 Elih3l | 3
 Jes77 | 3
-Fixinator | 3
 Doroknoth2 | 3
 TinyXD | 3
 Warrior | 3
@@ -1497,6 +1497,7 @@ D3aThBR1ng3r | 1
 durianhead | 1
 ToToo | 1
 Jasperr | 1
+KawaiiAkito | 1
 Vird | 1
 timeless real | 1
 ErisethSP | 1
@@ -1540,7 +1541,6 @@ Elzeko | 1
 SuprianGD  | 1
 MobiGFX | 1
 Elliptic4l | 1
-aAkito | 1
 DeadIx | 1
 zPsychal | 1
 tnT | 1
@@ -1638,7 +1638,6 @@ Steelic | 1
 RedUniverse | 1
 JellyUerO | 1
 Nebs12 | 1
-Votanu | 1
 amonostor | 1
 Kizzon | 1
 PerkyPenguiN | 1
@@ -1875,6 +1874,7 @@ matnmath | 1
 UltraChris | 1
 F0xtrot | 1
 desoxicolico | 1
+Greenyy | 1
 iPLAY3R | 1
 Xelin | 1
 CreatorJC | 1
@@ -1995,7 +1995,6 @@ SimilarAMZ | 1
 Luna Moonlit | 1
 sajir0 | 1
 Zombiekiller8 | 1
-iIGreenyIi | 1
 She3rlucks | 1
 FieryGlaceon | 1
 Nach170 | 1
@@ -2444,6 +2443,7 @@ Xenticist | 1
 HateLife | 1
 Wcly | 1
 Nazor | 1
+votxnuu | 1
 Tanker1K | 1
 OwenEOA | 1
 XoVaK | 1
