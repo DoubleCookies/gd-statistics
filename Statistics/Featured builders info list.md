@@ -277,6 +277,7 @@ EpiEpz | 11
 TD Epic | 11
 WolfenGD | 11
 RayOriens | 11
+wulz | 11
 Drob3 | 11
 Jbeast15 | 11
 DiMaViKuLov26 | 11
@@ -322,7 +323,6 @@ HcreatoR | 10
 Vrymer | 10
 Iqrar99 | 10
 IyuriI | 10
-wulz | 10
 IlIRyanIlI | 10
 Giron | 10
 Ellisha | 10
@@ -716,6 +716,7 @@ FozaeKitty | 5
 WazBerry | 5
 PunkySoul | 5
 BGames | 5
+Fixinator | 5
 PyrexGD | 5
 RyderZ | 5
 BurstStar | 5
@@ -876,7 +877,6 @@ IIBackfischII | 4
 RayRayReig | 4
 Syndromed | 4
 exploreX6 | 4
-Fixinator | 4
 Igno | 4
 iIiRulasiIi | 4
 gwbocajuniors | 4

@@ -196,6 +196,7 @@ G4lvatron | 2
 goose | 2
 Discordy | 2
 SrPotato | 2
+wulz | 2
 Bronks | 2
 Pawlogates | 2
 Cubix06 | 2
@@ -307,7 +308,6 @@ IronIngot | 1
 greXxio | 1
 TinyGamer | 1
 HadiGD | 1
-wulz | 1
 TheTrueEclipse | 1
 Lapis337 | 1
 BitZel | 1

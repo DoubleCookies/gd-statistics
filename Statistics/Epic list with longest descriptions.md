@@ -1,4 +1,4 @@
-#### Total: 1499 levels
+#### Total: 1500 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -846,6 +846,7 @@
 | Emoji island | Piseto | 36726074 | 79 | "The world of emojis" >Dedicated to Zoomks,Castrix,Partition and Rustam. (o.o)/
 | Incinerator | GDSlimJim | 34122149 | 79 | Collab with BananaX. For MrLorenzo CC, GigaRex CC, and Jbeast15 CC. Easy Demon?
 | HyperFlux | Lemons | 33737577 | 79 | First demon flux level... Made using my melodic dubstep track :) Pass is 040400
+| yob | wulz | 54891420 | 78 | dedicated to partition | thanks to hyper for making the blocks in the 2nd part
 | Circus | Nikce | 52485734 | 78 | Welcome to the Circus city! Simple and relaxing art level, hope you like it :)
 | Myself | Filaret | 50270788 | 78 | Amazin collab with Victorinoxx and Mezzo. I think this my last level :v Enjoy)
 | Despacito OMG OwO | DanZmeN | 48359768 | 78 | Verified by Dorami. Why did i think this name was a good idea for a bet tbh...

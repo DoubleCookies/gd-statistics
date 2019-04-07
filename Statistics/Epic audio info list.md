@@ -1,4 +1,4 @@
-#### Total: 1499 levels
+#### Total: 1500 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -778,6 +778,7 @@
 | 669255 | Namice | Moment of Truth | 1
 | 513611 | DJtheSdotcom | Shock Coil | 1
 | 765530 | Noisymphony | Noisymphony - Soda lollipop | 1
+| 458326 | haywirehaywire | HW - Trigger | 1
 | 573010 | DuoCore | DuoCore - Endorphins | 1
 | 525908 | OcularNebula | Xtreme Throat Anthem | 1
 | 407131 | NemesisTheory | Mysterious Sleeper | 1
