@@ -1,4 +1,4 @@
-#### Total: 1500 levels
+#### Total: 1507 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -19,6 +19,7 @@
 | 817872 | BoomKitty | Shredageddon | 5
 | 690885 | ColchianCat | Zaphkiel | 5
 | 686789 | Namice | Open Your Eyes | 5
+| 643870 | DeadRewind | Detious & Lockyn - Allure | 5
 | 684823 | meganeko | 2k9 battle jam | 5
 | 738126 | ColBreakz | Tisment & ColBreakz - Silent Storm | 5
 | 664389 | AeronMusic | Wishful | 5
@@ -34,6 +35,7 @@
 | 724826 | Geoplex | Catharsis | 5
 | 739220 | BoomKitty | - Cord Cutter - | 5
 | 700355 | hinkik | Skystrike | 5
+| 704606 | bossfightofficial | Bossfight - Elevatia | 4
 | 706696 | hyperdemented | Summit | 4
 | 696528 | Lockyn | Volt | 4
 | 516336 | Envy | EnV - Pneumatic Tokyo | 4
@@ -52,7 +54,6 @@
 | 744021 | LemKuuja | Ai ?? ?? | 4
 | 717459 | Lethalix | Little Flame | 4
 | 678590 | ForeverBound | Harmony of the Heart | 4
-| 643870 | DeadRewind | Detious & Lockyn - Allure | 4
 | 684892 | meganeko | TAK - PAE-KI (meganeko Remix) | 4
 | 570208 | basheman | Like a Blast! | 4
 | 693146 | ColBreakz | ColBreakz & Ramstar - Frozen Heart | 4
@@ -77,7 +78,6 @@
 | 507877 | aaronmusslewhite | HalloweenStep | 3
 | 745508 | ColBreakz | ColBreakz - HeartBeat | 3
 | 680014 | garlagan | agoodgoodbye | 3
-| 704606 | bossfightofficial | Bossfight - Elevatia | 3
 | 696419 | Miyolophone | Holy Knight (MYP RmX) | 3
 | 561277 | Lockyn | Lockout | 3
 | 614535 | dexarson | [ Electro ] Frontlines | 3
@@ -111,6 +111,7 @@
 | 635716 | Xtrullor | Xtrullor - Earthsplitter | 3
 | 732009 | hyperdemented | Creo - Rivals | 3
 | 727933 | dexarson | Dex Arson - Slap Squad Ft SÃ¥vi | 3
+| 754547 | ACXLE | Follow (original by Austin C) | 3
 | 580470 | Acid-Notation | ---Steel Terror--- | 3
 | 642021 | Exnotic | Spaze - Underworld | 3
 | 719885 | AzazalEDM | Tryple & Azazal - Meowter Space | 3
@@ -245,7 +246,6 @@
 | 748361 | DJ-Zyzyx | Zyzyx - Reinforced | 2
 | 732008 | hyperdemented | Creo - Challenger | 2
 | 580456 | DeadRewind | Detious - Serenade | 2
-| 754547 | ACXLE | Follow (original by Austin C) | 2
 | 760696 | NoVAmusicofficial | NoVA - Breathe [Tropical House] | 2
 | 781195 | MrKoolTrix | Rockin That Bass | 2
 | 529291 | Acid-Notation | ---Fury--- | 2
@@ -302,6 +302,7 @@
 | 662995 | Jumper | Jumper - Stone Guardian | 2
 | 689624 | Argofox | DOCTOR VOX - Level Up [Argofox] | 2
 | 720362 | MafiaPineapple | Snowfall | 2
+| 402928 | Fionnhodgson |  110227 - Back of the Bus | 2
 | 712181 | TheArdor | Atlantis | 2
 | 749061 | kylermannn | The Ascension | 2
 | 554504 | Waterflame | -Glorious Morning 2- | 2
@@ -456,6 +457,7 @@
 | 758101 | xDimMitx | Manila Killa & AObeats - Im Ok (DimMit remix) | 1
 | 733545 | Schtiffles | Marbl | 1
 | 778607 | DJVI | Amp It Up | 1
+| 758119 | bossfightofficial | Dex Arson - Bipolar [Bossfight Remix] | 1
 | 786786 | Waterflame | Golden Bridge (Siegius OST) (2011) | 1
 | 823673 | TheLivingTombstone | BeepBeep Im a Sheep INSTRUMENTAL | 1
 | 686463 | KaixoMusic | Switch (Original Mix) | 1
@@ -565,6 +567,7 @@
 | 576215 | Geoplex | StarDrive | 1
 | 715501 | ColBreakz | ColBreakz - Reunited [Undertale Remix] | 1
 | 539387 | steampianist | Industrial Lullaby | 1
+| 688894 | Namice | Afterimage | 1
 | 727817 | Djjaner | Eliminator (Contest Remake/Remix) | 1
 | 713482 | 1f1n1ty | Mystical Forest (1f1n1ty Mini Remix) | 1
 | 768781 | SpazeUnofficial | Spaze - Money | 1
@@ -755,7 +758,6 @@
 | 622036 | Lockyn | Sabrepulse Horizons Remix | 1
 | 591319 | garlagan | Skyless | 1
 | 589289 | dexarson | [ Payload ] | 1
-| 402928 | Fionnhodgson |  110227 - Back of the Bus | 1
 | 759290 | alexizgd | ALESDA! - STMS Nation | 1
 | 581117 | ShirkMusic | Bird of Prey | 1
 | 747006 | F-777 | F-777 - The Secret Dynasty | 1
@@ -865,6 +867,7 @@
 | 329609 | vcrock | Ultimate Bowser(Epic Remix) | 1
 | 753562 | G4lvatron | Walking In Style | 1
 | 485267 | DJM4C | Detendu | 1
+| 757662 | cloudfield | cloudfield - Candy Factory | 1
 | 57239 | Waterflame | -Space pirates- | 1
 | 823188 | 90miles | eedion & FluxFlame - All I Need (90 Miles Remix) | 1
 | 786346 | cysmix | cYsmix - Babaroque (Short Ver.) | 1

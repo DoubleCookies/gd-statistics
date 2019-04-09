@@ -37,6 +37,7 @@ Nikce | 9
 Noweek | 9
 DangerKat | 9
 suxide | 9
+Cirtrax | 8
 AutoNick | 8
 DorSha | 8
 RealZober | 8
@@ -46,10 +47,10 @@ N R G | 8
 mulpan | 8
 Manix648 | 8
 Peton | 8
-Cirtrax | 7
 Hyenada | 7
 haoN | 7
 ithedarki | 7
+Xender Game | 7
 OSIRIS GD | 7
 luis JR | 7
 BadKlatt | 7
@@ -59,7 +60,6 @@ DHaner | 6
 schady | 6
 NeoPistea | 6
 Alkatraz | 6
-Xender Game | 6
 Ferdefunky | 6
 Ballii | 6
 FaekI | 6
@@ -95,6 +95,7 @@ ChiN3x | 4
 NukAnnguq | 4
 motleyorc | 4
 Luxew | 4
+DanielDlc | 4
 stubbypinata | 4
 victorinoxX | 4
 neigefeu | 4
@@ -118,6 +119,7 @@ JirkGD | 4
 Yendis | 4
 EpiEpz | 4
 Yakimaru | 4
+SkCray Ace | 4
 Elisione | 4
 Alfred PKNess | 4
 DepisH16 | 4
@@ -132,7 +134,6 @@ JustBasic | 3
 AceVict | 3
 lysk | 3
 ZeeToss | 3
-DanielDlc | 3
 Dasili0 | 3
 Shutter | 3
 Zidnes | 3
@@ -168,7 +169,6 @@ Dashtrict | 3
 Waffl3X | 3
 Alderite | 3
 MistFix | 3
-SkCray Ace | 3
 Diamondgirl01 | 3
 Subw00fer | 3
 MrZiedZ | 3
@@ -236,10 +236,12 @@ neogamerGD | 2
 KeiAs | 2
 Echonox | 2
 HollowEarth | 2
+Vrymer | 2
 GDLoco | 2
 Anubis GD | 2
 FozaeKitty | 2
 KFAOpitar | 2
+Wiktord1 | 2
 Shemo | 2
 xSkart | 2
 Spa8 | 2
@@ -385,8 +387,8 @@ Robotic24 | 1
 ML500 | 1
 Drob3 | 1
 Vancis | 1
-Vrymer | 1
 xKstrol | 1
+xKR1T1K4L | 1
 Soulsand | 1
 Phaneron | 1
 Sergeisonic95 | 1
@@ -401,7 +403,6 @@ NiTro451 | 1
 GDObsco | 1
 Slashvoid | 1
 GMD Dominator | 1
-Wiktord1 | 1
 OpteX | 1
 Hayper | 1
 iIFrostIi | 1

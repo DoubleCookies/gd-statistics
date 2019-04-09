@@ -1,4 +1,4 @@
-#### Total: 1500 levels
+#### Total: 1507 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -165,6 +165,7 @@
 | Surge | JacobROso | 33202713 | 134 | An extremely quick and simple level. Much more is to come in the future so you'll have to bear with me. Video and pass on YT, enjoy :P
 | Success | Dudex | 29181506 | 134 | My first 2.1 level! It took a bit longer than expected and didn't turn out too great, but i hope you will enjoy it! :D >fixed 2.11 bug
 | Vaporwave | Shutter | 52178550 | 133 | collab with suixam check him out he deserves more attention WARNING this is not vaporwave aesthetic i thought it was just a cool name
+| Factor | Wiktord1 | 51571401 | 133 | To end off the trainwreck of a year that was 2018 i actually finished a level. Is that a good or bad thing? I don't know. You decide.
 | Voices | ItzMezzo | 49408193 | 133 | My best demon yet ! Decided to put a lot of time into it, trying out some new stuff! Hard demon? Dedicated to Yakimaru. For Enlex CC3
 | Mr Extinction | RoiMousti | 48517555 | 133 | finally made a new best level, i hope you guys will enjoy it as much as i do. also happy birthday to me :tada: :kiss: :joy: :ok_hand:
 | Tho | iISpaceDustIi | 48195843 | 133 | Dedicated to BlueMo0n, Ellisha, Shakko, XStar7, DiamondGirl01, Erdyuri, Byton, DeCody, MarArm, Ezeon, Serponge, Jayuff & Nasgubb. :=(
@@ -316,6 +317,7 @@
 | Formidable Guardians | AbstractDark | 32940369 | 122 | Here it is my entry for Viprin's CC8. A level focused on bossfights, i hope you all enjoy it! Video on my YouTube channel.
 | Decimation | Lemons | 32298346 | 122 | My hardest and best level ever made :D Thanks sylux for building a short part and findexi for the gameplay. Pass is 040400
 | Caffeine Mastah | Usermatt18 | 30745863 | 122 | As always I havent found any original name for the level. Hope you like my first 2.1 level! I still need to learn a lot :)
+| Amethystia | Xender Game | 54861984 | 121 | The end of the time... The Eschaton... shall begin. (Incredieble Collab with MakFeed on this completely font deco level!)
 | Andromeda | EpicMasta11 | 48627268 | 121 | One of Ajedaboss's old, unfinished mcs that he let me finish and upload. Collab with DangerKat, Ross12344, and Tartofrez.
 | Holy Journey | GDLoco | 47694978 | 121 | Finally a new level!!! I tried a different type of art, not my best. Hope you enjoy! Pass: 220718 | LDM is ugly, sorry ;(
 | Tranquil Trance | Wiktord1 | 47462458 | 121 | An old neony unfinished level that turned into a collab with Logiking - a skilled creator and good friend of mine. Enjoy!
@@ -406,6 +408,7 @@
 | Saturn V | nasgubb | 34907693 | 114 | it's ya boi back at it again with another demon level, big thanks to alkali for making me some gameplay at the end
 | The Reactor | Edge | 32835034 | 114 | Finally, first 2.1 level. Collab with Thomartin, for Viprin's CC8. Took long enough but I think it was worth it :)
 | Silentium | f3lixsram | 30373175 | 114 | Took me quite long to build,I hope its enjoyable :) Pass and video on my youtube channel :3 Panda eyes is dope btw
+| Feel the Melody | DanielDlc | 54433722 | 113 | After a long time I am very proud to have finished this level, Enjoy it, I love you all <3 , Pass on my chanel c:
 | Vector | charky | 51558598 | 113 | my best, and last level of 2018 and 2.1. I hope you enjoy, dedicated to Xender Game and Stubbypinata. 77k objects
 | Disparity | iiMRTii | 49136579 | 113 | Collab with AutoNick! Thanks to him for letting me finish this, it means a lot to me <3 I hope you enjoy! \(^-^)/
 | oNe | NukAnnguq | 47602711 | 113 | finally finished :D  sorry if its a bit messy, but i hope u enjoyed this! dedicated to Berkoo, Alkali, Rafer. :3 
@@ -440,6 +443,7 @@
 | Showdown | DorSha | 37646413 | 112 | My first XL level! Sorry if there is lag in the level. And building this has been a bit of a stress... Enjoy! :)
 | Gear II | GD Jose | 33568628 | 112 | isn't too hard... just practice :D... video in & pass in my YT channel [activate shakes for a better experience]
 | Afterlife | Fillipsmen | 29267493 | 112 | Finally a new level :). I really enjoyed bulding this and learning to use all the new stuff, hope you like it :D
+| Voices In My Head | SkCray Ace | 54546633 | 111 | Sorry for the long delay, I got very sick. I tried to do a new style.  Gameplay and pass will soon be on my YT.
 | Wack | Yendis | 52356195 | 111 | My weirdest, wackiest and craziest level. The majority was built on my Twitch stream, please rate easy demon :)
 | Corrupted | Vancis | 51420551 | 111 | My best and last level of 2018! Special thanks to Agate and Xaren for helping me when I was demotivated. Enjoy!
 | To the Top | Cirtrax | 50863505 | 111 | My First XL Level! 2 mins long! Inspired from Robtop, Lemons, and Distort, Rate 9 stars and Have Fun!! 48k Objs
@@ -520,6 +524,7 @@
 | Space Cloud | DarinLou | 33544850 | 106 | Update 1.4: Added some clutches on the Spider Gamemode and few bugfixes along the way. Thanks for playing!
 | Cocktail | Supmaxy | 32940610 | 106 | Cocktail is an alcoholic drink... My best level... Have fun! :) THX FOR EPIC RUBRUB! i made it copyable :)
 | Gawne | GD Jose | 29998675 | 106 | I think this is more easy that my last levels... the coins are hard >:D... video and pass in YT channel :]
+| Boppin | Cirtrax | 54899406 | 105 | a really weird level i guess, dunno what to call this so like enjoy. for ayup and shoxey <3 rate 7 stars!
 | Retina | Thomartin | 51621423 | 105 | Woah finally a new lvl! Dedicated to Serponge because it was supposed to be a collab with him <3 have fun
 | Alien | TroxxP1 | 49942943 | 105 | This level needs a better description, Rate 8-9 stars... Experimental level for Enlex CC3 and JerkRat CC2
 | Canyon Run | SamMaxx | 48998353 | 105 | Watch calmly as you embark on a journey through the vast desert and canyons. To SupamarioXx and Nukannguq
@@ -1394,7 +1399,9 @@
 | OptiGe | minimaX | 45850956 | 18 | For #Levelution =)
 | Simple Drop | danolex | 42008751 | 18 | Thanks for playing
 | Unarmed | Xylluk | 31537385 | 18 | Enjoy the level :)
+| relax | Vrymer | 54807118 | 17 | more like "relag"
 |  TIA | BryanC2 | 54664621 | 17 | Que te diviertas!
+| Tranquility | xKR1T1K4L | 54566494 | 17 |          distortt
 | Deep Inside | SamMaxx | 54546762 | 17 | Hope you enjoy :D
 | Grakis | AceVict | 46437162 | 17 | I still alive ;3;
 | Odd | Jayuff | 41092171 | 17 | this level is odd
