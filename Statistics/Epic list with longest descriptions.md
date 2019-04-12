@@ -1,4 +1,4 @@
-#### Total: 1507 levels
+#### Total: 1510 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -368,7 +368,7 @@
 | Chromatic Corruption | Axils | 37592899 | 117 | Update: Tried fixing 68%, added custom background to last parts. Hope you enjoy now. Just don't hate in the comments.
 | The Colossus II | Manix648 | 35669648 | 117 | Sequel to The Colossus. Third level in the "Universal Redemption" series. Defeat Malus once and for all! [bugs fixed]
 | Beepster | Mazl | 35051517 | 117 | My new cool level 8) I never used that many triggers in any level before, same for object amount ^^ Have fun with it!
-| Vitality | EpiEpz | 33545237 | 117 | An awesome collab with PerkyPenguin, La7i, and Beptile! Make sure to check them out and enjoy this simplistic collab.
+| Vitality | epiphanui | 33545237 | 117 | An awesome collab with PerkyPenguin, La7i, and Beptile! Make sure to check them out and enjoy this simplistic collab.
 | New Level | Jezzel | 54531406 | 116 | Well after a long time I uploaded a new level x) I made final parts so fast xD maybe are ugly but I hope you like it
 | Digitize | Waffl3X | 52094892 | 116 | Tried to express myself in this level. This is also the last of the -ize trilogy. Layout by Akinari. Hope you enjoy!
 | Red Belly | DanZmeN | 50554435 | 116 | After four failed attempts, the two aussies finally finished a collab :D  ||   Enjoy this Lemons/DanZmeN masterpiece
@@ -658,6 +658,7 @@
 | Banished | SirHadoken | 34715086 | 94 | I wanted to escape my rainbow-y comfort zone, so I made a horror level. For the Bossfight CC1.
 | Dragon Claws | Piseto | 32737350 | 94 | "Can you defeat the Dragon Boss?". 40k Obj, my best?. Dedicated to Izhar.  LDM added. Enjoy =)
 | Danger Zone | GD Jose | 28677296 | 94 | Welcome to the Danger Zone of the Lava Gauntlet... can you survive ?... video in YT Channel :v
+| quadra | distortt | 54959957 | 93 | I was unsure whether I wanted to upload this or not because I hate it, but here it is anyway.
 | optawolf | matty2003 | 50408884 | 93 | a level inspired from alexs2003,  my first modern level :P   dedicated to optawolf    22k obj
 | Color Rush 2 | NukAnnguq | 49931694 | 93 | Finally finished! this isnt my best but i had fun building it :) Enjoy this simple level! :^]
 | Sedate | Proxxi | 48051023 | 93 | Calm and peaceful ~ 28k obj ~ 107 groups ~ Special thx to those peeps at diamondgirl's server
@@ -938,6 +939,7 @@
 | Color Rush | NukAnnguq | 48106654 | 71 | The first 5 Parts are made 2-3 Months ago, the end is rushed. Enjoy! :]
 | Exclamation Mark | WerewolfGD | 47535841 | 71 | Question mark sequel | Player-color based level | Enjoy and rate7* | ;3
 | Holy Power | TheRealDorami | 46220912 | 71 | Thanks for Epic :3 / New Updated 3.1 Ver - Bug fixed & Added Ultra LDM.
+| Goodbye II | Freyda | 45088185 | 71 | Well... I guess I made original level. "Timing is love, timing is life"
 | Essence of Fortune | JaoDay | 45037106 | 71 | A new solo level by me. Probably my best work. Dedicated to Tobe Hooper
 | 3D | BitZel | 41760566 | 71 | (Re-Subido) Segunda parte! Dedicado a 2D, C paola y partition. Like? :)
 | Lustre | G4lvatron | 37188385 | 71 | Special thanks to all the people who watched me build this on Twitch <3
@@ -1081,7 +1083,7 @@
 | Game Master | Noweek | 45627449 | 54 | A colorful level appear, dedicated to Rafer a cool guy
 | Stormbringer | Marwec | 37915833 | 54 | When the storm comes, you should better be prepared...
 | Its Raining Men | Spa8 | 36436231 | 54 | AdvyStyles will make a 10 minute video of this level. 
-| Soulseas | EpiEpz | 35136617 | 54 | for baylyn (update: nerfed spider part thank me later)
+| Soulseas | epiphanui | 35136617 | 54 | for baylyn (update: nerfed spider part thank me later)
 | Silence | Pawlogates | 34909889 | 54 | Thanks for playing <3 Hope you enjoy this fun level :)
 | twist | nasgubb | 29994261 | 54 | almost abandoned this one but here you go, pass 235689
 | Whisp | Ploid | 54437365 | 53 | Dedicated to iSparki and Ethrakk for the support ! <3
@@ -1316,7 +1318,7 @@
 | Solluna | AmorAltra | 43711117 | 27 | Day and night, Sun and moon
 | Main | Optical | 39812824 | 27 | Here comes Carl. Be afraid.
 | Melody of time | luis JR | 37571922 | 27 | Do something... bugfixed :)
-| Hush | EpiEpz | 34362654 | 27 | update: fixed 97%, enjoy :)
+| Hush | epiphanui | 34362654 | 27 | update: fixed 97%, enjoy :)
 | Strange Color | Jayuff | 49922653 | 26 | block design is for losers
 | Inside | Darwin | 49697813 | 26 | Used to be outside right ?
 | Voyage | DesTicY | 47768539 | 26 | wandering through space...
@@ -1327,7 +1329,7 @@
 | Shadow Rush | Tongii | 34279935 | 26 | new level, enjoy. whatever
 | Mystical Cloud | Piseto | 30167322 | 26 | "Mystical Cloud". Enjoy =)
 | The Hydragaryu | Manix648 | 29996879 | 26 | Update 2: Fixed Secret Way
-| alone | RaccGD | 50755297 | 25 | hey, it's been a while :)
+| alone | Censr | 50755297 | 25 | hey, it's been a while :)
 | Wonder | Unzor | 50471300 | 25 | Made in 4 days for fun xp
 | NeOn | Alex112300 | 48517578 | 25 | Hope you enjoy. :) 5-6*? 
 | What The F | Serponge | 41621791 | 25 | A very experimental level
@@ -1335,6 +1337,7 @@
 | Steam machine | N R G | 39964950 | 25 | Collab con Alfred PKness.
 | Fall | Olympic | 37193104 | 25 | Fall into the Darkness...
 | Division | Darwin | 33842108 | 25 | --\__/^___/-|-\___^\__/--
+| Reciprocity | Awzer  | 54866157 | 24 | Gamers rise up - DanZmeN
 | Somnambulist journey | Knots | 49681756 | 24 | a not so halloween level
 | Jakari | ithedarki | 48916085 | 24 | For mcr#5.LDM = day mode
 | BackWash  | PleoSlim RMD | 48617617 | 24 | My First SOLO lvl!!!!!! 
@@ -1480,7 +1483,7 @@
 | Isolation | haoN | 36529045 | 3 | ...
 | I Can Finally See | beptile | 35900924 | 3 | O.o
 | CalmLess | LeocreatorX | 35736229 | 3 | IOI
-| Trauma | EpiEpz | 33649897 | 3 | lol
+| Trauma | epiphanui | 33649897 | 3 | lol
 | Desolation | haoN | 30843730 | 3 | ...
 | Reminiscence | abdula | 48636960 | 2 | <3
 | The Reign Of Moira | Elisione | 46649388 | 2 | yo
