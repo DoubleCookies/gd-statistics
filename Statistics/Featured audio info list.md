@@ -1,4 +1,4 @@
-#### Total: 13108 levels
+#### Total: 13112 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -291,6 +291,7 @@
 | 745508 | ColBreakz | ColBreakz - HeartBeat | 10
 | 626745 | akopa | Warpspeed | 10
 | 655440 | ACXLE | Xenogenesis (cover by Austin C) | 10
+| 655656 | Exnotic | Spaze - Awakening | 10
 | 299472 | F-777 | Once More - F-777 | 10
 | 672293 | JoarZ | JoarZ - Red Roses (Original Mix) | 10
 | 557651 | CosmicDeejay | Salvation | 10
@@ -310,6 +311,7 @@
 | 710256 | Phyrnna | Hexennacht ~P~ | 10
 | 677479 | BoomKitty | Mantis Shrimp Showdown | 10
 | 681649 | ColBreakz | PUNYASO - Popcorn (ColBreakz Remix) | 10
+| 784087 | Xtrullor | Xtrullor - Samsara | 10
 | 804766 | ColBreakz | ColBreakz - 40.000 | 10
 | 677798 | garlagan | apopopop | 10
 | 567761 | smartpoetic | Zeldas Lullaby, Arranged | 10
@@ -332,7 +334,6 @@
 | 589874 | dexarson | Beast Mode | 9
 | 413893 | Vertlain | The last flight | 9
 | 696514 | Geoplex | Altitude | 9
-| 655656 | Exnotic | Spaze - Awakening | 9
 | 704843 | canonblade | Canonblade - Success | 9
 | 475468 | OpenLight | Perseverance [NG Cut] | 9
 | 434561 | Fantomenk | Bionic Belly Button | 9
@@ -357,7 +358,6 @@
 | 669255 | Namice | Moment of Truth | 9
 | 177772 | dj-Nate | {dj-N} Intercept 2 | 9
 | 624314 | Geoplex | Afterglow (ft Roy) | 9
-| 784087 | Xtrullor | Xtrullor - Samsara | 9
 | 743152 | lemons | Refraction | 9
 | 526126 | Xtrullor | Instant Reaction | 9
 | 730956 | csx42gaming | Detonate | 9
@@ -516,6 +516,7 @@
 | 613732 | BoomKitty | Stomping Ground | 7
 | 650660 | SKILLZmakeKILLZ | SmK - Virtual World | 7
 | 712181 | TheArdor | Atlantis | 7
+| 749061 | kylermannn | The Ascension | 7
 | 716365 | K-oztron | Alan Walker - Alone (Vyper Remix) | 7
 | 810618 | CreoMusic | Creo - Crystallize | 7
 | 311087 | Fantomenk | Tiny Tunes | 7
@@ -626,7 +627,6 @@
 | 707932 | Acid-Notation | Vulgarity | 6
 | 724318 | ColBreakz | Kirby Dubstep Remix | ColBreakz - Gourmet Race | 6
 | 757258 | Jumper | Jumper - Horizon | 6
-| 749061 | kylermannn | The Ascension | 6
 | 712328 | cloudfield | cloudfield - Start Again | 6
 | 646789 | Waterflame | -Sunwalker- | 6
 | 507560 | Waterflame | -BlastProcess- | 6
@@ -1387,6 +1387,7 @@
 | 322053 | Rukkus | ~NK~ Spaceman | 2
 | 707075 | hyperdemented | 322 | 2
 | 707077 | DJVI | Carnival | 2
+| 854531 | MaFFaKa | Phantom Sage — Holystone | 2
 | 604697 | Adhenoid | Hyper Bonus Stage | 2
 | 645661 | Xtrullor | X&HE - Soulstorm | 2
 | 551445 | TBM | College Days | 2
@@ -2319,7 +2320,6 @@
 | 793091 | DMDOKURO | Scourge of The Universe | 1
 | 489994 | DarkmasterX | Orchestral Touhou 1 | 1
 | 698885 | EtzerGD | ParagonX9 - Chaoz Fantasy [Dubstep RMX] | 1
-| 854531 | MaFFaKa | Phantom Sage — Holystone | 1
 | 727580 | Djjaner | RobTop on the Dancefloor | 1
 | 838162 | teminiteofficial | Teminite - Crushing on You (feat. Georgia Denham) | 1
 | 563756 | dj-Jo | Mousouâ™¥Express RmX OffV | 1

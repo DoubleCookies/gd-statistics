@@ -107,6 +107,7 @@ DavJT | 4
 Nightlex | 4
 Regulus24 | 4
 jacr360 | 4
+Nexender | 4
 Dudex | 4
 TheRealDorami | 4
 Erdyuri | 4
@@ -158,7 +159,6 @@ BlUhOl | 3
 Spectex | 3
 AeroStorm | 3
 Manteex | 3
-Nexender | 3
 beptile | 3
 LKH2001 | 3
 iZinaD4sh | 3

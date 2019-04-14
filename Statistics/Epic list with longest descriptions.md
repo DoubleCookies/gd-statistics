@@ -1,4 +1,4 @@
-#### Total: 1516 levels
+#### Total: 1517 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -54,6 +54,7 @@
 | Toxin Lab IV | Xaro | 29917082 | 140 | Here it is, Toxin Lab IV. I dedicate this Toxin Lab to Loserchik67 for motivating me to not cancel the lab series. Enjoy and try to survive.
 | FREEDOM | QuitedGD | 29247995 | 140 | Amazing Megacollab with Nuclear Nacho , SlovaHands , 11 Made in 2.0 Hope you Enjoy  GD Heroes Work ,  Thank you Rubrub for The Epic So Much!
 | legend  | HadiGD | 28943996 | 140 | A collab between gibbon765, optical, izinad4sh, g4lvatron, thomartin, stubbypinata, funnygame and me! Thx to starship, zhander and neogamer.
+| Electron | BranSilver | 54922618 | 139 | For those complaining - I made this in 3 days as part of a challenge, I am happy it got rated but I dont agree with epic or first place ;-;
 | Powerade | Pechuga20 | 54451001 | 139 | Epic Collab With my friends,I Hope To Enjoy This Level By: Pechuga20 (me),ZecretDash,Lixars,Fletzer and Lorena GD. Dedicated to: DavJT   <3
 | Halcyon | CastriX | 54342252 | 139 | After 1 year this is finally out. I lost some creators from my CC3, but I got new ones. Here's another collab with awesome creators, enjoy.
 | We Are Shapes | Real48NogZ | 52999065 | 139 | This was meant to be a serious level at first but i started spamming clubstep monsters and... yeah. Inspired by Minity and DavJT, enojoy :D
@@ -299,7 +300,6 @@
 | Hostile Apocalypse | shaggy23 | 40463389 | 123 | After 5 months, my best megacollab is out! Will you survive? 8) Video on my YT Channel. EASY DEMON! Thanks for epic Rub! :)
 | Fluctuation | schady | 32916053 | 123 | I'm really proud of this one, I think its my best work :) Sequel to Vibration, and a Viprin CC8 entry. - Verified by Lemons
 | Solitude | ILRELL | 32559622 | 123 | Just a chill level (kinda laggy tho) | 28K Objects | Pass: !@$%&* | Dedicated to cloudfield | Update: removed random object
-| Electron | BranSilver | 54922618 | 122 | Made for 10 levels in a week challenge I did with DanZmeN! Ok so it got first place O: I literally made this in 3 days ish
 | My Love | AutoNick | 52679354 | 122 | Level for Valentines day. I hope you enjoy. Inspired by Jayuff, because I think his style fits this topic the most. Enjoy.
 | Boss V Devourers | Xender Game | 52637454 | 122 | You are still alive because I allowed it... You will be Destroyed today because I demand it. (My hardest Bossfight! Enjoy)
 | Quantum Rush | AutoNick | 52478373 | 122 | xPix3lest didn't want to finish this, so I did. :) I hope you like this and big thanks to Pix for letting me finish it! <3
@@ -1335,6 +1335,7 @@
 | Shadow Rush | Tongii | 34279935 | 26 | new level, enjoy. whatever
 | Mystical Cloud | Piseto | 30167322 | 26 | "Mystical Cloud". Enjoy =)
 | The Hydragaryu | Manix648 | 29996879 | 26 | Update 2: Fixed Secret Way
+| Ascension | Nexender | 54706824 | 25 | Dedicated to: SirHadoken 
 | alone | Censr | 50755297 | 25 | hey, it's been a while :)
 | Wonder | Unzor | 50471300 | 25 | Made in 4 days for fun xp
 | NeOn | Alex112300 | 48517578 | 25 | Hope you enjoy. :) 5-6*? 

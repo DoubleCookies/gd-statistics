@@ -2,8 +2,8 @@
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Candescent | CastriX | 34749502 | 1217901 | 185233
-| IZnite | izhar | 32400752 | 2013934 | 330353
-| weird | OSIRIS GD | 51173274 | 379709 | 43828
-| Wishless | Pawlogates | 34224737 | 1126464 | 166816
-|  TIA | BryanC2 | 54664621 | 130267 | 13216
+| Candescent | CastriX | 34749502 | 1218849 | 185300
+| IZnite | izhar | 32400752 | 2015719 | 330496
+| weird | OSIRIS GD | 51173274 | 380596 | 43886
+| Wishless | Pawlogates | 34224737 | 1127271 | 166888
+|  TIA | BryanC2 | 54664621 | 133353 | 13473
