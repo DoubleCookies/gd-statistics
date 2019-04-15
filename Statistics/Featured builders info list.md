@@ -349,6 +349,7 @@ Star117 | 9
 AlexS2003 | 9
 Nottus | 9
 Snarlax523 | 9
+Anubis GD | 9
 TheRM22 | 9
 stardust1971 | 9
 Filaret | 9
@@ -406,7 +407,6 @@ Nightlex | 8
 Pasiblitz | 8
 willy5000 | 8
 SpKale | 8
-Anubis GD | 8
 LaZye | 8
 Alfred PKNess | 8
 Jo2000 | 8
@@ -841,7 +841,6 @@ TrigoniX01 | 4
 Rustle | 4
 Shemo | 4
 VoltJolt | 4
-HarperJP | 4
 Xatz | 4
 Fletzer | 4
 SoulzGaming | 4
@@ -883,6 +882,7 @@ Igno | 4
 iIiRulasiIi | 4
 gwbocajuniors | 4
 TheFakeLogik | 4
+NeoSweet | 4
 Small | 3
 zaRIKU | 3
 CrisPy Dash | 3
@@ -1504,7 +1504,6 @@ D3aThBR1ng3r | 1
 durianhead | 1
 ToToo | 1
 Jasperr | 1
-KawaiiAkito | 1
 Vird | 1
 timeless real | 1
 ErisethSP | 1
@@ -1793,7 +1792,6 @@ KJackpot | 1
 GGPotassium | 1
 deadlockez | 1
 Rexla | 1
-xBubblegirl | 1
 Green Dragon | 1
 superdahl | 1
 RcR777 | 1
@@ -2220,7 +2218,6 @@ FlowerAce | 1
 Verognee | 1
 LaserSword33 | 1
 reytrix011 | 1
-Azertiop | 1
 OssyTheDragon | 1
 DnkGD | 1
 Fariszk7 | 1
@@ -2377,6 +2374,7 @@ Shadecat | 1
 visuallydynamic | 1
 Skeaten | 1
 capaxl | 1
+Niivii | 1
  Alessandro | 1
 ElMake | 1
 Larvogold | 1
@@ -2531,6 +2529,7 @@ Reminant | 1
 DangerZ | 1
 ZapZed36 | 1
 Flups | 1
+Gusumael | 1
 LouisPF494 | 1
 Nosef | 1
 JimJunTae | 1
@@ -2589,6 +2588,7 @@ bassiegames | 1
 Hexhammer | 1
 iBurger | 1
 iIiEupeNoxiIi | 1
+Elsieva | 1
 AddBadx | 1
 dasher | 1
 Jindotgae | 1

@@ -1,4 +1,4 @@
-#### Total: 1517 levels
+#### Total: 1518 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -518,6 +518,7 @@
 | 342542 | Fantomenk | Untitled chipsounds | 1
 | 682504 | Waterflame | -Arcade Punk- | 1
 | 489994 | DarkmasterX | Orchestral Touhou 1 | 1
+| 854531 | MaFFaKa | Phantom Sage — Holystone | 1
 | 852510 | DerpCatOfficial | Derpcat - Hypocrisy | 1
 | 645661 | Xtrullor | X&HE - Soulstorm | 1
 | 760364 | Zelgeon | [Glitch Hop] HEY! (Original Mix) [Reborn EP] | 1
