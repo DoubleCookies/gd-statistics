@@ -1,4 +1,4 @@
-#### Total: 1518 levels
+#### Total: 1520 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -37,6 +37,7 @@
 | 739220 | BoomKitty | - Cord Cutter - | 5
 | 700355 | hinkik | Skystrike | 5
 | 704606 | bossfightofficial | Bossfight - Elevatia | 4
+| 561277 | Lockyn | Lockout | 4
 | 706696 | hyperdemented | Summit | 4
 | 696528 | Lockyn | Volt | 4
 | 516336 | Envy | EnV - Pneumatic Tokyo | 4
@@ -80,7 +81,6 @@
 | 745508 | ColBreakz | ColBreakz - HeartBeat | 3
 | 680014 | garlagan | agoodgoodbye | 3
 | 696419 | Miyolophone | Holy Knight (MYP RmX) | 3
-| 561277 | Lockyn | Lockout | 3
 | 614535 | dexarson | [ Electro ] Frontlines | 3
 | 559276 | Waterflame | -StreetWise- | 3
 | 768163 | 1f1n1ty | Ivory Dance | 3
@@ -445,6 +445,7 @@
 | 645415 | DJStriden | Level Three [Melodic Electro] | 1
 | 758065 | Xtrullor | Xtrullor & HeliXiX - The One Who Flies | 1
 | 473413 | F-777 | F-777 - Viper (Full) | 1
+| 825680 | HyipThread | evil synthesize (REMASTER) | 1
 | 598349 | Waterflame | -Final Battle- | 1
 | 751951 | Geoplex | Geoplex - Drift | 1
 | 811338 | Namice | Seashore | 1

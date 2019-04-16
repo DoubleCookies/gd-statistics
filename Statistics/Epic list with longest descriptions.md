@@ -1,8 +1,9 @@
-#### Total: 1518 levels
+#### Total: 1520 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
 | Sensual Dance | DepisH16 | 51053748 | 147 | A new level in terms of hell arena. Briefly, the last part seems to me very bad, because of this boss and his complex animations, but still like :v
+| Fresh Start | DreamTide | 54719067 | 140 | I have returned.. for who knows how many times. My new journey has begun and starting off with improving my creating skills. Made in 4 days.
 | bzbzbzbz | xenoteric | 54601784 | 140 | made in 6 hours for gwmc #10: make a level with only 3 colours visible on the screen at any given time. copy paste as hell but hope you like
 | Astray | Suixam | 54503216 | 140 | Started this right when the song was announced, and it took about 3 weeks. Without a doubt my best level in terms of visuals and gameplay ;)
 | Loudness Zone | ItzMezzo | 52671583 | 140 | Casual level made in about two weeks ! Had a lot of fun while building it ! Not my best, but I still think it didn't turn that bad. Enjoy :D
@@ -821,6 +822,7 @@
 | Thought Process II | WolfenGD | 35455451 | 82 | really makes you think. (thanks to The Dolphiner for making me the thinking emoji)
 | RAPID | Berkoo | 31927876 | 82 | Collab with Torch121, please check him out! Thanks for epic 1st place and daily :O
 | Lucidum | f3lixsram | 31420516 | 82 | A cool easy demon collab with ragnarok96 ! Pass and video on my youtube channel :3
+| Evil synthesize | Darwin | 55035113 | 81 | One of my biggest projects, Inspired and dedicated to Goose! ldm added, Have fun!
 | Epic Drive | ithedarki | 51164415 | 81 | A new level! Trying something new again) [Follow me to play my new levels first!]
 | Dusty Factory | Nico99 | 46878013 | 81 | New level with new animated pixel arts! Video and coin on my yt channel. Enjoy!!!
 | excessive | alkali | 44721808 | 81 | No need to worry about speed boosts in this one! Unique layout by Shig, gl hf! :D
