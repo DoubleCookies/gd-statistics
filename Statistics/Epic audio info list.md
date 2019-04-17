@@ -1,4 +1,4 @@
-#### Total: 1520 levels
+#### Total: 1523 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -302,6 +302,7 @@
 | 349627 | shadow6nothing9 | Quiet Slumber | 2
 | 474579 | Spiriax | Japanology | 2
 | 662995 | Jumper | Jumper - Stone Guardian | 2
+| 622036 | Lockyn | Sabrepulse Horizons Remix | 2
 | 689624 | Argofox | DOCTOR VOX - Level Up [Argofox] | 2
 | 720362 | MafiaPineapple | Snowfall | 2
 | 402928 | Fionnhodgson |  110227 - Back of the Bus | 2
@@ -710,6 +711,7 @@
 | 834826 | Sharks | Sharks - Light | 1
 | 847116 | CreoMusic | Creo - Place On Fire | 1
 | 716046 | Blackhole12 | Starstruck | 1
+| 818439 | alexizgd | ALESDA! - Time Stops | 1
 | 607493 | MafiaPineapple | The Force | 1
 | 742681 | CreoMusic | Creo - Ahead Of The Curve | 1
 | 761119 | AikaMusic | Rise Above [Dubstep] | 1
@@ -761,7 +763,6 @@
 | 808406 | Geoplex | Geoplex - Affinity | 1
 | 839126 | jjoon | Oh Ee Ah | 1
 | 763346 | DjHoneyb | Jacques Melissa - Tarnished imagination | 1
-| 622036 | Lockyn | Sabrepulse Horizons Remix | 1
 | 591319 | garlagan | Skyless | 1
 | 589289 | dexarson | [ Payload ] | 1
 | 759290 | alexizgd | ALESDA! - STMS Nation | 1
@@ -857,6 +858,7 @@
 | 733007 | DJVI | Like An Animal | 1
 | 315202 | Fantomenk | The massacre (chipsounds) | 1
 | 649039 | Xtrullor | NK - Nine Circles (Xtrullor Remix) | 1
+| 835420 | DrPhonics | Dr. Phonics - Whiplash | 1
 | 87895 | cornandbeans | {Rose} Remastered | 1
 | 659283 | lchavasse | ~:Spinning Galaxies:~ | 1
 | 544595 | EliteFerrex | 8-bit Inferno | 1

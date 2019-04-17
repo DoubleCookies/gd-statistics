@@ -21,13 +21,13 @@ NationGGT | 12
 Wixers | 12
 SirHadoken | 12
 Thomartin | 12
+MrKoolTrix | 11
 rafer | 11
 GD Jose | 11
 BranSilver | 11
 LeocreatorX | 11
 Usermatt18 | 11
 Piseto | 11
-MrKoolTrix | 10
 Berkoo | 10
 ViPriN | 10
 Pipenashho | 9
@@ -80,6 +80,7 @@ Filaret | 5
 M3nhHu3 | 5
 OptaWolfGD | 5
 RadiationV2 | 5
+victorinoxX | 5
 RyanAB | 5
 Fault | 5
 AbstractDark | 5
@@ -99,12 +100,12 @@ Luxew | 4
 DanielDlc | 4
 stubbypinata | 4
 epiphanui | 4
-victorinoxX | 4
 neigefeu | 4
 DeniPol | 4
 LeX97 | 4
 DavJT | 4
 Nightlex | 4
+Spoby | 4
 Regulus24 | 4
 jacr360 | 4
 Nexender | 4
@@ -147,7 +148,6 @@ King Woofy | 3
 Zoroa GD | 3
 FastRefleksX | 3
 Rustam | 3
-Spoby | 3
 Xylph | 3
 xXLOCOXx | 3
 FlacoGD | 3
