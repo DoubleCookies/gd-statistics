@@ -1,4 +1,4 @@
-#### Total: 1523 levels
+#### Total: 1527 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -110,6 +110,7 @@
 | Esencia | Pipenashho | 32572526 | 138 | It is an honor to bring this level.. an incredible collab with Thomartin! I hope you enjoy it, thanks for all GD! Verified by xQuadrant ;)
 | Infinitesimal | jacr360 | 29588785 | 138 | Lvl Reuopload,Great Collab With Sakana,I Think that We Did a Great Job,"Time Is Moving",30 K Obj,Dedicated for Special Peoples For Me!! :3
 | Massacre | Peton | 25717451 | 138 | I build this on twitch! (PetonGD) follow for more! Dedicated to 2 nice and good creators Alkali and Usermatt18! Enjoy! FIRST PLACE!!!!!!!!
+| Sunday | ISparkI | 55084996 | 137 | My very first attempt at modern design! Don't expect any originality tho, i'm only getting used to this new style. Enjoy :3 For Optawolf.
 | Silverize | Agils | 52755435 | 137 | Sequel of Goldize, for the little time I have I have done it quite repetitive, I hope it does not bother you, enjoy! Outro by ZecretDash!
 | The Death Moon | Akame GD | 50563448 | 137 | Alternative version of Death Moon!, the whole concept and decoration is made by N R G, and I made the layout. (For mobile users uses LDM)
 | Geometrical Beats | KittyDoge | 47469402 | 137 | This is my first level in style mini-games. Enjoy! Have fun ;v (Made according to exisiting game JS&B) - Global Fix Update (8K obj - eco)
@@ -139,7 +140,6 @@
 | Defiance | Jaasim | 29430891 | 136 | Are You Ready To Defy Laws? Come Back When You Are, If Not, I Have A Seat Ready For You... >:) [Rate 10*] [Epic?] video on my youtube <3
 | Tech Run | Lugunium | 20029588 | 136 | This would have been my first 2.0 level, I decided to finish it, so the design isn't great but at least there's some kind of gameplay x)
 | Simple Flare | Zoroa GD | 54412848 | 135 | "Sometimes the simplest of things can show so little, but mean so much..." [Simple gameplay, intense drop] (3rd failed Easy 2 star -_-)
-| Count to Ten | Zoroa GD | 51946111 | 135 | Can you count from 1-10(0)%? <Idea dump level> | Thanks to DavJT for letting me finish this >w< | Enjoy :) [1st place Feature page! :D]
 | Hyperyard | Alex1304 | 48227651 | 135 | 1 year old project that I finally had motivation to finish. Design is a bit outdated but it's probably the best gameplay I ever made :)
 | NeGai | Glaid | 47526912 | 135 | Another XL with the most beatiful song of Garlagan <3 enjoy it guys ^^ And thanks for all the support :) For JonathanGD CC... Again! :D
 | The Last | TrueAzt3k | 46020618 | 135 | Can you escape?... My best level that I have done, thanks to all the people who supported me from the beginning, I hope you enjoy it =)
@@ -168,6 +168,7 @@
 | Surge | JacobROso | 33202713 | 134 | An extremely quick and simple level. Much more is to come in the future so you'll have to bear with me. Video and pass on YT, enjoy :P
 | Success | Dudex | 29181506 | 134 | My first 2.1 level! It took a bit longer than expected and didn't turn out too great, but i hope you will enjoy it! :D >fixed 2.11 bug
 | Vaporwave | Shutter | 52178550 | 133 | collab with suixam check him out he deserves more attention WARNING this is not vaporwave aesthetic i thought it was just a cool name
+| Count to Ten | Zoroa GD | 51946111 | 133 | Can you count from 1-10(0)%? <Idea dump level> | Thanks to DavJT for letting me finish this >w< | Enjoy :) [1st place for 3 weeks :D]
 | Factor | Wiktord1 | 51571401 | 133 | To end off the trainwreck of a year that was 2018 i actually finished a level. Is that a good or bad thing? I don't know. You decide.
 | Voices | ItzMezzo | 49408193 | 133 | My best demon yet ! Decided to put a lot of time into it, trying out some new stuff! Hard demon? Dedicated to Yakimaru. For Enlex CC3
 | Mr Extinction | RoiMousti | 48517555 | 133 | finally made a new best level, i hope you guys will enjoy it as much as i do. also happy birthday to me :tada: :kiss: :joy: :ok_hand:
@@ -303,6 +304,7 @@
 | Hostile Apocalypse | shaggy23 | 40463389 | 123 | After 5 months, my best megacollab is out! Will you survive? 8) Video on my YT Channel. EASY DEMON! Thanks for epic Rub! :)
 | Fluctuation | schady | 32916053 | 123 | I'm really proud of this one, I think its my best work :) Sequel to Vibration, and a Viprin CC8 entry. - Verified by Lemons
 | Solitude | ILRELL | 32559622 | 123 | Just a chill level (kinda laggy tho) | 28K Objects | Pass: !@$%&* | Dedicated to cloudfield | Update: removed random object
+| Welder | Desumari | 55002852 | 122 | My first demon collab by me, chin3x, uneskladovae, victorinoxX & crouley. Layout by creerghost. Good luck. It will be hot!
 | My Love | AutoNick | 52679354 | 122 | Level for Valentines day. I hope you enjoy. Inspired by Jayuff, because I think his style fits this topic the most. Enjoy.
 | Boss V Devourers | Xender Game | 52637454 | 122 | You are still alive because I allowed it... You will be Destroyed today because I demand it. (My hardest Bossfight! Enjoy)
 | Quantum Rush | AutoNick | 52478373 | 122 | xPix3lest didn't want to finish this, so I did. :) I hope you like this and big thanks to Pix for letting me finish it! <3
@@ -1293,6 +1295,7 @@
 | Goodbye II | Freyda | 45088185 | 32 | "Timing is love, timing is life"
 | Wake Up | mulpan | 29096428 | 32 | First 2.1 Level :P / Pass - oooo
 | SimPle JumP 2 | izhar | 28087089 | 32 | Can you get the 3 coins? Ha ha..
+| Dive | X trailz | 55085385 | 31 | Turtles will dominate the world
 | Inseparable | Ballii | 46755826 | 31 | Inspired by Erdyuri, for suzume
 | Xenomorphosis | goose | 44686830 | 31 | 1 year later......my best level
 | Orbitwolf | WerewolfGD | 41178950 | 31 | Breath....... Enjoy and rate 7*
@@ -1471,6 +1474,7 @@
 | Fun | Jayuff | 47849218 | 7 | omg yes
 | HeartBang | Cloud72 | 35588255 | 7 | Mogurii
 | covfefe | Kips | 34462031 | 7 | covfefe
+| Mysteria | DangerKat | 55045590 | 6 | Hehe!!
 | cryst | Fonter | 49369521 | 6 | collab
 | TECHnos II | stubbypinata | 47214600 | 6 | Gahah!
 | Subtorrid | Ballii | 40751958 | 6 | uh huh

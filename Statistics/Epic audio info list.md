@@ -1,4 +1,4 @@
-#### Total: 1523 levels
+#### Total: 1527 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -487,6 +487,7 @@
 | 727487 | Xtrullor | Xtrullor - Fluorescent Forests (feat. Albert HyrÃ¶nen) | 1
 | 735679 | ToneCrush | Apollo - Cosmic Brownie | 1
 | 827836 | teminiteofficial | Teminite - A New Dawn | 1
+| 639410 | PompYin | A Day On The Sun | 1
 | 729524 | punyasotunes | PUNYASO - Konohas Kid (Naruto Tribute) | 1
 | 520640 | 9Wave | Kortex Kasm | 1
 | 676280 | BurgeraX | BurgeraX: Radiate Remake (Panda Eyes) [Dubstep] | 1
@@ -530,6 +531,7 @@
 | 674353 | MafiaPineapple | Dystopia [3k EP] | 1
 | 733751 | meganeko | Bossfight - Elevatia (meganeko Remix) | 1
 | 791092 | MacMelto | Circus | 1
+| 836173 | Vhsdaii | Vhsdaii x SaoH - Reminisce | 1
 | 447046 | Waterflame | -The Shredder- | 1
 | 727629 | dexarson | Dex Arson - Bipolar | 1
 | 569938 | Xtrullor | Rip it | 1
@@ -626,6 +628,7 @@
 | 682970 | Waterflame | -Arcade Punk- (No vocal) | 1
 | 738258 | KaixoMusic | Orogenesis (Original Mix) | 1
 | 742353 | DetiousMusic | Detious - Lucidus | 1
+| 801752 | KaixoMusic | Rift Race (Original Mix) | 1
 | 451550 | Acid-Notation | ---U So Mad--- | 1
 | 695256 | Envy | EnV - Anubis | 1
 | 654295 | FillipsMen | New Dimensions | 1
@@ -683,6 +686,7 @@
 | 498830 | Envy | EnV - FireFrost | 1
 | 676993 | viewtifulday | Ember Island - Need You (vd Rmx) | 1
 | 832648 | paperskies | Paper Skies - Comet (Ft. Slyleaf) | 1
+| 857218 | alexizgd | ALESDA! - The Reason | 1
 | 486539 | Xtrullor | Disordered worlds | 1
 | 781445 | steampianist | Ugly Fuel OFF VOCAL | 1
 | 517270 | Stratales | Polarity | 1
