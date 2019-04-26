@@ -1,4 +1,4 @@
-#### Total: 1534 levels
+#### Total: 1537 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -174,7 +174,6 @@
 | Mr Extinction | RoiMousti | 48517555 | 133 | finally made a new best level, i hope you guys will enjoy it as much as i do. also happy birthday to me :tada: :kiss: :joy: :ok_hand:
 | Tho | iISpaceDustIi | 48195843 | 133 | Dedicated to BlueMo0n, Ellisha, Shakko, XStar7, DiamondGirl01, Erdyuri, Byton, DeCody, MarArm, Ezeon, Serponge, Jayuff & Nasgubb. :=(
 | Citadel of the Skies | ML500 | 47109037 | 133 | The first of a Story Series, the voyage through the floating wonder in the horizon - Entry for Viprin's CC9 - Update: Fixed few Bugs.
-| Heat Wave | Nico99 | 45818014 | 133 | Megacollab Hosted by HadiGD, Big thanks to him! Members: Goose, EnZore, NightXStalker, Nico99, MrLorenzo, SSRav3n. Verified by Dorami
 | Lemuria | Arysta | 44305290 | 133 | This is an adaptation of Magical; made by Skitten. Hope you like this one... More projects like this are IP. 5x Better; no doubt tbh.
 | Vitality ii | Drob3 | 44047205 | 133 | Thanks for playing! Dedicated to my best friend Alexthegood! Thanks my first epic robtop and mod! guys helping my others lvls plis!<3
 | El Cantina | AirForce | 43976988 | 133 | I started this level this summer, finally decided to finish it :) Nigh7fury helped me out by building a few parts, go check him out !
@@ -238,6 +237,7 @@
 | Magic Motion | ByBoy 11 | 50865104 | 128 | Existing perfect times, either with friends or in solitude. Those pleasant and magical moments must be remembered with the soul.
 | Just Kidding | DangerKat | 48493005 | 128 | finally new level solo <3 dedicated for my friends <3 Team Watermelon and  pacific Team :)  Inspirated in Erdyuri And Darwin ;3;
 | Havoc | EpicMasta11 | 48066350 | 128 | So here is another one of my weird solo levels. I have no idea if I'm improving or getting worse at creating. Anyways, enjoy! :3
+| Heat Wave | Nico99 | 45818014 | 128 | Megacollab Hosted by HadiGD, Big thanks to him! Also if you are going to upload this on yt, be sure to add his name in the title
 | Tritanopia Pulse | Cthulu | 45803164 | 128 | From the depths of your screen radiates a strange light that emits an aura of joy. No, please, don't fall into its trap again...
 | Vitah | SaabS | 42881112 | 128 | Hope you enjoy! :) For Mazl's gameplay CC! Be sure to practice first ;) Update: Fixed SW and deleted some annoying memorization.
 | ShiFt | motleyorc | 35628576 | 128 | My first solo in ages, this level was REALLY old but decided to dust it off. This is pure, unthemed Motleyorc style. Easy demon?
@@ -378,6 +378,7 @@
 | The Colossus II | Manix648 | 35669648 | 117 | Sequel to The Colossus. Third level in the "Universal Redemption" series. Defeat Malus once and for all! [bugs fixed]
 | Beepster | Mazl | 35051517 | 117 | My new cool level 8) I never used that many triggers in any level before, same for object amount ^^ Have fun with it!
 | Vitality | epiphanui | 33545237 | 117 | An awesome collab with PerkyPenguin, La7i, and Beptile! Make sure to check them out and enjoy this simplistic collab.
+| Hypnotic Trance | SonOfCthulu | 54983038 | 116 | I really like how this turned out. Dedicated to all my friends. Special thanks to Cthulu. For SaabS and Morce CC. :)
 | New Level | Jezzel | 54531406 | 116 | Well after a long time I uploaded a new level x) I made final parts so fast xD maybe are ugly but I hope you like it
 | Digitize | Waffl3X | 52094892 | 116 | Tried to express myself in this level. This is also the last of the -ize trilogy. Layout by Akinari. Hope you enjoy!
 | Red Belly | DanZmeN | 50554435 | 116 | After four failed attempts, the two aussies finally finished a collab :D  ||   Enjoy this Lemons/DanZmeN masterpiece
@@ -499,6 +500,7 @@
 | ClariuX | BlUhOl | 35935907 | 109 | Finally after 3 months :D,Try hard to make this level,THX FOR EPIC ROB,Vid on my yt,Check my new level Faith!
 | Mach 1 | Fault | 34393752 | 109 | I love this level, so I hope you enjoy it. I went for a 5 star but... eh. For AmorAltra's CC1! FIRST EPIC GG!
 | Encryptic | Vrymer | 32069232 | 109 | 8) Enjoy... Pass on my YT, OMG THANK YOU SO MUCH FOR MY FIRST EPIC & DAILY :O Please go play my new level :')
+| Sleep | Nevec | 55015955 | 108 | I tried to quit this game 1 millon times, but it has something special that makes me stay ~ (Practice First)
 | Summers Nigth | DanielDlc | 48029120 | 108 | My best design? Finally enjoy it, Thanks to all for supporting me :'D! The password will be on my YT channel
 | ElecMech | distortt | 47783815 | 108 | simple tech styled level [excuse the empty beginning; it gets better] dedicated to elisione, my biggest fan*
 | HeatniX | The Bread | 44930935 | 108 | Probably my best level. I hope you like it and enjoy it.Dedicated to my friends.Sorry for bad transitions :/
@@ -701,7 +703,6 @@
 | Seismic Toss | Berkoo | 31198704 | 92 | Have fun with this colorful and intense level. '-')/ Thanks for epic and daily once again <3
 | TOE III | Manix648 | 29443338 | 92 | Third and non-official installment in the TOE series. For Viprin CC #8. EPIC? thinking emoji
 | Monsterfest | rafer | 29074072 | 92 | My first 2.1 level! Just a experimental demon so my next levels will be better! Pass: 310117
-| Sleep | Nevec | 55015955 | 91 | I tried to quit this game 1 millon times, but it has something special that makes me stay ~
 | EXIT | Knots | 47662601 | 91 | sry if the gameplay sucks, i made the layout like 5 months ago. i also built this on mobile
 | Flares  | Filaret | 47381374 | 91 | This really hard make level with one color) Special thanks: Reunomi, Maku, Renodex. For cc9
 | Abandoned Future | Pipenashho | 44869640 | 91 | 1kah grups id /IM BACK BOYS/ sorry for not good design at last's parts. !ENJOY THE REST! <3
@@ -1074,6 +1075,7 @@
 | Dream Realm | Torch121 | 35129636 | 58 | Thanks for playing :)        (Added LDM & Fixed some bugs)
 | Proximity | Lemons | 34185865 | 58 | Terrible old 2.0 level + Bug fix/ 2.1 visuals / LDM update
 | Inception | Darwin | 29862626 | 58 | New HARD map,  hope you enjoy it <3 Verified by NoctaFly !
+| Serponge Look At Me | iISpaceDustIi | 55037478 | 57 | Pretty minimalistic. Rate 2* plaes... (notice me Serpai~)
 | Hitori | DHaner | 50684328 | 57 | Trying new stuff! Who said that easy levels are bored? :)
 | Happier  | MarioLTE | 45301723 | 57 | Collab with my Great friend Luis JR I hope and like it <3
 | Nelly | Filaret | 43744687 | 57 | Dedicated to an Awesome creator: Darwin. Layout By Kentik
@@ -1402,6 +1404,7 @@
 | Haunted Level | MrZiedZ | 42339959 | 21 | -Haunted Description-
 | Skyfall | abdula | 34446044 | 21 | Hope You Enjoy   <3  
 | Electr2nic Super Joy | Etzer | 28503954 | 21 | oh boy, that was fun.
+| DownTheDrain | VesiMeloN | 55131643 | 20 | Optional description
 | Relax | Nexender | 54735227 | 20 | Dedicated to: Decody
 | Mojito | Noweek | 44567922 | 20 | dance till your dead
 | Mixed Signals | SirHadoken | 43875571 | 20 | Kzmyjivhz, Jgqdyzhz.

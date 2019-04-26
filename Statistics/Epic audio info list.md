@@ -1,4 +1,4 @@
-#### Total: 1534 levels
+#### Total: 1537 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -169,6 +169,7 @@
 | -11 | Waterflame | Clutterfunk | 2
 | -20 | F-777 | Deadlocked | 2
 | 700441 | Lockyn | EEK! + Lockyn - Glacier Galaxy | 2
+| 579626 | Elephly | Bash | 2
 | 626745 | akopa | Warpspeed | 2
 | 477238 | Blackhole12 | ~BH~ Cosminox | 2
 | 714824 | djhoohaa | Untitled Six | 2
@@ -252,6 +253,7 @@
 | 732008 | hyperdemented | Creo - Challenger | 2
 | 580456 | DeadRewind | Detious - Serenade | 2
 | 760696 | NoVAmusicofficial | NoVA - Breathe [Tropical House] | 2
+| 844658 | CreoMusic | Creo - Aura | 2
 | 781195 | MrKoolTrix | Rockin That Bass | 2
 | 529291 | Acid-Notation | ---Fury--- | 2
 | 732047 | MegaSphere | Emphatic Outcry CUT | 2
@@ -372,6 +374,7 @@
 | 778252 | Infinityofficial | Where Did You Go (ft. SK¥E and Dan Levine) | 1
 | -3 | Step | Polargeist | 1
 | 677900 | LemKuuja | Keep On Baby! (w/ Kill Me Baby) | 1
+| 778255 | Ilrell | [Glitch-Hop?] Homestuck - Candles and Clockwork | Ilrell Remix | 1
 | 659469 | Cochu | Zedd - Beautiful Now (Cochu Remix) | 1
 | 538627 | Xtrullor | Attack | 1
 | -12 | DJ-Nate | Theory of Everything | 1
@@ -383,7 +386,6 @@
 | 559131 | Waterflame | -Snow!- | 1
 | 385048 | DavidOrr | -Orr- Soaring in the Stars | 1
 | 555026 | SKILLZmakeKILLZ | SmK - Reanimated | 1
-| 579626 | Elephly | Bash | 1
 | 792620 | dirtypawsofficial | DirtyPaws - ALIEN (Original Mix) | 1
 | 798764 | F-777 | F-777 - Dubstepah | 1
 | 639033 | MrKoolTrix | Times Sublime | 1
@@ -612,7 +614,6 @@
 | 793470 | MonvoiceT | Sacry - Strawberry Soda | 1
 | 469873 | Step | Sanctuary | 1
 | 779133 | dexarson | Fox Stevenson - MIss You ( Dex Arson Remix ) | 1
-| 844658 | CreoMusic | Creo - Aura | 1
 | 822154 | CrystalSirens | Rachel Costanzo - Comfortable (Crystal Sirens Remix) | 1
 | 693127 | xenith800 | Styx Helix [x800 remix] | 1
 | 818078 | Cametek | Quaoar | 1
