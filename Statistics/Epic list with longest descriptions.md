@@ -154,7 +154,6 @@
 | FeaRlesS | LeocreatorX | 32632867 | 135 | My best level on desing but the song its kinda weird but still good 8) (bugfixed if u have a bug u need practice) (me gusta el pene xd)
 | Splat | Torch121 | 32425762 | 135 | Collab with Shutter and Atonix - Check them out !! Hope You enjoy ;)  - You can disable the shakes in the Settings if it Bothers you ;)
 | Lanthanium | Fury0313 | 27990000 | 135 | Collab with FerdeFunky and Schady, first half was made around 2 months ago. Pass:148673 Reupload;  Krampux made layout in my first part
-| Into The Darkness | PoIsEn324 | 53640976 | 134 | Alright. This is my best work. Two Bossfights, my best effects, and a new design. Inspired by Xender Game. Dedicated to Elliptic4l ^>^
 | Boo | Whirl | 46803003 | 134 | The incessant giggling of those who've departed this world haunt you like a house... Do you dare to venture into their domain? For TCC
 | Tri | HollowEarth | 45125616 | 134 | A simple triangle-themed level, with different styles. LDM disables the death effect. For Master's Zone, MH, Optical and ElectroBlaze.
 | Picturesque | Hyenada | 42283812 | 134 | Haha I spent a while on this one; Dedicated to Optical for being an amazing creator and acting as a big source of inspiration to me :)
@@ -649,6 +648,7 @@
 | Debug | Fault | 34275766 | 96 | Awesome bossfight collab with RyanAB! For Manix, Edicts, & LazerBlitz's CC1, so get to the drop!
 | Concern | AyDiePay | 33835902 | 96 | Amazing collab with LimonchikReal, Emilu96 and Deron! Check their profiles, they are awesome! ^^
 | Nocturna | Pipenashho | 29103993 | 96 | Finally!, Maybe my new best Design level?.. Play with Particles for better experience.. Enjoy ;)
+| Into The Darkness | PoIsEn324 | 53640976 | 95 | 3rd level of the "Darkness" series. Thanks for the epic rating RobTop! Dedicated to Elliptic4l.
 | Chapstick | OptaWolfGD | 51959027 | 95 | Your lips are chappy. Have some chapstick. Collab with Zoroa Gd and Unzor. Hope you enjoy this.
 | Corollary | AleeIsMe | 49819566 | 95 | Here goes another #levelution level . . . . . um . . . . yeah. M I N I M A L I S M. Have fun :)
 | Step by Step | AlexS2003 | 48608142 | 95 | 3 weeks of hard work, 28k objects, more than 900 groups used. My masterpiece. Secret way fixed.
