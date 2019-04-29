@@ -44,6 +44,7 @@ RealZober | 8
 Skitten | 8
 MrLorenzo | 8
 N R G | 8
+luis JR | 8
 mulpan | 8
 Manix648 | 8
 Peton | 8
@@ -52,7 +53,6 @@ haoN | 7
 ithedarki | 7
 Xender Game | 7
 OSIRIS GD | 7
-luis JR | 7
 BadKlatt | 7
 PotatoBaby | 7
 Olympic | 6

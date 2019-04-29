@@ -113,13 +113,13 @@ Hinds | 21
 Manteex | 21
 Jerry Bronze V | 21
 abdula | 21
+Ballii | 21
 loogiah | 20
 Fillipsmen | 20
 Spa8 | 20
 Enlex | 20
 Piseto | 20
 distortt | 20
-Ballii | 20
 Awzer  | 20
 SUOMI | 19
 Quiken | 19
@@ -158,6 +158,7 @@ RadiationV2 | 16
 Ferdefunky | 16
 Zoomkil | 16
 BranSilver | 16
+luis JR | 16
 Toxic GD | 16
 Pennutoh | 16
 MemoRieD | 16
@@ -173,7 +174,6 @@ MalZir | 16
 Tongii | 15
 realkamijo | 15
 Roli GD  | 15
-luis JR | 15
 Jovc | 15
 EpicMasta11 | 15
 RoiMousti | 15
@@ -764,6 +764,7 @@ randodacamando | 4
 Sergeisonic95 | 4
 reflexmaster | 4
 TyphoonThunder | 4
+AmIXam | 4
 Mr chips | 4
 gibbon765 | 4
 Kinel | 4
@@ -917,7 +918,6 @@ yakine | 3
 superkirill | 3
 Goodbye GD | 3
 CookiZz | 3
-AmIXam | 3
 xstaticstorm | 3
 SaintORC | 3
 Bio21 | 3
@@ -1210,6 +1210,7 @@ Flex | 2
 JFZDash | 2
 Wataflash | 2
 Puffi65 | 2
+KatrieX | 2
 Viricent | 2
 CreatorRP | 2
 artimiel | 2
@@ -1425,7 +1426,6 @@ GDAntonio | 2
 Rezoku | 2
 xSkylighter | 2
 iIiViRuZiIi | 2
-CreatorKatrieX | 2
 H20ghost | 2
 TheTrueSanji | 2
 BlowMyPooh | 2
@@ -1671,7 +1671,6 @@ Iimiguel876iI | 1
 Zerbit | 1
 DigingZrony | 1
 RoJoDo | 1
-PissBasketArcri | 1
 SlashGH | 1
 Arthur | 1
 Tr0d3ll | 1
@@ -1733,7 +1732,6 @@ AlphARecords | 1
 dongchi | 1
 TheSquidLord | 1
 Grenate | 1
-Xhyle13 | 1
 Prxteen | 1
 piramidka | 1
 Attackofthetroy | 1
@@ -1852,6 +1850,7 @@ BlOwArS | 1
 Mononoke | 1
 IshikiI | 1
 TCRK | 1
+Rimuruu | 1
 Sonyx | 1
 GSD | 1
 wubzzy | 1
@@ -1910,6 +1909,7 @@ xander556 | 1
 Splash | 1
 TrueNachoPro | 1
 Decorus | 1
+Zephal11 | 1
 Mutty99 | 1
 DimaNelis | 1
 QuitedGD | 1
@@ -2057,7 +2057,6 @@ iDarkBy11 | 1
 DumpyUnicorn | 1
 Soam | 1
 Metronic | 1
-Flomby01 | 1
 Oskulicious | 1
 edc | 1
 Step4enko | 1
@@ -2098,6 +2097,7 @@ OrBiTaL | 1
 Masniec | 1
 Anonymous User | 1
 xMale | 1
+Arcri | 1
 W0lF3 | 1
 iCharoite | 1
 Caeden117 | 1
@@ -2196,6 +2196,7 @@ colebowl | 1
 Okuu | 1
 exxxtreme | 1
 IIIGH0STIII | 1
+GDClique | 1
 Frigidity | 1
 DesTiNy | 1
 Cris79X | 1
@@ -2219,6 +2220,7 @@ Judas | 1
 Root4jun | 1
 AncherStram | 1
 J i | 1
+xThiago | 1
 Ysshi | 1
 AngeloLP | 1
 unnn | 1
@@ -2261,7 +2263,6 @@ Sebbax | 1
 AuRuS | 1
 Relic686 | 1
 ozpectro | 1
-zVallence | 1
 Riseman | 1
 Lenov | 1
 BoldStep | 1
@@ -2398,7 +2399,6 @@ Niivii | 1
  Alessandro | 1
 ElMake | 1
 Larvogold | 1
-ThiagoRojasGD | 1
 Emilu96 | 1
 LaZerBeamer | 1
 Spookic | 1
@@ -2490,6 +2490,7 @@ DivinePotato | 1
 Nads | 1
 InDead | 1
 TGTomahawk09 | 1
+eltiopedo | 1
 LaxHDz | 1
 juanchacon99 | 1
 GmD SamUL | 1
@@ -2547,6 +2548,7 @@ zap101 | 1
 TeamGaruda | 1
 Reminant | 1
 DangerZ | 1
+Darkness c | 1
 ZapZed36 | 1
 Flups | 1
 Gusumael | 1

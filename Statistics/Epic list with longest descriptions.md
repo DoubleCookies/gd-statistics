@@ -1,4 +1,4 @@
-#### Total: 1537 levels
+#### Total: 1538 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -1249,6 +1249,7 @@
 | Messier 45 | Jayuff | 43409294 | 38 | very expirimental level. hope u enjoy!
 | Refresh | DesTicY | 38459797 | 38 | Well looks like I'm not dead... yet...
 | Cybernetic Showdown  | Tongii | 32243307 | 38 | 9% bug fixed - Verified by ChiefFlurry
+| Spirit | luis JR | 55215786 | 37 | made in 1 week, i hope you like it :)
 | Citadel | Regulus24 | 53820790 | 37 | My first solo level of 2019. Enjoy :)
 | Zagato | GiaMmiX | 52153801 | 37 | 1.9 inspired level, hope you enjoy :)
 | Wubner | Gachristian1 | 47982257 | 37 | Shooting from the hip. My first epic!
