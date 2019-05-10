@@ -17,9 +17,9 @@ SaabS | 15
 Optical | 14
 alkali | 13
 izhar | 13
-NationGGT | 12
 Wixers | 12
 SirHadoken | 12
+KALIPTO | 12
 Thomartin | 12
 MrKoolTrix | 11
 rafer | 11
@@ -99,6 +99,7 @@ Jghost217 | 5
 Tongii | 4
 Kips | 4
 ChiN3x | 4
+JustBasic | 4
 NukAnnguq | 4
 motleyorc | 4
 AceVict | 4
@@ -133,10 +134,10 @@ DepisH16 | 4
 Mazl | 4
 JerkRat | 4
 Codex | 4
+lioleo | 3
 ChaSe | 3
 ZecretDash | 3
 Steven Ksttle | 3
-JustBasic | 3
 1374 | 3
 lysk | 3
 ZeeToss | 3
@@ -147,6 +148,7 @@ Ethrakk | 3
 Zoomkil | 3
 King Woofy | 3
 Desumari | 3
+TroxxP1 | 3
 FastRefleksX | 3
 Rustam | 3
 Xylph | 3
@@ -162,6 +164,7 @@ AeroStorm | 3
 Manteex | 3
 beptile | 3
 LKH2001 | 3
+Vrymer | 3
 iZinaD4sh | 3
 JonathanGD | 3
 Anubis GD | 3
@@ -184,7 +187,6 @@ RoiMousti | 3
 ViP3r | 3
 Masterale | 3
 Nampac | 3
-lioleo | 2
 Knobbelboy | 2
 TrueAzt3k | 2
 Myo0 | 2
@@ -201,6 +203,7 @@ goose | 2
 Discordy | 2
 SrPotato | 2
 wulz | 2
+Lapis337 | 2
 Bronks | 2
 Pawlogates | 2
 Cubix06 | 2
@@ -214,7 +217,6 @@ Enceladus GD | 2
 Jaasim | 2
 Superopi | 2
 CookiesGirly | 2
-TroxxP1 | 2
 SRaVeNS | 2
 Marwec | 2
 Lixars | 2
@@ -242,7 +244,6 @@ neogamerGD | 2
 KeiAs | 2
 Echonox | 2
 HollowEarth | 2
-Vrymer | 2
 GDLoco | 2
 FozaeKitty | 2
 KFAOpitar | 2
@@ -256,7 +257,9 @@ Luminiion | 2
 shocksidian | 2
 ARLUNOJO | 2
 Xaro | 2
+BlueRimz | 2
 Hjk31d8da | 2
+Fletzer | 2
 Nibbler GD | 2
 Cthulu | 2
 ByBoy 11 | 2
@@ -316,7 +319,6 @@ greXxio | 1
 TinyGamer | 1
 HadiGD | 1
 TheTrueEclipse | 1
-Lapis337 | 1
 BitZel | 1
 DreamEater | 1
 Polli | 1
@@ -428,7 +430,6 @@ Whirl | 1
 8BitFudge | 1
 Terron | 1
 Fairfax | 1
-BlueRimz | 1
 TheRM22 | 1
 MikyFC | 1
 Zafkiel7 | 1
@@ -448,7 +449,6 @@ Oskreix | 1
 BaconPotato | 1
 F5night | 1
 Gravitype | 1
-Fletzer | 1
 Etzer | 1
 grebe | 1
 The Bread | 1
@@ -459,6 +459,7 @@ Nicki1202 | 1
 fishtoon | 1
 By7on | 1
 PoIsEn324 | 1
+TheAlmightyWave | 1
 G3ingo | 1
 GUYdurian | 1
 MoonSpark | 1
