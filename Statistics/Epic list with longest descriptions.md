@@ -1,9 +1,9 @@
-#### Total: 1561 levels
+#### Total: 1571 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
 | Sensual Dance | DepisH16 | 51053748 | 147 | A new level in terms of hell arena. Briefly, the last part seems to me very bad, because of this boss and his complex animations, but still like :v
-| Fresh Start | DreamTide | 54719067 | 140 | I have returned.. for who knows how many times. My new journey has begun and starting off with improving my creating skills. Made in 4 days.
+| Fresh Start | xDarkAbyss | 54719067 | 140 | I have returned.. for who knows how many times. My new journey has begun and starting off with improving my creating skills. Made in 4 days.
 | bzbzbzbz | xenoteric | 54601784 | 140 | made in 6 hours for gwmc #10: make a level with only 3 colours visible on the screen at any given time. copy paste as hell but hope you like
 | Astray | Suixam | 54503216 | 140 | Started this right when the song was announced, and it took about 3 weeks. Without a doubt my best level in terms of visuals and gameplay ;)
 | Loudness Zone | ItzMezzo | 52671583 | 140 | Casual level made in about two weeks ! Had a lot of fun while building it ! Not my best, but I still think it didn't turn that bad. Enjoy :D
@@ -325,7 +325,9 @@
 | Formidable Guardians | AbstractDark | 32940369 | 122 | Here it is my entry for Viprin's CC8. A level focused on bossfights, i hope you all enjoy it! Video on my YouTube channel.
 | Decimation | Lemons | 32298346 | 122 | My hardest and best level ever made :D Thanks sylux for building a short part and findexi for the gameplay. Pass is 040400
 | Caffeine Mastah | Usermatt18 | 30745863 | 122 | As always I havent found any original name for the level. Hope you like my first 2.1 level! I still need to learn a lot :)
+| Pirates of Penrith | AutoNick | 55499424 | 121 | An old level I decided to finish. I made the name Penrith up and to my knowledge there isn't any city named like that. x)
 | Amethystia | Xender Game | 54861984 | 121 | The end of the time... The Eschaton... shall begin. (Incredieble Collab with MakFeed on this completely font deco level!)
+| Noises | ItzMezzo | 54620605 | 121 | Megacollab by DarkStyle, Milos, Cirtrax, ViralDl, Volt, Supris, me, Giammix, Stamina and Texic. Medium demon ? Have fun !
 | Andromeda | EpicMasta11 | 48627268 | 121 | One of Ajedaboss's old, unfinished mcs that he let me finish and upload. Collab with DangerKat, Ross12344, and Tartofrez.
 | Holy Journey | GDLoco | 47694978 | 121 | Finally a new level!!! I tried a different type of art, not my best. Hope you enjoy! Pass: 220718 | LDM is ugly, sorry ;(
 | Tranquil Trance | Wiktord1 | 47462458 | 121 | An old neony unfinished level that turned into a collab with Logiking - a skilled creator and good friend of mine. Enjoy!
@@ -836,6 +838,7 @@
 | Thought Process II | WolfenGD | 35455451 | 82 | really makes you think. (thanks to The Dolphiner for making me the thinking emoji)
 | RAPID | Berkoo | 31927876 | 82 | Collab with Torch121, please check him out! Thanks for epic 1st place and daily :O
 | Lucidum | f3lixsram | 31420516 | 82 | A cool easy demon collab with ragnarok96 ! Pass and video on my youtube channel :3
+| Ambiguous | Ballii | 55302489 | 81 | sequel to nebulous | made in less than a day(?) and the drop is inspired by zoroa
 | Evil synthesize | Darwin | 55035113 | 81 | One of my biggest projects, Inspired and dedicated to Goose! ldm added, Have fun!
 | Epic Drive | ithedarki | 51164415 | 81 | A new level! Trying something new again) [Follow me to play my new levels first!]
 | BreakZ | BlueRimz | 47615989 | 81 | My best Easy Demon? Dedicated to Stratos2596, DanZmen & TheAwesomeguyy! Enjoy! :D
@@ -846,6 +849,7 @@
 | Melodic Travel | R3XX3R | 35233399 | 81 | My biggest project. 129k objects placed in 93 hours of work. Verified by Quantum.
 | ToE 2017 | GD Jose | 31372254 | 81 | Theory of Everything in 2.1 !!... Video with 3 coins and pass in my YT channel ;)
 | Colorblind | danolex | 27961648 | 81 | Epic level...Thanks for playing leave a like and enjoy For Geometry Dash World :)
+| Saccarine | Knots | 55477005 | 80 | INTRODUCING SUNSHINE, the sweetener that adds a whole new light to your morning.
 | Kurli Batik | RikLymback | 54795218 | 80 | Pattern that lives within everyday life, sitting there under appreciated. . . . 
 | Glitz | Regulus24 | 54558807 | 80 | If you wanna know how to get the coins, there's a video on my youtube channel ^^
 | Conqueblaze | WerewolfGD | 52187040 | 80 | First lvl in 2019! | Maybe my best effect level? | Enjoy and rate 7-8*! | Awooo!
@@ -1058,7 +1062,6 @@
 | The Reign of Osiris | doritos1 | 52292679 | 61 | First 2019 level!! Took a while to build... hope you enjoy :D
 | The Creator | caio2000 | 50007109 | 61 | Started in 2.1 , Finished now... Just a lost funny project xD
 | Death Breaker | lioleo | 49470094 | 61 | Can you escape a hideout of Death-Breaker? Verified by Mulpan
-| CUBED GALAXY | WILZ | 54525995 | 60 | My new level cubed galaxy/Inspired by:victorinoxx.#Featured?
 | Glance | xXLOCOXx | 51044783 | 60 | A reimagining of the classic 1.9 level "Look Up" by JerkRat.
 | Ultraic | SkCray Ace | 49774223 | 60 | Another modernistic level by me. Gameplay and pass on my YT.
 | dystopian dream | alkali | 49081260 | 60 | cool level that i maded and bran made me finish it at 1:30am
@@ -1152,6 +1155,7 @@
 | Phoenix | Noweek | 34167869 | 50 | The rise of the Phoenix will mindblow your soul...
 | Current | SpKale | 55058141 | 49 | microwaves be like mmmmmmmmmm beep beep beep beep
 | WildFire | TheAlmightyWave | 54990114 | 49 | Practice first! I went all flashy for this one :D
+| reset | verticallity | 54587623 | 49 | for GWMC ten; three colors, five thousand objects
 | Another | DavJT | 51776115 | 49 | Analyze_(Another.exe), a virus has been detected!
 | howl | Mineber | 49266956 | 49 | Collab with lucariusm, emyliano ftrop and lixars.
 | Triste | Olympic | 48911188 | 49 | Oly, Alka, Fila, M3nh, Digi, Ele, Wwgd, Finn, Zaf
@@ -1198,6 +1202,7 @@
 | Fiery cauldron | N R G | 37542663 | 44 | Collab con Moe Machine. El pollo ardiente...
 | Bloodwolf | WerewolfGD | 35066069 | 44 | Easiest 9* lvl enjoy and Thanks for epic ;3;
 | Friendship | AmorAltra | 34177489 | 44 | Collab with Peton, Td Epic, Fault & Ardant! 
+| This Will Be Fun | EnZore | 55255044 | 43 | Its in the past.. ill change no matter what
 | VY | LeX97 | 55213003 | 43 | Enjoy ! For Jaylex, Bluskys and lPuzzled ^^
 | Hydrus | Nikce | 51923169 | 43 | My first level of 2019! Hope you like it :D
 | Altiora Petamus | G4lvatron | 51694267 | 43 | Updated, I will try to do better next time.
@@ -1336,6 +1341,8 @@
 | Dyphe | MistFix | 38217881 | 29 | ~ O p e n  Y o u r  M i n d ~
 | Crystal Chaos | Spa8 | 36704048 | 29 | ESTE ES... EL BOOS MALDITO 8)
 | ManiFold | lioleo | 35844572 | 29 | Fun and cute cartoon level :3
+| OddShapes | Dastan21 | 55183166 | 28 | Another flat design level :/
+| CUBED GALAXY | WILZ | 54525995 | 28 | My new level cubed galaxy <3
 | Akedo Tokyo | distortt | 46342705 | 28 | Thanks for playing, enjoy :)
 | Bright | luis JR | 45618958 | 28 | Shine bright like a diamond.
 | Glam | luis JR | 44934055 | 28 | Operation: 'save your life'.
@@ -1398,6 +1405,7 @@
 | Verve | Optical | 32614415 | 23 | Fixed the orb at 68% =)
 | LusT | DanZmeN | 32504753 | 23 | The Third Deadly Sin...
 | WratH | DanZmeN | 31785584 | 23 | The First Deadly Sin...
+| Bwatt | Yakimaru | 55056041 | 22 | Blue, green and yellow
 | Toxic city | Lixars | 54738102 | 22 | I Hope you enjoy it :D
 | nock em | OSIRIS GD | 54516897 | 22 | it's 2.2 a revolution?
 | Delta | mulpan | 51007514 | 22 | Thanks for playing! =)
@@ -1466,6 +1474,7 @@
 | Aqua | haoN | 47673627 | 14 | Stay hydrated.
 | Gray pantheon | KALIPTO | 39080559 | 14 | Lol en 9 Horas
 | Ghost House | Kiwi30 | 33523059 | 14 | Sexy Ghost 7w7
+| Eman On  | ZecretDash | 55342727 | 13 | To YairoDJ <3
 | yeet of dOOM | Elisione | 49331455 | 13 | serious level
 | V O S S | Jghost217 | 44120919 | 13 | Is this voss?
 | OwO | Jeyzor | 36257454 | 13 | sequel to o3o
@@ -1535,6 +1544,7 @@
 | Elevatia | ViPriN | 28755561 | 2 | :)
 |   | nasgubb | 39354797 | 1 |  
 | Kabosu | Lemons | 35033118 | 1 | k
+| Toaster Waffles | SamMaxx | 54673440 | 0 | 
 | Deep Inside | SamMaxx | 54546762 | 0 | 
 | Forget it in time | SamMaxx | 54479232 | 0 | 
 | Dreamy Illusion | SamMaxx | 54379509 | 0 | 
