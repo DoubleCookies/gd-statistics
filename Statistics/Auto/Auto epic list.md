@@ -2,9 +2,9 @@
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Animation vs GD | AgentY | 55094160 | 335178 | 34153
-| technoloid | hypercube1 | 34059030 | 1725107 | 264955
-| JusT RobS n TopS | DanZmeN | 52070793 | 449786 | 58031
-| Emotional Release II | Serponge | 39955946 | 996895 | 126258
-| What The F | Serponge | 41621791 | 938666 | 99178
-| Stick Figure Maze 2 | Coolyoman | 32713497 | 917025 | 139964
+| Animation vs GD | AgentY | 55094160 | 349463 | 35138
+| technoloid | hypercube1 | 34059030 | 1738856 | 265586
+| JusT RobS n TopS | DanZmeN | 52070793 | 459861 | 58714
+| Emotional Release II | Serponge | 39955946 | 1000618 | 126461
+| What The F | Serponge | 41621791 | 944891 | 99485
+| Stick Figure Maze 2 | Coolyoman | 32713497 | 928354 | 140571
