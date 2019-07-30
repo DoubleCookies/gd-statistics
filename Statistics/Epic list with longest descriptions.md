@@ -1,8 +1,9 @@
-#### Total: 1720 levels
+#### Total: 1728 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
 | Sensual Dance | DepisH16 | 51053748 | 147 | A new level in terms of hell arena. Briefly, the last part seems to me very bad, because of this boss and his complex animations, but still like :v
+| The Intruder | Alex112300 | 56736010 | 140 | Uh oh it looks like you're entering an unknown area, it might be dangerous around here. be careful...........................and have fun xd
 | The Overseers | stratos2596 | 56474381 | 140 | They are coming. And they just want one thing. To revenge the one who betrayed them. A big thank you to Bluerimz for helping with the level!
 | Your Brain On Drugs | Jayuff | 55994603 | 140 | bdsmaokfosiefeafbhseivizjsdbvsfkbzsdjfhADKjfzsdhfljkdbvljCksdhlsdkhvbSDOIFUseufiesfbusvbszieubzisdvhzbkjshszdjfhvzsjdkbzsdkcbszdjvzskbzsdjvd
 | Fresh Start | DreamTide | 54719067 | 140 | I have returned.. for who knows how many times. My new journey has begun and starting off with improving my creating skills. Made in 4 days.
@@ -169,6 +170,7 @@
 | FeaRlesS | LeocreatorX | 32632867 | 135 | My best level on desing but the song its kinda weird but still good 8) (bugfixed if u have a bug u need practice) (me gusta el pene xd)
 | Splat | Torch121 | 32425762 | 135 | Collab with Shutter and Atonix - Check them out !! Hope You enjoy ;)  - You can disable the shakes in the Settings if it Bothers you ;)
 | Lanthanium | Fury0313 | 27990000 | 135 | Collab with FerdeFunky and Schady, first half was made around 2 months ago. Pass:148673 Reupload;  Krampux made layout in my first part
+| Magnetize | Waffl3X | 56690841 | 134 | Oh, you thought the -ize series was over? I pity fools as gullible as you. Come with me, now. We shall see the real end to the series.
 | Broken Calendar | stratos2596 | 55627631 | 134 | We tried to finish a collab within 24 hours but we fricking suck. By Stratos Byselling Expy Monta Wiktord R4nger Geemi Eridani and Val
 | nEAT | SleyGD | 54786736 | 134 | my best level by far! dedicated to my close friends, the people who helped me and my twitch chat :D 5*? added uldm for mobile users :)
 | Boo | Whirl | 46803003 | 134 | The incessant giggling of those who've departed this world haunt you like a house... Do you dare to venture into their domain? For TCC
@@ -222,6 +224,8 @@
 | The Deathless | Edicts | 41352267 | 131 | The official sequel to The Badland. Dedicated to EricVanWilderman for the awesome entertainment and to Boomkity! LDM IMPROVED AGAIN
 | Retro Hacker II | Noweek | 35418205 | 131 | The second and maybe last Retro Hacker cuz out of idea as you can see at the end of the level but hope you will enjoy this level 8)
 | The Unknown | AbstractDark | 29872584 | 131 | Finally finished this level that i started in early 2.1. I hope you guys like this full effects level! Video on my Youtube channel!
+| Under Construction  | Alfred PKNess | 56673947 | 130 | NRG and me strikes again with another cool collab!! This lvl was based on the masterpiece of LmAnubis "GrindZone" (Easy Demon *10)
+| KonniMacchiato | VecToRx GD | 55932541 | 130 | Dedication from 5 underrated people, create a new mindblowing sweet taste of a coffee called KonniMacchiato (Konnichiwa Macchiato)
 | Morphine | MistFix | 54530713 | 130 | The first Daily Demon B) | There are 6 easter eggs hidden in this level, how many can you find?... And remember, drugs are bad :).
 | AI Inc | OptaWolfGD | 51147798 | 130 | Artificial Intelligence Incorporation, At your service. To Jghost, AlfredPKNess and Xstar7. Maybe my last last solo level of 2.11.
 | Radiance | PotatoBaby | 47574315 | 130 | Finally finished this level after a year of never working on it! Hope you enjoy this glowy monstrosity! (updated fade in at start)
@@ -1014,7 +1018,7 @@
 | Compact | Lemons | 30789775 | 74 | My best level yet :) I put lots of effort into this one so please enjoy :P
 | Turbine | rafer | 25840344 | 74 | My first demon. Sorry if some parts are bad. PASS IS: 231016 - NERF UPDATE
 | Utopia | SpKale | 55644122 | 73 | sometimes the earth gets destroyed and you just gotta deal with it y'know
-| BrokeN SisteM | Lixars | 55007449 | 73 | Nothing out of the ordinary, but it was fun to do, I hope you enjoy it :)
+| BrokeN SisteM | White2019 | 55007449 | 73 | Nothing out of the ordinary, but it was fun to do, I hope you enjoy it :)
 | mergathluyeck | LuckyTheGamer | 54391311 | 73 | Not all levels are perfect, please appreciate what I did for everyone :-)
 | Indigo | ScorchVx | 46373354 | 73 | I need to finish levels faster... Inspired by Serponge (rip Viprin's cc9)
 | kaCHING | Flashmick72 | 41699713 | 73 | tried a kooltrix styled level. thankfs for epic rated, also now for tcc !
@@ -1301,6 +1305,7 @@
 | Fiery cauldron | N R G | 37542663 | 44 | Collab con Moe Machine. El pollo ardiente...
 | Bloodwolf | WerewolfGD | 35066069 | 44 | Easiest 9* lvl enjoy and Thanks for epic ;3;
 | Friendship | AmorAltra | 34177489 | 44 | Collab with Peton, Td Epic, Fault & Ardant! 
+| Acid Trip | Disp | 56712351 | 43 | gotta get a grip | made in less than 3 days
 | This Will Be Fun | EnZore | 55255044 | 43 | Its in the past.. ill change no matter what
 | VY | LeX97 | 55213003 | 43 | Enjoy ! For Jaylex, Bluskys and lPuzzled ^^
 | Hydrus | Nikce | 51923169 | 43 | My first level of 2019! Hope you like it :D
@@ -1313,7 +1318,7 @@
 | Xeflux | Lemons | 36647186 | 43 | Just a simple little flux level... Enjoy :)
 | Pureland | Torch121 | 34194741 | 43 | A sequel of Amnesty 8) - Thanks for playing
 | Winter | LeocreatorX | 33322088 | 43 | My first easy level :) I hope u enjoy it <3
-| AfFiniTy | Lixars | 55655806 | 42 | Thanks for playing, I hope you enjoy it :)
+| AfFiniTy | White2019 | 55655806 | 42 | Thanks for playing, I hope you enjoy it :)
 | Miasma | X trailz | 54724877 | 42 | [Corrupt matter emanating from the ground]
 | Translucent | Yakimaru | 54681694 | 42 | There are so many dimensions to explore...
 | infintesimal | TyphoonThunder | 54576567 | 42 | had a few ideas while i was in outer space
@@ -1414,6 +1419,7 @@
 | Empire | BadKlatt | 40631606 | 34 | an empire is about to be defeated.
 | Absolutism | Player Time | 35633247 | 34 | Touch 2 times for Ultra Low Detail
 | Espectro | LeocreatorX | 34595967 | 34 | My best.........!!?    (bug fixed)
+| sinister gleam | Df0rDie | 56699951 | 33 | Enjoy your walk trought the dark.
 | Sunshine | Unzor | 56199846 | 33 | Im walking on sunshine! WOO- OOOH
 | Jayuff | Desumari | 52987699 | 33 | Simple level for Jayuff. Enjoy ;}
 | A7eP | Fofii | 41846376 | 33 | tried somethin;g modernistic eeee
@@ -1523,8 +1529,9 @@
 | Verve | Optical | 32614415 | 23 | Fixed the orb at 68% =)
 | LusT | DanZmeN | 32504753 | 23 | The Third Deadly Sin...
 | WratH | DanZmeN | 31785584 | 23 | The First Deadly Sin...
+| Twilight | Typic4l | 56256840 | 22 | A night to remember...
 | Bwatt | Yakimaru | 55056041 | 22 | Blue, green and yellow
-| Toxic city | Lixars | 54738102 | 22 | I Hope you enjoy it :D
+| Toxic city | White2019 | 54738102 | 22 | I Hope you enjoy it :D
 | nock em | OSIRIS GD | 54516897 | 22 | it's 2.2 a revolution?
 | Delta | mulpan | 51007514 | 22 | Thanks for playing! =)
 | Lonesome | 1374 | 48035323 | 22 | Wow... Epic... Thanks!
@@ -1612,6 +1619,7 @@
 | OwO | Jeyzor | 36257454 | 13 | sequel to o3o
 | Weekend | Fault | 35408211 | 13 | 2 coins again
 | Phantom | TheRealSalad | 29424929 | 13 | 2.1 editor <3
+| Ji Ral | Booglee | 56729051 | 12 | Don't  JIRAL
 | Beauty Of A Goddess | danolex | 35745571 | 12 | Simple level
 | split | Knots | 33022525 | 12 | 2 Fast 4 ya?
 | Bounce | Fletzer | 55016141 | 11 | Have Fun <3
