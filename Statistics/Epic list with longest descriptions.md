@@ -1,4 +1,4 @@
-#### Total: 1734 levels
+#### Total: 1740 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -88,6 +88,7 @@
 | MeatMelter | Nuclear Nacho | 31378074 | 139 | The death machine known as the MeatGrinder has been reforged in flames once again, delve into it and destroy it once more! Entry to VCC8 :D
 | Change of Heart | SirHadoken | 30396838 | 139 | Probably my best level so far! Dedicated to Xtrullor, for his change of heart with Newgrounds ;) Dedicated to my Twitch viewers as well! <3
 | Color Dance | Underings | 28053320 | 139 | Collaboration with Hyenaedon & WolfySaidWoof.This lvl was sitting so long in hyena's account.So i had to make it feature:).Sorry for short 
+| AmazoN | ItsAdvyStyles | 56769951 | 138 | A re-envision of a cool unrated level called Galapagos by SEAturtle. Made by DanZmeN, who is the hottest creator ever. Subscribe to him :)
 | Aulta | By7on | 55976208 | 138 | My first attempt at an easy 2*! My twin brother Dawphin and I hope you enjoy our best project yet! The LDM works, I promise. Happy Summer!
 | Triptych | RNBW | 54555752 | 138 | Made for GWMC 10. Making a level with such a limitation on colors was pretty fun, actually - I hope more challenges like this happen soon!
 | Hamo | M3nhHu3 | 52136166 | 138 | "Hamo is the love that i want to share with everyone" thank to Vesta and NTT for the support. Updated the lessbright, no custom orb option
@@ -764,6 +765,7 @@
 | Seismic Toss | Berkoo | 31198704 | 92 | Have fun with this colorful and intense level. '-')/ Thanks for epic and daily once again <3
 | TOE III | Manix648 | 29443338 | 92 | Third and non-official installment in the TOE series. For Viprin CC #8. EPIC? thinking emoji
 | Monsterfest | rafer | 29074072 | 92 | My first 2.1 level! Just a experimental demon so my next levels will be better! Pass: 310117
+| Vibrance | Yendis | 56777723 | 91 | An experimental level built in 1 day. Hope you'll enjoy this super happy & colourful level.
 | watch | CactusDimension | 55013895 | 91 | another dark-themed level, i will probably make some levels in other styles after this one.
 | EXIT | Knots | 47662601 | 91 | sry if the gameplay sucks, i made the layout like 5 months ago. i also built this on mobile
 | Flares  | Filaret | 47381374 | 91 | This really hard make level with one color) Special thanks: Reunomi, Maku, Renodex. For cc9
@@ -848,6 +850,7 @@
 | RETRY  | lysk | 37175491 | 87 | After a long time its finally here! An amazing megacollab with cool creators :) GLHF <3
 | Nitro Festival | Mazl | 36521897 | 87 | Awesome XXL Megacollab starring alot of Awesome Creators! Exactly 80k Objects! Enjoy :)
 | Nexus | DorSha | 29934098 | 87 | This was quite hard to build. Sorry if it looks 2.0-ish. Update: Designed some areas :)
+| TwT | Retropt | 56783728 | 86 | Thanks for Great job to the whole team in this lvl, I hope you like it, enjoy it.  0W0
 | Pilot | Jayuff | 56474020 | 86 | welcome to one of the freakiest demons youll ever try!! make sure to use practice mode
 | ZeRo 2 | qugnnAkuN | 55569725 | 86 | This level is not about this "darling in the franxx" thing, dont mention it okaythxbye
 | Robotical  | Schneider9 | 52256832 | 86 | There is no barrier, bolt or obstacle that you can impose on the freedom of your mind.
@@ -1148,6 +1151,7 @@
 | DayBreak | Minimi427 | 37113391 | 62 | Collab de Piseto, IIJoanII & Minimi427 (Me) :) Featured? Epic?
 | Infinity | griffyn87 | 36079923 | 62 | My new level for Enlex CC, DreaMz CC2, and Jbeast15 CC. Enjoy!
 | Mechanic | KeiAs | 35188305 | 62 | My new Demon level? Have fun :)  -Reuploaded / for Enlex CC 2-
+| lightning vortex | dakiro | 56687274 | 61 | Legend has it that every 1000 years Dakiro returns... Enjoy !
 | The Reign of Osiris | doritos1 | 52292679 | 61 | First 2019 level!! Took a while to build... hope you enjoy :D
 | The Creator | caio2000 | 50007109 | 61 | Started in 2.1 , Finished now... Just a lost funny project xD
 | Death Breaker | lioleo | 49470094 | 61 | Can you escape a hideout of Death-Breaker? Verified by Mulpan
@@ -1345,6 +1349,7 @@
 | Mystical Vibrant | Olympic | 31674537 | 41 | Thank you. password in my YouTube Channel
 | Simple Travel | danolex | 30689427 | 41 | Thanks for playing..Hope you like Guys :)
 | Emotional Journey | RadiationV2 | 24676724 | 41 | My 2.0 masterpiece, rate demon please! :D
+| Chin | Real48NogZ | 56798192 | 40 | new level inspired by my friend ChiN3x..
 | King Crimson | charky | 56680161 | 40 | welcome to the court of the crimson king
 | Vibrant Factory | Jeady | 56490361 | 40 | Jeady, set, GO!!! Wait, I meant ready...
 | Tech Manifestation | PleoSlim RMD | 55985772 | 40 | Collab with MakFeed. 2 month of building
@@ -1582,6 +1587,7 @@
 | OptiGe | minimaX | 45850956 | 18 | For #Levelution =)
 | Simple Drop | danolex | 42008751 | 18 | Thanks for playing
 | Unarmed | Xylluk | 31537385 | 18 | Enjoy the level :)
+| Deacachimba | abdula | 56795785 | 17 | Hope you like it.
 | Magtronic | DHaner | 56324155 | 17 | So... I'm back :P
 | relax | Vrymer | 54807118 | 17 | more like "relag"
 |  TIA | BryanC2 | 54664621 | 17 | Que te diviertas!
