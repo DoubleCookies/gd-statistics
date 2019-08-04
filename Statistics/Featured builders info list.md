@@ -989,7 +989,6 @@ DT Mark | 3
 Pl4sma | 3
 TheJuandissimo | 3
 dakiro | 3
-DigingZrony | 3
 GMDBlockbite | 3
 CreatorForce | 3
 yakine | 3
@@ -1180,6 +1179,7 @@ CubeDasher | 3
 Gravitype | 3
 TheAlmightyWave | 3
 Cardium | 3
+BoneSoup | 3
 Dirdov | 3
 balloons | 3
 TekhnikaKR | 3
@@ -1383,6 +1383,7 @@ PyroGix | 2
 FurixGD | 2
 HexagonDashers | 2
 poccottini | 2
+lSnyx | 2
 Razorendoe | 2
 zDrift | 2
 Blitzmister | 2
@@ -1565,7 +1566,6 @@ AKMgg | 2
 iIJigSawIi | 2
 TrueHyPper | 2
 ItzSlash | 2
-iCodex | 2
 Dolnerz | 2
 Ownbit | 2
 Ardolf | 2
@@ -1705,6 +1705,7 @@ tnT | 1
 YMighty | 1
 DalarCoin | 1
 CobaltV | 1
+UltraNads | 1
 Kirion | 1
 NaimNaro | 1
 iEloy | 1
@@ -2669,7 +2670,6 @@ TheRealZust | 1
 Chelonian | 1
 Borgen | 1
 DivinePotato | 1
-Nads | 1
 LunarStep11 | 1
 InDead | 1
 TGTomahawk09 | 1
