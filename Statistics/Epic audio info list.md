@@ -1,4 +1,4 @@
-#### Total: 1768 levels
+#### Total: 1772 levels
 
 | Name | Author | ID | Count |
 |:---:|:---:|:---:|:---:|
@@ -234,6 +234,7 @@
 | 778607 | DJVI | Amp It Up | 2
 | 754029 | meganeko | Astro Soda | 2
 | 559490 | AeronMusic | Celestial Fantasy | 2
+| 752025 | LawnReality | Living Dream | 2
 | 739765 | cloudfield | cloudfield - Life | 2
 | 731596 | DJ-Zyzyx | Zyzyx - Jazz Battle | 2
 | 750043 | ShutEye | Shut Eye - Our Home | 2
@@ -336,6 +337,7 @@
 | 718171 | cysmix | cYsmix - Classic Pursuit | 2
 | 720222 | Xtrullor | Xtrullor - Jnana | 2
 | 773458 | PandaEyesOfficial | Panda Eyes - Fake Princess | 2
+| 591208 | steampianist | Secrets of Wysteria | 2
 | 505207 | dj-Jo | Dearly Beloved Dubstep | 2
 | 568699 | Waterflame | -Hexagon Force- | 2
 | 714113 | PandaEyesOfficial | Panda Eyes - Drippy Dub | 2
@@ -515,6 +517,7 @@
 | 659792 | mrfaller | SVMMIT - Hi-Fi (Lo-Fi VIP) | 1
 | 751951 | Geoplex | Geoplex - Drift | 1
 | 811338 | Namice | Seashore | 1
+| 53576 | Goukisan | Guitar Vs. Piano 1.2 | 1
 | 676174 | ColchianCat | Luminance | 1
 | 592193 | MosesX50 | Cynthia Strikes! | 1
 | 702786 | Reptiore | ND - ã€ï»¿ï»¿ï½’ï½ï½„ï½‰ï½ï½Žï½ƒï½… ï¼‘ï¼™ï¼˜ï¼™ã€‘ | 1
@@ -540,7 +543,6 @@
 | 725382 | windluxmusic | Karaplex - Slumber | 1
 | 788868 | Geoplex | Geoplex - Resplendent | 1
 | 684441 | DjHoneyb | Summer! | 1
-| 752025 | LawnReality | Living Dream | 1
 | 760212 | Miyolophone | astrEnfant | 1
 | 803223 | Xtrullor | Xtrullor - Arcana | 1
 | 713135 | ThisIsTheFatRat | TheFatRat - Prelude | 1
@@ -842,7 +844,6 @@
 | 748911 | lemons | Skydive | 1
 | 712035 | Omnivore | ãƒã‚ªRENAISSANCE | 1
 | 779623 | LawnReality | Digital Mind | 1
-| 591208 | steampianist | Secrets of Wysteria | 1
 | 738661 | DJKadenza | WICKED | 1
 | 765306 | lchavasse | ~:Wander:~ | 1
 | 748921 | Marterro | The Final Encounter | 1
@@ -981,6 +982,7 @@
 | 733007 | DJVI | Like An Animal | 1
 | 315202 | Fantomenk | The massacre (chipsounds) | 1
 | 649039 | Xtrullor | NK - Nine Circles (Xtrullor Remix) | 1
+| 794460 | Ilrell | [Electro/Bass House] Homestuck - Beatdown (Strider Style) | Ilrell Remix | 1
 | 835420 | DrPhonics | Dr. Phonics - Whiplash | 1
 | 87895 | cornandbeans | {Rose} Remastered | 1
 | 659283 | lchavasse | ~:Spinning Galaxies:~ | 1

@@ -86,11 +86,11 @@ Subw00fer | 6
 Arysta | 6
 DepisH16 | 6
 Tongii | 5
-qugnnAkuN | 5
 nasgubb | 5
 Filaret | 5
 ChiN3x | 5
 M3nhHu3 | 5
+NukAnnguq | 5
 AceVict | 5
 OptaWolfGD | 5
 RadiationV2 | 5
@@ -186,6 +186,7 @@ Anubis GD | 3
 Alex1304 | 3
 BlueLite | 3
 TriPodX | 3
+Wiktord1 | 3
 Hayper | 3
 Kebabbo | 3
 ISparkI | 3
@@ -229,6 +230,7 @@ Lapis337 | 2
 Bronks | 2
 Pawlogates | 2
 Cubix06 | 2
+SonOfCthulu | 2
 Schneider9 | 2
 Edicts | 2
 Kitoun | 2
@@ -239,6 +241,7 @@ stratos2596 | 2
 Jaasim | 2
 Bluskys | 2
 Superopi | 2
+konsi | 2
 CookiesGirly | 2
 PanMan | 2
 charky | 2
@@ -274,7 +277,6 @@ FozaeKitty | 2
 DreamTide | 2
 TyphoonThunder | 2
 KFAOpitar | 2
-Wiktord1 | 2
 Shemo | 2
 xSkart | 2
 Spa8 | 2
@@ -365,7 +367,6 @@ Polli | 1
 Nova to | 1
 loogiah | 1
 Djdvd17 | 1
-SonOfCthulu | 1
 Cristella | 1
 crossblade | 1
 Digitalight | 1
@@ -389,7 +390,6 @@ Cloud72 | 1
 KittyDoge | 1
 Df0rDie | 1
 Akame GD | 1
-konsi | 1
 shaggy23 | 1
 Relayx | 1
 Mineber | 1
@@ -441,6 +441,7 @@ CreatorWoomy | 1
 Vapen | 1
 Robotic24 | 1
 Colxic | 1
+Apollone | 1
 ML500 | 1
 Vancis | 1
 MaxyLAND | 1
