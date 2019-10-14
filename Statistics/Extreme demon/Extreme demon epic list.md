@@ -2,31 +2,31 @@
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Exotic Energy | Ellisha | 57312412 | 50965 | 1927
-| Ouroboros | ViPriN | 56703691 | 215840 | 15790
-| limitless | Konsi | 56321709 | 14868 | 960
-| Carnage Mode | Findexi | 36107975 | 564463 | 50056
-| Blade of Justice | Manix648 | 35448603 | 1184537 | 109505
-| Heat Wave | Nico99 | 45818014 | 120449 | 9863
-| Artifice | f3lixsram | 57520174 | 77921 | 3130
-| BuTiTi III | JonathanGD | 57433866 | 145935 | 22550
-| FirePower | MrLorenzo | 55955642 | 59453 | 3222
-| SubSonic | ViPriN | 33387622 | 2318432 | 160151
-| Digital Disarray | Giron | 57390806 | 29625 | 1479
-| Deception Dive | Rustam | 34379100 | 589942 | 39006
-| Digital Descent | ViPriN | 37456092 | 1146168 | 99362
-| Bloodlust | Knobbelboy | 42584142 | 3979893 | 304294
-| Under lavaland | N R G | 44169362 | 309053 | 26378
-| Violently X | TheRealDorami | 39976494 | 172783 | 13978
-| WaveBreaker | Lemons | 56779294 | 59634 | 4056
-| The Yandere | TheRealDorami | 54615662 | 527252 | 66101
-| Paroxysm | Lemons | 42631377 | 202522 | 15215
-| Novalis | Gryllex | 33748382 | 270128 | 23355
-| MELTDOWN | Darwin | 52527538 | 121519 | 8939
-| Dark Flare | KeiAs | 48942548 | 60031 | 4997
-| Bang Gang | DanZmeN | 56916170 | 130291 | 8203
-| Dimension Breaker | Bianox | 55539300 | 23446 | 1280
-| Cromulent | Relayx | 48808692 | 54583 | 5624
-| Tech Manifestation | PleoSlim RMD | 55985772 | 44735 | 2579
-| EnvY | DanZmeN | 45411361 | 411341 | 33091
-| Ragnarok | Knobbelboy | 55624478 | 240898 | 17818
+| Exotic Energy | Ellisha | 57312412 | 52336 | 1964
+| Ouroboros | ViPriN | 56703691 | 219932 | 16041
+| limitless | Konsi | 56321709 | 17368 | 1188
+| Carnage Mode | Findexi | 36107975 | 566797 | 50131
+| Blade of Justice | Manix648 | 35448603 | 1192048 | 109805
+| Heat Wave | Nico99 | 45818014 | 121235 | 9908
+| Artifice | f3lixsram | 57520174 | 87436 | 3769
+| BuTiTi III | JonathanGD | 57433866 | 177518 | 25345
+| FirePower | MrLorenzo | 55955642 | 60059 | 3245
+| SubSonic | ViPriN | 33387622 | 2335763 | 160574
+| Digital Disarray | Giron | 57390806 | 33828 | 1657
+| Deception Dive | Rustam | 34379100 | 593690 | 39173
+| Digital Descent | ViPriN | 37456092 | 1151071 | 99570
+| Bloodlust | Knobbelboy | 42584142 | 4025248 | 305507
+| Under lavaland | N R G | 44169362 | 310480 | 26443
+| Violently X | TheRealDorami | 39976494 | 173727 | 14027
+| WaveBreaker | Lemons | 56779294 | 63803 | 4209
+| The Yandere | TheRealDorami | 54615662 | 535516 | 66721
+| Paroxysm | Lemons | 42631377 | 203538 | 15263
+| Novalis | Gryllex | 33748382 | 270896 | 23385
+| MELTDOWN | Darwin | 52527538 | 122736 | 8992
+| Dark Flare | KeiAs | 48942548 | 60529 | 5019
+| Bang Gang | DanZmeN | 56916170 | 133841 | 8376
+| Dimension Breaker | Bianox | 55539300 | 23979 | 1308
+| Cromulent | Relayx | 48808692 | 54974 | 5654
+| Tech Manifestation | PleoSlim RMD | 55985772 | 45265 | 2616
+| EnvY | DanZmeN | 45411361 | 414125 | 33234
+| Ragnarok | Knobbelboy | 55624478 | 243747 | 18033
