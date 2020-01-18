@@ -11,7 +11,7 @@
 | Kyrie Eleison | ViPriN | 57638361 | 140 | It's mine to avenge; I'll repay. In due time their foot will slip; their day of disaster's near and doom rushes upon them. Verified by KrmaL
 | The Wastelands | dolphe | 57586194 | 140 | Welcome to the Wastelands... An era where Cats and Icons at war. Yet the Cats, overran by their creations, refuse loss. Its time to end this
 | Rainbow Force Z | Alkatraz | 56936301 | 140 | This layout was started around a year ago and only two months ago i found the motivation to finish: the finale to my "Rainbow Force" series.
-| Golden Future | SuprianGD  | 56859910 | 140 | Enjoy this level with different styles and references! | Duration: 2:50min | 110K OBJ |The best thing you can do is not fail in 98%, luck...
+| Golden Future | SuprianGD  | 56859910 | 140 | <div>Enjoy this level with different styles and references! | Duration: 2:50min | 110K OBJ |The best thing you can do is not fail in 98%, luck...</div>
 | The Intruder | Alex112300 | 56736010 | 140 | Uh oh it looks like you're entering an unknown area, it might be dangerous around here. be careful...........................and have fun xd
 | The Overseers | stratos2596 | 56474381 | 140 | They are coming. And they just want one thing. To revenge the one who betrayed them. A big thank you to Bluerimz for helping with the level!
 | Your Brain On Drugs | Jayuff | 55994603 | 140 | bdsmaokfosiefeafbhseivizjsdbvsfkbzsdjfhADKjfzsdhfljkdbvljCksdhlsdkhvbSDOIFUseufiesfbusvbszieubzisdvhzbkjshszdjfhvzsjdkbzsdkcbszdjvzskbzsdjvd
