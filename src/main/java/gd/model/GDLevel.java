@@ -226,7 +226,8 @@ public class GDLevel {
 	 * @return string with name, creator, id, description length and description itself
 	 */
 	public String markdownWithDescriptionString() {
-		return "| " + name + " | " + creator + " | " + id + " | " + description.length() + " | " + description;
+		String replacedDescription = description.replace("|", "&#124;");
+		return "| " + name + " | " + creator + " | " + id + " | " + description.length() + " | " + replacedDescription;
 	}
 
 	@Override
