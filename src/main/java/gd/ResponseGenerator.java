@@ -191,6 +191,7 @@ public class ResponseGenerator {
             }
         } catch (Exception e) {
             System.out.println("Limit reached!");
+            e.printStackTrace();
         }
         System.out.println("[" +dateFormat.format(new Date()) + "] Top-50 demon list finished");
         return list;
@@ -208,6 +209,7 @@ public class ResponseGenerator {
             }
         } catch (Exception e) {
             System.out.println("Limit reached!");
+            e.printStackTrace();
         }
         return list;
     }
