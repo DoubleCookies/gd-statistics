@@ -4,6 +4,7 @@ import gd.enums.DemonDifficulty;
 import gd.enums.Difficulty;
 import gd.model.GDLevel;
 import gd.model.GDSong;
+import org.apache.log4j.Logger;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
@@ -13,7 +14,7 @@ import java.util.*;
  * Utility class to convert raw data into gd.model.GDLevel instances
  */
 public abstract class GDLevelFactory {
-	
+	final static Logger logger = Logger.getLogger(GDLevelFactory.class);
 	/**
 	 * Associates the integer value in the raw data with the corresponding difficulty
 	 */
@@ -73,11 +74,11 @@ public abstract class GDLevelFactory {
 			if (structuredCreatorsInfo != null && structuredLvlInfo.containsKey(6))
 				creator = structuredCreatorsInfo.get(Long.parseLong(structuredLvlInfo.get(6)));
 
-			String description = "";
+			String description;
 			try {
 				description = new String(Base64.getUrlDecoder().decode(structuredLvlInfo.get(3)));
 			} catch (IllegalArgumentException e) {
-				System.out.println("Description decode error, lvl id: " + Long.parseLong(structuredLvlInfo.get(1)));
+				logger.warn("Description decode error, lvl id: " + Long.parseLong(structuredLvlInfo.get(1)));
 				description = "—";
 			}
 		
@@ -180,7 +181,7 @@ public abstract class GDLevelFactory {
 			for (int i = 0 ; i < arrayOfData.length ; i += 2) {
 				result.put(Integer.parseInt(arrayOfData[i]), (i+1 < arrayOfData.length) ? arrayOfData[i+1] : "");
 			}
-		} catch (NumberFormatException | ArrayIndexOutOfBoundsException e) {
+		} catch (NumberFormatException | ArrayIndexOutOfBoundsException ignored) {
 
 		}
 

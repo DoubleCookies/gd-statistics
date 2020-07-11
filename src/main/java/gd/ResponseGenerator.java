@@ -2,12 +2,12 @@ package gd;
 
 import gd.enums.DemonDifficulty;
 import gd.enums.Difficulty;
+import gd.enums.SortingCode;
 import gd.model.EmptyListException;
 import gd.model.GDLevel;
 import gd.model.GDSong;
+import org.apache.log4j.Logger;
 
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -18,37 +18,37 @@ import java.util.stream.IntStream;
  * @author Killhtf
  */
 public class ResponseGenerator {
-
-    private static Comparator<GDLevel> descendingLikesComparator = (o1, o2) -> (int) (o2.getLikes() - o1.getLikes());
-    private static Comparator<GDLevel> ascendingLikesComparator = (o1, o2) -> (int) (o1.getLikes() - o2.getLikes());
-    private static Comparator<GDLevel> descendingDownloadsComparator = (o1, o2) -> (int) (o2.getDownloads() - o1.getDownloads());
-    private static Comparator<GDLevel> ascendingDownloadsComparator = (o1, o2) -> (int) (o1.getDownloads() - o2.getDownloads());
-    private static Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> (int) (o2.getDescription().length() - o1.getDescription().length());
+    final static Logger logger = Logger.getLogger(ResponseGenerator.class);
+    private static final Comparator<GDLevel> descendingLikesComparator = (o1, o2) -> (int) (o2.getLikes() - o1.getLikes());
+    private static final Comparator<GDLevel> ascendingLikesComparator = (o1, o2) -> (int) (o1.getLikes() - o2.getLikes());
+    private static final Comparator<GDLevel> descendingDownloadsComparator = (o1, o2) -> (int) (o2.getDownloads() - o1.getDownloads());
+    private static final Comparator<GDLevel> ascendingDownloadsComparator = (o1, o2) -> (int) (o1.getDownloads() - o2.getDownloads());
+    private static final Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> (int) (o2.getDescription().length() - o1.getDescription().length());
 
     private static List<GDLevel> levels;
-    private static DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 
     static String[] processLevels(int sortingCode) throws EmptyListException {
         if(levels == null) {
-            System.out.println("[" +dateFormat.format(new Date()) + "] Receiving featured levels list...");
+            logger.info("Receiving featured levels list...");
             levels = getMostPopularFeatured(sortingCode);
         }
         else {
-            System.out.println("[" +dateFormat.format(new Date()) + "] Filter epic levels...");
+            logger.info("Filter epic levels...");
             levels.removeIf(item -> !item.isEpic());
         }
-        if(levels == null || levels.size() == 0)
+        if(levels == null || levels.size() == 0) {
+            logger.warn("Levels list is empty!");
             throw new EmptyListException();
-        System.out.println("[" +dateFormat.format(new Date()) + "] List received. Total " + levels.size() + " levels.");
+        }
+        logger.info("List received. Total " + levels.size() + " levels.");
         List<String> info = new ArrayList<>(generateListDiffs(levels));
-        System.out.println("[" +dateFormat.format(new Date()) + "] Difficulties lists created.");
-        String a = generateListWithLongestDescr(levels);
-        info.add(a);
-        System.out.println("[" +dateFormat.format(new Date()) + "] Longest description list created.");
+        logger.info("Difficulties lists created.");
+        info.add(generateListWithLongestDescr(levels));
+        logger.info("Longest description list created.");
         info.add(generateMusicList(levels));
-        System.out.println("[" +dateFormat.format(new Date()) + "] Music list created.");
+        logger.info("Music list created.");
         info.add(generateBuildersList(levels));
-        System.out.println("[" +dateFormat.format(new Date()) + "] Builders list created.");
+        logger.info("Builders list created.");
         return info.toArray(new String[0]);
     }
 
@@ -86,7 +86,7 @@ public class ResponseGenerator {
         StringBuilder builder = new StringBuilder();
         builder.append("| Name | Creator | ID | Length | Description |\n");
         builder.append("|:---:|:---:|:---:|:---:|:---:|\n");
-        sortLevelList(levels, 5);
+        sortLevelList(levels, SortingCode.LONGEST_DESCRIPTION.getValue());
         for(GDLevel level : levels)
         {
             builder.append(level.markdownWithDescriptionString()).append("\n");
@@ -127,7 +127,7 @@ public class ResponseGenerator {
         {
             songId = level.getGdSong();
             if(songId == null) {
-                System.out.println("Null GDSong object for level " + level.getId());
+                logger.warn("Null GDSong object for level " + level.getId());
             } else {
                 if(audio.containsKey(songId))
                     audio.put(songId,  audio.get(songId) + 1);
@@ -190,9 +190,9 @@ public class ResponseGenerator {
                 i++;
             }
         } catch (Exception e) {
-            System.out.println("Limit reached!");
+            logger.info("Levels limit reached!");
         }
-        System.out.println("[" +dateFormat.format(new Date()) + "] Top-50 demon list finished");
+        logger.info("Top-50 demon list finished");
         return list;
     }
 
@@ -207,7 +207,7 @@ public class ResponseGenerator {
                 i++;
             }
         } catch (Exception e) {
-            System.out.println("Limit reached!");
+            logger.info("Levels limit reached!");
         }
         return list;
     }

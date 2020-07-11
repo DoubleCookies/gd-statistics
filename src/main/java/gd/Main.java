@@ -1,6 +1,8 @@
 package gd;
 
+import gd.enums.SortingCode;
 import gd.model.EmptyListException;
+import org.apache.log4j.Logger;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -10,9 +12,12 @@ import java.nio.file.Paths;
 
 public class Main {
 
+    final static Logger logger = Logger.getLogger(Main.class);
+
     public static void main(String[] args) throws EmptyListException {
-        processFeatured(0);
-        processEpic(0);
+
+        processFeatured(SortingCode.DEFAULT.getValue());
+        processEpic(SortingCode.DEFAULT.getValue());
         generateTopDemons();
     }
 
@@ -24,10 +29,10 @@ public class Main {
             writeToFile(sortingCode, prefix, j+1, res[j].getBytes());
         }
         writeToFile(sortingCode, "Featured", 0, res[11].getBytes());
-        writeToFile(5, "Featured", 0, res[12].getBytes());
-        writeToFile(-1, "Featured audio info", 0, res[13].getBytes());
-        writeToFile(-1, "Featured builders info", 0, res[14].getBytes());
-        System.out.println("All featured lists are finished");
+        writeToFile(SortingCode.LONGEST_DESCRIPTION.getValue(), "Featured", 0, res[12].getBytes());
+        writeToFile(SortingCode.DEFAULT.getValue(), "Featured audio info", 0, res[13].getBytes());
+        writeToFile(SortingCode.DEFAULT.getValue(), "Featured builders info", 0, res[14].getBytes());
+        logger.info("All featured lists are finished");
     }
 
     private static void processEpic(int sortingCode) throws EmptyListException {
@@ -38,22 +43,22 @@ public class Main {
             writeToFile(sortingCode, prefix, j+1, res[j].getBytes());
         }
         writeToFile(sortingCode, "Epic", 0, res[11].getBytes());
-        writeToFile(5, "Epic", 0, res[12].getBytes());
-        writeToFile(-1, "Epic audio info", 0, res[13].getBytes());
-        writeToFile(-1, "Epic builders info", 0, res[14].getBytes());
-        System.out.println("All epic lists are finished");
+        writeToFile(SortingCode.LONGEST_DESCRIPTION.getValue(), "Epic", 0, res[12].getBytes());
+        writeToFile(SortingCode.DEFAULT.getValue(), "Epic audio info", 0, res[13].getBytes());
+        writeToFile(SortingCode.DEFAULT.getValue(), "Epic builders info", 0, res[14].getBytes());
+        logger.info("All epic lists are finished");
     }
 
     private static void generateTopDemons() {
         String[] res = ResponseGenerator.generateTopDemonsList();
-        writeToFile(0, "Top 50 popular demons", 0, res[0].getBytes());
+        writeToFile(SortingCode.DEFAULT.getValue(), "Top 50 popular demons", 0, res[0].getBytes());
     }
 
 
-    private static void writeToFile(int sortingCode, String prefix, int diffCode, byte[] data) {
+    private static void writeToFile(int sortingCode, String prefix, int difficultyCode, byte[] data) {
         FileOutputStream out;
         try {
-            out = getFileOutputStream(sortingCode, prefix, diffCode);
+            out = getFileOutputStream(sortingCode, prefix, difficultyCode);
             out.write(data);
             out.close();
         } catch (IOException e) {
