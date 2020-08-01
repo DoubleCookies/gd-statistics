@@ -23,6 +23,9 @@ public class Main {
 
     private static void processFeatured(int sortingCode) throws EmptyListException {
         String[] res = ResponseGenerator.processLevels(sortingCode);
+        if (res == null) {
+            return;
+        }
         for(int j = 0; j < 11; j++)
         {
             String prefix = getDifficultName(j+1) + " featured";
@@ -31,7 +34,8 @@ public class Main {
         writeToFile(sortingCode, "Featured", 0, res[11].getBytes());
         writeToFile(SortingCode.LONGEST_DESCRIPTION.getValue(), "Featured", 0, res[12].getBytes());
         writeToFile(SortingCode.DEFAULT.getValue(), "Featured audio info", 0, res[13].getBytes());
-        writeToFile(SortingCode.DEFAULT.getValue(), "Featured builders info", 0, res[14].getBytes());
+        writeToFile(SortingCode.DEFAULT.getValue(), "Featured audio info expanded", 0, res[14].getBytes());
+        writeToFile(SortingCode.DEFAULT.getValue(), "Featured builders info", 0, res[15].getBytes());
         logger.info("All featured lists are finished");
     }
 
@@ -45,7 +49,8 @@ public class Main {
         writeToFile(sortingCode, "Epic", 0, res[11].getBytes());
         writeToFile(SortingCode.LONGEST_DESCRIPTION.getValue(), "Epic", 0, res[12].getBytes());
         writeToFile(SortingCode.DEFAULT.getValue(), "Epic audio info", 0, res[13].getBytes());
-        writeToFile(SortingCode.DEFAULT.getValue(), "Epic builders info", 0, res[14].getBytes());
+        writeToFile(SortingCode.DEFAULT.getValue(), "Epic audio info expanded", 0, res[14].getBytes());
+        writeToFile(SortingCode.DEFAULT.getValue(), "Epic builders info", 0, res[15].getBytes());
         logger.info("All epic lists are finished");
     }
 

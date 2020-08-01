@@ -27,7 +27,7 @@ public class ResponseGenerator {
 
     private static List<GDLevel> levels;
 
-    static String[] processLevels(int sortingCode) throws EmptyListException {
+    static String[] processLevels(int sortingCode) {
         if(levels == null) {
             logger.info("Receiving featured levels list...");
             levels = getMostPopularFeatured(sortingCode);
@@ -37,16 +37,19 @@ public class ResponseGenerator {
             levels.removeIf(item -> !item.isEpic());
         }
         if(levels == null || levels.size() == 0) {
-            logger.warn("Levels list is empty!");
-            throw new EmptyListException();
+            logger.warn("Levels list is empty! No changes were made.");
+            return null;
         }
         logger.info("List received. Total " + levels.size() + " levels.");
         List<String> info = new ArrayList<>(generateListDiffs(levels));
         logger.info("Difficulties lists created.");
         info.add(generateListWithLongestDescr(levels));
         logger.info("Longest description list created.");
-        info.add(generateMusicList(levels));
+        ArrayList<String> musicInfo = generateMusicList(levels);
+        info.add(musicInfo.get(0));
         logger.info("Music list created.");
+        info.add(musicInfo.get(1));
+        logger.info("Additional music list created.");
         info.add(generateBuildersList(levels));
         logger.info("Builders list created.");
         return info.toArray(new String[0]);
@@ -116,23 +119,33 @@ public class ResponseGenerator {
         return stringArray;
     }
 
-    private static String generateMusicList(List<GDLevel> levels) {
+    private static ArrayList<String> generateMusicList(List<GDLevel> levels) {
         int counter = 0;
-        StringBuilder builder = new StringBuilder();
-        builder.append("| Name | Author | ID | Count |\n");
-        builder.append("|:---:|:---:|:---:|:---:|\n");
+        StringBuilder simpleBuilder = new StringBuilder();
+        simpleBuilder.append("| Name | Author | ID | Count |\n");
+        simpleBuilder.append("|:---:|:---:|:---:|:---:|\n");
+        StringBuilder additionalBuilder = new StringBuilder();
+        additionalBuilder.append("| Name | Author | ID | Count | Level IDs |\n");
+        additionalBuilder.append("|:---:|:---:|:---:|:---:|:---:|\n");
         HashMap<GDSong, Integer> audio = new HashMap<>();
+        HashMap<GDSong, ArrayList<Long>> audioLevelIds = new HashMap<>();
         GDSong songId;
         for(GDLevel level : levels)
         {
             songId = level.getGdSong();
-            if(songId == null) {
+            long levelId = level.getId();
+            if (songId == null) {
                 logger.warn("Null GDSong object for level " + level.getId());
             } else {
-                if(audio.containsKey(songId))
+                ArrayList<Long> arrayListData = audioLevelIds.get(songId);
+                if (audio.containsKey(songId)) {
                     audio.put(songId,  audio.get(songId) + 1);
-                else
+                } else {
                     audio.put(songId,  1);
+                    arrayListData = new ArrayList<>();
+                }
+                arrayListData.add(levelId);
+                audioLevelIds.put(songId, arrayListData);
                 counter++;
             }
         }
@@ -140,12 +153,21 @@ public class ResponseGenerator {
                 .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
                 .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
                         (oldValue, newValue) -> oldValue, LinkedHashMap::new));
-        builder.insert(0, "#### Total: " + counter + " levels\n\n");
+        simpleBuilder.insert(0, "#### Total: " + counter + " levels\n\n");
         List<GDSong> mapKeys = new ArrayList<>(result.keySet());
         List<Integer> mapValues = new ArrayList<>(result.values());
-        for(int i =0; i < mapKeys.size(); i++)
-            builder.append(mapKeys.get(i).toListString()).append(mapValues.get(i)).append("\n");
-        return builder.toString();
+        for (int i = 0; i < mapKeys.size(); i++) {
+            simpleBuilder.append(mapKeys.get(i).toString()).append(mapValues.get(i)).append("\n");
+            List<Long> levelIds = audioLevelIds.get(mapKeys.get(i));
+            String levelIdsString = levelIds.stream().map(String::valueOf)
+                    .collect(Collectors.joining("; "));
+            additionalBuilder.append(mapKeys.get(i).toString()).append(mapValues.get(i)).append(" | ").append(levelIdsString).append("\n");
+        }
+
+        ArrayList<String> data = new ArrayList<>();
+        data.add(simpleBuilder.toString());
+        data.add(additionalBuilder.toString());
+        return data;
     }
 
     private static String generateBuildersList(List<GDLevel> levels) {
@@ -167,7 +189,7 @@ public class ResponseGenerator {
         List<String> mapKeys = new ArrayList<>(result.keySet());
         List<Integer> mapValues = new ArrayList<>(result.values());
         for(int i =0; i < mapKeys.size(); i++)
-            builder.append(mapKeys.get(i)+ " | " + mapValues.get(i) + "\n");
+            builder.append(mapKeys.get(i)).append(" | ").append(mapValues.get(i)).append("\n");
         return builder.toString();
     }
 
@@ -198,16 +220,20 @@ public class ResponseGenerator {
 
     private static List<GDLevel> getMostPopularFeatured(int diffCode) {
         List<GDLevel> list = new ArrayList<>();
-        int i = 0;
+        int levelsPage = 0;
+        boolean receivingLevels = true;
         try {
-
-            while (true) {
-                String res = GDServer.fetchRecentFeaturedLevels(i);
+            while (receivingLevels) {
+                String res = GDServer.fetchRecentFeaturedLevels(levelsPage);
+                if (res.equals("-1")) {
+                    receivingLevels = false;
+                    continue;
+                }
                 addingSelection(diffCode, list, res);
-                i++;
+                levelsPage++;
             }
         } catch (Exception e) {
-            logger.info("Levels limit reached!");
+            logger.error("Exception during connecting: ", e);
         }
         return list;
     }

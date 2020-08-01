@@ -160,21 +160,16 @@ public class GDSong {
     }
 
     @Override
+    public String toString() {
+        return "| " + songID + " | " + songAuthorName + " | " + songTitle + " | ";
+    }
+
+    @Override
     public int hashCode() {
         final int prime = 31;
         int result = 1;
         result = prime * result + (int) (songID ^ (songID >>> 32));
         return result;
-    }
-
-    @Override
-    public String toString() {
-        return "GDSong [songID=" + songID + ", songAuthorName=" + songAuthorName + ", songSize=" + songSize
-                + ", songTitle=" + songTitle + ", downloadURL=" + downloadURL + ", isCustom=" + isCustom + "]";
-    }
-
-    public String toListString() {
-        return "| " + songID + " | " + songAuthorName + " | " + songTitle + " | ";
     }
 
     @Override
