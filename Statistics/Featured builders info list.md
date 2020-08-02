@@ -1,6 +1,6 @@
 | Author | Count |
 |:---:|:---:|
-null | 342
+null | 340
 ViPriN | 130
 ZenthicAlpha | 106
 Serponge | 96
@@ -91,19 +91,19 @@ Torch121 | 29
 iLunaire | 28
 Manteex | 28
 BryanC2 | 28
+iiMinadronii | 27
 DanielDlc | 27
 RyanAB | 27
 Ax1ls | 27
+DepisH16 | 27
 Superopi | 27
 Dudex | 27
 RobzombiGD | 27
 DesTicY | 27
 AbstractDark | 27
-iiMinadronii | 26
 NASHII | 26
 Manix648 | 26
 OptaWolfGD | 26
-DepisH16 | 26
 M3nhHu3 | 26
 noobas | 26
 Florent | 26
@@ -119,10 +119,10 @@ Vesii | 25
 Picha | 25
 ChaSe | 24
 BranSilver | 24
+Waffl3X | 24
 Pauze | 24
 Noriega | 24
 Mineber | 23
-Waffl3X | 23
 Piseto | 23
 Texic | 23
 Subwoofer | 23
@@ -232,6 +232,7 @@ JacobROso | 17
 Fletzer | 17
 RoyalP | 17
 Klafterno | 17
+SandyTAC | 17
 PotatoBaby | 17
 Roli GD  | 16
 EpicMasta11 | 16
@@ -253,7 +254,7 @@ Flux | 16
 Vrymer | 16
 Neutronic | 16
 Lixars | 16
-SandyTAC | 16
+- | 15
 ByBoy 11 | 15
 Arysta | 15
 Gusearth | 15
@@ -318,7 +319,6 @@ Ellisha | 14
 iIFrostIi | 14
 MrZiedZ | 14
 ZecretDash | 13
-- | 13
 Ragnarus | 13
 HyperFlame | 13
 MrSpaghetti | 13
@@ -385,6 +385,7 @@ RNBW | 12
 Svyre | 12
 Optation | 12
 Kebabbo | 12
+TheRealSpex | 12
 xXLOCOXx | 12
 MaJackO | 12
 wlfn | 12
@@ -401,7 +402,6 @@ Akvaz | 11
 MattMrn | 11
 Angelism2 | 11
 Picaaaa | 11
-Vultra | 11
 MaykollGD | 11
 Pollapo | 11
 spuddles | 11
@@ -417,6 +417,7 @@ RayOriens | 11
 Platnuu | 11
 neogamerGD | 11
 PleoSlim RMD | 11
+VultraZero | 11
 Myo0 | 11
 AlexS2003 | 11
 rMaty | 11
@@ -427,7 +428,6 @@ Jabbagrullo | 11
 GrimScythe | 11
 ZenThriXGD | 11
 GrenAde | 11
-TheRealSpex | 11
 FastRefleksX | 11
 XanN | 11
 iZinaD4sh | 11
@@ -524,6 +524,7 @@ wless | 9
 crossblade | 9
 Stormfly | 9
 aLeLsito | 9
+gdtyo | 9
 Whitehead | 9
 icewither | 9
 Fofii | 9
@@ -611,7 +612,6 @@ ElEcmEtAl | 8
 chona026 | 8
 Supris | 8
 dhk2725 | 8
-gdtyo | 8
 Rlol | 8
 Jamzko | 8
 P4nther | 8
@@ -622,6 +622,7 @@ Minity | 8
 Stardevoir | 8
 ItsJustCohen | 8
 Ellixium | 8
+Zinht | 8
 Bluskys | 8
 Ludicrous | 8
 Brooken | 8
@@ -708,7 +709,6 @@ AyDiePay | 7
 lysk | 7
 Squared | 7
 FrostDragonGD | 7
-Zinht | 7
 Gamerespawn | 7
 Chavacado | 7
 NukeIIX | 7
@@ -811,6 +811,7 @@ Caspri | 6
 cronibet | 6
 HelpegasuS | 6
 FGHJapan | 6
+Gdvexes | 6
 Zircone | 6
 OpticalFox | 6
 RikLymback | 6
@@ -959,7 +960,6 @@ iISpaceDustIi | 5
 Negat | 5
 EmyX | 5
 LakiFarux | 5
-Gdvexes | 5
 midas | 5
 UlbomE | 5
 Dasher3000 | 5
@@ -1128,7 +1128,6 @@ LeynarMusic | 4
 Geonox | 4
 Juanzy | 4
 Dominuus | 4
-Aesuki | 4
 Enceladus GD | 4
 iIBlueMoonIi | 4
 JaoDay | 4
@@ -1300,6 +1299,7 @@ iSonicSpeedi | 4
 LaxHDz | 4
 theGoT | 4
 KingKingman01 | 4
+MattyBeast | 4
 TheLasaga | 4
 RayRayReig | 4
 Hamix | 4
@@ -1438,7 +1438,6 @@ UvonuctV | 3
 TrmGD | 3
 SerpTop | 3
 Eduptal | 3
-SCOCATGD | 3
 clique | 3
 Sigma | 3
 Elih3l | 3
@@ -1526,6 +1525,7 @@ rwichy77 | 3
 lujian | 3
 PauF | 3
 SyQual | 3
+BelonziK | 3
 Emoraled | 3
 Bizaare | 3
 Natteboss | 3
@@ -1583,6 +1583,7 @@ GD Arctic | 3
 PSAY | 3
 xSanni | 3
 Nekotik | 3
+SCOCAT | 3
 Cheetahx | 3
 KR0N0S | 3
 PocketG | 3
@@ -2027,7 +2028,6 @@ Slipiao | 2
 Parallax | 2
 Volander15 | 2
 tricks33 | 2
-BelonziK | 2
 adelrocky | 2
 JuanSky | 2
 ZeptonixGD | 2
@@ -2222,6 +2222,7 @@ YMighty | 1
 Toughfey | 1
 Kirion | 1
 NaimNaro | 1
+Aetrn | 1
 iEloy | 1
 damianwc | 1
 Aywa | 1
@@ -2333,6 +2334,7 @@ Frozec | 1
 Xjlegend | 1
 Shantak | 1
 ArathhSA | 1
+Esencia | 1
 Barlem | 1
 Wizardlyy | 1
 Blasting Ant | 1
@@ -2464,7 +2466,6 @@ pusnine | 1
 EmilJsson | 1
 epiclight | 1
 Kev | 1
-HyeMi | 1
 Xyriak | 1
 npesta | 1
 Mr Krugger | 1
@@ -3210,7 +3211,6 @@ Snaiky | 1
 Xiel | 1
 monkeybazooka | 1
 IIExenityII | 1
-Xenots | 1
 Sufi2425 | 1
 boxtroll | 1
 Tribar | 1
@@ -3480,6 +3480,7 @@ Gabriel | 1
 FrostSavage | 1
 Keigth08 | 1
 Nazor | 1
+PariThePlatypus | 1
 MadManga | 1
 XoVaK | 1
 polarmanzues | 1
@@ -3503,6 +3504,7 @@ Mr4y4eJ10 | 1
 SlushiiDash | 1
 Rzix | 1
 Rangerlust | 1
+66696969 | 1
 AltairGalaxy | 1
 megalivvy125 | 1
 KarikioX7gd | 1
@@ -3571,6 +3573,7 @@ swgetti jolog | 1
 bassiegames | 1
 iIiEupeNoxiIi | 1
 Diabeticus | 1
+Rann0x | 1
 TheHabanero | 1
 KireiMirai | 1
 Distact | 1

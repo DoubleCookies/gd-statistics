@@ -122,10 +122,10 @@ public class ResponseGenerator {
     private static ArrayList<String> generateMusicList(List<GDLevel> levels) {
         int counter = 0;
         StringBuilder simpleBuilder = new StringBuilder();
-        simpleBuilder.append("| Name | Author | ID | Count |\n");
+        simpleBuilder.append("| ID | Author | Name | Count |\n");
         simpleBuilder.append("|:---:|:---:|:---:|:---:|\n");
         StringBuilder additionalBuilder = new StringBuilder();
-        additionalBuilder.append("| Name | Author | ID | Count | Level IDs |\n");
+        additionalBuilder.append("| ID | Author | Name | Count | Level IDs |\n");
         additionalBuilder.append("|:---:|:---:|:---:|:---:|:---:|\n");
         HashMap<GDSong, Integer> audio = new HashMap<>();
         HashMap<GDSong, ArrayList<Long>> audioLevelIds = new HashMap<>();

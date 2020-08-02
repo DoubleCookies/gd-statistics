@@ -1,4 +1,4 @@
-#### Total: 2495 levels
+#### Total: 2496 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -1019,6 +1019,7 @@
 | Banished | SirHadoken | 34715086 | 94 | I wanted to escape my rainbow-y comfort zone, so I made a horror level. For the Bossfight CC1.
 | Dragon Claws | Piseto | 32737350 | 94 | "Can you defeat the Dragon Boss?". 40k Obj, my best?. Dedicated to Izhar.  LDM added. Enjoy =)
 | Danger Zone | GD Jose | 28677296 | 94 | Welcome to the Danger Zone of the Lava Gauntlet... can you survive ?... video in YT Channel :v
+| W0rk | SandyTAC | 63099070 | 93 | Another solo level, dedicated to EfrainGDM, ElixiumGD, DhrAw, BlueSpace and Brindikz, ENJOY!!
 | liMbo Machine | AleXins | 62773037 | 93 | An experimental and simple level, with some ideas that I wanted to implement and others more.
 | Jeiking | AleXins | 60414985 | 93 | Dedicated to the creator of the beautiful music DjstormblastXl. And Jeiking a great friend :)
 | Aura | Serponge | 57368204 | 93 | Finally a new level (ft. XenderGame boss)    Video on my channel with the level story in desc
