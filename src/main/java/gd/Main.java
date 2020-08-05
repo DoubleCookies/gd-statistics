@@ -1,7 +1,6 @@
 package gd;
 
 import gd.enums.SortingCode;
-import gd.model.EmptyListException;
 import org.apache.log4j.Logger;
 
 import java.io.FileOutputStream;
@@ -14,22 +13,21 @@ public class Main {
 
     final static Logger logger = Logger.getLogger(Main.class);
 
-    public static void main(String[] args) throws EmptyListException {
-
+    public static void main(String[] args) {
         processFeatured(SortingCode.DEFAULT.getValue());
         processEpic(SortingCode.DEFAULT.getValue());
         generateTopDemons();
     }
 
-    private static void processFeatured(int sortingCode) throws EmptyListException {
+    private static void processFeatured(int sortingCode) {
         String[] res = ResponseGenerator.processLevels(sortingCode);
         if (res == null) {
+            logger.warn("Featured levels list is empty! No changes were made.");
             return;
         }
-        for(int j = 0; j < 11; j++)
-        {
-            String prefix = getDifficultName(j+1) + " featured";
-            writeToFile(sortingCode, prefix, j+1, res[j].getBytes());
+        for (int j = 0; j < 11; j++) {
+            String prefix = getDifficultName(j + 1) + " featured";
+            writeToFile(sortingCode, prefix, j + 1, res[j].getBytes());
         }
         writeToFile(sortingCode, "Featured", 0, res[11].getBytes());
         writeToFile(SortingCode.LONGEST_DESCRIPTION.getValue(), "Featured", 0, res[12].getBytes());
@@ -39,12 +37,15 @@ public class Main {
         logger.info("All featured lists are finished");
     }
 
-    private static void processEpic(int sortingCode) throws EmptyListException {
+    private static void processEpic(int sortingCode) {
         String[] res = ResponseGenerator.processLevels(sortingCode);
-        for(int j = 0; j < 11; j++)
-        {
-            String prefix = getDifficultName(j+1) + " epic";
-            writeToFile(sortingCode, prefix, j+1, res[j].getBytes());
+        if (res == null) {
+            logger.warn("Epic levels list is empty! No changes were made.");
+            return;
+        }
+        for (int j = 0; j < 11; j++) {
+            String prefix = getDifficultName(j + 1) + " epic";
+            writeToFile(sortingCode, prefix, j + 1, res[j].getBytes());
         }
         writeToFile(sortingCode, "Epic", 0, res[11].getBytes());
         writeToFile(SortingCode.LONGEST_DESCRIPTION.getValue(), "Epic", 0, res[12].getBytes());
@@ -55,8 +56,12 @@ public class Main {
     }
 
     private static void generateTopDemons() {
-        String[] res = ResponseGenerator.generateTopDemonsList();
-        writeToFile(SortingCode.DEFAULT.getValue(), "Top 50 popular demons", 0, res[0].getBytes());
+        String res = ResponseGenerator.generateTopDemonsList();
+        if (res.isEmpty()) {
+            return;
+        }
+        writeToFile(SortingCode.DEFAULT.getValue(), "Top 50 popular demons", 0, res.getBytes());
+        logger.info("Top-50 demon list finished");
     }
 
 
@@ -75,47 +80,86 @@ public class Main {
         FileOutputStream out;
         String baseFolder = "Statistics";
         Path path = Paths.get(baseFolder);
-        if(!Files.exists(path))
+        if (!Files.exists(path))
             Files.createDirectories(path);
-        baseFolder +="/";
+        baseFolder += "/";
         String folder = getDifficultName(diffcode);
-        String secondFolder="";
-        if(!folder.equals(""))
-        {
+        String secondFolder = "";
+        if (!folder.equals("")) {
             String p = "Statistics/" + folder.trim();
             path = Paths.get(p);
-            if(!Files.exists(path))
+            if (!Files.exists(path))
                 Files.createDirectories(path);
-            secondFolder=folder + "/";
+            secondFolder = folder + "/";
         }
 
-        switch (sortingCode)
-        {
-            case 1: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending likes" + ".md"); break;}
-            case 2: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending likes" + ".md"); break;}
-            case 3: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending downloads" + ".md"); break;}
-            case 4: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending downloads" + ".md"); break;}
-            case 5: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with longest descriptions" + ".md"); break;}
-            default: { out = new FileOutputStream(baseFolder + secondFolder + prefix + " list" + ".md"); break;}
+        switch (sortingCode) {
+            case 1: {
+                out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending likes" + ".md");
+                break;
+            }
+            case 2: {
+                out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending likes" + ".md");
+                break;
+            }
+            case 3: {
+                out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with descending downloads" + ".md");
+                break;
+            }
+            case 4: {
+                out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with ascending downloads" + ".md");
+                break;
+            }
+            case 5: {
+                out = new FileOutputStream(baseFolder + secondFolder + prefix + " list with longest descriptions" + ".md");
+                break;
+            }
+            default: {
+                out = new FileOutputStream(baseFolder + secondFolder + prefix + " list" + ".md");
+                break;
+            }
         }
         return out;
     }
 
     private static String getDifficultName(int number) {
-        switch (number)
-        {
-            case 1: {return "Auto";}
-            case 2: {return "Easy";}
-            case 3: {return "Normal";}
-            case 4: {return "Hard";}
-            case 5: {return "Harder";}
-            case 6: {return "Insane";}
-            case 7: {return "Easy demon";}
-            case 8: {return "Medium demon";}
-            case 9: {return "Hard demon";}
-            case 10: {return "Insane demon";}
-            case 11: {return "Extreme demon";}
-            default: {return "";}
+        switch (number) {
+            case 1: {
+                return "Auto";
+            }
+            case 2: {
+                return "Easy";
+            }
+            case 3: {
+                return "Normal";
+            }
+            case 4: {
+                return "Hard";
+            }
+            case 5: {
+                return "Harder";
+            }
+            case 6: {
+                return "Insane";
+            }
+            case 7: {
+                return "Easy demon";
+            }
+            case 8: {
+                return "Medium demon";
+            }
+            case 9: {
+                return "Hard demon";
+            }
+            case 10: {
+                return "Insane demon";
+            }
+            case 11: {
+                return "Extreme demon";
+            }
+            default: {
+                return "";
+            }
         }
     }
 }

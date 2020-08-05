@@ -95,6 +95,7 @@
 | 678590 | ForeverBound | Harmony of the Heart | 4 | 35003644; 30225532; 30166527; 44934055
 | 785100 | cloudfield | cloudfield - Fantasy (ft. Reichuu) | 4 | 48075410; 41678017; 60679881; 57175978
 | 541404 | Stratales | Flavored Ice | 4 | 42658270; 40202946; 43149681; 60569568
+| 787153 | LemKuuja | Ouais Ouais (ft. SlyLeaf) | 4 | 59626284; 61030693; 48960397; 63169775
 | 713536 | BurgeraX | BurgeraX: Scorpion [Drum & Bass] | 4 | 34379100; 47234639; 56852608; 37489485
 | 684892 | meganeko | TAK - PAE-KI (meganeko Remix) | 4 | 41939387; 33863073; 34869321; 43240913
 | 570208 | basheman | Like a Blast! | 4 | 42074338; 42704288; 37386305; 44792953
@@ -188,7 +189,6 @@
 | 576177 | Acid-Notation | ---Accelerate--- | 3 | 48480016; 45527865; 57358777
 | 785099 | cloudfield | cloudfield - Dream (ft. Hiroto x Luna) | 3 | 56525293; 55015955; 44133646
 | 746191 | Codly | Rie Takahashi - Stay Alive (Luan x Codly Remix) | 3 | 49718667; 50645653; 54546762
-| 787153 | LemKuuja | Ouais Ouais (ft. SlyLeaf) | 3 | 59626284; 61030693; 48960397
 | 805587 | Xomu10 | Lanterns | 3 | 54795218; 50634140; 57564910
 | 746216 | 1f1n1ty | Peaks | 3 | 60973537; 55637062; 57694709
 | 590577 | ForeverBound | Stereo Madness 2 | 3 | 51222550; 57885141; 40555200
@@ -273,7 +273,6 @@
 | 368392 | dj-Nate | {dj-N} Electrodynamix | 3 | 35011787; 47221469; 38357498
 | 857863 | alexizgd | ALESDA! - Back To You | 3 | 56452153; 56255833; 58038834
 | 771866 | ThisIsTheFatRat | TheFatRat - Oblivion (feat. Lola Blanc) | 3 | 49435684; 41469085; 61953375
-| 667445 | LawnReality | Lonely Voyage | 3 | 58604516; 48035323; 58663727
 | 763723 | Waterflame | -Mainspring- | 3 | 45142485; 42497026; 56722428
 | 733008 | Namice | Harmonies | 3 | 38435501; 54342252; 54994021
 | 771905 | Sharks | Said - Dancing (Sharks Remix) | 3 | 40829615; 39122651; 38912874
@@ -296,6 +295,7 @@
 | -20 | F-777 | Deadlocked | 2 | 38150633; 38786978
 | 700441 | Lockyn | EEK! + Lockyn - Glacier Galaxy | 2 | 39961775; 42866695
 | 579626 | Elephly | Bash | 2 | 48872009; 55131643
+| 862252 | lukhash | WALKMAN | 2 | 63087691; 63148614
 | 626745 | akopa | Warpspeed | 2 | 30559780; 49636329
 | 872497 | dirtypawsofficial | DirtyPaws & ELEPS - Double Trouble (Original Mix) | 2 | 59003333; 57134023
 | 858189 | DerpCatOfficial | Derpcat - Paranormal | 2 | 57964922; 60140618
@@ -559,6 +559,7 @@
 | 589601 | Jumper | Aether (new) | 2 | 60012099; 34362654
 | 663334 | Cacola | Yellow and Purple | 2 | 36667269; 53650457
 | 700211 | ColBreakz | ColBreakz - 2011 | 2 | 27148456; 28225110
+| 667445 | LawnReality | Lonely Voyage | 2 | 48035323; 58663727
 | 730960 | KaixoMusic | Isogon (Original Mix) | 2 | 31808358; 50491043
 | 710468 | 1AHN | IAHN - Uppity Cat | 2 | 59365038; 59285031
 | 794460 | Ilrell | [Electro/Bass House] Homestuck - Beatdown (Strider Style) | Ilrell Remix | 2 | 57254147; 57028176
@@ -590,6 +591,7 @@
 | 815088 | ColBreakz | ColBreakz - Galaxy | 1 | 47893850
 | 937964 | alexizgd | ALESDA! - Never Let Me Go | 1 | 62183661
 | 751598 | Dovax | Dovax - Desert Bounce | 1 | 36500807
+| 835557 | Lapse | Reentry+ | 1 | 63153955
 | 831457 | DJStriden | Blue Moon [Trance] | 1 | 52836737
 | 860153 | HeyJellyBear | BRAINWAVE | 1 | 59613028
 | 665585 | ACXLE | Nanobyte (original by Austin C) | 1 | 46705022
@@ -622,7 +624,6 @@
 | 798747 | F-777 | F-777 - Medusa | 1 | 57078617
 | 555026 | SKILLZmakeKILLZ | SmK - Reanimated | 1 | 32371324
 | 921619 | Lockyn | Everlasting | 1 | 62294737
-| 862252 | lukhash | WALKMAN | 1 | 63087691
 | 792620 | dirtypawsofficial | DirtyPaws - ALIEN (Original Mix) | 1 | 49942943
 | 798764 | F-777 | F-777 - Dubstepah | 1 | 46575191
 | 872483 | TardisPeanutMusic | Astedroid - Take Me Away | 1 | 57355108
@@ -932,6 +933,7 @@
 | 627564 | ForeverBound | Stereo Madness (2015) | 1 | 31944232
 | 754537 | ggaero | Gaero - Cobra | 1 | 56247762
 | 818027 | treepalm | Her Name Is ???Lady | 1 | 57471947
+| 912235 | ThisIsTheFatRat | TheFatRat & Maisy Kay - The Storm | 1 | 63155798
 | 918375 | Astral7 | Astral, Tree Palm - I wanna be with you (w/ Corex) | 1 | 61014581
 | 889704 | GDTrickshot | Trickshot - RVIT | 1 | 57295910
 | 793443 | DMDOKURO | Universal Collapse | 1 | 57334967
@@ -1191,6 +1193,7 @@
 | 589289 | dexarson | [ Payload ] | 1 | 29394058
 | 845290 | HeyJellyBear | Breaking Point | 1 | 56474020
 | 937452 | IyuriI | simple | 1 | 62554311
+| 833000 | Koraii | Rosen Grove | 1 | 58604516
 | 701947 | mistmurk | sunset breath | 1 | 55809935
 | 759290 | alexizgd | ALESDA! - STMS Nation | 1 | 52257635
 | 581117 | ShirkMusic | Bird of Prey | 1 | 43531807

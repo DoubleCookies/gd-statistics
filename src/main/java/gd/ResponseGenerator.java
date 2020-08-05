@@ -3,7 +3,6 @@ package gd;
 import gd.enums.DemonDifficulty;
 import gd.enums.Difficulty;
 import gd.enums.SortingCode;
-import gd.model.EmptyListException;
 import gd.model.GDLevel;
 import gd.model.GDSong;
 import org.apache.log4j.Logger;
@@ -28,16 +27,14 @@ public class ResponseGenerator {
     private static List<GDLevel> levels;
 
     static String[] processLevels(int sortingCode) {
-        if(levels == null) {
+        if (levels == null) {
             logger.info("Receiving featured levels list...");
             levels = getMostPopularFeatured(sortingCode);
-        }
-        else {
+        } else {
             logger.info("Filter epic levels...");
             levels.removeIf(item -> !item.isEpic());
         }
-        if(levels == null || levels.size() == 0) {
-            logger.warn("Levels list is empty! No changes were made.");
+        if (levels == null || levels.size() == 0) {
             return null;
         }
         logger.info("List received. Total " + levels.size() + " levels.");
@@ -60,26 +57,23 @@ public class ResponseGenerator {
         String[] stringArray = new String[length];
         StringBuilder[] builders = new StringBuilder[length];
         int[] counter = new int[length];
-        for(int i = 0; i < length; i++)
-        {
+        for (int i = 0; i < length; i++) {
             builders[i] = new StringBuilder();
             builders[i].append("| Name | Creator | ID | Downloads | Likes |\n");
             builders[i].append("|:---:|:---:|:---:|:---:|:---:|\n");
         }
-        for(GDLevel level : levels)
-        {
+        for (GDLevel level : levels) {
             int i = returnDiff(level);
             builders[i].append(level.markdownString()).append("\n");
             counter[i]++;
             builders[length - 1].append(level.markdownString()).append("\n");
         }
-        for(int i = 0; i < length-1; i++)
-        {
+        for (int i = 0; i < length - 1; i++) {
             builders[i].insert(0, "#### Total: " + counter[i] + " levels\n\n");
             stringArray[i] = builders[i].toString();
         }
-        builders[length-1].insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
-        stringArray[length-1] = builders[length-1].toString();
+        builders[length - 1].insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
+        stringArray[length - 1] = builders[length - 1].toString();
 
         return Arrays.asList(stringArray);
     }
@@ -90,8 +84,7 @@ public class ResponseGenerator {
         builder.append("| Name | Creator | ID | Length | Description |\n");
         builder.append("|:---:|:---:|:---:|:---:|:---:|\n");
         sortLevelList(levels, SortingCode.LONGEST_DESCRIPTION.getValue());
-        for(GDLevel level : levels)
-        {
+        for (GDLevel level : levels) {
             builder.append(level.markdownWithDescriptionString()).append("\n");
             counter++;
         }
@@ -99,24 +92,22 @@ public class ResponseGenerator {
         return builder.toString();
     }
 
-    static String[] generateTopDemonsList() {
-        String[] stringArray = new String[1];
+    static String generateTopDemonsList() {
         int counter = 0;
         StringBuilder builder = new StringBuilder();
+        List<GDLevel> list = getMostPopularDemons();
+        if (list.size() == 0)
+            return "";
         builder.append("| Name | Creator | ID | Downloads | Likes |\n");
         builder.append("|:---:|:---:|:---:|:---:|:---:|\n");
-        List<GDLevel> list = getMostPopularDemons();
-        for(GDLevel level : list)
-        {
-            if(counter < 50)
-            {
+        for (GDLevel level : list) {
+            if (counter < 50) {
                 builder.append(level.markdownString()).append("\n");
                 counter++;
             }
         }
         builder.insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
-        stringArray[0] = builder.toString();
-        return stringArray;
+        return builder.toString();
     }
 
     private static ArrayList<String> generateMusicList(List<GDLevel> levels) {
@@ -130,8 +121,7 @@ public class ResponseGenerator {
         HashMap<GDSong, Integer> audio = new HashMap<>();
         HashMap<GDSong, ArrayList<Long>> audioLevelIds = new HashMap<>();
         GDSong songId;
-        for(GDLevel level : levels)
-        {
+        for (GDLevel level : levels) {
             songId = level.getGdSong();
             long levelId = level.getId();
             if (songId == null) {
@@ -139,9 +129,9 @@ public class ResponseGenerator {
             } else {
                 ArrayList<Long> arrayListData = audioLevelIds.get(songId);
                 if (audio.containsKey(songId)) {
-                    audio.put(songId,  audio.get(songId) + 1);
+                    audio.put(songId, audio.get(songId) + 1);
                 } else {
-                    audio.put(songId,  1);
+                    audio.put(songId, 1);
                     arrayListData = new ArrayList<>();
                 }
                 arrayListData.add(levelId);
@@ -175,12 +165,11 @@ public class ResponseGenerator {
         builder.append("| Author | Count |\n");
         builder.append("|:---:|:---:|\n");
         HashMap<String, Integer> audio = new HashMap<>();
-        for(GDLevel level : levels)
-        {
-            if(audio.containsKey(level.getCreator()))
-                audio.put(level.getCreator(),  audio.get(level.getCreator()) + 1);
+        for (GDLevel level : levels) {
+            if (audio.containsKey(level.getCreator()))
+                audio.put(level.getCreator(), audio.get(level.getCreator()) + 1);
             else
-                audio.put(level.getCreator(),  1);
+                audio.put(level.getCreator(), 1);
         }
         Map<String, Integer> result = audio.entrySet().stream()
                 .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
@@ -188,7 +177,7 @@ public class ResponseGenerator {
                         (oldValue, newValue) -> oldValue, LinkedHashMap::new));
         List<String> mapKeys = new ArrayList<>(result.keySet());
         List<Integer> mapValues = new ArrayList<>(result.values());
-        for(int i =0; i < mapKeys.size(); i++)
+        for (int i = 0; i < mapKeys.size(); i++)
             builder.append(mapKeys.get(i)).append(" | ").append(mapValues.get(i)).append("\n");
         return builder.toString();
     }
@@ -202,19 +191,18 @@ public class ResponseGenerator {
                 String res = GDServer.fetchMostPopularLevels(i);
                 for (int j = 0; j < 10; j++) {
                     GDLevel level = getLevel(j, res);
-                    if (level != null && level.getDifficulty() == Difficulty.DEMON){
+                    if (level != null && level.getDifficulty() == Difficulty.DEMON) {
                         list.add(level);
                         count++;
                     }
-                    if(count > 50)
+                    if (count > 50)
                         break;
                 }
                 i++;
             }
         } catch (Exception e) {
-            logger.info("Levels limit reached!");
+            logger.error("Exception during connecting: " + e);
         }
-        logger.info("Top-50 demon list finished");
         return list;
     }
 
@@ -233,7 +221,7 @@ public class ResponseGenerator {
                 levelsPage++;
             }
         } catch (Exception e) {
-            logger.error("Exception during connecting: ", e);
+            logger.error("Exception during connecting: " + e);
         }
         return list;
     }
@@ -267,40 +255,88 @@ public class ResponseGenerator {
     }
 
     private static void addingSelection(int diffCode, List<GDLevel> list, String res) {
-        switch (diffCode)
-        {
-            case 1: { addLevelsToList(list, res, Difficulty.AUTO); break;}
-            case 2: { addLevelsToList(list, res, Difficulty.EASY); break;}
-            case 3: { addLevelsToList(list, res, Difficulty.NORMAL); break;}
-            case 4: { addLevelsToList(list, res, Difficulty.HARD); break;}
-            case 5: { addLevelsToList(list, res, Difficulty.HARDER); break;}
-            case 6: { addLevelsToList(list, res, Difficulty.INSANE); break;}
-            case 7: { addLevelsToList(list, res, DemonDifficulty.EASY); break;}
-            case 8: { addLevelsToList(list, res, DemonDifficulty.MEDIUM); break;}
-            case 9: { addLevelsToList(list, res, DemonDifficulty.HARD); break;}
-            case 10: { addLevelsToList(list, res, DemonDifficulty.INSANE); break;}
-            case 11: { addLevelsToList(list, res, DemonDifficulty.EXTREME); break;}
-            default: { addLevelsToList(list, res); break;}
+        switch (diffCode) {
+            case 1: {
+                addLevelsToList(list, res, Difficulty.AUTO);
+                break;
+            }
+            case 2: {
+                addLevelsToList(list, res, Difficulty.EASY);
+                break;
+            }
+            case 3: {
+                addLevelsToList(list, res, Difficulty.NORMAL);
+                break;
+            }
+            case 4: {
+                addLevelsToList(list, res, Difficulty.HARD);
+                break;
+            }
+            case 5: {
+                addLevelsToList(list, res, Difficulty.HARDER);
+                break;
+            }
+            case 6: {
+                addLevelsToList(list, res, Difficulty.INSANE);
+                break;
+            }
+            case 7: {
+                addLevelsToList(list, res, DemonDifficulty.EASY);
+                break;
+            }
+            case 8: {
+                addLevelsToList(list, res, DemonDifficulty.MEDIUM);
+                break;
+            }
+            case 9: {
+                addLevelsToList(list, res, DemonDifficulty.HARD);
+                break;
+            }
+            case 10: {
+                addLevelsToList(list, res, DemonDifficulty.INSANE);
+                break;
+            }
+            case 11: {
+                addLevelsToList(list, res, DemonDifficulty.EXTREME);
+                break;
+            }
+            default: {
+                addLevelsToList(list, res);
+                break;
+            }
         }
     }
 
-    private static int returnDiff(GDLevel gdLevel)
-    {
+    private static int returnDiff(GDLevel gdLevel) {
         // -1; Difficulty 0 = NA, which is unused in featured and epic
         int code = Difficulty.valueOf(gdLevel.getDifficulty().toString()).ordinal() - 1;
-        if(code == 6)
+        if (code == 6)
             code += DemonDifficulty.valueOf(gdLevel.getDemonDifficulty().toString()).ordinal();
         return code;
     }
 
     private static void sortLevelList(List<GDLevel> list, int code) {
-        switch (code)
-        {
-            case 1: { list.sort(descendingLikesComparator); break;}
-            case 2: { list.sort(ascendingLikesComparator); break;}
-            case 3: { list.sort(descendingDownloadsComparator); break;}
-            case 4: { list.sort(ascendingDownloadsComparator); break;}
-            case 5: { list.sort(descriptionLengthComparator); break;}
+        switch (code) {
+            case 1: {
+                list.sort(descendingLikesComparator);
+                break;
+            }
+            case 2: {
+                list.sort(ascendingLikesComparator);
+                break;
+            }
+            case 3: {
+                list.sort(descendingDownloadsComparator);
+                break;
+            }
+            case 4: {
+                list.sort(ascendingDownloadsComparator);
+                break;
+            }
+            case 5: {
+                list.sort(descriptionLengthComparator);
+                break;
+            }
         }
     }
 }

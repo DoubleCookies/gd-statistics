@@ -55,6 +55,7 @@ Torch121 | 10
 Noweek | 10
 Berkoo | 10
 Vesii | 10
+TheAlmightyWave | 10
 Lapis | 10
 Alex112300 | 9
 Ferdefunky | 9
@@ -63,7 +64,6 @@ JefryKawaii | 9
 Waffl3X | 9
 Manix648 | 9
 EnZore | 9
-TheAlmightyWave | 9
 ZecretDash | 8
 Hyenada | 8
 Filaret | 8
@@ -121,8 +121,8 @@ Chayper | 6
 Jirk | 6
 ChiN3x | 5
 M3nhHu3 | 5
-NukAnnguq | 5
 Jghost | 5
+speedfreak | 5
 FrostDragonGD | 5
 RyanAB | 5
 SleyGD | 5
@@ -141,6 +141,7 @@ AmorAltra | 5
 jacr360 | 5
 icewither | 5
 flash | 5
+FUNKYpersy | 5
 AbstractDark | 5
 Erdyuri | 5
 ILRELL | 5
@@ -152,7 +153,6 @@ BlueRimz | 5
 SkCray Ace | 5
 Diamondgirl01 | 5
 EpicMasta11 | 5
-sPooMi | 5
 ViP3r | 5
 Daivrt | 5
 Codex | 5
@@ -178,6 +178,7 @@ Spoby | 4
 Underings | 4
 Regulus24 | 4
 ReYzen | 4
+Wulzy | 4
 Spectex | 4
 Alkatreize | 4
 LandonGMD | 4
@@ -240,7 +241,6 @@ Fury0313 | 3
 CactusDimension | 3
 BlUhOl | 3
 Geom3zon | 3
-Wulzy | 3
 Reunomi | 3
 ScorchVx | 3
 kr1t | 3
@@ -596,6 +596,7 @@ Nevec | 1
 Crombie | 1
 zejoant | 1
 SupamarioXx | 1
+DYZEX | 1
 Dastan21 | 1
 elze | 1
 YuureiGD | 1
@@ -706,6 +707,7 @@ Dams778 | 1
 gwbocajuniors | 1
 70UNIKITTY | 1
 fishtoon | 1
+MintyLeaf | 1
 G3ingo | 1
 Vioxgaming | 1
 BoneSoup | 1
