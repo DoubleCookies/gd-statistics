@@ -17,7 +17,7 @@ import java.util.stream.IntStream;
  * @author Killhtf
  */
 public class ResponseGenerator {
-    final static Logger logger = Logger.getLogger(ResponseGenerator.class);
+    private static final Logger logger = Logger.getLogger(ResponseGenerator.class);
     private static final Comparator<GDLevel> descendingLikesComparator = (o1, o2) -> (int) (o2.getLikes() - o1.getLikes());
     private static final Comparator<GDLevel> ascendingLikesComparator = (o1, o2) -> (int) (o1.getLikes() - o2.getLikes());
     private static final Comparator<GDLevel> descendingDownloadsComparator = (o1, o2) -> (int) (o2.getDownloads() - o1.getDownloads());
@@ -63,7 +63,7 @@ public class ResponseGenerator {
             builders[i].append("|:---:|:---:|:---:|:---:|:---:|\n");
         }
         for (GDLevel level : levels) {
-            int i = returnDiff(level);
+            int i = returnLevelDifficultyNumber(level);
             builders[i].append(level.markdownString()).append("\n");
             counter[i]++;
             builders[length - 1].append(level.markdownString()).append("\n");
@@ -206,7 +206,7 @@ public class ResponseGenerator {
         return list;
     }
 
-    private static List<GDLevel> getMostPopularFeatured(int diffCode) {
+    private static List<GDLevel> getMostPopularFeatured(int sortingCode) {
         List<GDLevel> list = new ArrayList<>();
         int levelsPage = 0;
         boolean receivingLevels = true;
@@ -217,12 +217,13 @@ public class ResponseGenerator {
                     receivingLevels = false;
                     continue;
                 }
-                addingSelection(diffCode, list, res);
+                addLevelsToList(list, res);
                 levelsPage++;
             }
         } catch (Exception e) {
             logger.error("Exception during connecting: " + e);
         }
+        sortLevelList(list, sortingCode);
         return list;
     }
 
@@ -234,80 +235,11 @@ public class ResponseGenerator {
         }
     }
 
-    private static void addLevelsToList(List<GDLevel> list, String res, Difficulty difficulty) {
-        for (int j = 0; j < 10; j++) {
-            GDLevel level = getLevel(j, res);
-            if (level != null && level.getDifficulty() == difficulty)
-                list.add(level);
-        }
-    }
-
-    private static void addLevelsToList(List<GDLevel> list, String res, DemonDifficulty demonDifficulty) {
-        for (int j = 0; j < 10; j++) {
-            GDLevel level = getLevel(j, res);
-            if (level != null && level.getDifficulty() == Difficulty.DEMON && level.getDemonDifficulty() == demonDifficulty)
-                list.add(level);
-        }
-    }
-
     private static GDLevel getLevel(int j, String res) {
         return GDLevelFactory.buildGDLevelSearchedByFilter(res, j, false);
     }
 
-    private static void addingSelection(int diffCode, List<GDLevel> list, String res) {
-        switch (diffCode) {
-            case 1: {
-                addLevelsToList(list, res, Difficulty.AUTO);
-                break;
-            }
-            case 2: {
-                addLevelsToList(list, res, Difficulty.EASY);
-                break;
-            }
-            case 3: {
-                addLevelsToList(list, res, Difficulty.NORMAL);
-                break;
-            }
-            case 4: {
-                addLevelsToList(list, res, Difficulty.HARD);
-                break;
-            }
-            case 5: {
-                addLevelsToList(list, res, Difficulty.HARDER);
-                break;
-            }
-            case 6: {
-                addLevelsToList(list, res, Difficulty.INSANE);
-                break;
-            }
-            case 7: {
-                addLevelsToList(list, res, DemonDifficulty.EASY);
-                break;
-            }
-            case 8: {
-                addLevelsToList(list, res, DemonDifficulty.MEDIUM);
-                break;
-            }
-            case 9: {
-                addLevelsToList(list, res, DemonDifficulty.HARD);
-                break;
-            }
-            case 10: {
-                addLevelsToList(list, res, DemonDifficulty.INSANE);
-                break;
-            }
-            case 11: {
-                addLevelsToList(list, res, DemonDifficulty.EXTREME);
-                break;
-            }
-            default: {
-                addLevelsToList(list, res);
-                break;
-            }
-        }
-    }
-
-    private static int returnDiff(GDLevel gdLevel) {
+    private static int returnLevelDifficultyNumber(GDLevel gdLevel) {
         // -1; Difficulty 0 = NA, which is unused in featured and epic
         int code = Difficulty.valueOf(gdLevel.getDifficulty().toString()).ordinal() - 1;
         if (code == 6)
@@ -316,6 +248,7 @@ public class ResponseGenerator {
     }
 
     private static void sortLevelList(List<GDLevel> list, int code) {
+        logger.info("sorting started");
         switch (code) {
             case 1: {
                 list.sort(descendingLikesComparator);
