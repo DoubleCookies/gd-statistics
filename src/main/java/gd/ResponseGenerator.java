@@ -248,7 +248,6 @@ public class ResponseGenerator {
     }
 
     private static void sortLevelList(List<GDLevel> list, int code) {
-        logger.info("sorting started");
         switch (code) {
             case 1: {
                 list.sort(descendingLikesComparator);
