@@ -4,7 +4,6 @@ package gd.model;
  * Represents a song used in GD levels
  *
  * @author Alex1304
- *
  */
 public class GDSong {
 
@@ -16,18 +15,12 @@ public class GDSong {
     private boolean isCustom;
 
     /**
-     * @param songID
-     *            - the song ID
-     * @param songAuthorName
-     *            - the song author name
-     * @param songSize
-     *            - the song author size
-     * @param songTitle
-     *            - the song title
-     * @param downloadURL
-     *            - link to the song audio file
-     * @param isCustom
-     *            - whether the song is custom
+     * @param songID         - the song ID
+     * @param songAuthorName - the song author name
+     * @param songSize       - the song author size
+     * @param songTitle      - the song title
+     * @param downloadURL    - link to the song audio file
+     * @param isCustom       - whether the song is custom
      */
     public GDSong(long songID, String songAuthorName, String songSize, String songTitle, String downloadURL, boolean isCustom) {
         this.songID = songID;
@@ -40,12 +33,10 @@ public class GDSong {
 
     /**
      * Quick constructor for non-custom songs
-     * @param id
-     *            - standard song Id
-     * @param songAuthorName
-     *            - the song author name
-     * @param songTitle
-     *            - the song title
+     *
+     * @param id             - standard song Id
+     * @param songAuthorName - the song author name
+     * @param songTitle      - the song title
      */
     public GDSong(int id, String songAuthorName, String songTitle) {
         this(id, songAuthorName, "", songTitle, "", false);
@@ -160,21 +151,16 @@ public class GDSong {
     }
 
     @Override
+    public String toString() {
+        return "| " + songID + " | " + songAuthorName + " | " + songTitle + " | ";
+    }
+
+    @Override
     public int hashCode() {
         final int prime = 31;
         int result = 1;
         result = prime * result + (int) (songID ^ (songID >>> 32));
         return result;
-    }
-
-    @Override
-    public String toString() {
-        return "GDSong [songID=" + songID + ", songAuthorName=" + songAuthorName + ", songSize=" + songSize
-                + ", songTitle=" + songTitle + ", downloadURL=" + downloadURL + ", isCustom=" + isCustom + "]";
-    }
-
-    public String toListString() {
-        return "| " + songID + " | " + songAuthorName + " | " + songTitle + " | ";
     }
 
     @Override
