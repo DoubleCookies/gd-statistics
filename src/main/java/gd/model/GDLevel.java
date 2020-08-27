@@ -8,7 +8,7 @@ import gd.enums.Difficulty;
  * Dash level are defined here (name, creator, difficulty, stars, length, etc)
  * 
  * @author Alex1304 (almost everything there)
- * @author Killhtf (different toString methods)
+ * @author DoubleCookies (different toString methods)
  */
 public class GDLevel {
 

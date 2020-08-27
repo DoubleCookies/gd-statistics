@@ -1,6 +1,6 @@
 # GDStatistics
 
-[![Build Status](https://travis-ci.org/killhtf/GDStatistics.svg?branch=master)](https://travis-ci.org/killhtf/GDStatistics)
+[![Build Status](https://travis-ci.org/DoubleCookies/GDStatistics.svg?branch=master)](https://travis-ci.org/DoubleCookies/GDStatistics)
 
 Tool for collecting statistics about Geometry Dash featured levels. Based on Alex1304 [ultimategdbot](https://github.com/alex1304/ultimategdbot) project.
 

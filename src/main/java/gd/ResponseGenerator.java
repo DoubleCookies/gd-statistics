@@ -15,7 +15,7 @@ import java.util.stream.IntStream;
 /**
  * Class for generating level lists
  *
- * @author Killhtf
+ * @author DoubleCookies
  */
 public class ResponseGenerator {
 
