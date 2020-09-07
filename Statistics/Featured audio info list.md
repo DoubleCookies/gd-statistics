@@ -1,4 +1,4 @@
-#### Total: 19096 levels
+#### Total: 19101 levels
 
 | ID | Author | Name | Count |
 |:---:|:---:|:---:|:---:|
@@ -139,6 +139,7 @@
 | 713137 | ThisIsTheFatRat | TheFatRat - Jackpot | 21
 | 157014 | ParagonX9 | ParagonX9 - Infiltration | 21
 | 444332 | dj-Nate | {dj-N} Robotic Nightmares | 21
+| 829776 | CreoMusic | Creo - Nautilus | 21
 | 584398 | F-777 | Cane Swinging | 21
 | 838726 | CreoMusic | Creo - Glome | 21
 | 586809 | Xtrullor | Xtrullor - Screamroom | 21
@@ -153,7 +154,6 @@
 | 582310 | dexarson | Machina | 20
 | 664602 | MadhouseDUDE | Team A | 20
 | 476613 | Waterflame | -Toxic sewers- | 20
-| 829776 | CreoMusic | Creo - Nautilus | 20
 | 493898 | Jumper | [J] - Solar Wind | 20
 | 732009 | hyperdemented | Creo - Rivals | 20
 | 117947 | TMM43 | [TMM43] Eurodancer | 20
@@ -1132,6 +1132,7 @@
 | 877508 | Xorberax | ???????????? <loop> | 4
 | 803906 | JoarZ | GLRE - "Drift" (Original Mix) | 4
 | 410730 | Fantomenk | Taking A Nap In The Jungle | 4
+| 664736 | Xtrullor | Xtrullor - Terran Era | 4
 | 697643 | Waterflame | -Below- | 4
 | 296234 | Rawrthaas | Awake - Supernova | 4
 | 591208 | steampianist | Secrets of Wysteria | 4
@@ -1296,6 +1297,7 @@
 | 490479 | Gls | Flawless Wings of Yatagarasu | 4
 | 646113 | Lockyn | Hiatus | 4
 | 695272 | MadhouseDUDE | Transform | 4
+| 187443 | DjKavi | {Kavi} Horntail (Dnb Mix) | 4
 | 875569 | Acid-Notation | Lights, Camera, Action! Remix | 4
 | 605321 | DJStriden | Density | 4
 | 433359 | Waterflame | -Killstealer- | 4
@@ -1352,7 +1354,6 @@
 | 779227 | 3RUPTIONGamez | ~Eruption - Rose | 3
 | 508935 | shadow6nothing9 | Our Darkest Dream -Piano | 3
 | 631860 | Djjaner | Geometry Dash | 3
-| 664736 | Xtrullor | Xtrullor - Terran Era | 3
 | 664777 | Ravitex | ParagonX9 - Chaoz Fantasy (Ravitex Remix) | 3
 | 591058 | DJStriden | Decide | 3
 | 509162 | Geoplex | -Cloudburst- | 3
@@ -1572,7 +1573,6 @@
 | 465909 | Rukkus | ~NK~ Evil | 3
 | 523299 | DuttonsaysHi | Colours | 3
 | 875582 | Namice | Ocean Current | 3
-| 187443 | DjKavi | {Kavi} Horntail (Dnb Mix) | 3
 | 719978 | DjHoneyb | Mecqueline - A Blossom but not sane. | 3
 | 744585 | SpazeOfficial | Spaze - Eternal Demo Winter | 3
 | 720020 | windluxmusic | Karaplex - Between Worlds | 3
@@ -2727,6 +2727,8 @@
 | 739917 | SpazeUnofficial | Spaze Unofficial - Its Time  MagicHype | 1
 | 715333 | Zelgeon | Hopes and Casins | 1
 | 272981 | MilkGilk | Harry Potter Theme -Desu- | 1
+| 862802 | lukhash | ALL NIGHT LONG | 1
+| 862801 | lukhash | GHOSTS | 1
 | 772718 | KestutisK | Rain Dance | 1
 | 354925 | NemesisTheory | Still Blastin | 1
 | 592483 | OpenLight | Unending Horizon | 1

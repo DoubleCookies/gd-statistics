@@ -1,8 +1,8 @@
 | ID | Author | Name | Count | Level IDs |
 |:---:|:---:|:---:|:---:|:---:|
+| 829776 | CreoMusic | Creo - Nautilus | 9 | 57950411; 61974149; 57011270; 57883920; 63553770; 57321084; 58836857; 56607164; 56509088
 | 643870 | DeadRewind | Detious & Lockyn - Allure | 9 | 54861984; 59830770; 33174526; 37818350; 56632223; 34595967; 61526405; 33218690; 55907250
 | 723033 | ColBreakz | ColBreakz - Memories [House] | 8 | 36007540; 36327160; 38318769; 35873594; 58946577; 36634829; 38129442; 37375636
-| 829776 | CreoMusic | Creo - Nautilus | 8 | 57950411; 61974149; 57011270; 57883920; 57321084; 58836857; 56607164; 56509088
 | 737991 | bossfightofficial | Bossfight - Adust | 8 | 57616550; 62920198; 49923473; 34715086; 34122149; 34017055; 34279935; 33244195
 | 844658 | CreoMusic | Creo - Aura | 8 | 58188520; 55660457; 58938160; 57368204; 55037478; 55056653; 55971875; 54681694
 | 730246 | Xtrullor | Xtrullor - Nirmiti | 8 | 43865773; 58949788; 33835902; 31420516; 31360528; 32338202; 31235562; 35327886
@@ -842,8 +842,10 @@
 | 569938 | Xtrullor | Rip it | 1 | 36511367
 | 541266 | Stratales | Chips Ahoy! | 1 | 51062115
 | 598611 | TwelfthChromatic | Christmas Cheer | 1 | 58918105
+| 862802 | lukhash | ALL NIGHT LONG | 1 | 63521576
 | 473691 | NickPerrin | Windswept (Full Version) | 1 | 62365914
 | 799314 | Noisysundae | Your Everyday Happycore | 1 | 55809802
+| 862801 | lukhash | GHOSTS | 1 | 63521481
 | 758357 | DainykOfficial | NIVIRO - You (Dainyk Subtin Lift) | 1 | 56614466
 | 735852 | Mattashi | Crushed To Bits (Save The Princess) | 1 | 52990858
 | 858733 | dawphin | Dawphin - Delta | 1 | 55976208
@@ -1029,6 +1031,7 @@
 | 791585 | Razorrekker | A new world: Flight - 8 | 1 | 47737567
 | 588838 | OcularNebula | A Wistful Wish | 1 | 34827709
 | 642088 | TheLivingTombstone | Dog of Wisdom (Remix) [feat. Joe Gran] [Red Version] | 1 | 57473037
+| 187443 | DjKavi | {Kavi} Horntail (Dnb Mix) | 1 | 63760885
 | 777275 | ValeriaKitten | Lovely Kitten - Moonlight | 1 | 40149755
 | 699452 | Techmo-X | Dreamcast (Chillstep) | 1 | 55851576
 | 554044 | OcularNebula | Bouncy BitHouse | 1 | 62923956
