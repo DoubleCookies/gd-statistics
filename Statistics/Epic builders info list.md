@@ -30,6 +30,7 @@ NASHII | 14
 Xender Game | 13
 ViPriN | 13
 Piseto | 13
+TheAlmightyWave | 13
 DHaner | 12
 DanielDlc | 12
 MrLorenzo | 12
@@ -39,7 +40,6 @@ GD Jose | 12
 Nikce | 12
 Unzor | 12
 mulpan | 12
-TheAlmightyWave | 12
 DepisH16 | 12
 balli | 12
 Thomartin | 12
@@ -101,6 +101,7 @@ AceVict | 6
 schady | 6
 RadiationV2 | 6
 victorinoxX | 6
+SleyGD | 6
 DeniPol | 6
 SloftGD | 6
 TroxxP1 | 6
@@ -129,7 +130,6 @@ Jghost | 5
 speedfreak | 5
 FrostDragonGD | 5
 RyanAB | 5
-SleyGD | 5
 LeX97 | 5
 Dorami | 5
 DavJT | 5
@@ -583,6 +583,7 @@ OmegaFalcon | 1
 Kubias | 1
 Shuffle49 | 1
 Disp | 1
+xToxiKGD | 1
 ShakeoffX | 1
 MenhHue | 1
 Klonex | 1
