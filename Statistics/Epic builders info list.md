@@ -110,8 +110,8 @@ R3XX3R | 6
 Hyenaedon | 6
 Fault | 6
 Manteex | 6
+Luddee | 6
 FUNKYpersy | 6
-Vikingl | 6
 wlfn | 6
 Xstar7 | 6
 xenoteric | 6
@@ -274,8 +274,8 @@ NateRaven | 3
 Fletzer | 3
 TeamNoX | 3
 Rawin | 3
-R4NGER | 3
 By7on | 3
+R4NGER | 3
 MrZiedZ | 3
 Spu7Nix | 3
 Xylluk | 3
@@ -389,6 +389,7 @@ spuddles | 2
 Exylem | 2
 IyuriI | 2
 AmIXam | 2
+AdvyStyles | 2
 Freyda | 2
 ElectroidDash | 2
 xSkart | 2
@@ -403,7 +404,6 @@ Zafkiel7 | 2
 juandeman | 2
 Xatz | 2
 grebe | 2
-ItsAdvyStyles | 2
 PTyXaLPHaZ | 2
 Cthulu | 2
 Nicki1202 | 2
@@ -508,7 +508,6 @@ Geonox | 1
 ThazM | 1
 Nova to | 1
 guppy28 | 1
-LakeIverson | 1
 Anzer | 1
 Dioxis | 1
 Apstrom | 1
@@ -554,6 +553,7 @@ Darkrozz | 1
 shaggy23 | 1
 KJbeast1000 | 1
 Relayx | 1
+Lake | 1
 Chavacado | 1
 Wagot | 1
 Giron | 1
@@ -564,6 +564,7 @@ kang131 | 1
 VoidSquad | 1
 Sumsar | 1
 endevvor | 1
+Vexes7 | 1
 SandyTAC | 1
 SeokSo | 1
 Xyanik | 1
@@ -574,7 +575,6 @@ bunch | 1
 GDSpeed | 1
 Maelstrom | 1
 NukeIIX | 1
-iHyperdasHi | 1
 Neutrii101 | 1
 Al3xD | 1
 HammerfallThud | 1
@@ -635,6 +635,7 @@ UlbomE | 1
 Colxic | 1
 Apollone | 1
 ML500 | 1
+TheHyperDash | 1
 Vancis | 1
 xKstrol | 1
 GMDDEEPSPACE | 1
@@ -718,6 +719,7 @@ Etzer | 1
 The Bread | 1
 TheRealDarnoc | 1
 Dams778 | 1
+Marrk | 1
 70UNIKITTY | 1
 fishtoon | 1
 MintyLeaf | 1

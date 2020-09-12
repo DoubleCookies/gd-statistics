@@ -1,6 +1,6 @@
 | Author | Count |
 |:---:|:---:|
-null | 344
+null | 345
 ViPriN | 130
 ZenthicAlpha | 106
 Serponge | 97
@@ -19,7 +19,7 @@ SMBlacktime | 56
 ZelLink | 56
 SirHadoken | 54
 Echonox | 54
-YunHaSeu14 | 52
+YunHaSeu14 | 53
 Etzer | 51
 danolex | 51
 alkali | 50
@@ -179,11 +179,11 @@ Dhafin | 19
 Elisione | 19
 LazerBlitz | 19
 G4lvatron | 19
-Vikingl | 19
 DarkEvan | 19
 Peton | 19
 nasgubb | 19
 Alex112300 | 19
+Luddee | 19
 SUOMI | 19
 Quiken | 19
 OSIRIS GD | 19
@@ -219,6 +219,7 @@ RealSoulDash | 17
 Unzor | 17
 Toxic GD | 17
 Tronzeki | 17
+Gusearth | 17
 Riky2610 | 17
 Kaii07 | 17
 IsakN016 | 17
@@ -244,11 +245,11 @@ DaFinn | 16
 Anubis GD | 16
 Diamondgirl01 | 16
 Allex20 | 16
-Gusearth | 16
 FaekI | 16
 Xtrialz | 16
 Hermar | 16
 Jezzel | 16
+Shatt3rium | 16
 Fault | 16
 MalZir | 16
 EnZore | 16
@@ -261,7 +262,6 @@ Neutronic | 16
 Lixars | 16
 Arysta | 15
 softable | 15
-Shatt3rium | 15
 DWShin | 15
 Paintingorange | 15
 CatronixGD | 15
@@ -293,7 +293,6 @@ fayaddd | 14
 Andro3d | 14
 DorSha | 14
 Xender Game | 14
-darkzz | 14
 Schneider9 | 14
 Angelism | 14
 IIIJaylexIII | 14
@@ -314,6 +313,8 @@ ithedarki | 14
 Ethrakk | 14
 God Of Music | 14
 kr1t | 14
+Optation | 14
+Hakkou | 14
 Filaret | 14
 LuisGX12 | 14
 AceVict | 14
@@ -324,7 +325,6 @@ Ellisha | 14
 iIFrostIi | 14
 MrZiedZ | 14
 ZecretDash | 13
-HyperFlame | 13
 MrSpaghetti | 13
 BitZGD | 13
 Galzo | 13
@@ -340,9 +340,9 @@ DashTy | 13
 jaffytaffy | 13
 Lerevon | 13
 Aleiz21 | 13
+Haru | 13
 GeomTer | 13
 Hyenaedon | 13
-Optation | 13
 xMisery | 13
 JamAttack | 13
 Discordy | 13
@@ -400,7 +400,6 @@ Fury0313 | 12
 IFSGeorge | 12
 DiMaViKuLov26 | 12
 BloodStorm GD | 12
-- | 11
 Myinus | 11
 Extrox | 11
 Akvaz | 11
@@ -449,7 +448,7 @@ TianzCraftGD | 11
 Preztiyu | 11
 IamXstep | 11
 Masterale | 11
-LakeIverson | 10
+- | 10
 SilverSoul | 10
 Desumari | 10
 crepuscole | 10
@@ -462,6 +461,7 @@ Vallier | 10
 realtheo | 10
 ghathiitho | 10
 Nottus | 10
+Lake | 10
 ReYzen | 10
 Mitchell | 10
 CapnColbyCube | 10
@@ -482,6 +482,7 @@ Tickle GD | 10
 Kips | 10
 LTGS | 10
 Fonter | 10
+CubicWolfGD | 10
 Vlacc | 10
 ValentInsanity | 10
 shaggy23 | 10
@@ -528,6 +529,7 @@ Nightlex | 9
 willy5000 | 9
 GDObsco | 9
 OutlawMz | 9
+Marrk | 9
 stardust1971 | 9
 wless | 9
 crossblade | 9
@@ -545,6 +547,7 @@ nys | 9
 ItsJustCohen | 9
 VeXyn | 9
 SrPotato | 9
+FrostDragonGD | 9
 Bluskys | 9
 oc3andark | 9
 R3XX3R | 9
@@ -557,7 +560,6 @@ Patchimator | 9
 iILoBeeIi | 9
 heatherhayes | 9
 Vadi | 9
-CubicWolfGD | 9
 SupamarioXx | 9
 GiaMmiX | 9
 xKstrol | 9
@@ -576,6 +578,7 @@ TheRM22 | 9
 ViP3r | 9
 Censr | 9
 RehanZ | 9
+Vexes7 | 9
 jZion | 9
 Morce | 9
 Pxj | 9
@@ -615,7 +618,6 @@ im fernando | 8
 Apollone | 8
 Agate | 8
 SkCray Ace | 8
-Marrk | 8
 Jo2000 | 8
 CutieKitty | 8
 HeniXs | 8
@@ -632,7 +634,6 @@ ItzM1ntJellY | 8
 Minity | 8
 Stardevoir | 8
 Ellixium | 8
-FrostDragonGD | 8
 iAres | 8
 Ludicrous | 8
 robotchief | 8
@@ -667,11 +668,11 @@ helito6x3 | 8
 Defiant | 8
 WhiterBlack | 8
 Aerid | 8
-Vexes7 | 8
 Zafkiel7 | 8
 MaxK | 8
 Knobbelboy | 8
 Nxtion | 8
+zDemonDasher | 8
 FlacoGD | 8
 Al3xD | 8
 Nickalopogas | 8
@@ -790,7 +791,6 @@ DaddePro | 7
 Penttagram | 7
 KiroShiMaru | 7
 ThomasMP | 7
-zDemonDasher | 7
 SpilexGD | 7
 AirilGD | 7
 KJbeast1000 | 7
@@ -813,6 +813,7 @@ Theeb | 6
 guppy28 | 6
 Sneakyx | 6
 YansSK8 | 6
+OrionIsGD | 6
 Aquatias | 6
 LumiLunatic | 6
 croshz | 6
@@ -851,7 +852,6 @@ Tec | 6
 GeoMEtryManGD | 6
 Nocturnson | 6
 Dubbayoo | 6
-Ix3on | 6
 albinomaster | 6
 Metalface221 | 6
 AleeIsMe | 6
@@ -876,7 +876,6 @@ lzoifzkfmoaoxoz | 6
 chipzz | 6
 Ardolf | 6
 ML500 | 6
-ISJ3Y | 6
 WazBerry | 6
 EfrainGDM | 6
 aArbolito | 6
@@ -938,6 +937,7 @@ Zynith | 6
 Psynapse  | 6
 buttstallionpc | 6
 HobbyBoat | 6
+Aesukii | 6
 MadPilot | 6
 HaxellRyan | 6
 Girr | 6
@@ -962,6 +962,7 @@ TheRealModiK | 5
 LKH20 | 5
 SariaGD | 5
 xSioni | 5
+Ruhstere | 5
 Danke | 5
 Azeria | 5
 BashfulGoose | 5
@@ -1011,6 +1012,7 @@ Tropiica | 5
 JustJohn | 5
 Xyris | 5
 xGW | 5
+Rifky12 | 5
 123Ev4n | 5
 The Carrot | 5
 Riki Dash | 5
@@ -1022,10 +1024,12 @@ GDSpeed | 5
 HyDroTek | 5
 wamiq | 5
 DarinLou | 5
+Banzer | 5
 Vexiion | 5
 geometrico10 | 5
 BGames | 5
 DRAG747 | 5
+RoseGolds | 5
 zara | 5
 maks550a | 5
 Jenkins GD | 5
@@ -1056,7 +1060,6 @@ RedDragoN1404 | 5
 HyperSoul | 5
 XZtheMan | 5
 iISanE | 5
-BrokenB | 5
 WanHeda | 5
 Wiktord1 | 5
 V9LT | 5
@@ -1094,6 +1097,7 @@ Eclipsed | 5
 Astratos GD | 5
 FrancaDash | 5
 Waturh | 5
+Alphirox | 5
 5quid | 5
 Rex3rGD | 5
 IJBSI | 5
@@ -1131,6 +1135,7 @@ EDUARDO 21 | 4
 Typic4l | 4
 Coil | 4
 AlaskaFX | 4
+AdvyStyles | 4
 Mr chips | 4
 gibbon765 | 4
 Kinel | 4
@@ -1138,7 +1143,6 @@ xenoxenon | 4
 Bytrius | 4
 ReflexPrince | 4
 TroxerGD | 4
-Ruhstere | 4
 Jordi6304 | 4
 Prometheus | 4
 wollompboid | 4
@@ -1195,11 +1199,10 @@ VoltJolt | 4
 groose22 | 4
 grebe | 4
 JaredKawaii | 4
-ItsAdvyStyles | 4
 Matttopia | 4
-Rifky12 | 4
 DeCody | 4
 JaredKawaiii | 4
+Gafen | 4
 TheRealNewD | 4
 Numptaloid | 4
 TheRealDwiki | 4
@@ -1216,11 +1219,11 @@ assing | 4
 acoolman91 | 4
 Expy | 4
 iiMRTii | 4
+SerpTop | 4
 IIBackfischII | 4
 Syndromed | 4
 Horiz | 4
 CryoChemist | 4
-RoseGolds | 4
 iIiRulasiIi | 4
 TheFakeLogik | 4
 ReZEL | 4
@@ -1296,6 +1299,7 @@ ItzByCrack10 | 4
 Clasi | 4
 RedlixHD | 4
 Waboomania | 4
+Randodacamando | 4
 Rustle | 4
 Sikatsuka | 4
 sssturtle2005 | 4
@@ -1310,8 +1314,6 @@ DarkMoom | 4
 Ilikethecheeeez | 4
 D4MIAn | 4
 manu123890 | 4
-Alphirox | 4
-Kalamitas | 4
 Met3oR | 4
 Mashcake | 4
 Irean2 | 4
@@ -1344,7 +1346,6 @@ ToXxin | 3
 Elliptic4l | 3
 Lebreee | 3
 EpicLucas | 3
-WiWi | 3
 Abaddox | 3
 SeokSo | 3
 TeamN2 | 3
@@ -1434,11 +1435,11 @@ Flexu | 3
 JM70 | 3
 70UNIKITTY | 3
 Zigma | 3
+iCreatorSax | 3
 Phantomech2 | 3
 SirExcelDJ | 3
 Tahsen | 3
 DarkBoshy | 3
-Gafen | 3
 M33CHY | 3
 Farm | 3
 SirLimee | 3
@@ -1457,7 +1458,6 @@ EncisoGD | 3
 xCaptain | 3
 UvonuctV | 3
 TrmGD | 3
-SerpTop | 3
 Eduptal | 3
 clique | 3
 Sigma | 3
@@ -1475,7 +1475,6 @@ cxli | 3
 cyanog3n | 3
 verticallity | 3
 witt | 3
-Cronos23 | 3
 The Goola | 3
 EXPIREANZ | 3
 XronoM | 3
@@ -1552,6 +1551,7 @@ SyQual | 3
 BelonziK | 3
 Natteboss | 3
 kenjiDW | 3
+SirGumball | 3
 Locked | 3
 GoodSmile | 3
 Djdvd17 | 3
@@ -1624,6 +1624,7 @@ Elsig2002 | 3
 Cardium | 3
 BlasterRobotz | 3
 TekhnikaKR | 3
+lStevstylesl | 3
 paolo7u7 | 3
 Rev0lt | 3
 HedgefoxGames | 2
@@ -1671,6 +1672,7 @@ p3rception | 2
 DonutTV | 2
 HammerfallThud | 2
 LyoNa | 2
+SquishyJ | 2
 DarcyGD | 2
 Kirlian | 2
 WizTicFX | 2
@@ -1830,6 +1832,7 @@ Eluselus | 2
 AL33X | 2
 S7arGazer | 2
 DashDude | 2
+DanyKha | 2
 FeijoA | 2
 Hostility | 2
 XTHANEX | 2
@@ -2046,6 +2049,7 @@ ManoMagician | 2
 ericys1 | 2
 HexagonDashers | 2
 Y0rk | 2
+Xenots | 2
 zDrift | 2
 The Bread | 2
 TileZ | 2
@@ -2065,7 +2069,6 @@ JuanSky | 2
 ZeptonixGD | 2
 N4xoL | 2
 Exonium | 2
-SirGumball | 2
 BlackSould | 2
 PixelMini | 2
 Tamii3309 | 2
@@ -2083,6 +2086,7 @@ Dverry | 2
 SmoopInc | 2
 makifei | 2
 AntRocks42 | 2
+DavoBoss  | 2
 gdapples | 2
 PeterNg | 2
 unnn | 2
@@ -2277,6 +2281,7 @@ Snambs | 1
 Krizard | 1
 rkawlqkf123 | 1
 Ninjajai | 1
+bra1k | 1
 Astericks | 1
 MrKebab | 1
 Feliix7 | 1
@@ -2286,7 +2291,6 @@ icl7280 | 1
 PTB10 | 1
 Arkhanoz GD | 1
 ElectroBoy2217 | 1
-SquishyJ | 1
 PTWhismal | 1
 limequality | 1
 BigMeatBillie | 1
@@ -2386,6 +2390,7 @@ BlueRigel | 1
 JJaer | 1
 Xanitz | 1
 H4ppyL1fe | 1
+NEKONGAMES | 1
 ZeroPoint | 1
 SlipGhost | 1
 CR3ATOR | 1
@@ -2409,7 +2414,6 @@ Geomike | 1
 Xeraton | 1
 Helecty | 1
 GmDWolde | 1
-Lynchy | 1
 TeamArdent | 1
 Kwol | 1
 OthonWronger | 1
@@ -2476,7 +2480,6 @@ GD Micrael | 1
 VoiD | 1
 LightLux | 1
 jamesgrosso | 1
-iHyperdasHi | 1
 VlZBookableZlV | 1
 GD Clazzi | 1
 TxVenomxT | 1
@@ -2513,10 +2516,12 @@ CardistrYy | 1
 ShadyKitty | 1
 Elexity | 1
 matt88 | 1
+TheHyperDash | 1
 Fragox | 1
 waffeyy | 1
 iIJellyBeanIi | 1
 creeperus | 1
+SpinStudios | 1
 TyphoonGD | 1
 NovaForce | 1
 halpmynamesucks | 1
@@ -2714,6 +2719,7 @@ Yanni | 1
 Byzhelltryx5 | 1
 PokeChatt | 1
 iIElDanteIi | 1
+Moffer | 1
 Aberranturtle | 1
 Lss | 1
 iPrisy | 1
@@ -2744,6 +2750,7 @@ Oxayy | 1
 hypercube1 | 1
 Atacron | 1
 swallforce | 1
+Qezzel | 1
 Osshan | 1
 Nigu | 1
 Alter | 1
@@ -2952,8 +2959,8 @@ PurpleGuy99 | 1
 David Cordero | 1
 PhantomX | 1
 YoReid | 1
+xSpomy | 1
 TrueBloodshot | 1
-lSpin | 1
 Elzeko | 1
 DeadIx | 1
 Atimistic | 1
@@ -3081,7 +3088,6 @@ Polarbeahr | 1
 Revellixia | 1
 Zipiks | 1
 DysprosiaX | 1
-BraikMain | 1
 rRin | 1
 Waivve | 1
 noxel10 | 1
@@ -3248,7 +3254,6 @@ Snaiky | 1
 Xiel | 1
 monkeybazooka | 1
 IIExenityII | 1
-Xenots | 1
 Sufi2425 | 1
 boxtroll | 1
 Tribar | 1
@@ -3356,7 +3361,6 @@ Cooney | 1
 Celenzone | 1
 MirageXVII | 1
 Judas | 1
-DavoBoss  | 1
 Root4jun | 1
 alex7g | 1
 AncherStram | 1
@@ -3425,6 +3429,7 @@ llKrooXll | 1
 Nosaima | 1
 Zidane24 | 1
 Oxiblitz | 1
+Plexie | 1
 SantiiGMD | 1
 RipTideZ | 1
 ZenthicAxy78 | 1
@@ -3550,6 +3555,7 @@ Zarkyi | 1
 MenhHue | 1
 ToxYc | 1
 AL3X1hP | 1
+orange36 | 1
 MizzHiffouu | 1
 Sarynin | 1
 LimeTime313 | 1
