@@ -133,6 +133,7 @@
 | 794165 | Kolkian | Catalyze | 4 | 48926714; 47915091; 56395811; 45627449
 | 769607 | DJ-Zyzyx | Zyzyx - Lost it All | 4 | 49913089; 48561623; 39832937; 63557567
 | 740966 | ColBreakz | ColBreakz - Invasion | 4 | 36825859; 34357166; 35744914; 33796924
+| 794212 | MrKoolTrix | Nice Vibes | 4 | 48469085; 55811276; 63996558; 56957631
 | 831097 | R3VMusic | Saunter | 4 | 59358800; 58127843; 61945844; 57222342
 | 810618 | CreoMusic | Creo - Crystallize | 4 | 49624326; 57156398; 48829531; 56469613
 | 634513 | DeadRewind | Detious - Divinity | 4 | 31493844; 30379189; 31198704; 50892387
@@ -212,7 +213,7 @@
 | 635716 | Xtrullor | Xtrullor - Earthsplitter | 3 | 38033626; 34917007; 30843730
 | 801642 | KaixoMusic | Ataraxia (Original Mix) | 3 | 54701260; 55857657; 46929040
 | 732008 | hyperdemented | Creo - Challenger | 3 | 57981661; 44184726; 36612035
-| 588645 | garlagan | There | 3 | 55058141; 56722209; 57156564
+| 588645 | garlagan | There | 3 | 57156564; 55058141; 56722209
 | 754547 | ACXLE | Follow (original by Austin C) | 3 | 54433722; 38476425; 54651404
 | 580470 | Acid-Notation | ---Steel Terror--- | 3 | 27990000; 36869984; 39237764
 | 781195 | MrKoolTrix | Rockin That Bass | 3 | 43221166; 56367479; 49210527
@@ -269,7 +270,6 @@
 | 677465 | dexarson | Dex Arson Vs Charlie Zane - Nexus | 3 | 29934098; 50780745; 49633418
 | 831066 | ColBreakz | ColBreakz - 50.000 | 3 | 51164415; 51207516; 52783139
 | 743019 | dj-Nate | {dj-N} Hypercharged | 3 | 50358392; 53851865; 44417977
-| 794212 | MrKoolTrix | Nice Vibes | 3 | 48469085; 55811276; 56957631
 | 745084 | Miyolophone | Stray | 3 | 36121059; 58358928; 54664621
 | 657021 | PandaEyesOfficial | Panda Eyes - 95K | 3 | 34654431; 30373175; 33297101
 | 599725 | JumpieMusic | The White Knife (Original Mix) | 3 | 35115143; 35803436; 40328796
@@ -674,6 +674,7 @@
 | 602261 | IchigoChamploo | Mechanical Flow | 1 | 62936422
 | 735403 | xynstratorRecords | Arkady Ukupnik - Ill Never Marry You (DJ Koko Remix) | 1 | 62592746
 | 714924 | EtzerGD | Roofstep | 1 | 55070913
+| 925870 | Dunderpatrullen | Cellar Door | 1 | 62869476
 | 377005 | feintDNB | Feint - Lift (Instrumental) | 1 | 40463389
 | 583846 | Shtriga | Trepidation | 1 | 29536842
 | 680104 | xenith800 | Bird Cage | 1 | 57121494
@@ -801,6 +802,7 @@
 | 381421 | LoveKavi | Cherry Blossoms - LoveKavi | 1 | 43879123
 | 152047 | ParagonX9 | ParagonX9 - Chaoz Impact | 1 | 28461869
 | 911841 | Waterflame | -Precarious- | 1 | 59917374
+| 930302 | SlyceCaik | MORE STITCHES ???? | 1 | 63996127
 | 627198 | MadhouseDUDE | Now Were Talkin | 1 | 57543800
 | 623104 | bossfightofficial | Bossfight - Milky Ways | 1 | 60745211
 | 532991 | Envy | EnV - Bloom(Radio Edit) | 1 | 57654375
@@ -820,6 +822,7 @@
 | 760364 | Zelgeon | [Glitch Hop] HEY! (Original Mix) [Reborn EP] | 1 | 38536880
 | 760365 | BurgeraX | BurgeraX: Bloodthirst [Dubstep] | 1 | 37564595
 | 895527 | Kyutatsuki | ?????? (Sayonara Sekai) | 1 | 61930129
+| 903713 | LawnReality | Things Past | 1 | 63554968
 | 156208 | cornandbeans | Samurai Swing | 1 | 56230440
 | 672293 | JoarZ | JoarZ - Red Roses (Original Mix) | 1 | 55225914
 | 627259 | gvdclubber | Antrax - Counter-Strike (Original Mix) | 1 | 45297335
@@ -1339,6 +1342,7 @@
 | 3876 | mrbreckles | Insomaniac | 1 | 54576567
 | 849707 | TeslaX11 | Talurre & Agente001 - Nirvana | 1 | 59863107
 | 550689 | shadow6nothing9 | Before the Storm - S6N9 | 1 | 54479232
+| 876325 | Kingbastard | Jamming the Sampler | 1 | 62133986
 | 755490 | rymdkraft | Rymdkraft - Kesobomb | 1 | 47783815
 | 808744 | Kurtiskong | Girls like you | 1 | 57499171
 | 569125 | Kman465 | Super Mario World Athletic rmx | 1 | 58722992

@@ -2,12 +2,12 @@
 |:---:|:---:|
 Darwin | 46
 DanZmeN | 29
-Jayuff | 27
+Jayuff | 28
 Knots | 26
 f3lixsram | 24
+CastriX | 22
 WerewolfGD | 22
 danolex | 22
-CastriX | 21
 SamMaxx | 21
 DangerKat | 20
 Serponge | 20
@@ -103,7 +103,6 @@ RadiationV2 | 6
 victorinoxX | 6
 SleyGD | 6
 DeniPol | 6
-SloftGD | 6
 TroxxP1 | 6
 ChuchitoDomin | 6
 R3XX3R | 6
@@ -112,6 +111,7 @@ Fault | 6
 Manteex | 6
 Luddee | 6
 FUNKYpersy | 6
+DJslimeYT | 6
 wlfn | 6
 Xstar7 | 6
 xenoteric | 6
@@ -197,6 +197,7 @@ Ploid | 4
 AirForce | 4
 SpooFy | 4
 IFSGeorge | 4
+IsmailDaBest | 4
 Kebabbo | 4
 ISparkI | 4
 shocksidian | 4
@@ -264,7 +265,6 @@ TriPodX | 3
 PixelGlory | 3
 Wiktord1 | 3
 LKH20 | 3
-IsmailDaBest | 3
 Squall7 | 3
 Szilu | 3
 Dashtrict | 3
@@ -403,6 +403,7 @@ HTigerzGD | 2
 Zafkiel7 | 2
 juandeman | 2
 Xatz | 2
+Danke | 2
 grebe | 2
 PTyXaLPHaZ | 2
 Cthulu | 2
@@ -457,7 +458,6 @@ Xcreatorgoal | 1
 Fillipsmen | 1
 Viricent | 1
 Logon | 1
-3cow | 1
 Supris | 1
 forlat | 1
 Andr1x | 1
@@ -571,6 +571,7 @@ Xyanik | 1
 Player Time | 1
 0xNano | 1
 CrispyCrepes | 1
+LexipGG | 1
 bunch | 1
 GDSpeed | 1
 Maelstrom | 1
@@ -704,7 +705,6 @@ Suixam | 1
 TinyXD | 1
 DiMaViKuLov26 | 1
 HugusTheNoob | 1
-Danke | 1
 Oskreix | 1
 crashpancake2 | 1
 IFuse | 1
@@ -742,6 +742,7 @@ camgotbitten | 1
 Sakana | 1
 Hydren | 1
 PocoPukich | 1
+notpara | 1
 Pennutoh | 1
 Neutronic | 1
 Patchimator | 1

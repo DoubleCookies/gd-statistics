@@ -1,4 +1,4 @@
-#### Total: 2564 levels
+#### Total: 2569 levels
 
 | ID | Author | Name | Count |
 |:---:|:---:|:---:|:---:|
@@ -135,6 +135,7 @@
 | 794165 | Kolkian | Catalyze | 4
 | 769607 | DJ-Zyzyx | Zyzyx - Lost it All | 4
 | 740966 | ColBreakz | ColBreakz - Invasion | 4
+| 794212 | MrKoolTrix | Nice Vibes | 4
 | 831097 | R3VMusic | Saunter | 4
 | 810618 | CreoMusic | Creo - Crystallize | 4
 | 634513 | DeadRewind | Detious - Divinity | 4
@@ -271,7 +272,6 @@
 | 677465 | dexarson | Dex Arson Vs Charlie Zane - Nexus | 3
 | 831066 | ColBreakz | ColBreakz - 50.000 | 3
 | 743019 | dj-Nate | {dj-N} Hypercharged | 3
-| 794212 | MrKoolTrix | Nice Vibes | 3
 | 745084 | Miyolophone | Stray | 3
 | 657021 | PandaEyesOfficial | Panda Eyes - 95K | 3
 | 599725 | JumpieMusic | The White Knife (Original Mix) | 3
@@ -676,6 +676,7 @@
 | 602261 | IchigoChamploo | Mechanical Flow | 1
 | 735403 | xynstratorRecords | Arkady Ukupnik - Ill Never Marry You (DJ Koko Remix) | 1
 | 714924 | EtzerGD | Roofstep | 1
+| 925870 | Dunderpatrullen | Cellar Door | 1
 | 377005 | feintDNB | Feint - Lift (Instrumental) | 1
 | 583846 | Shtriga | Trepidation | 1
 | 680104 | xenith800 | Bird Cage | 1
@@ -803,6 +804,7 @@
 | 381421 | LoveKavi | Cherry Blossoms - LoveKavi | 1
 | 152047 | ParagonX9 | ParagonX9 - Chaoz Impact | 1
 | 911841 | Waterflame | -Precarious- | 1
+| 930302 | SlyceCaik | MORE STITCHES ???? | 1
 | 627198 | MadhouseDUDE | Now Were Talkin | 1
 | 623104 | bossfightofficial | Bossfight - Milky Ways | 1
 | 532991 | Envy | EnV - Bloom(Radio Edit) | 1
@@ -822,6 +824,7 @@
 | 760364 | Zelgeon | [Glitch Hop] HEY! (Original Mix) [Reborn EP] | 1
 | 760365 | BurgeraX | BurgeraX: Bloodthirst [Dubstep] | 1
 | 895527 | Kyutatsuki | ?????? (Sayonara Sekai) | 1
+| 903713 | LawnReality | Things Past | 1
 | 156208 | cornandbeans | Samurai Swing | 1
 | 672293 | JoarZ | JoarZ - Red Roses (Original Mix) | 1
 | 627259 | gvdclubber | Antrax - Counter-Strike (Original Mix) | 1
@@ -1341,6 +1344,7 @@
 | 3876 | mrbreckles | Insomaniac | 1
 | 849707 | TeslaX11 | Talurre & Agente001 - Nirvana | 1
 | 550689 | shadow6nothing9 | Before the Storm - S6N9 | 1
+| 876325 | Kingbastard | Jamming the Sampler | 1
 | 755490 | rymdkraft | Rymdkraft - Kesobomb | 1
 | 808744 | Kurtiskong | Girls like you | 1
 | 569125 | Kman465 | Super Mario World Athletic rmx | 1
