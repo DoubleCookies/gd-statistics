@@ -13,14 +13,16 @@ Tool for collecting statistics about Geometry Dash featured levels. Based on Ale
 - Little bonus: top-50 most popular demons!
 
 ## Structure
-- **Statistics** folder contains a lot of markdown lists with different statistics information (most useful part, to be honest).
-- **src** folder contains... sources!
+- **Statistics** folder contains a lot of markdown lists with different statistics information. All lists are generated in Markdown (that's why you can see information directly on GitHub).
+   - Root folder contain lists for all difficulties and lists for soundtracks, builders, etc.
+   - Subfolders contain lists for difficulties (featured and epic levels stats only).
+- **src** folder contains sources for this project.
 
 ## Plans
-- Add navigation and additional lists
+- Multithreading (probably)
 - Create project github page
 - Describe how project works
-- Create some illustrations?
+- Create some illustrations
 
 ## License
 This project has [MIT License](https://opensource.org/licenses/MIT)
