@@ -1,4 +1,4 @@
-#### Total: 2569 levels
+#### Total: 2571 levels
 
 | ID | Author | Name | Count |
 |:---:|:---:|:---:|:---:|
@@ -86,6 +86,7 @@
 | 684300 | ColBreakz | ColBreakz - 10000 | 4
 | 758066 | garlagan | Refract | 4
 | 772435 | PandaEyesOfficial | Panda Eyes feat. Subkey - Continue | 4
+| 756073 | csx42gaming | Empower | 4
 | 731503 | ggaero | Gaero - Howl | 4
 | 702912 | Cursedsnake | calm | 4
 | 827836 | teminiteofficial | Teminite - A New Dawn | 4
@@ -175,7 +176,6 @@
 | 676174 | ColchianCat | Luminance | 3
 | 829777 | CreoMusic | Creo - Idolize | 3
 | 702828 | DJ-Zyzyx | Zyzyx - Echolands | 3
-| 756073 | csx42gaming | Empower | 3
 | 778607 | DJVI | Amp It Up | 3
 | 725352 | Xtrullor | Xtrullor - The Armor of God | 3
 | 573817 | DuoCore | DuoCore - The Furious | 3
@@ -439,6 +439,7 @@
 | 760696 | NoVAmusicofficial | NoVA - Breathe [Tropical House] | 2
 | 834445 | F-777 | F-777 - Double Cross (Dres Theme) | 2
 | 529291 | Acid-Notation | ---Fury--- | 2
+| 76677 | Waterflame | -Field of memories- | 2
 | 693127 | xenith800 | Styx Helix [x800 remix] | 2
 | 555910 | Stratales | Carrot Juice | 2
 | 936853 | CreoMusic | Creo - Dark Tides | 2
@@ -970,7 +971,6 @@
 | 869235 | FarOutOfficial | Gryffin & Slander - All You Need To Know (Far Out Remix) | 1
 | 922510 | BoomKitty | Peepee Song (Censored) | 1
 | 822154 | CrystalSirens | Rachel Costanzo - Comfortable (Crystal Sirens Remix) | 1
-| 76677 | Waterflame | -Field of memories- | 1
 | 183180 | Dimrain47 | Buzztone Symphony | 1
 | 402314 | NickPerrin | Spread Cannon (8-bit) | 1
 | 799620 | Spendro | Huenu - Water | 1

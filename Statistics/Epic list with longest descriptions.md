@@ -1,4 +1,4 @@
-#### Total: 2569 levels
+#### Total: 2571 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -694,7 +694,6 @@
 | Im not furRy | xenoteric | 46478676 | 113 | Hope you guys like this level as much as i do! <3 for Viprin CC9 and MCR #2: Make a level with a song by Wolf7ech
 | Prototype | JustWemo | 43752262 | 113 | My first ever bossfight! I could've added more to it but I didn't want the level to lag too much. PRACTICE FIRST!
 | Bloodlust | Knobbelboy | 42584142 | 113 | Your thirst for blood continues? Very well, let the blood spill. Let the demons feed off your unfortunate soul...
-| Nature Journey | CookiesGirly | 40641787 | 113 | collab with Glimpse.. I'm not satisfied of my part, if the end is a UGLY problem i'll fix it tomorrow. i'm sorry 
 | Empyrean | ViPriN | 39853458 | 113 | By ChaSe, Darwin, Nicki1202, MrKoolTrix & Enlex, who won Gauntlet Contest 3 for famous creators (15 cp or above).
 | ShutterPoint | Thomartin | 38554031 | 113 | Awesome collab with Zak ! We tried to make it neat and fun, hope we ve done good ! GL <3 verified by F3lixsram <3
 | Anatomic | Lemons | 38074822 | 113 | Definitely my best work! A second entry into the doom gauntlet contest with an amazing song from Geoplex :) Enjoy
@@ -781,7 +780,6 @@
 | Epilogue | Xstar7 | 52019783 | 109 | Thank You Echonox for being an Inspiration to us all. Created by Neigefeu, Cancel, Echonox, Zoroa GD & Xstar7
 | Chromatic 37 | JefryKawaii | 51785505 | 109 | Thanks for play guys and the support, and to all spectators who stay in my streaming; Chromatic 37 by Suxide.
 | Runner | ZaDoXXZl | 51353082 | 109 | Collab with awesome creators! Thank you so much to all for the support!After a long time! Layout by Ajedaboss
-| Davide | CookiesGirly | 48926714 | 109 | new level! dedicated to my old friend, i know is not really a good level but hey.. i create for fun ;) enjoy!
 | Cosmology | LeX97 | 47893850 | 109 | Special level for xSavic >OwO> &#124; name suggestion by Ajedaboss ! :> (The second entry for HiIsBackSenpai's CC)
 | The END | BryanC2 | 46334132 | 109 | Here I bring you something new, this is my best level and work, I hope you enjoy it :)/ Pass: 286403 " Thx !!
 | Narcosis | EpicMasta11 | 46301334 | 109 | New solo! Might be my best work idk lol. The amazing gameplay is by Ajedaboss, check him out!! GLHF!       x)
@@ -1447,6 +1445,7 @@
 | Diversity | Peton | 29772124 | 73 | Dedicated to DarwinGD for inspiring me to make this new design! :) Enjoy!
 | Contrast | Jeyzor | 29558123 | 73 | A simple and clean design, supposedly. v2: added in-game low detail mode,
 | Berserk | rafer | 27148456 | 73 | A bit rushed level that I did in 2 weeks... for Edicts and Hyenada CC. 8*
+| FielD | JHYMHMHY | 64078210 | 72 | PLS ROBTOP &#124; seven weeks of effort &#124; Don't forget me &#124; Thx 4 playing  :}
 | c s q n | Bluskys | 63209473 | 72 | Remake of the CSQN music video by Aoi and demaescape. [EPILEPSY WARNING]
 | Relaxation | Cdpre | 62327288 | 72 | UlbomE quitted gd for 3 years, so he got me finish this level. Have fun.
 | Melodium | Pipenashho | 61641524 | 72 | very simple modern collab with Knots and Piseto! Hope you guys enjoy! :)
@@ -1941,6 +1940,7 @@
 | Reconnoiter | ElectroidDash | 57281479 | 38 | An adventurous ride through the cosmos
 | Chemistry Lab | icewither | 56722428 | 38 | Double replacement: AB + CD -> AD + CB
 | Skies | ZaDoXXZl | 50205045 | 38 | Dedicated to Peton, Xstar7 and Darwin.
+| Davide | Inf3rnal | 48926714 | 38 | new level! dedicated to my old friend.
 | Alter Order | FreakEd7 | 47990377 | 38 | All Balanced, All In Order, Or not...?
 | Messier 45 | Jayuff | 43409294 | 38 | very expirimental level. hope u enjoy!
 | Refresh | DesTicY | 38459797 | 38 | Well looks like I'm not dead... yet...
@@ -2110,6 +2110,7 @@
 | Jam | NASHII | 35021991 | 28 | Inspirado en MANIX648 ... ;D
 | Volt | Kips | 32705925 | 28 | lo detail adddeddddhchjdjjdj
 | Veto | Optical | 29112193 | 28 | Focus on user interaction :)
+| Altern Future | Pipenashho | 64070742 | 27 | See you in Altern's Future!
 | emotions | Wilz | 61981164 | 27 | level dedicated to izhar :)
 | Polaloid | ChrySpy | 60007634 | 27 | Wake up! nightmare is over.
 | Madness | Superopi | 57058198 | 27 | Out of nowhere... Have fun!
@@ -2255,6 +2256,7 @@
 | Mixed Signals | SirHadoken | 43875571 | 20 | Kzmyjivhz, Jgqdyzhz.
 | Dasani | LKH20 | 43316846 | 20 | Purity in every drop
 | Aquafina | Kips | 43258813 | 20 | i dont know japanese
+| Nature Journey | Inf3rnal | 40641787 | 20 | collab with Glimpse.
 | Summary | danolex | 40604036 | 20 | Thanks for playing! 
 | Bright Phantasm | SaabS | 38719392 | 20 | Enjoy and rate 7* :)
 | Wanderer | R3XX3R | 38031833 | 20 | Feature if Devon gay

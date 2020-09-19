@@ -31,6 +31,7 @@ Xender Game | 13
 ViPriN | 13
 Piseto | 13
 TheAlmightyWave | 13
+Pipenashho | 12
 DHaner | 12
 DanielDlc | 12
 MrLorenzo | 12
@@ -43,7 +44,6 @@ mulpan | 12
 DepisH16 | 12
 balli | 12
 Thomartin | 12
-Pipenashho | 11
 AutoNick | 11
 OptaWolfGD | 11
 rafer | 11
@@ -313,6 +313,7 @@ RehanZ | 2
 ghathiitho | 2
 AlexS2003 | 2
 Eridani | 2
+JHYMHMHY | 2
 CubicWolfGD | 2
 G4lvatron | 2
 goose | 2
@@ -340,7 +341,6 @@ Nezziee | 2
 LumiLunatic | 2
 DaFinn | 2
 Aerid | 2
-CookiesGirly | 2
 charky | 2
 YunHaSeu14 | 2
 Marwec | 2
@@ -348,6 +348,7 @@ SirZeus | 2
 Whitehead | 2
 Findexi | 2
 Incidius | 2
+Inf3rnal | 2
 Ellisha | 2
 LuckyTheGamer | 2
 HelpegasuS | 2
@@ -493,7 +494,6 @@ Split72 | 1
 Extrox | 1
 IronIngot | 1
 Vadi | 1
-JHYMHMHY | 1
 greXxio | 1
 Staps | 1
 phobicGD | 1

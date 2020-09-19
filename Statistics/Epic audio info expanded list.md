@@ -84,6 +84,7 @@
 | 684300 | ColBreakz | ColBreakz - 10000 | 4 | 32572526; 30219145; 27117091; 50007109
 | 758066 | garlagan | Refract | 4 | 40249367; 43028970; 46032463; 38811712
 | 772435 | PandaEyesOfficial | Panda Eyes feat. Subkey - Continue | 4 | 57976512; 47602711; 60635337; 41233773
+| 756073 | csx42gaming | Empower | 4 | 51119584; 37533859; 48808692; 64070742
 | 731503 | ggaero | Gaero - Howl | 4 | 49266956; 52801034; 46649388; 32045809
 | 702912 | Cursedsnake | calm | 4 | 32614529; 34724951; 35904510; 45088185
 | 827836 | teminiteofficial | Teminite - A New Dawn | 4 | 55895552; 56783728; 55644969; 45344874
@@ -130,7 +131,7 @@
 | 734693 | ColBreakz | Protolizard & ColBreakz - Nevermind | 4 | 35427356; 35335302; 34424517; 35129636
 | 837148 | Xomu10 | Pagoda | 4 | 56194443; 56097631; 56849500; 56762707
 | 763439 | ColBreakz | ColBreakz - Mind Control | 4 | 48713988; 58711844; 57922000; 63335504
-| 794165 | Kolkian | Catalyze | 4 | 48926714; 47915091; 56395811; 45627449
+| 794165 | Kolkian | Catalyze | 4 | 47915091; 56395811; 45627449; 48926714
 | 769607 | DJ-Zyzyx | Zyzyx - Lost it All | 4 | 49913089; 48561623; 39832937; 63557567
 | 740966 | ColBreakz | ColBreakz - Invasion | 4 | 36825859; 34357166; 35744914; 33796924
 | 794212 | MrKoolTrix | Nice Vibes | 4 | 48469085; 55811276; 63996558; 56957631
@@ -173,7 +174,6 @@
 | 676174 | ColchianCat | Luminance | 3 | 60903016; 61609262; 35633247
 | 829777 | CreoMusic | Creo - Idolize | 3 | 56150438; 57281479; 57805587
 | 702828 | DJ-Zyzyx | Zyzyx - Echolands | 3 | 48760104; 34393752; 54811081
-| 756073 | csx42gaming | Empower | 3 | 51119584; 37533859; 48808692
 | 778607 | DJVI | Amp It Up | 3 | 63666215; 56497509; 44797163
 | 725352 | Xtrullor | Xtrullor - The Armor of God | 3 | 30396838; 49744661; 37169373
 | 573817 | DuoCore | DuoCore - The Furious | 3 | 35366985; 33907266; 36704048
@@ -437,6 +437,7 @@
 | 760696 | NoVAmusicofficial | NoVA - Breathe [Tropical House] | 2 | 47627583; 54735227
 | 834445 | F-777 | F-777 - Double Cross (Dres Theme) | 2 | 56369889; 57137024
 | 529291 | Acid-Notation | ---Fury--- | 2 | 41942873; 37915591
+| 76677 | Waterflame | -Field of memories- | 2 | 64078210; 57491421
 | 693127 | xenith800 | Styx Helix [x800 remix] | 2 | 35031971; 62216060
 | 555910 | Stratales | Carrot Juice | 2 | 62272735; 58548763
 | 936853 | CreoMusic | Creo - Dark Tides | 2 | 62296864; 62773037
@@ -968,7 +969,6 @@
 | 869235 | FarOutOfficial | Gryffin & Slander - All You Need To Know (Far Out Remix) | 1 | 57053803
 | 922510 | BoomKitty | Peepee Song (Censored) | 1 | 60605814
 | 822154 | CrystalSirens | Rachel Costanzo - Comfortable (Crystal Sirens Remix) | 1 | 50288184
-| 76677 | Waterflame | -Field of memories- | 1 | 57491421
 | 183180 | Dimrain47 | Buzztone Symphony | 1 | 56570421
 | 402314 | NickPerrin | Spread Cannon (8-bit) | 1 | 57347932
 | 799620 | Spendro | Huenu - Water | 1 | 57454976
