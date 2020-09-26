@@ -492,6 +492,7 @@
 | 697643 | Waterflame | -Below- | 2 | 40005531; 41284022
 | 587069 | Waterflame | -Endgame- | 2 | 41038290; 58471832
 | 859448 | thirdprototype | 3rd Prototype & Emdi - House | 2 | 56916170; 57402184
+| 718170 | cysmix | cYsmix - Manic | 2 | 63560498; 56695728
 | 886108 | alexizgd | ALESDA! - Afterlife | 2 | 59227462; 58583861
 | 816466 | Miyolophone | Root Beer Float | 2 | 57207129; 55320441
 | 591208 | steampianist | Secrets of Wysteria | 2 | 57024728; 56699951
@@ -543,6 +544,7 @@
 | 681648 | ColBreakz | ColBreakz - 3000 | 2 | 33827728; 29199166
 | 722594 | KaixoMusic | Troglodyte (Original Mix) | 2 | 29519341; 34583618
 | 759463 | joolz125 | ???????? - Youre My Daylight | 2 | 58311359; 56258128
+| 792253 | windluxmusic | Koraii - Sanctuary | 2 | 62875785; 56892516
 | 726714 | Cursedsnake | Sunrays | 2 | 45125616; 37269362
 | 444085 | F-777 | Dark Angel - F-777 | 2 | 39778496; 61465909
 | 530110 | Blackhole12 | Spiral Nebula | 2 | 56474381; 61320999
@@ -1056,6 +1058,7 @@
 | 861279 | LawnReality | Summer Nights | 1 | 58045535
 | 816218 | TeslaX11 | TeslaX - Celestial Abyss | 1 | 57789118
 | 883801 | Astral7 | Roxal x Yukster - Burn (Astral remix) | 1 | 58116497
+| 953433 | Sterrezo | Dungeon Crawler | 1 | 64199783
 | 732253 | rosenrotR | Le conteur (210bpm) | 1 | 60726930
 | 683091 | Cursedsnake | Fiery remake | 1 | 57291653
 | 744530 | Psybot | Psybot - Enhanced | 1 | 35197358
@@ -1161,7 +1164,6 @@
 | 718172 | cysmix | cYsmix - House with Legs | 1 | 62040387
 | 867677 | Sharks | Sharks - Amethyst | 1 | 60317281
 | 867679 | Sharks | Sharks - Maelstrom | 1 | 58878696
-| 718170 | cysmix | cYsmix - Manic | 1 | 56695728
 | 605531 | JonnyAtma | GaMetal - The Ultimate Show | 1 | 62835942
 | 890199 | FarOutOfficial | Humans (Far Out Remix) | 1 | 63454332
 | 580950 | Rukkus | Realistik - 211 | 1 | 55693430
@@ -1300,7 +1302,6 @@
 | 523943 | Acid-Notation | ---Ground Pound--- | 1 | 34923683
 | 872112 | papkee | Stormbound | 1 | 58867466
 | 624314 | Geoplex | Afterglow (ft Roy) | 1 | 45292515
-| 792253 | windluxmusic | Koraii - Sanctuary | 1 | 56892516
 | 757433 | 1f1n1ty | Discord Server On Saturn | 1 | 45993885
 | 667328 | JBeat2k9 | Imogen Heap - Have you got it in you - K0DeX Remix | 1 | 49512054
 | 855740 | lxSparklerxl | Happier (Remake) | 1 | 58320379
@@ -1386,6 +1387,7 @@
 | 710518 | 1AHN | IAHN - Summer Vacation (Original Mix) | 1 | 60923124
 | 800646 | CreoMusic | Creo - Slow Down | 1 | 57266538
 | 757640 | KaixoMusic | Myriad (Original Mix) | 1 | 37692445
+| 544646 | Stratales | Spaghetti On The Side | 1 | 62921109
 | 329609 | vcrock | Ultimate Bowser(Epic Remix) | 1 | 37542663
 | 753562 | G4lvatron | Walking In Style | 1 | 37188385
 | 485267 | DJM4C | Detendu | 1 | 35114282

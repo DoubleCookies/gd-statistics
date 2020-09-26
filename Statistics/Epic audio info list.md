@@ -1,4 +1,4 @@
-#### Total: 2571 levels
+#### Total: 2575 levels
 
 | ID | Author | Name | Count |
 |:---:|:---:|:---:|:---:|
@@ -494,6 +494,7 @@
 | 697643 | Waterflame | -Below- | 2
 | 587069 | Waterflame | -Endgame- | 2
 | 859448 | thirdprototype | 3rd Prototype & Emdi - House | 2
+| 718170 | cysmix | cYsmix - Manic | 2
 | 886108 | alexizgd | ALESDA! - Afterlife | 2
 | 816466 | Miyolophone | Root Beer Float | 2
 | 591208 | steampianist | Secrets of Wysteria | 2
@@ -545,6 +546,7 @@
 | 681648 | ColBreakz | ColBreakz - 3000 | 2
 | 722594 | KaixoMusic | Troglodyte (Original Mix) | 2
 | 759463 | joolz125 | ???????? - Youre My Daylight | 2
+| 792253 | windluxmusic | Koraii - Sanctuary | 2
 | 726714 | Cursedsnake | Sunrays | 2
 | 444085 | F-777 | Dark Angel - F-777 | 2
 | 530110 | Blackhole12 | Spiral Nebula | 2
@@ -1058,6 +1060,7 @@
 | 861279 | LawnReality | Summer Nights | 1
 | 816218 | TeslaX11 | TeslaX - Celestial Abyss | 1
 | 883801 | Astral7 | Roxal x Yukster - Burn (Astral remix) | 1
+| 953433 | Sterrezo | Dungeon Crawler | 1
 | 732253 | rosenrotR | Le conteur (210bpm) | 1
 | 683091 | Cursedsnake | Fiery remake | 1
 | 744530 | Psybot | Psybot - Enhanced | 1
@@ -1163,7 +1166,6 @@
 | 718172 | cysmix | cYsmix - House with Legs | 1
 | 867677 | Sharks | Sharks - Amethyst | 1
 | 867679 | Sharks | Sharks - Maelstrom | 1
-| 718170 | cysmix | cYsmix - Manic | 1
 | 605531 | JonnyAtma | GaMetal - The Ultimate Show | 1
 | 890199 | FarOutOfficial | Humans (Far Out Remix) | 1
 | 580950 | Rukkus | Realistik - 211 | 1
@@ -1302,7 +1304,6 @@
 | 523943 | Acid-Notation | ---Ground Pound--- | 1
 | 872112 | papkee | Stormbound | 1
 | 624314 | Geoplex | Afterglow (ft Roy) | 1
-| 792253 | windluxmusic | Koraii - Sanctuary | 1
 | 757433 | 1f1n1ty | Discord Server On Saturn | 1
 | 667328 | JBeat2k9 | Imogen Heap - Have you got it in you - K0DeX Remix | 1
 | 855740 | lxSparklerxl | Happier (Remake) | 1
@@ -1388,6 +1389,7 @@
 | 710518 | 1AHN | IAHN - Summer Vacation (Original Mix) | 1
 | 800646 | CreoMusic | Creo - Slow Down | 1
 | 757640 | KaixoMusic | Myriad (Original Mix) | 1
+| 544646 | Stratales | Spaghetti On The Side | 1
 | 329609 | vcrock | Ultimate Bowser(Epic Remix) | 1
 | 753562 | G4lvatron | Walking In Style | 1
 | 485267 | DJM4C | Detendu | 1
