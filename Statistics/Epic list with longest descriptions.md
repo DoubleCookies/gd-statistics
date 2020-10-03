@@ -1690,7 +1690,6 @@
 | Imp3rf3rct1on | Noweek | 39269485 | 56 | Humanity corrupt the world, the robots take the controls
 | Transcendence | Alderite | 35345329 | 56 | Amazing collab with xMisery. Added Uldm for you guys ;-;
 | Believe | AceVict | 28879542 | 56 | Simple and easy level, please rate hard 4 stars! thx! :)
-| Mystical Reality | Inokuro | 62105821 | 55 | Collab with OgataRizu &#124; special thx to Bahar, bug fixed
 | Tomb Raver | Subwoofer | 58036363 | 55 | Dropping the G in Graveyard. Happy Halloween from Bros.
 | One Good Day II | PleoSlim RMD | 54569231 | 55 | The End Is Near...                 (please, Rate Demon)
 | JusT RobS n TopS | DanZmeN | 52070793 | 55 | The world's first extreme auto. Verified by Technical49
@@ -2241,6 +2240,7 @@
 | rick morty | BelonziK | 62759389 | 21 | pickle morty and rick
 | Free stars | Sminx | 62604132 | 21 | decorated in two days
 | Cerulean Blue | Hannn | 62401364 | 21 | Collab with DangerKat
+| Mystical Reality | Inokuro | 62105821 | 21 | Collab with CurXeDesu
 | rakuen | TAKUMII | 61322049 | 21 | welcome to Rakuen! <3
 | Foru | LuckyTheGamer | 60019138 | 21 | thanks for playing :)
 | BLOZ | DHaner | 58558910 | 21 | Are you able to stop?
