@@ -76,14 +76,14 @@ public class Main {
         }
     }
 
-    private static FileOutputStream getFileOutputStream(int sortingCode, String prefix, int diffcode) throws IOException {
+    private static FileOutputStream getFileOutputStream(int sortingCode, String prefix, int difficultyFolder) throws IOException {
         FileOutputStream out;
         String baseFolder = "Statistics";
         Path path = Paths.get(baseFolder);
         if (!Files.exists(path))
             Files.createDirectories(path);
         baseFolder += "/";
-        String folder = getDifficultName(diffcode);
+        String folder = getDifficultName(difficultyFolder);
         String secondFolder = "";
         if (!folder.equals("")) {
             String p = "Statistics/" + folder.trim();

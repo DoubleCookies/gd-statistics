@@ -376,6 +376,7 @@
 | 844250 | treepalm | I Love You La La La | 2 | 58966855; 59616270
 | 530913 | Xtrullor | Wonderpunch | 2 | 32321683; 30670670
 | 31214 | Dimrain47 | The Final Hour | 2 | 35418205; 58735216
+| 911841 | Waterflame | -Precarious- | 2 | 64582461; 59917374
 | 801278 | teminiteofficial | Teminite - Shockwave | 2 | 62713916; 63553145
 | 127473 | keatonkeaton999 | Cheering! | 2 | 59621323; 39428512
 | 930302 | SlyceCaik | MORE STITCHES ???? | 2 | 64246771; 63996127
@@ -592,6 +593,7 @@
 | 737162 | Domyeah | Theory of Everything IV {Fan Made} | 2 | 35378937; 34569397
 | 855946 | Vairoofficial | Vairo - NIGHTMARE | 2 | 56764573; 58036363
 | 751490 | CreoMusic | Creo - Shape of the Sun | 2 | 55302489; 56798192
+| 757640 | KaixoMusic | Myriad (Original Mix) | 2 | 37692445; 64684802
 | 708485 | KabukiTunes | VICT & Kabuki - Popsicle! | 2 | 48464721; 36509294
 | 905110 | CreoMusic | Creo - Octane | 2 | 59834848; 59670784
 | 905109 | CreoMusic | Creo - Ballistic Funk | 2 | 60235824; 60595333
@@ -757,6 +759,7 @@
 | 592193 | MosesX50 | Cynthia Strikes! | 1 | 50175300
 | 690498 | Sunryser | Owl City - Fireflies (Sunryser Remake) | 1 | 36827844
 | 493898 | Jumper | [J] - Solar Wind | 1 | 53653753
+| 899424 | TodukenMusic | TIME. | 1 | 64653464
 | 680273 | windluxmusic | Fallen Tears (Dream Trance) | 1 | 31037168
 | 831825 | MrKoolTrix | Onward Refresh | 1 | 62126365
 | 772439 | Cursedsnake | Get smooshed! | 1 | 62756354
@@ -817,7 +820,6 @@
 | 668139 | JoarZ | JoarZ - Bamboo (Short Version) | 1 | 38017934
 | 381421 | LoveKavi | Cherry Blossoms - LoveKavi | 1 | 43879123
 | 152047 | ParagonX9 | ParagonX9 - Chaoz Impact | 1 | 28461869
-| 911841 | Waterflame | -Precarious- | 1 | 59917374
 | 627198 | MadhouseDUDE | Now Were Talkin | 1 | 57543800
 | 623104 | bossfightofficial | Bossfight - Milky Ways | 1 | 60745211
 | 532991 | Envy | EnV - Bloom(Radio Edit) | 1 | 57654375
@@ -882,6 +884,7 @@
 | 694911 | Waterflame | -Toil- | 1 | 47885487
 | 537203 | Geoplex | Solar Rain | 1 | 55677002
 | 692849 | Namice | Space Ride | 1 | 51092414
+| 799345 | joolz125 | Lasers | 1 | 64663238
 | 782965 | alexizgd | BMus & ALESDA! - Overcloud | 1 | 56590379
 | 846452 | JoarZ | GLRE - Falling (Original Mix) | 1 | 56624718
 | 918159 | DJStormblastXL | Superchargers (Remastered) | 1 | 60414985
@@ -913,6 +916,7 @@
 | 948914 | Jayuff | Split Path (Soundtrack) | 1 | 62743002
 | 737994 | bossfightofficial | Bossfight - Nowise | 1 | 38398923
 | 584398 | F-777 | Cane Swinging | 1 | 52733698
+| 883403 | Dragoneex | Forgotten 2 | 1 | 64666555
 | 891586 | CreoMusic | Creo - Shine | 1 | 60473779
 | 715461 | BobRatchet | Elevator | 1 | 46667372
 | 740063 | N1NJA-Official | the beach | 1 | 36761322
@@ -1255,6 +1259,7 @@
 | 538102 | Kubbi | Up In My Jam | 1 | 63029657
 | 712184 | OfficialNovacore | LazyTown - We Are Number One (Dubstep Remix) | 1 | 30753202
 | 499194 | Euphy | S. - Cavalcade Evolution | 1 | 51071895
+| 966129 | Abstrack | Abstrack - Eclipse | 1 | 64685764
 | 689654 | Schtiffles | Hop | 1 | 55016141
 | 411144 | Potayto | Mokous Theme - Remix! [wip?] | 1 | 57737195
 | 949770 | CrusadeOfficial | Countdown | 1 | 62973709
@@ -1402,7 +1407,6 @@
 | 710518 | 1AHN | IAHN - Summer Vacation (Original Mix) | 1 | 60923124
 | 964490 | DJStriden | Beyond The Universe [Trance] | 1 | 64379252
 | 800646 | CreoMusic | Creo - Slow Down | 1 | 57266538
-| 757640 | KaixoMusic | Myriad (Original Mix) | 1 | 37692445
 | 544646 | Stratales | Spaghetti On The Side | 1 | 62921109
 | 329609 | vcrock | Ultimate Bowser(Epic Remix) | 1 | 37542663
 | 753562 | G4lvatron | Walking In Style | 1 | 37188385

@@ -1,4 +1,4 @@
-#### Total: 2615 levels
+#### Total: 2621 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -7,6 +7,7 @@
 | Sedulous | Samifying | 64618054 | 152 | This project was started 3.5 years ago. Thank you to my Twitch community and friends for keeping me sane. (Activate LD mode for more in game LD options)
 | Sensual Dance | DepisH16 | 51053748 | 147 | A new level in terms of hell arena. Briefly, the last part seems to me very bad, because of this boss and his complex animations, but still like :v
 | Tiramisu | DaFinn | 57053242 | 141 | An experimental design level by me ;) 3 months of work :D 72,1k total objects :3 Hope ya like it and play it >w< Pass is on my YT channel ^^"
+| Lost | LPpassy96 | 64666555 | 140 | Please check out dragoneex, the creator who made this amazing song, give him what he finaly deserves. as for the level, i hope you enjoy! <3
 | Finis | Xstar7 | 64327747 | 140 | This may be my last level, but I will still be around. I might even make another sometime in the future, who knows. Thx peeps. Pass on my YT
 | Enlightenment | Ragnarus | 63630023 | 140 | "The Deer Will Guide and Light Your Path", second part on The Tranquility Soul project, Thanks to R4NGER for helping me!, hope you ENJOY! :)
 | FEZ | SpKale | 62936422 | 140 | Remake of "Fez" by Serponge, which is based off of the game "FEZ" by Polytron Corporation. For the GDS Creator Contest! (Honorable Mention!)
@@ -1254,6 +1255,7 @@
 | Blast Reloaded | Skitten | 37386305 | 85 | RadiationV2 and I remade our old 2.0 collab into this crazy demon level! Have fun! :D
 | DreamTrack | RhakY | 35834655 | 85 | finally a new level! thanks to Axils, Jozhe52 and SirZaiss for this amazing collab :D
 | Trumpet Slap | Nico99 | 35050229 | 85 | Finally done! My best yet... Enjoy :D Entry to Enlex CC2... Name suggestion by Terron
+| Ion | Sruj | 64684802 | 84 | Dedicated to Jacobroso for bullying me and DS Server. Drop gameplay made by Amverial
 | Mr Spike III | FUNKYpersy | 62370077 | 84 | The Third and last Part of 'Mr Spike' Is out &#124; My first and only megacollab &#124; Enjoy!
 | TranquillitY | BryanC2 | 59177605 | 84 | ...                                                                                 
 | Estropolix | Nexender | 57799698 | 84 | gameplay by ruby18, decorations by me and thanks to geonox for name for this level! 
@@ -1657,6 +1659,7 @@
 | Fury | Sharks | 35031085 | 60 | My first level with my own song ! Thanks Rub for the Daily !
 | Bewildering | MrKoolTrix | 33894915 | 60 | Be astounded & bewildered. Enjoy! About 34k objects used. :)
 | Maya | RadiationV2 | 33297101 | 60 | What lies ahead, there's only one way to find out... Rate 6*
+| Flicker | SirHadoken | 64663238 | 59 | Not for the feint of eye. Playtested by Lowee and Cerberus.
 | Quantum | BitZel | 62921109 | 59 | Collab with IFSGeorge, we made this on 5 days. GDSCC entry!
 | Encounter | Fairfax | 62068844 | 59 | First lvl 2020.. Collab with RehanZ..special thanks to Garp
 | Acu | neigefeu | 61079355 | 59 | Enjoy this extreme demon, this was a load of fun to make :)
@@ -1810,6 +1813,7 @@
 | Omega | Darwin | 35890421 | 49 | new demon lvl :3 good gameplay this time ! enjoy 
 | Tenebris | f3lixsram | 34851342 | 49 | Thanks for spike gauntlet rob ! Good luck guys :D
 | Livewire | LumiLunatic | 31320481 | 49 | Much easier version, also switched up some colors
+| Ledge | PotatoBaby | 64582461 | 48 | Experimental Level. Practice Recommended. Enjoy.
 | Parallel | Darwin | 58242313 | 48 | This is the second level of my new album! Enjoy!
 | Submerged | Subwoofer | 57871639 | 48 | Uncover what lies in the shadows of the abyss...
 | FIRE SPIRE | Cirtrax | 56893849 | 48 | very EPIC fire themed megacollab, rate 10 stars!
@@ -1867,6 +1871,7 @@
 | Lop | Pxj | 37176400 | 45 | Simply tasty, Epic collab with victorinoxX :7
 | Blood Sugar | rafer | 34318505 | 45 | Inspired by Pendulum's song. 940 groups used.
 | Experience | AyDiePay | 31420440 | 45 | Probably my best:) Hope for an epic<3 Enjoy;)
+| Fluent | Split72 | 64685764 | 44 | Really happy with how this one turned out :>
 | Sky Tower | rafer | 64302902 | 44 | soar up the SKIES to find the big TREASURE!!
 | Le Bouton Volume | Hydren | 63696764 | 44 | YA DU SON QUI SORT, MEME LE BOUTON IL MARCHE
 | Cosmic Party | Nexender | 59574372 | 44 | My best level and second level in art style!
@@ -2369,6 +2374,7 @@
 | Vesper | ViP3r | 35507499 | 16 | Wassup palls! <3
 | CybernistiC | Darwin | 31929275 | 16 | wanna dance ? 8)
 | Mechanical Showdown | Tongii | 27786218 | 16 | new update added
+| NOW | YunHaSeu14 | 64653464 | 15 | Play now!   lol
 | Motivation | Rockwizard5 | 64379252 | 15 | For my friends!
 | Mind Control | FaekI | 63335504 | 15 | It's done yaaay
 | Ninox | DepisH16 | 62840285 | 15 | Please Gank Me!
