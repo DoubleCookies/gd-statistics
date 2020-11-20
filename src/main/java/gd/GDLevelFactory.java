@@ -97,6 +97,7 @@ public abstract class GDLevelFactory {
                     song
             );
         } catch (NullPointerException | IllegalArgumentException e) {
+            e.printStackTrace();
             throw new IndexOutOfBoundsException();
         }
     }

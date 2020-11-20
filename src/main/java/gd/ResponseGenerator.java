@@ -202,6 +202,7 @@ public class ResponseGenerator {
             }
         } catch (Exception e) {
             logger.error("Exception during connecting: " + e);
+            e.printStackTrace();
         }
         return list;
     }
@@ -214,6 +215,7 @@ public class ResponseGenerator {
             while (receivingLevels) {
                 String res = GDServer.fetchRecentFeaturedLevels(levelsPage);
                 if (res.equals("-1")) {
+                    logger.warn("returned -1!");
                     receivingLevels = false;
                     continue;
                 }
@@ -222,6 +224,7 @@ public class ResponseGenerator {
             }
         } catch (Exception e) {
             logger.error("Exception during connecting: " + e);
+            e.printStackTrace();
         }
         sortLevelList(list, sortingCode);
         return list;

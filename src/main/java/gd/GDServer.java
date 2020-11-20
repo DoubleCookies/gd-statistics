@@ -43,7 +43,8 @@ public abstract class GDServer {
         while ((line = rd.readLine()) != null) {
             result.append(line).append("\n");
         }
-
+        rd.close();
+        con.disconnect();
         return result.toString().replaceAll("\n", "");
     }
 
