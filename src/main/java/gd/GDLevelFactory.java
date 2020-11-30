@@ -56,6 +56,9 @@ public abstract class GDLevelFactory {
             Map<Integer, String> structuredLvlInfo = structureRawData(cutOneLevel(cutLevelInfoPart(rawData), index));
             Map<Long, String> structuredCreatorsInfo = structureCreatorsInfo(cutCreatorInfoPart(rawData, download));
             Map<Long, GDSong> structuredAudioInfo = structureAudioInfo(cutCreatorMusicPart(rawData, download));
+            if (structuredLvlInfo.isEmpty()) {
+                throw new NullPointerException("Received empty level object!");
+            }
             GDSong song = Long.parseLong(structuredLvlInfo.get(Constants.INDEX_LEVEL_SONG_ID)) <= 0 ?
                     Utils.getAudioTrack(Integer.parseInt(structuredLvlInfo.get(Constants.INDEX_LEVEL_AUDIO_TRACK))) :
                     structuredAudioInfo.get(Long.parseLong(structuredLvlInfo.get(Constants.INDEX_LEVEL_SONG_ID)));
