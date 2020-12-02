@@ -272,6 +272,7 @@ Nottus | 3
 Ethrakk | 3
 King Woofy | 3
 skrillero01 | 3
+DaFinn | 3
 Rustam | 3
 Xylph | 3
 Fury0313 | 3
@@ -309,8 +310,6 @@ Cubix | 2
 Bronks | 2
 SuprianGD  | 2
 Schneider9 | 2
-ImMarrk | 2
-Kitoun | 2
 aLeLsito | 2
 Carnage37 | 2
 Jaasim | 2
@@ -343,6 +342,7 @@ DreamTide | 2
 TyphoonThunder | 2
 IyuriI | 2
 AmIXam | 2
+Gummimon | 2
 Shemo | 2
 AdvyStyles | 2
 Woom | 2
@@ -397,7 +397,6 @@ MrClyde | 2
 Enceladus GD | 2
 Df0rDie | 2
 Nezziee | 2
-DaFinn | 2
 charky | 2
 Marwec | 2
 Findexi | 2
@@ -431,6 +430,7 @@ juandeman | 2
 F5night | 2
 PENTpresents | 2
 PTyXaLPHaZ | 2
+Marrk | 2
 Nibblerez | 2
 VytraxVerbast | 2
 BloodStorm GD | 2
@@ -474,6 +474,7 @@ Staps | 1
 verticallity | 1
 TheTrueEclipse | 1
 Gusearth | 1
+Leoftine | 1
 guppy28 | 1
 Dioxis | 1
 Apstrom | 1
