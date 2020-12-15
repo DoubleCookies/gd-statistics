@@ -51,6 +51,7 @@
 | 785099 | cloudfield | cloudfield - Dream (ft. Hiroto x Luna) | 5 | 56525293; 55015955; 64778342; 44133646; 63326830
 | 690885 | ColchianCat | Zaphkiel | 5 | 37153915; 34526077; 44567922; 34364134; 34848621
 | 787153 | LemKuuja | Ouais Ouais (ft. SlyLeaf) | 5 | 59626284; 62364298; 61030693; 48960397; 63169775
+| 723714 | hyperdemented | Epilogue | 5 | 65755048; 60179265; 61079355; 61860688; 63890334
 | 684823 | meganeko | 2k9 battle jam | 5 | 52755435; 37889982; 38329234; 35021991; 41083032
 | 738126 | ColBreakz | Tisment & ColBreakz - Silent Storm | 5 | 34264590; 37412017; 38554031; 33111405; 34909889
 | 664389 | AeronMusic | Wishful | 5 | 35211641; 33840910; 34224737; 33594551; 36080060
@@ -107,7 +108,6 @@
 | 678590 | ForeverBound | Harmony of the Heart | 4 | 35003644; 30225532; 30166527; 44934055
 | 785100 | cloudfield | cloudfield - Fantasy (ft. Reichuu) | 4 | 48075410; 41678017; 60679881; 57175978
 | 541404 | Stratales | Flavored Ice | 4 | 42658270; 40202946; 43149681; 60569568
-| 723714 | hyperdemented | Epilogue | 4 | 60179265; 61079355; 61860688; 63890334
 | 383793 | Waterflame | -Lightspeed- | 4 | 62848833; 57298751; 32940369; 62906815
 | 713536 | BurgeraX | BurgeraX: Scorpion [Drum & Bass] | 4 | 34379100; 47234639; 56852608; 37489485
 | 684892 | meganeko | TAK - PAE-KI (meganeko Remix) | 4 | 41939387; 34869321; 43240913; 33863073
@@ -447,6 +447,7 @@
 | 805724 | DerpCatOfficial | Derpcat - Sonorous | 2 | 56596305; 52637454
 | 514911 | AeronMusic | Final Boss | 2 | 47109037; 62840218
 | 648035 | bossfightofficial | Milky Ways Redux | 2 | 55094160; 37029387
+| 908129 | Waterflame | -Body Jammer- | 2 | 65767123; 65453968
 | 580456 | DeadRewind | Detious - Serenade | 2 | 54630370; 29772124
 | 922493 | Miyolophone | Disputatio | 2 | 65373070; 64931713
 | 129910 | Waterflame | -Control: Damage- | 2 | 58768854; 57430694
@@ -855,6 +856,7 @@
 | 489994 | DarkmasterX | Orchestral Touhou 1 | 1 | 49149238
 | 901635 | lukhash | Perpetual Motion | 1 | 63521554
 | 852510 | DerpCatOfficial | Derpcat - Hypocrisy | 1 | 54682375
+| 846353 | 5m2kes | Cup Cake | 1 | 65759635
 | 760364 | Zelgeon | [Glitch Hop] HEY! (Original Mix) [Reborn EP] | 1 | 38536880
 | 760365 | BurgeraX | BurgeraX: Bloodthirst [Dubstep] | 1 | 37564595
 | 895527 | Kyutatsuki | ?????? (Sayonara Sekai) | 1 | 61930129
@@ -1004,7 +1006,6 @@
 | 912235 | ThisIsTheFatRat | TheFatRat & Maisy Kay - The Storm | 1 | 63155798
 | 918375 | Astral7 | Astral, Tree Palm - I wanna be with you (w/ Corex) | 1 | 61014581
 | 889704 | GDTrickshot | Trickshot - RVIT | 1 | 57295910
-| 908129 | Waterflame | -Body Jammer- | 1 | 65453968
 | 793443 | DMDOKURO | Universal Collapse | 1 | 57334967
 | 678780 | Dj-Rec0il | Gradient Horizon | 1 | 45772757
 | 330613 | EliteFerrex | Hyperion Overdrive | 1 | 32569165

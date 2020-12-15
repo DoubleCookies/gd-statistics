@@ -1,4 +1,4 @@
-#### Total: 2701 levels
+#### Total: 2704 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -82,6 +82,7 @@
 | Toxin Lab IV | Xaro | 29917082 | 140 | Here it is, Toxin Lab IV. I dedicate this Toxin Lab to loserchik67 for motivating me to not cancel the lab series. Enjoy and try to survive.
 | FREEDOM | MrPPs | 29247995 | 140 | Amazing Megacollab with Nuclear Nacho , SlovaHands , 11 Made in 2.0 Hope you Enjoy  GD Heroes Work ,  Thank you Rubrub for The Epic So Much!
 | legend  | HadiGD | 28943996 | 140 | A collab between gibbon765, optical, izinad4sh, g4lvatron, thomartin, stubbypinata, funnygame and me! Thx to starship, zhander and neogamer.
+| Shattered Rift | Marrk | 65755048 | 139 | The dimensional rift is shattered, reality is going bonkers &#124;&#124; a level i left unfinished a couple months ago and finally finished it. enjoy
 | Sneaky Snake | MaxyLAND | 64803948 | 139 | Are you ready for a sneaky experience? Select the difficulty and go zigzagging! Thanks to DavJT and Boii for helping and testing. Use 60Hz!
 | harlequin | ItzMezzo | 64735621 | 139 | first level after my comeback! sorry for ending so abruptly, but i really wanted to be done with this thing. coming back with more power...
 | Aguizote | RobzombiGD | 64718563 | 139 | Nivel solo despues de mucho tiempo. Gracias a Hermar por ayudarme con el gameplay, verificado por Belphox. Disfrutar. Feliz Halloween. :)))
@@ -841,6 +842,7 @@
 | Chouchoute | M3nhHu3 | 36804834 | 108 | Pure style <3 the original song was remove :( im sorry #Original song: Ma Chouchoute by Ujico*/Snail's House
 | Timeless | SirHadoken | 31037168 | 108 | A new basic, simple effect level I made in around four days, possibly for GD World. Dedicated to Karaplex <3
 | 12th dimension | Darwin | 28563239 | 108 | Rotate trigger is amazing ! :D hope you enjoy my first 2.1 effect level 8)  like and Rate <3        &#124;Darwin&#124;
+| Hot Palace | CD Jeremy | 65767123 | 107 | Welcome to the Simple Magma Castle and his Hot Palace. Really wrong season of the year for a Magma Level xD
 | Smile | Nikce | 61638215 | 107 | This is a simple generic demon level made for fun, because I've never done one before. I hope you enjoy it!
 | Kurli Batik | RikLymback | 54795218 | 107 | Pattern that lives within everyday life, sitting there under appreciated. . . Fix a secret way, Pass:471347
 | Erstwhile | CastriX | 52488452 | 107 | Good and old vibes. My first 2019 & 1.9 level ever made. Hope you'll enjoy it. Inspired by ColorZ - xtobe5.
@@ -1590,7 +1592,7 @@
 | CLoNEs | Split72 | 62877097 | 67 | Collab with Daivrt- thank you so much for creating this with me! <3
 | Zap | Darwin | 62521060 | 67 | Collab with 25 Geostorm members! 3 coins, 6 hidden parts. Have fun!
 | Under Sea | neogamerGD | 61260879 | 67 | Remake of Dark Sea by TamaN, for GDs Contest, I hope you like this.
-| Amaterasu | purl | 59701682 | 67 | very easy demon (new: nerfed since people can't pass triple spikes)
+| Amaterasu | Vesii | 59701682 | 67 | very easy demon (new: nerfed since people can't pass triple spikes)
 | Chromatic Engines | chona026 | 58471832 | 67 | Chona026's "Retraction" remake. For V9tl & DTMaster's CC. (Part 2?)
 | Marik | BitZel | 57473037 | 67 | A quick remake of a pretty ancient level I did, I hope you like it.
 | True Calamity | Subwoofer | 57334967 | 67 | "You are no god... but I shall feast upon your essence regardless!"
@@ -2093,10 +2095,9 @@
 | plusTwenty | Codex | 33770764 | 35 | Collab with Zober. Short but sweet.
 | eliminator | Wilz | 64089732 | 34 | full level on my youtube chanel :)
 | Pandemonium | Superopi | 61490127 | 34 | Collab with Hyenaedon! Have fun :)
-| Anatidae | purl | 61315162 | 34 | inspired by Desticy and Real48NogZ
+| Anatidae | Vesii | 61315162 | 34 | inspired by Desticy and Real48NogZ
 | Thumper | DangerKat | 61233006 | 34 | Back to ancient times 1.9 Vibes :)
 | Shine | balloons | 60473779 | 34 | "Yeah, yeah, okay" -Neil Armstrong
-| MORCE | ImSamo | 59834848 | 34 | coo to preco skopirovane od knotsa
 | 112300 | Alex112300 | 56309844 | 34 | A number that you must remember 8)
 | Back On Track II | VecToRx GD | 56231461 | 34 | Shoulda made this extreme demon :/
 | Aether Enterprise | Tongii | 56186095 | 34 | Tried something quite different :)
@@ -2118,7 +2119,6 @@
 | THING | MintyLeaf | 63169775 | 33 | This is a thing i made, enjoy  :>
 | XL | DangerKat | 62367233 | 33 | Experimental level. made in 1 day
 | Erulla | Luddee | 61526405 | 33 | Was fun to build hope you like :)
-| Lov | CubicWolfGD | 59943298 | 33 | Happy Valentines Day everybody :D
 | Kin Yan To | sgam | 58918105 | 33 | "See you next year guys. Meow :3"
 | Depressive | DangnghiGD | 58477520 | 33 | why i wasting time on this game ?
 | Esoteric | balli | 57321084 | 33 | my new best level wowow AND demon
@@ -2228,7 +2228,7 @@
 | Zeniob | Markydash  | 59762766 | 26 | Special MC for a good day!
 | HASH | flash | 59413155 | 26 | a level with many colours.
 | Ventilation | kr1t | 57882498 | 26 | this just might be my best
-| Simple Beauty | purl | 57523897 | 26 | how to write a description
+| Simple Beauty | Vesii | 57523897 | 26 | how to write a description
 | cAniL Dupcha | Wintter | 57192529 | 26 | Dedicated to Danil Cupcha.
 | Troublesome | TheAlmightyWave | 57134023 | 26 | i am speed, made in 3 days
 | Strangers | DanZmeN | 57094996 | 26 | Made with 75% real Lemons.
@@ -2243,7 +2243,7 @@
 | Shadow Rush | Tongii | 34279935 | 26 | new level, enjoy. whatever
 | Mystical Cloud | Piseto | 30167322 | 26 | "Mystical Cloud". Enjoy =)
 | The Hydragaryu | Manix648 | 29996879 | 26 | Update 2: Fixed Secret Way
-| Lacuna | purl | 60140618 | 25 | tried something different
+| Lacuna | Vesii | 60140618 | 25 | tried something different
 | Jewel Of Life | RoyalP | 59964775 | 25 | Id like to become mod ;_;
 | FunkY BoO | FUNKYpersy | 57987804 | 25 | Bigli \(...!_!...)/ Migli
 | Soundstorm | Hannn | 57622235 | 25 | Another collab with 1374!
@@ -2333,6 +2333,7 @@
 | Mystical Reality | Inokuro | 62105821 | 21 | Collab with CurXeDesu
 | rakuen | TAKUMII | 61322049 | 21 | welcome to Rakuen! <3
 | Foru | LuckyTheGamer | 60019138 | 21 | thanks for playing :)
+| MORCE | ImSamo | 59834848 | 21 | skopirovane od knotsa
 | BLOZ | DHaner | 58558910 | 21 | Are you able to stop?
 | Spoopy | Unzor | 57953054 | 21 | It was Halloween! >:}
 | BeBe | DarkEvan | 57681105 | 21 | Thanks for playing :)
@@ -2349,6 +2350,7 @@
 | Mesin | AmorAltra | 64943957 | 20 | The machine go brrrr
 | Outlive | DHaner | 62328773 | 20 | It sounds like music
 | Caffeine Disc  | HcreatoR | 61237314 | 20 | Gracias por jugar :D
+| Lov | CubicWolfGD | 59943298 | 20 | Happy Valentines Day
 | Come Back to Earth | Wulzy | 59725003 | 20 | Come to your senses.
 | synergy | Alkatreize | 58045535 | 20 | gameplay by ThePlayy
 | Full Moon | FrostDragonGD | 57988282 | 20 | Happy halloween!! :D
@@ -2356,7 +2358,7 @@
 | Seumarter | Markydash  | 56794241 | 20 | End of the summer...
 | Nemesis Prime | FlacoGD | 56336014 | 20 | The Legend Of Prime.
 | Ragnarok | Knobbelboy | 55624478 | 20 | Twilight of the Gods
-| DownTheDrain | purl | 55131643 | 20 | Optional description
+| DownTheDrain | Vesii | 55131643 | 20 | Optional description
 | Relax | Nexender | 54735227 | 20 | Dedicated to: Decody
 | Triagonal Corundum | Nibblerez | 49166541 | 20 | rip vatstep song -_-
 | Mojito | Noweek | 44567922 | 20 | dance till your dead
@@ -2385,7 +2387,7 @@
 | Tautochrone | AleeIsMe | 56624718 | 19 | s i m p l i c i t y
 | Vizzo | ItzMezzo | 56614662 | 19 | Viral + Mezzo = ???
 | rainbow PUNCH | SpooFy | 56407828 | 19 | get rainbow punched
-| Dying to Live | purl | 54682375 | 19 | very colorful level
+| Dying to Live | Vesii | 54682375 | 19 | very colorful level
 | Ascent | danolex | 48996326 | 19 | Thanks for playing!
 | Futuristical | danolex | 47310327 | 19 | Thanks for playing!
 | Bread Head | Jghost | 46667372 | 19 | Stop loafing around
@@ -2398,7 +2400,7 @@
 | Unnamed piece | CorroX | 65659224 | 18 | one week challenge
 | Outcast | MistFix | 63707301 | 18 | Thank you Skitten.
 | Apex Predator | Underings | 62895423 | 18 | For GDS CC. Enjoy!
-| test123 | purl | 60872393 | 18 | the coin is fun :)
+| test123 | Vesii | 60872393 | 18 | the coin is fun :)
 | Zeridra | Daivrt | 57369022 | 18 | made for Xaika nwn
 | promises | Alexchii | 57210991 | 18 | Thanks Everyone <3
 | Two faced agony | FunnyGame | 55693430 | 18 | verified by syqual
@@ -2427,11 +2429,12 @@
 | Exordium | DesTicY | 40555200 | 17 | happy new year <3
 | Out of the Dark | wlfn | 33438569 | 17 | experimental deco
 | Aurora | Sharks | 33218690 | 17 | Quick nerf update
+| Merry Christler | Xyle | 65759635 | 16 | A penguin farded
 | Find It | PENTpresents | 64039031 | 16 | Project AlphA #1
 | Purity | Daivrt | 62264734 | 16 | i want to be pet
 | Showdowm | YansSK8 | 59434416 | 16 | New solo, enjoy!
 | On My Own | TeamUprising | 58681533 | 16 | Out on my own...
-| BiggestLetdown | purl | 56850761 | 16 | here we go again
+| BiggestLetdown | Vesii | 56850761 | 16 | here we go again
 | DrinKs | BrayanKJ | 54536319 | 16 | LEVEL SIMPLE :) 
 | Achronic | luisJR | 51134816 | 16 | Nothing special.
 | Wynn | Darwin | 47896521 | 16 | My full power...
@@ -2654,10 +2657,10 @@
 | Kabosu | Lemons | 35033118 | 1 | k
 | Quarter 56 | Zidnes | 62261079 | 0 | 
 | Our Heart Is Broken | HutniX | 60593138 | 0 | 
-| xoxo | purl | 59254281 | 0 | 
+| xoxo | Vesii | 59254281 | 0 | 
 | Acedia | SamMaxx | 58963404 | 0 | 
 | Ambu | neigefeu | 58604516 | 0 | 
-| Canopus | purl | 58250145 | 0 | 
+| Canopus | Vesii | 58250145 | 0 | 
 | Elexia45 F L Y | SamMaxx | 58003665 | 0 | 
 | Craziness | Alex112300 | 58002693 | 0 | 
 | phantom12 S T A Y | SamMaxx | 57975057 | 0 | 
