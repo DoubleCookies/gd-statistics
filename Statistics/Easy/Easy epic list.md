@@ -1,22 +1,23 @@
-#### Total: 18 levels
+#### Total: 19 levels
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Sneaky Snake | MaxyLAND | 64803948 | 340102 | 15406
-| Aulta | By7on | 55976208 | 463162 | 31311
-| Split Path | Jayuff | 62743002 | 300156 | 12246
-| Candescent | CastriX | 34749502 | 1838574 | 220093
-| Aer | neigefeu | 55215779 | 408366 | 29493
-| IZnite | izhar | 32400752 | 3331055 | 399832
-| weird | OSIRIS GD | 51173274 | 690342 | 61847
-| TranquillitY | BryanC2 | 59177605 | 235742 | 14180
-| Anna | iISpaceDustIi | 63553770 | 220904 | 12679
-| Ayu | Retropt | 57551137 | 455162 | 40355
-| Serponge Look At Me | iISpaceDustIi | 55037478 | 659878 | 38598
-| little soul | Vrymer | 62374745 | 285315 | 18302
-| Wishless | Pawlogates | 34224737 | 1657333 | 198848
-| Swag City | Xoroz | 66539851 | 327158 | 19945
-| Nice | danolex | 65109444 | 527228 | 40573
-|  TIA | BryanC2 | 54664621 | 538191 | 42973
-| Less than three | DanZmeN | 59760047 | 477528 | 40260
-| Anymore | oc3andark | 60087537 | 381987 | 24467
+| Sneaky Snake | MaxyLAND | 64803948 | 370582 | 16192
+| Aulta | By7on | 55976208 | 477315 | 31750
+| Geometry Dash | GDvesuvius | 67661363 | 17387 | 1582
+| Split Path | Jayuff | 62743002 | 313992 | 12594
+| Candescent | CastriX | 34749502 | 1878375 | 221456
+| Aer | neigefeu | 55215779 | 417177 | 29903
+| IZnite | izhar | 32400752 | 3411981 | 402643
+| weird | OSIRIS GD | 51173274 | 708416 | 62449
+| TranquillitY | BryanC2 | 59177605 | 241212 | 14425
+| Anna | iISpaceDustIi | 63553770 | 236812 | 13164
+| Ayu | Retropt | 57551137 | 476160 | 41588
+| Serponge Look At Me | iISpaceDustIi | 55037478 | 685015 | 39352
+| little soul | Vrymer | 62374745 | 292113 | 18630
+| Wishless | Pawlogates | 34224737 | 1688739 | 200135
+| Swag City | Xoroz | 66539851 | 371623 | 21458
+| Nice | danolex | 65109444 | 564104 | 42875
+|  TIA | BryanC2 | 54664621 | 558857 | 43895
+| Less than three | DanZmeN | 59760047 | 494622 | 41233
+| Anymore | oc3andark | 60087537 | 391273 | 24861
