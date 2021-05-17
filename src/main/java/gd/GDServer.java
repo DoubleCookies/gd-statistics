@@ -10,6 +10,8 @@ import java.net.URL;
 /**
  * Connection with Geometry Dash official servers is managed here
  * Contains utility methods to interact with the game
+ * Type parameter in request:
+ * 1 - most downloaded, 2 - most liked, 3 - trending, 4 - recent (now in use), 7 - magic, 11 - awarded? (not sure)
  */
 public abstract class GDServer {
 
