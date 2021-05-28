@@ -18,7 +18,7 @@ public class Constants {
     public static final int INDEX_LEVEL_SONG_ID = 35;
 
     /* Default geometry dash soundtracks */
-    public static final Map<Integer, GDSong> AUDIO_TRACKS = initDefaultSoundtracks();
+    public static final Map<Integer, GDSong> DEFAULT_SOUNDTRACKS = initDefaultSoundtracks();
 
     private static Map<Integer, GDSong> initDefaultSoundtracks() {
         Map<Integer, GDSong> map = new HashMap<>();

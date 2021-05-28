@@ -5,7 +5,7 @@ import gd.model.GDSong;
 import java.util.HashMap;
 import java.util.Map;
 
-import static gd.Constants.AUDIO_TRACKS;
+import static gd.Constants.DEFAULT_SOUNDTRACKS;
 
 /**
  * Contains utility static methods
@@ -48,6 +48,6 @@ public abstract class Utils {
      * @return GDSong
      */
     public static GDSong getAudioTrack(int id) {
-        return AUDIO_TRACKS.containsKey(id) ? AUDIO_TRACKS.get(id) : new GDSong(0, "-", "Unknown");
+        return DEFAULT_SOUNDTRACKS.containsKey(id) ? DEFAULT_SOUNDTRACKS.get(id) : new GDSong(0, "-", "Unknown");
     }
 }

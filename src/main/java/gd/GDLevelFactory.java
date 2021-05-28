@@ -26,7 +26,7 @@ public abstract class GDLevelFactory {
     private static final Map<Integer, DemonDifficulty> demonDifficultyByValue = new HashMap<>();
 
     static {
-        difficultyByValue.put(0, Difficulty.NA);
+        //difficultyByValue.put(0, Difficulty.NA);
         difficultyByValue.put(10, Difficulty.EASY);
         difficultyByValue.put(20, Difficulty.NORMAL);
         difficultyByValue.put(30, Difficulty.HARD);

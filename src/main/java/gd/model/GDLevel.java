@@ -229,8 +229,6 @@ public class GDLevel {
     /**
      * Two levels are considered as equal if and only if they have both
      * the same ID
-     *
-     * @see {@link Object#equals(Object)}
      */
     @Override
     public boolean equals(Object obj) {

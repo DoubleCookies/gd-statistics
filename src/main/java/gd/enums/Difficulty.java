@@ -1,17 +1,16 @@
 package gd.enums;
 
 /**
- * Represents the different difficulties for levels in the game.
+ * Represents the different difficulties for levels with star in the game.
  *
  * @author Alex1304
  */
 public enum Difficulty {
-    NA,
     AUTO,
     EASY,
     NORMAL,
     HARD,
     HARDER,
     INSANE,
-    DEMON;
+    DEMON
 }

@@ -10,5 +10,5 @@ public enum DemonDifficulty {
     MEDIUM,
     HARD,
     INSANE,
-    EXTREME;
+    EXTREME
 }
