@@ -1,4 +1,4 @@
-#### Total: 2972 levels
+#### Total: 2973 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -2797,6 +2797,7 @@
 | exploding box | SirZaiss | 46032463 | 8 | Boxes...
 | Flage | Regulus24 | 39356953 | 8 | Enjoy :D
 | Splash | Jayuff | 38811712 | 8 | finally!
+| Everlasting game | AniGleb | 69222995 | 7 | Well...
 | Swirling Fire | Jenkins | 67069282 | 7 | Inferno
 | ivashka | IvashkaUA | 66957897 | 7 | ivashka
 | Aerdna | Jezzel | 63326830 | 7 | Enjoy:)
@@ -2875,7 +2876,7 @@
 | Ao | Aerid | 63021337 | 2 | Ao
 | torn dimension | FunnyGame | 62835942 | 2 | GG
 | innovation | Wilz | 62687418 | 2 | :)
-| Kostya | Golzine | 61714234 | 2 | )/
+| Kostya | DokyG | 61714234 | 2 | )/
 | eh | Lfritz | 59917374 | 2 | eh
 | Less than three | DanZmeN | 59760047 | 2 | <3
 | impulse | Wilz | 59745278 | 2 | <3

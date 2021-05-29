@@ -209,18 +209,14 @@ public class ResponseGenerator {
         boolean receivingLevels = true;
         try {
             while (receivingLevels) {
-                logger.info("start processing page #" + levelsPage);
                 String res = GDServer.fetchRecentFeaturedLevels(levelsPage);
-                logger.info("get info from server for page #" + levelsPage);
                 if (res.equals("-1")) {
-                    logger.warn("returned -1!");
+                    logger.warn("-1 was returned; list is finished");
                     receivingLevels = false;
                     continue;
                 }
                 addLevelsToList(list, res);
-                logger.info("page #" + levelsPage);
                 levelsPage++;
-
             }
         } catch (Exception e) {
             logger.error("Exception during connecting: " + e);

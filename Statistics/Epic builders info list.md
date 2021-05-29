@@ -410,6 +410,7 @@ RhakY | 2
 Jeikins | 2
 isaacpl01 | 2
 klaurosssS | 2
+AniGleb | 2
 Kaii07 | 2
 SylntNyt | 2
 Korita | 2
@@ -689,7 +690,6 @@ killua282 | 1
 AlbertoG | 1
 HHyper | 1
 hypercube1 | 1
-AniGleb | 1
 RayZN | 1
 Lugunium | 1
 wollompboid | 1
@@ -738,7 +738,6 @@ Rimuruu | 1
 X1RON | 1
 HadiGD | 1
 GlobalisTik | 1
-Golzine | 1
 Moxirulo | 1
 DreamEater | 1
 Geonox | 1
@@ -896,4 +895,5 @@ dashiell10 | 1
 IronDofus435 | 1
 Alexchii | 1
 IceKeyHammer | 1
+DokyG | 1
 Zyplex | 1
