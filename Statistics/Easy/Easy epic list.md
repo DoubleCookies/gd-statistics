@@ -1,24 +1,25 @@
-#### Total: 20 levels
+#### Total: 21 levels
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Sneaky Snake | MaxyLAND | 64803948 | 456006 | 18609
-| Aulta | By7on | 55976208 | 545010 | 33219
-| Geometry Dash | GDvesuvius | 67661363 | 405981 | 21560
-| Split Path | Jayuff | 62743002 | 361150 | 13650
-| Candescent | CastriX | 34749502 | 2051209 | 226261
-| Aer | neigefeu | 55215779 | 449005 | 31254
-| IZnite | izhar | 32400752 | 3755536 | 412426
-| weird | OSIRIS GD | 51173274 | 780164 | 64187
-| Distant Horizon | Waffl3X | 68263042 | 384393 | 24404
-| TranquillitY | BryanC2 | 59177605 | 256655 | 15097
-| Anna | iISpaceDustIi | 63553770 | 286188 | 14614
-| Ayu | Retropt | 57551137 | 549107 | 45607
-| Serponge Look At Me | iISpaceDustIi | 55037478 | 788694 | 42618
-| little soul | Vrymer | 62374745 | 312631 | 19752
-| Wishless | Pawlogates | 34224737 | 1815054 | 204381
-| Swag City | Xoroz | 66539851 | 421109 | 23581
-| Nice | danolex | 65109444 | 681542 | 49926
-|  TIA | BryanC2 | 54664621 | 639479 | 46662
-| Less than three | DanZmeN | 59760047 | 558484 | 44051
-| Anymore | oc3andark | 60087537 | 420713 | 26198
+| Sneaky Snake | MaxyLAND | 64803948 | 471084 | 19408
+| Aulta | By7on | 55976208 | 561937 | 33706
+| Geometry Dash | GDvesuvius | 67661363 | 447775 | 25073
+| Split Path | Jayuff | 62743002 | 371470 | 13991
+| Candescent | CastriX | 34749502 | 2093109 | 227871
+| Aer | neigefeu | 55215779 | 456568 | 31714
+| IZnite | izhar | 32400752 | 3835913 | 415933
+| weird | OSIRIS GD | 51173274 | 796985 | 64716
+| Distant Horizon | Waffl3X | 68263042 | 399084 | 25398
+| TranquillitY | BryanC2 | 59177605 | 259310 | 15260
+| Coeur Lambeaux | DYZEX | 69582529 | 361568 | 29614
+| Anna | iISpaceDustIi | 63553770 | 295269 | 15173
+| Ayu | Retropt | 57551137 | 566055 | 46801
+| Serponge Look At Me | iISpaceDustIi | 55037478 | 813400 | 44182
+| little soul | Vrymer | 62374745 | 316317 | 20029
+| Wishless | Pawlogates | 34224737 | 1845904 | 205712
+| Swag City | Xoroz | 66539851 | 428098 | 24095
+| Nice | danolex | 65109444 | 705996 | 51888
+|  TIA | BryanC2 | 54664621 | 658810 | 47502
+| Less than three | DanZmeN | 59760047 | 572299 | 44860
+| Anymore | oc3andark | 60087537 | 426975 | 26573

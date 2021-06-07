@@ -58,6 +58,78 @@ public class ResponseGenerator {
         }
     }
 
+    //TODO: fetch levels count from the end of request and change while block
+    private static List<GDLevel> getMostPopularFeatured(SortingCode sortingCode) {
+        List<GDLevel> list = new ArrayList<>();
+        int levelsPage = 0;
+        boolean receivingLevels = true;
+        try {
+            while (receivingLevels) {
+                String res = GDServer.fetchRecentFeaturedLevels(levelsPage);
+                if (res.equals("-1")) {
+                    logger.warn("-1 was returned; list is finished");
+                    receivingLevels = false;
+                    continue;
+                }
+                addLevelsToList(list, res);
+                levelsPage++;
+            }
+        } catch (Exception e) {
+            logger.error("Exception during connecting: " + e);
+            e.printStackTrace();
+        }
+        sortLevelList(list, sortingCode);
+        return list;
+    }
+
+    private static void addLevelsToList(List<GDLevel> list, String res) {
+        try {
+            for (int j = 0; j < GD_PAGE_SIZE; j++) {
+                GDLevel level = getLevel(j, res);
+                if (level != null)
+                    list.add(level);
+            }
+        } catch (Exception e) {
+            logger.error("Exception while getting level: " + e);
+        }
+    }
+
+    private static GDLevel getLevel(int j, String res) {
+        return GDLevelFactory.buildGDLevelSearchedByFilter(res, j, false);
+    }
+
+    private static int returnLevelDifficultyNumber(GDLevel gdLevel) {
+        int code = gdLevel.getDifficulty().ordinal();
+        if (gdLevel.getDifficulty() == Difficulty.DEMON)
+            code += gdLevel.getDemonDifficulty().ordinal();
+        return code;
+    }
+
+    private static void sortLevelList(List<GDLevel> list, SortingCode sortingCode) {
+        switch (sortingCode) {
+            case DESCENDING_LIKES: {
+                list.sort(descendingLikesComparator);
+                break;
+            }
+            case ASCENDING_LIKES: {
+                list.sort(ascendingLikesComparator);
+                break;
+            }
+            case DESCENDING_DOWNLOADS: {
+                list.sort(descendingDownloadsComparator);
+                break;
+            }
+            case ASCENDING_DOWNLOADS: {
+                list.sort(ascendingDownloadsComparator);
+                break;
+            }
+            case LONGEST_DESCRIPTION: {
+                list.sort(descriptionLengthComparator);
+                break;
+            }
+        }
+    }
+
     private static String[] getLevelsInformation() {
         logger.info("List received. Total " + levels.size() + " levels.");
         List<String> info = new ArrayList<>(generateListDiffs(levels));
@@ -201,76 +273,5 @@ public class ResponseGenerator {
                     .limit(DEMONS_LIST_SIZE).collect(Collectors.toList());
         }
         return list;
-    }
-
-    private static List<GDLevel> getMostPopularFeatured(SortingCode sortingCode) {
-        List<GDLevel> list = new ArrayList<>();
-        int levelsPage = 0;
-        boolean receivingLevels = true;
-        try {
-            while (receivingLevels) {
-                String res = GDServer.fetchRecentFeaturedLevels(levelsPage);
-                if (res.equals("-1")) {
-                    logger.warn("-1 was returned; list is finished");
-                    receivingLevels = false;
-                    continue;
-                }
-                addLevelsToList(list, res);
-                levelsPage++;
-            }
-        } catch (Exception e) {
-            logger.error("Exception during connecting: " + e);
-            e.printStackTrace();
-        }
-        sortLevelList(list, sortingCode);
-        return list;
-    }
-
-    private static void addLevelsToList(List<GDLevel> list, String res) {
-        try {
-            for (int j = 0; j < GD_PAGE_SIZE; j++) {
-                GDLevel level = getLevel(j, res);
-                if (level != null)
-                    list.add(level);
-            }
-        } catch (Exception e) {
-            logger.error("Exception while getting level: " + e);
-        }
-    }
-
-    private static GDLevel getLevel(int j, String res) {
-        return GDLevelFactory.buildGDLevelSearchedByFilter(res, j, false);
-    }
-
-    private static int returnLevelDifficultyNumber(GDLevel gdLevel) {
-        int code = gdLevel.getDifficulty().ordinal();
-        if (gdLevel.getDifficulty() == Difficulty.DEMON)
-            code += gdLevel.getDemonDifficulty().ordinal();
-        return code;
-    }
-
-    private static void sortLevelList(List<GDLevel> list, SortingCode sortingCode) {
-        switch (sortingCode) {
-            case DESCENDING_LIKES: {
-                list.sort(descendingLikesComparator);
-                break;
-            }
-            case ASCENDING_LIKES: {
-                list.sort(ascendingLikesComparator);
-                break;
-            }
-            case DESCENDING_DOWNLOADS: {
-                list.sort(descendingDownloadsComparator);
-                break;
-            }
-            case ASCENDING_DOWNLOADS: {
-                list.sort(ascendingDownloadsComparator);
-                break;
-            }
-            case LONGEST_DESCRIPTION: {
-                list.sort(descriptionLengthComparator);
-                break;
-            }
-        }
     }
 }
