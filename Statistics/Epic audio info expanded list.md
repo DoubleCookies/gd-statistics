@@ -18,6 +18,7 @@
 | 703408 | SpazeUnofficial | Spaze - Believe | 7 | 35089343; 29241170; 58855169; 35415402; 36804834; 28879542; 48099692
 | 695247 | 1f1n1ty | Asau | 7 | 61112549; 61884045; 39576489; 44793604; 56171094; 62090339; 62977764
 | 773288 | hinkik | Realms | 7 | 45538002; 48117468; 57023664; 50960825; 48106654; 46823268; 50950866
+| 498870 | GrantBowtie | Insurgent [MSB] (NGADM) | 7 | 69845405; 52238488; 48414093; 44869640; 31777902; 61981164; 36529045
 | 761926 | mistmurk | mistmurk + 3MBER - Utopia | 6 | 55299889; 55644122; 49081260; 58318708; 58125686; 53767407
 | 737995 | bossfightofficial | Bossfight - Mescalink | 6 | 36961538; 57524318; 38852235; 42159901; 36443055; 34702638
 | 738101 | DjHoneyb | Jacques Melissa - this chap named Jacques | 6 | 34252496; 49911661; 37193195; 51959027; 50996831; 33115476
@@ -31,12 +32,12 @@
 | 727594 | Volterix | Volterix - Pulsar | 6 | 62309111; 51761225; 35348100; 56529215; 49697813; 54825649
 | 555607 | BoomKitty | Spicy Noodles | 6 | 41411342; 37955884; 55007449; 47147285; 55945760; 38364372
 | 744021 | LemKuuja | Ai ?? ?? | 6 | 51147798; 50705114; 50319229; 55868228; 44120919; 55607591
+| 785099 | cloudfield | cloudfield - Dream (ft. Hiroto x Luna) | 6 | 56525293; 55015955; 64778342; 70009608; 44133646; 63326830
 | 817872 | BoomKitty | Shredageddon | 6 | 51053748; 57133462; 49108174; 50188461; 54738102; 48808992
 | 686789 | Namice | Open Your Eyes | 6 | 59002072; 46664545; 48029120; 37930986; 36012089; 39809137
 | 732047 | MegaSphere | Emphatic Outcry CUT | 6 | 62887124; 62758900; 62018521; 35669648; 62874130; 32363718
 | 609313 | bossfightofficial | Bossfight - Glitch Gremlin | 6 | 48297506; 56927584; 34221069; 61130389; 52153801; 37072071
 | 478283 | Waterflame | -Haunted woods- | 6 | 36966088; 31927876; 36679587; 33516441; 34194741; 42339959
-| 498870 | GrantBowtie | Insurgent [MSB] (NGADM) | 6 | 52238488; 48414093; 44869640; 31777902; 61981164; 36529045
 | 589597 | Jumper | Purity | 6 | 30190181; 49101798; 39475333; 56256840; 56110927; 54673440
 | 753446 | CreoMusic | Creo - Showdown | 6 | 57312412; 56690843; 59177846; 57700790; 59434416; 39080559
 | 876650 | Geoplex | Geoplex - Subvert | 5 | 60312003; 64327747; 57963594; 58048734; 59173944
@@ -74,7 +75,6 @@
 | 674039 | Fantomenk | Crystal Tokyo | 5 | 52788954; 39150001; 36834813; 63232525; 52557713
 | 551385 | Djjaner | Lullaby /Remix | 5 | 43423579; 67020887; 41220983; 34851342; 37849820
 | 801273 | teminiteofficial | Teminite - Beastmode | 5 | 47469402; 59292531; 51705784; 51574316; 55183166
-| 785099 | cloudfield | cloudfield - Dream (ft. Hiroto x Luna) | 5 | 56525293; 55015955; 64778342; 44133646; 63326830
 | 690885 | ColchianCat | Zaphkiel | 5 | 37153915; 34526077; 44567922; 34364134; 34848621
 | 723714 | hyperdemented | Epilogue | 5 | 65755048; 60179265; 61079355; 61860688; 63890334
 | 830460 | meganeko | IO | 5 | 65068071; 61772431; 61513869; 53763871; 56729051
@@ -265,6 +265,7 @@
 | 771866 | ThisIsTheFatRat | TheFatRat - Oblivion (feat. Lola Blanc) | 3 | 49435684; 41469085; 61953375
 | 763723 | Waterflame | -Mainspring- | 3 | 45142485; 42497026; 56722428
 | 771905 | Sharks | Said - Dancing (Sharks Remix) | 3 | 40829615; 39122651; 38912874
+| 677798 | garlagan | apopopop | 3 | 69930812; 56777723; 37532886
 | 796604 | whiscaskaat | Leaves & Flowers | 3 | 51377265; 61208179; 48359768
 | 727020 | Schtiffles | á‘«áµ˜áµ‰Ë¢áµ—á¶¦áµ’á¶° MáµƒÊ³áµ | 3 | 43598491; 55183553; 35755401
 | 477238 | Blackhole12 | ~BH~ Cosminox | 3 | 55852369; 44686830; 43159026
@@ -523,7 +524,6 @@
 | 751490 | CreoMusic | Creo - Shape of the Sun | 2 | 55302489; 56798192
 | 706465 | MafiaPineapple | Skyline | 2 | 32916053; 35803307
 | 825250 | Acid-Notation | Turbo Strawberry | 2 | 58074935; 60722591
-| 677798 | garlagan | apopopop | 2 | 56777723; 37532886
 | 718786 | meganeko | Computer Blues | 2 | 51558598; 31929275
 | 505813 | bossfightofficial | The Maze Of Mayonnaise | 2 | 36377333; 39749578
 | 772055 | 1f1n1ty | Aeolia | 2 | 47611766; 58877111
@@ -880,6 +880,7 @@
 | 582310 | dexarson | Machina | 1 | 28677296
 | 737957 | SpazeUnofficial | Spaze - Expectations (ft. Fusion Circle) | 1 | 56614662
 | 754362 | JBeat2k9 | Vitaes Theme concept - Harmony implemented - K0DeX | 1 | 39491827
+| 922300 | Ubimusic | june | 1 | 69912469
 | 1000121 | Waterflame | -Octagon Force- | 1 | 66949814
 | 819900 | MuteHero | Solo | 1 | 62459152
 | 570033 | OmegaP | Lava | 1 | 36087516
@@ -919,6 +920,7 @@
 | 881521 | Astral7 | Astral - Lonely ft. Yoe Mase | 1 | 59385788
 | 869235 | FarOutOfficial | Gryffin & Slander - All You Need To Know (Far Out Remix) | 1 | 57053803
 | 922510 | BoomKitty | Peepee Song (Censored) | 1 | 60605814
+| 926604 | OcularNebula | slips | 1 | 69354386
 | 402314 | NickPerrin | Spread Cannon (8-bit) | 1 | 57347932
 | 799620 | Spendro | Huenu - Water | 1 | 57454976
 | 824224 | GA-H13 | GA-H13: SaabS | 1 | 49957313
@@ -949,6 +951,7 @@
 | 721929 | cloudfield | cloudfield - Run Away | 1 | 51353082
 | 680967 | DJVI | Angels | 1 | 34702285
 | 766984 | EtzerGD | Odyssey [WIP] | 1 | 39853981
+| 844801 | nstryder | Gigabit Weaboo | 1 | 69954089
 | 922651 | immiyuri | Miyuri & BB Yukus - Chasing Stars | 1 | 69403868
 | 844828 | janfon1 | CHASE.mp3 (Extended) | 1 | 58306889
 | 836626 | Nirreman | Deltarune - Lancer | 1 | 65219497
@@ -1003,6 +1006,7 @@
 | 754936 | garlagan | 00 | 1 | 61749328
 | 816371 | ggaero | Gaero - Blood Haiku | 1 | 51857399
 | 857353 | treepalm | Mix Mix Mix | 1 | 56921980
+| 1021215 | VOLANT | depthcore ft. polyscream | 1 | 70017248
 | 881952 | Blackhole12 | Square | 1 | 65671618
 | 742681 | CreoMusic | Creo - Ahead Of The Curve | 1 | 45037106
 | 705822 | Dovax | Wubbaduck - Danger (Dovax Remix) | 1 | 35225660
@@ -1152,6 +1156,7 @@
 | 1013759 | BoomKitty | It Takes Me (feat. Waylon Reavis) | 1 | 68500139
 | 665585 | ACXLE | Nanobyte (original by Austin C) | 1 | 46705022
 | 575477 | dj-Jo | Fairy Tail Theme Glitch Hop | 1 | 36814557
+| 722933 | Phyrnna | Shelter (Piano ver.) | 1 | 69867020
 | 677900 | LemKuuja | Keep On Baby! (w/ Kill Me Baby) | 1 | 46201715
 | 837638 | DJVI | Lonely Diva | 1 | 60027827
 | 538627 | Xtrullor | Attack | 1 | 36346514

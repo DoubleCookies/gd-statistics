@@ -7,6 +7,7 @@ import gd.model.GDLevel;
 import gd.model.GDSong;
 import org.apache.log4j.Logger;
 
+import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -58,21 +59,25 @@ public class ResponseGenerator {
         }
     }
 
-    //TODO: fetch levels count from the end of request and change while block
     private static List<GDLevel> getMostPopularFeatured(SortingCode sortingCode) {
         List<GDLevel> list = new ArrayList<>();
-        int levelsPage = 0;
+        int currentPage = 0;
         boolean receivingLevels = true;
         try {
-            while (receivingLevels) {
-                String res = GDServer.fetchRecentFeaturedLevels(levelsPage);
+            int levelsCount = getLevelsCount();
+            int pagesCount = levelsCount % 10 == 0 ? levelsCount / 10 : (levelsCount / 10) + 1;
+            while (receivingLevels && pagesCount > currentPage) {
+                String res = GDServer.fetchRecentFeaturedLevels(currentPage);
                 if (res.equals("-1")) {
                     logger.warn("-1 was returned; list is finished");
                     receivingLevels = false;
                     continue;
                 }
-                addLevelsToList(list, res);
-                levelsPage++;
+                if (pagesCount == currentPage + 1)
+                    addLevelsToList(list, res, levelsCount % 10);
+                else
+                    addLevelsToList(list, res);
+                currentPage++;
             }
         } catch (Exception e) {
             logger.error("Exception during connecting: " + e);
@@ -82,9 +87,23 @@ public class ResponseGenerator {
         return list;
     }
 
+    private static int getLevelsCount() throws IOException {
+        String tempRes = GDServer.fetchRecentFeaturedLevels(0);
+        tempRes = tempRes.substring(tempRes.lastIndexOf('~'));
+        int firstSharp = tempRes.indexOf('#');
+        int firstColon = tempRes.indexOf(':');
+        String number = tempRes.substring(firstSharp+1, firstColon);
+
+        return Integer.parseInt(number);
+    }
+
     private static void addLevelsToList(List<GDLevel> list, String res) {
+        addLevelsToList(list, res, GD_PAGE_SIZE);
+    }
+
+    private static void addLevelsToList(List<GDLevel> list, String res, int pageSize) {
         try {
-            for (int j = 0; j < GD_PAGE_SIZE; j++) {
+            for (int j = 0; j < pageSize; j++) {
                 GDLevel level = getLevel(j, res);
                 if (level != null)
                     list.add(level);
