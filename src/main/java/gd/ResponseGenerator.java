@@ -1,6 +1,5 @@
 package gd;
 
-import gd.enums.DemonDifficulty;
 import gd.enums.Difficulty;
 import gd.enums.SortingCode;
 import gd.model.GDLevel;
@@ -67,6 +66,8 @@ public class ResponseGenerator {
             int levelsCount = getLevelsCount();
             int pagesCount = levelsCount % 10 == 0 ? levelsCount / 10 : (levelsCount / 10) + 1;
             while (receivingLevels && pagesCount > currentPage) {
+                if (currentPage % 100 == 0)
+                    logger.info("Processing page " + currentPage + " of " + pagesCount);
                 String res = GDServer.fetchRecentFeaturedLevels(currentPage);
                 if (res.equals("-1")) {
                     logger.warn("-1 was returned; list is finished");
@@ -81,7 +82,6 @@ public class ResponseGenerator {
             }
         } catch (Exception e) {
             logger.error("Exception during connecting: " + e);
-            e.printStackTrace();
         }
         sortLevelList(list, sortingCode);
         return list;
@@ -93,7 +93,6 @@ public class ResponseGenerator {
         int firstSharp = tempRes.indexOf('#');
         int firstColon = tempRes.indexOf(':');
         String number = tempRes.substring(firstSharp+1, firstColon);
-
         return Integer.parseInt(number);
     }
 
@@ -151,7 +150,7 @@ public class ResponseGenerator {
 
     private static String[] getLevelsInformation() {
         logger.info("List received. Total " + levels.size() + " levels.");
-        List<String> info = new ArrayList<>(generateListDiffs(levels));
+        List<String> info = new ArrayList<>(generateListForDifficulties(levels));
         logger.info("Difficulties lists created.");
         info.add(generateListWithLongestDescription(levels));
         logger.info("Longest description list created.");
@@ -165,7 +164,7 @@ public class ResponseGenerator {
         return info.toArray(new String[0]);
     }
 
-    private static List<String> generateListDiffs(List<GDLevel> levels) {
+    private static List<String> generateListForDifficulties(List<GDLevel> levels) {
         int length = DIFFICULTIES_COUNT;
         String[] stringArray = new String[length];
         StringBuilder[] builders = new StringBuilder[length];
@@ -203,19 +202,7 @@ public class ResponseGenerator {
         return builder.toString();
     }
 
-    static String generateTopDemonsList() {
-        StringBuilder builder = new StringBuilder();
-        List<GDLevel> list = getMostPopularDemons();
-        if (list.size() == 0)
-            return "";
-        builder.append(DIFFICULTIES_LIST_HEADER).append(FIVE_COLUMNS_MARKDOWN_DIVIDER);
-        for (GDLevel level : list) {
-            builder.append(level.markdownString()).append("\n");
-        }
-        builder.insert(0, "#### Top-50 demons:\n\n");
-        return builder.toString();
-    }
-
+    //TODO: refactor two methods below (or at least this one)
     private static ArrayList<String> generateMusicList(List<GDLevel> levels) {
         int counter = 0;
         StringBuilder simpleBuilder = new StringBuilder();
@@ -282,6 +269,19 @@ public class ResponseGenerator {
         List<Integer> mapValues = new ArrayList<>(result.values());
         for (int i = 0; i < mapKeys.size(); i++)
             builder.append(mapKeys.get(i)).append(" | ").append(mapValues.get(i)).append("\n");
+        return builder.toString();
+    }
+
+    static String generateTopDemonsList() {
+        StringBuilder builder = new StringBuilder();
+        List<GDLevel> list = getMostPopularDemons();
+        if (list.size() == 0)
+            return "";
+        builder.append(DIFFICULTIES_LIST_HEADER).append(FIVE_COLUMNS_MARKDOWN_DIVIDER);
+        for (GDLevel level : list) {
+            builder.append(level.markdownString()).append("\n");
+        }
+        builder.insert(0, "#### Top-50 demons:\n\n");
         return builder.toString();
     }
 

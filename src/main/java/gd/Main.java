@@ -21,6 +21,7 @@ public class Main {
         processEpic(SortingCode.DEFAULT);
     }
 
+    //TODO: refactor two methods below. They are so similar
     private static void processFeatured(SortingCode sortingCode) {
         String[] res = ResponseGenerator.processLevels(sortingCode);
         if (res == null) {
@@ -59,9 +60,8 @@ public class Main {
 
     private static void generateTopDemons() {
         String res = ResponseGenerator.generateTopDemonsList();
-        if (res.isEmpty()) {
+        if (res.isEmpty())
             return;
-        }
         writeToFile(SortingCode.DEFAULT, "Top 50 popular demons", 0, res.getBytes());
         logger.info("Top-50 demon list finished");
     }
@@ -89,8 +89,7 @@ public class Main {
         String folder = difficultyFolderMap.get(difficultyFolder);
         String secondFolder = "";
         if (!folder.equals("")) {
-            String p = "Statistics/" + folder.trim();
-            path = Paths.get(p);
+            path = Paths.get(baseFolder + folder);
             if (!Files.exists(path))
                 Files.createDirectories(path);
             secondFolder = folder + "/";
