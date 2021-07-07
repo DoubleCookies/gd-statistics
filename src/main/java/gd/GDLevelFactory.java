@@ -79,7 +79,12 @@ public abstract class GDLevelFactory {
 
             String description;
             try {
-                description = new String(Base64.getUrlDecoder().decode(structuredLvlInfo.get(3)));
+                if (structuredLvlInfo.get(3).contains("/")) {
+                    String replacement = structuredLvlInfo.get(3).replace("/", "_");
+                    description = new String(Base64.getUrlDecoder().decode(replacement));
+                } else {
+                    description = new String(Base64.getUrlDecoder().decode(structuredLvlInfo.get(3)));
+                }
             } catch (IllegalArgumentException e) {
                 logger.warn("Description decode error, lvl id: " + Long.parseLong(structuredLvlInfo.get(1)));
                 description = "—";
