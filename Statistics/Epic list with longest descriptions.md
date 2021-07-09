@@ -1,4 +1,4 @@
-#### Total: 3031 levels
+#### Total: 3032 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -16,7 +16,7 @@
 | On | DhrAw | 68598262 | 140 | Colap DhrAw + SandyTAC enjoy !! Dedicated to Jezzel, CroAzis, ShoutaGD, Yusaky2004, AlexMGreal, EfrainGDM, Fushulififi,ItsDanito & Dinoprime
 | QuENtO | Moffer | 67753151 | 140 | Modern blending megacollab hosted by me. Level by Gabbs, me, Lyrial, Spac3GD, Gadri and mikalgd. Thanks Rob for epic + double rate, legend!!
 | Topaz Temple | CreatorToile | 67679278 | 140 | Remake of "Gold Temple" by Serponge. First really big solo project. Took over 4 month with 140k obj. Very glad it came out on my birthday...
-| Mangler | Vex7 | 67114232 | 140 | 500+ groups yikes. over 50,000 obj and a month spent to build for this level. its a sequel to my most successfull level glow manic. 7/8 star
+| Mangler | Vexes7 | 67114232 | 140 | 500+ groups yikes. over 50,000 obj and a month spent to build for this level. its a sequel to my most successfull level glow manic. 7/8 star
 | Unbound  | Adiale | 66419434 | 140 | After an entire month working non-stop, i'm thrilled to present you my new level ! Actually got both daily and epic, this is amazing dhdfhjj
 | Interest | AlbertoG | 66145999 | 140 | Finally my new level of effects, sorry if I have not gone up a level in months and it is due to lack of ideas! [ 43880 objects ] Enjoy it :)
 | Finis | Xstar7 | 64327747 | 140 | This may be my last level, but I will still be around. I might even make another sometime in the future, who knows. Thx peeps. Pass on my YT
@@ -389,7 +389,7 @@
 | Crunchy Town II | CastriX | 36377333 | 132 | Fun level for you.Again,another song who reminds me of 1.9 :) The sequel from Crunchy Town is here! Enjoy guys,better and amazing :)
 | Magmanosa | CastriX | 36087516 | 132 | The new basement! "Magmanosa".The bossfight made in "Zelda - Skyward Sword" <3 -to achieve the power...- ~soon.~ For Bossfight CC :)
 | Nanamori | f3lixsram | 35726630 | 132 | A frenchy collab with Yakimaru and Tartofrez !  Video/pass on my youtube :3 My part is dedicated to peaple who think I am generic xD
-| Sword Of Xolan | Nightlex | 32346153 | 132 | Pick up the sword and swing in the name of justice! Ugh sorry for the lag! Dedicated to Partition! Pass is on my YouTube Channel! :)
+| Sword Of Xolan | Nils2312 | 32346153 | 132 | Pick up the sword and swing in the name of justice! Ugh sorry for the lag! Dedicated to Partition! Pass is on my YouTube Channel! :)
 | Misch | Xatz | 69845405 | 131 | An experimental level, simple and decent. I hope you like it. (The original song was deleted, so the start does not have much sync)
 | Aqua Sylva | AutoNick | 68080965 | 131 | Dedicated to CheeseNugget for being a huge help in terms of motivation. Also thanks to Kingo for helping out with one part. :) POND
 | Glitched Counter | Supris | 66846145 | 131 | Somehow my collab didn't die O_0 Made in glitch theme with my fav color combination with Ari, Dami, Patchimator, Nekon and DaveQ :D
@@ -568,7 +568,7 @@
 | Abandoned Galaxy | DamianosKabanos | 57935111 | 124 | Welcome to my universe. Do you think you can survive? :))  If you are a mobile player use the LDM option at least, trust me.
 | Kitty | Kebabbo | 56379757 | 124 | My fist demon lvl. Huge thanks to TinyXD and Isparki for making part of the gameplay. BTW,it is inspired by lots of creators
 | Motives Finale | DevinCoyote | 49736625 | 124 | Last and Hardest of this series. To Falkuma, Xstar7, Vapor673, DialogBox, Neigefeu, LeX97 and many others, Including you! <3
-| Enchanted Forest | Nightlex | 39983780 | 124 | Finally a new level from me! Took pretty long time to make this level. Anyway enjoy this one and sorry again for the lag ._.
+| Enchanted Forest | Nils2312 | 39983780 | 124 | Finally a new level from me! Took pretty long time to make this level. Anyway enjoy this one and sorry again for the lag ._.
 | Quartz | PotatoBaby | 37129206 | 124 | It's finally finished! Smexy collab with Erdyuri, who is a Fantastic creator! make sure you practice first! For Viprin's GC1
 | ToE IV  | Manix648 | 35378937 | 124 | Fourth and non-official installment in the ToE series (thanks to Surv for bug-testing and verifying) Shuttle idea by Robisco
 | Voiceless | JerkRat | 29842418 | 124 | my 1st 2.1 level. some parts are not so great because i'm still learning to use the new editor :V shout out to KaixoMusic!!!
@@ -648,7 +648,6 @@
 | To Take My Way | Retropt | 41411290 | 121 | Amazing collaboration with Vinto GD, [Me] and ZerchDash Enjoy ;3 (Sorry for mistake when writing the name of the lvl) 0W0
 | phosphenes | piramidka | 36062234 | 121 | just... nope... should it be featured?... if yes, please, guys, help me and send this lvl to mods. thanks!    gg, finally
 | Flock | Usermatt18 | 25602300 | 121 | Cool collab with Underings! Not my best but still a really nice level in my opinion! Hope you enjoy. Inspired by Goose :)
-| Endless Dream | DreamTide | 70484097 | 120 | Life is faded, and reality doesnt make sense. There never was a beginning nor a forseeable end. Only an endless dream...
 | Staminant | Dubbayoo | 67352436 | 120 | Collab with SmitN and Lightwinner! Please check them out :) enjoy (gg epic!! no daily pls haah) (GG 1st PLACE FEAT TOO!)
 | Haunted Moments | ChuchitoDomin | 65015877 | 120 | I liked the result of the level! &#124; Survive the adversities that will come your way ;) Really Enjoy <3 (Layout by Abdula)
 | AnnoZone | Annon | 63292359 | 120 | The Anno Series has returned after 2 years with a 3rd level! Dedicated to the Broys. More Anno Series levels to come...?
@@ -685,6 +684,7 @@
 | Deformed | MikyFC | 35777563 | 119 | Thanks to all who participated in this level, especially Ownbit, is my best friend and also thanks, check their lvls :)
 | Wistful Wish | Juffin | 34827709 | 119 | Huge thanks to Schady for the help in the middle, hope you enjoy the level! Update, fixed parts of gameplay towards end
 | Leaping | MrLorenzo | 34654431 | 119 | Collab with SirZaiss! He is a great creator, check him out!! There are some bugs, sorry about that. Hope you like it :)
+| Endless Dream | DreamTide | 70484097 | 118 | Life is faded, and reality doesnt make sense. There never was a beginning nor a forseeable end. Only an endless dream.
 | NoXWyR | Moffer | 68060517 | 118 | First 40% by noxycraft, rest was done as a megacollab as noxy didnt have motivation. Warning: Medium Flashes. Enjoy <3
 | Metathesis | guppy28 | 66912892 | 118 | Thanks to Dasher3000 for making the gameplay and to Snarlax523 for building a little part in it! (Around medium demon)
 | Hook echo | DangerKat | 65305796 | 118 | After 1 year of having forgotten this level and decided to finish it, it is a very simple,dedicated to alkali,Enjoy :)
@@ -749,7 +749,7 @@
 | Digital Descent | ViPriN | 37456092 | 116 | Revolution is not always made by the ones who rule... This time the digital era is going down. Verified by Combined.
 | a e s t h e t i c | Berkoo | 37289862 | 116 | If you feel some nostalgic vibes, the time spent on this level was worth it. Thanks for the first place and epic! :)
 | Funkeh | Adiale | 34252496 | 116 | At least i tried ;3;, I tried to focus on the dynamic of the level. Can i get my first Epic rating with this ? ;333;
-| Sword Of Xolan II | Nightlex | 34194166 | 116 | An adventure to stand against the darkness and bring back the peace... Welcome back and good luck... (130 k objects)
+| Sword Of Xolan II | Nils2312 | 34194166 | 116 | An adventure to stand against the darkness and bring back the peace... Welcome back and good luck... (130 k objects)
 | technoloid | hypercube1 | 34059030 | 116 | Technology + Hyperboloid = Technoloid  XD Not so much effects because I tried to mix art and effect ;3  Have fun ^_^
 | PAINt III | stubbypinata | 31269463 | 116 | Finally! You didn't expect that, did you? 8) Don't compare to the other PAINt levels, adding Low Detail really soon!
 | StarligHt | JHYMHMHY | 67661200 | 115 | Starlight raining over me, Like drifting through a memory &#124; 91k obj &#124; 10 weeks in creation &#124; JHYMYMHY ft. Wilz &#124; :}
@@ -886,7 +886,7 @@
 | Domino | WerewolfGD | 37904378 | 110 | Chill level, inspired from Ilrell, Enjoy ;3; (Also dont forget to check out my unrated levels, if ya want ;) )
 | PopcorN | FaekI | 37606234 | 110 | Finally after 4 months it's here, Thanks to every one who helped me to complete my first MC// THX FOR EPIC ^^ 
 | Gear III | GD Jose | 36346514 | 110 | This is the LAST gear's level, don't ask about Gear IV please ;3;... also, video with pass in my YT channel...
-| Sword Of Xolan III | Nightlex | 34639105 | 110 | The final battle is here! Will you defeat Borzander and bring back the peace that once was? It is up to you...
+| Sword Of Xolan III | Nils2312 | 34639105 | 110 | The final battle is here! Will you defeat Borzander and bring back the peace that once was? It is up to you...
 | Eliminator | Alderite | 33405447 | 110 | Added Uldm for laggy mobile users, and rendered the spider part so you can finish the level. Hope it works ;-;
 | Smashi | SmoopInc | 67364289 | 109 | A collab with YuureiGD (also known as YureiArashi, hence why the level is named Smashi) We finally collabed! 
 | OBSCURED REALITY | VrageraGD | 65597225 | 109 | 'Retrieving My Power..' Thanks to these awesome men, MindCap & ProSlain. Coins are on my YT channel, Enjoy :)
@@ -1615,7 +1615,7 @@
 | Insalium | Colxic | 36679587 | 75 | Follow a hard route to escape from the Haunted Woods! Final Art by ValenQpr
 | Ascend | Sakana | 29138855 | 75 | a collab with Mooshrum! i made the ldm easier to get and made some fixes xd
 | Epic Moment | Edooox | 70056769 | 74 | I had a lot of fun on building this! It's always fun trying something new!
-| Unworthy | Nightlex | 66937873 | 74 | In time, we realize that there are people whos unworthy of our sacrifices.
+| Unworthy | Nils2312 | 66937873 | 74 | In time, we realize that there are people whos unworthy of our sacrifices.
 | HIGHWAYS | F5night | 65222188 | 74 | High Intelligence Generating Holographic World After Your Synchronisation 
 | Psychedelic | TheAlmightyWave | 64247369 | 74 | eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae
 | Perimeter | HollowEarth | 59280992 | 74 | when modern creator does glow                                          how
@@ -2285,6 +2285,7 @@
 | Luma | Darwin | 36983991 | 37 | collab with the amazing nigh7fury <3 
 | Striker | Soulsand | 34930075 | 37 | My first 2.1 level. Thanks for small!
 | Drippy Dub | Filaret | 29854369 | 37 | My first LvL 2.1 Dedicated to Danolex
+| 8 Bit Jungle | TypicalGMD | 71065128 | 36 | Themed level by me, Tenzk & NukeIIX.
 | NADRR | Ardolf | 68862692 | 36 | A level that nobody knows it exists.
 | postcards | pocke | 67960201 | 36 |  collab with presta. hope u enjoy :D
 | Interstellar Infant | Fault | 65496280 | 36 | get 100% challenge verified by fault
@@ -2926,7 +2927,7 @@
 | Desolation | haoN | 30843730 | 3 | ...
 | To be stronger | Wodka | 66117644 | 2 | (:
 | urban rain  | soda2D | 64486223 | 2 | :(
-| Glow Manic | Vex7 | 63918780 | 2 | :)
+| Glow Manic | Vexes7 | 63918780 | 2 | :)
 | Ao | Aerid | 63021337 | 2 | Ao
 | torn dimension | FunnyGame | 62835942 | 2 | GG
 | innovation | Wilz | 62687418 | 2 | :)

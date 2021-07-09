@@ -151,12 +151,12 @@ public class ResponseGenerator {
         logger.info("Difficulties lists created.");
         info.add(generateListWithLongestDescription(levels));
         logger.info("Longest description list created.");
-        ArrayList<String> musicInfo = generateMusicList(levels);
+        ArrayList<String> musicInfo = generateMusicList();
         info.add(musicInfo.get(0));
         logger.info("Music list created.");
         info.add(musicInfo.get(1));
         logger.info("Additional music list created.");
-        info.add(generateBuildersList(levels));
+        info.add(generateBuildersList());
         logger.info("Builders list created.");
         return info.toArray(new String[0]);
     }
@@ -199,8 +199,7 @@ public class ResponseGenerator {
         return builder.toString();
     }
 
-    //TODO: refactor two methods below (or at least this one)
-    private static ArrayList<String> generateMusicList(List<GDLevel> levels) {
+    private static ArrayList<String> generateMusicList() {
         StringBuilder simpleBuilder = new StringBuilder();
         simpleBuilder.append(AUDIO_LIST_HEADER).append(FOUR_COLUMNS_MARKDOWN_DIVIDER);
         StringBuilder additionalBuilder = new StringBuilder();
@@ -245,7 +244,7 @@ public class ResponseGenerator {
                         (oldValue, newValue) -> oldValue, LinkedHashMap::new));
     }
 
-    private static String generateBuildersList(List<GDLevel> levels) {
+    private static String generateBuildersList() {
         StringBuilder builder = new StringBuilder();
         builder.append(CREATORS_LIST_HEADER).append(TWO_COLUMNS_MARKDOWN_DIVIDER);
         HashMap<String, Integer> buildersMap = getMapForBuilders();
