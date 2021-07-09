@@ -40,6 +40,7 @@ public class ResponseGenerator {
     private static final Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> (int) (o2.getDescription().length() - o1.getDescription().length());
 
     private static List<GDLevel> levels;
+    private static HashMap<GDSong, ArrayList<Long>> audioLevelIds = new HashMap<>();
 
     static String[] processLevels(SortingCode sortingCode) {
         processLevelsList(sortingCode);
@@ -60,7 +61,7 @@ public class ResponseGenerator {
 
     private static List<GDLevel> getMostPopularFeatured(SortingCode sortingCode) {
         List<GDLevel> list = new ArrayList<>();
-        int currentPage = 0;
+        int currentPage = 2100;
         boolean receivingLevels = true;
         try {
             int levelsCount = getLevelsCount();
@@ -77,7 +78,7 @@ public class ResponseGenerator {
                 if (pagesCount == currentPage + 1)
                     addLevelsToList(list, res, levelsCount % 10);
                 else
-                    addLevelsToList(list, res);
+                    addLevelsToList(list, res, GD_PAGE_SIZE);
                 currentPage++;
             }
         } catch (Exception e) {
@@ -92,12 +93,8 @@ public class ResponseGenerator {
         tempRes = tempRes.substring(tempRes.lastIndexOf('~'));
         int firstSharp = tempRes.indexOf('#');
         int firstColon = tempRes.indexOf(':');
-        String number = tempRes.substring(firstSharp+1, firstColon);
+        String number = tempRes.substring(firstSharp + 1, firstColon);
         return Integer.parseInt(number);
-    }
-
-    private static void addLevelsToList(List<GDLevel> list, String res) {
-        addLevelsToList(list, res, GD_PAGE_SIZE);
     }
 
     private static void addLevelsToList(List<GDLevel> list, String res, int pageSize) {
@@ -204,45 +201,21 @@ public class ResponseGenerator {
 
     //TODO: refactor two methods below (or at least this one)
     private static ArrayList<String> generateMusicList(List<GDLevel> levels) {
-        int counter = 0;
         StringBuilder simpleBuilder = new StringBuilder();
         simpleBuilder.append(AUDIO_LIST_HEADER).append(FOUR_COLUMNS_MARKDOWN_DIVIDER);
         StringBuilder additionalBuilder = new StringBuilder();
         additionalBuilder.append(BIG_AUDIO_LIST_HEADER).append(FIVE_COLUMNS_MARKDOWN_DIVIDER);
-        HashMap<GDSong, Integer> audio = new HashMap<>();
-        HashMap<GDSong, ArrayList<Long>> audioLevelIds = new HashMap<>();
-        GDSong songId;
-        for (GDLevel level : levels) {
-            songId = level.getGdSong();
-            long levelId = level.getId();
-            if (songId == null) {
-                logger.warn("Null GDSong object for level " + level.getId());
-            } else {
-                ArrayList<Long> arrayListData = audioLevelIds.get(songId);
-                if (audio.containsKey(songId)) {
-                    audio.put(songId, audio.get(songId) + 1);
-                } else {
-                    audio.put(songId, 1);
-                    arrayListData = new ArrayList<>();
-                }
-                arrayListData.add(levelId);
-                audioLevelIds.put(songId, arrayListData);
-                counter++;
-            }
-        }
-        Map<GDSong, Integer> result = audio.entrySet().stream()
-                .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
-                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
-                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));
-        simpleBuilder.insert(0, "#### Total: " + counter + " levels\n\n");
+
+        Map<GDSong, ArrayList<Long>> result = getMapForSongsInLevels();
+
         List<GDSong> mapKeys = new ArrayList<>(result.keySet());
-        List<Integer> mapValues = new ArrayList<>(result.values());
+        List<ArrayList<Long>> mapValues = new ArrayList<>(result.values());
         for (int i = 0; i < mapKeys.size(); i++) {
-            simpleBuilder.append(mapKeys.get(i).toString()).append(mapValues.get(i)).append("\n");
+            simpleBuilder.append(mapKeys.get(i).toString()).append(mapValues.get(i).size()).append("\n");
             List<Long> levelIds = audioLevelIds.get(mapKeys.get(i));
             String levelIdsString = levelIds.stream().map(String::valueOf)
                     .collect(Collectors.joining("; "));
-            additionalBuilder.append(mapKeys.get(i).toString()).append(mapValues.get(i)).append(" | ").append(levelIdsString).append("\n");
+            additionalBuilder.append(mapKeys.get(i).toString()).append(mapValues.get(i).size()).append(" | ").append(levelIdsString).append("\n");
         }
 
         ArrayList<String> data = new ArrayList<>();
@@ -251,25 +224,51 @@ public class ResponseGenerator {
         return data;
     }
 
+    private static Map<GDSong, ArrayList<Long>> getMapForSongsInLevels() {
+        GDSong songId;
+        for (GDLevel level : levels) {
+            songId = level.getGdSong();
+            long levelId = level.getId();
+            if (songId == null) {
+                logger.warn("Null GDSong object for level " + level.getId());
+            } else {
+                ArrayList<Long> arrayListData = audioLevelIds.get(songId);
+                if (arrayListData == null || arrayListData.isEmpty())
+                    arrayListData = new ArrayList<>();
+                arrayListData.add(levelId);
+                audioLevelIds.put(songId, arrayListData);
+            }
+        }
+        return audioLevelIds.entrySet().stream()
+                .sorted(Map.Entry.comparingByValue((o1, o2) -> (int) (o2.size() - o1.size())))
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
+                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));
+    }
+
     private static String generateBuildersList(List<GDLevel> levels) {
         StringBuilder builder = new StringBuilder();
         builder.append(CREATORS_LIST_HEADER).append(TWO_COLUMNS_MARKDOWN_DIVIDER);
-        HashMap<String, Integer> audio = new HashMap<>();
-        for (GDLevel level : levels) {
-            if (audio.containsKey(level.getCreator()))
-                audio.put(level.getCreator(), audio.get(level.getCreator()) + 1);
-            else
-                audio.put(level.getCreator(), 1);
-        }
-        Map<String, Integer> result = audio.entrySet().stream()
-                .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
-                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
-                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));
-        List<String> mapKeys = new ArrayList<>(result.keySet());
-        List<Integer> mapValues = new ArrayList<>(result.values());
+        HashMap<String, Integer> buildersMap = getMapForBuilders();
+
+        List<String> mapKeys = new ArrayList<>(buildersMap.keySet());
+        List<Integer> mapValues = new ArrayList<>(buildersMap.values());
         for (int i = 0; i < mapKeys.size(); i++)
             builder.append(mapKeys.get(i)).append(" | ").append(mapValues.get(i)).append("\n");
         return builder.toString();
+    }
+
+    private static HashMap<String, Integer> getMapForBuilders() {
+        HashMap<String, Integer> buildersMap = new HashMap<>();
+        for (GDLevel level : levels) {
+            if (buildersMap.containsKey(level.getCreator()))
+                buildersMap.put(level.getCreator(), buildersMap.get(level.getCreator()) + 1);
+            else
+                buildersMap.put(level.getCreator(), 1);
+        }
+        return buildersMap.entrySet().stream()
+                .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
+                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));
     }
 
     static String generateTopDemonsList() {
