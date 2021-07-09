@@ -61,7 +61,7 @@ public class ResponseGenerator {
 
     private static List<GDLevel> getMostPopularFeatured(SortingCode sortingCode) {
         List<GDLevel> list = new ArrayList<>();
-        int currentPage = 2100;
+        int currentPage = 0;
         boolean receivingLevels = true;
         try {
             int levelsCount = getLevelsCount();
