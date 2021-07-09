@@ -1,5 +1,6 @@
 package gd;
 
+import com.sun.xml.internal.ws.util.StringUtils;
 import gd.enums.SortingCode;
 import org.apache.log4j.Logger;
 
@@ -16,46 +17,28 @@ public class Main {
     final static Logger logger = Logger.getLogger(Main.class);
 
     public static void main(String[] args) {
-        processFeatured(SortingCode.DEFAULT);
+        processLevelsForType(SortingCode.DEFAULT, "featured");
+        processLevelsForType(SortingCode.DEFAULT, "epic");
         generateTopDemons();
-        processEpic(SortingCode.DEFAULT);
     }
 
-    //TODO: refactor two methods below. They are so similar
-    private static void processFeatured(SortingCode sortingCode) {
+    private static void processLevelsForType(SortingCode sortingCode, String levelsType) {
+        String capitalizedLevelsType = StringUtils.capitalize(levelsType);
         String[] res = ResponseGenerator.processLevels(sortingCode);
         if (res == null) {
-            logger.warn("Featured levels list is empty! No changes were made.");
+            logger.warn(capitalizedLevelsType + " levels list is empty! No changes were made.");
             return;
         }
         for (int j = 0; j < 11; j++) {
-            String prefix = difficultyFolderMap.get(j + 1) + " featured";
+            String prefix = difficultyFolderMap.get(j + 1) + " " + levelsType;
             writeToFile(sortingCode, prefix, j + 1, res[j].getBytes());
         }
-        writeToFile(sortingCode, "Featured", 0, res[11].getBytes());
-        writeToFile(SortingCode.LONGEST_DESCRIPTION, "Featured", 0, res[12].getBytes());
-        writeToFile(SortingCode.DEFAULT, "Featured audio info", 0, res[13].getBytes());
-        writeToFile(SortingCode.DEFAULT, "Featured audio info expanded", 0, res[14].getBytes());
-        writeToFile(SortingCode.DEFAULT, "Featured builders info", 0, res[15].getBytes());
-        logger.info("All featured lists are finished");
-    }
-
-    private static void processEpic(SortingCode sortingCode) {
-        String[] res = ResponseGenerator.processLevels(sortingCode);
-        if (res == null) {
-            logger.warn("Epic levels list is empty! No changes were made.");
-            return;
-        }
-        for (int j = 0; j < 11; j++) {
-            String prefix = difficultyFolderMap.get(j + 1) + " epic";
-            writeToFile(sortingCode, prefix, j + 1, res[j].getBytes());
-        }
-        writeToFile(sortingCode, "Epic", 0, res[11].getBytes());
-        writeToFile(SortingCode.LONGEST_DESCRIPTION, "Epic", 0, res[12].getBytes());
-        writeToFile(SortingCode.DEFAULT, "Epic audio info", 0, res[13].getBytes());
-        writeToFile(SortingCode.DEFAULT, "Epic audio info expanded", 0, res[14].getBytes());
-        writeToFile(SortingCode.DEFAULT, "Epic builders info", 0, res[15].getBytes());
-        logger.info("All epic lists are finished");
+        writeToFile(sortingCode, capitalizedLevelsType, 0, res[11].getBytes());
+        writeToFile(SortingCode.LONGEST_DESCRIPTION, capitalizedLevelsType, 0, res[12].getBytes());
+        writeToFile(SortingCode.DEFAULT, capitalizedLevelsType + " audio info", 0, res[13].getBytes());
+        writeToFile(SortingCode.DEFAULT, capitalizedLevelsType + " audio info expanded", 0, res[14].getBytes());
+        writeToFile(SortingCode.DEFAULT, capitalizedLevelsType + " builders info", 0, res[15].getBytes());
+        logger.info("All " + levelsType + " lists are finished");
     }
 
     private static void generateTopDemons() {
@@ -65,7 +48,6 @@ public class Main {
         writeToFile(SortingCode.DEFAULT, "Top 50 popular demons", 0, res.getBytes());
         logger.info("Top-50 demon list finished");
     }
-
 
     private static void writeToFile(SortingCode sortingCode, String prefix, int difficultyCode, byte[] data) {
         FileOutputStream out;
@@ -78,28 +60,18 @@ public class Main {
         }
     }
 
-    //TODO: refactor
     private static FileOutputStream getFileOutputStream(SortingCode sortingCode, String prefix, int difficultyFolder) throws IOException {
-        FileOutputStream out;
-        String baseFolder = "Statistics";
-        Path path = Paths.get(baseFolder);
+        String folder = "Statistics/";
+        if (!difficultyFolderMap.get(difficultyFolder).equals(""))
+            folder += difficultyFolderMap.get(difficultyFolder) + "/";
+        Path path = Paths.get(folder);
         if (!Files.exists(path))
             Files.createDirectories(path);
-        baseFolder += "/";
-        String folder = difficultyFolderMap.get(difficultyFolder);
-        String secondFolder = "";
-        if (!folder.equals("")) {
-            path = Paths.get(baseFolder + folder);
-            if (!Files.exists(path))
-                Files.createDirectories(path);
-            secondFolder = folder + "/";
-        }
 
-        out = new FileOutputStream(baseFolder + secondFolder + prefix + sortingFileSuffix.get(sortingCode));
-        return out;
+        return new FileOutputStream(folder + prefix + sortingFileSuffix.get(sortingCode));
     }
 
-    //Difficulties map for replace in text
+    //Difficulties map for folder names
     public static final Map<Integer, String> difficultyFolderMap = initDifficultyFolderMap();
 
     private static Map<Integer, String> initDifficultyFolderMap() {
@@ -119,7 +91,7 @@ public class Main {
         return map;
     }
 
-    //Demon difficulties map for replace in text
+    //List names for different sorting types
     public static final Map<SortingCode, String> sortingFileSuffix = initSortingFileSuffix();
 
     private static Map<SortingCode, String> initSortingFileSuffix() {
