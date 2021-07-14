@@ -11,12 +11,12 @@ danolex | 23
 CastriX | 22
 SamMaxx | 22
 Serponge | 22
+alkali | 20
 Subwoofer | 20
 Wilz | 20
 Zoroa | 20
-alkali | 19
+TheAlmightyWave | 20
 Lemons | 19
-TheAlmightyWave | 19
 SaabS | 18
 distortt | 17
 Cirtrax | 17
@@ -97,6 +97,7 @@ neigefeu | 7
 xLunaire | 7
 Mantevian | 7
 JacobROso | 7
+Aleiz21 | 7
 BlueRimz | 7
 RobzombiGD | 7
 Chayper | 7
@@ -126,7 +127,6 @@ ILRELL | 6
 xenoteric | 6
 JonathanGD | 6
 PleoSlim RMD | 6
-Aleiz21 | 6
 Enlex | 6
 Flukester | 6
 Texic | 6
@@ -234,6 +234,7 @@ Qubb | 4
 ReYzen | 4
 Wulzy | 4
 HutniX | 4
+kr1t | 4
 atmospher | 4
 Ardolf | 4
 TheRealRow | 4
@@ -298,6 +299,7 @@ SirZaiss | 3
 Nottus | 3
 Ethrakk | 3
 TeamUprising | 3
+bli | 3
 King Woofy | 3
 Df0rDie | 3
 skrillero01 | 3
@@ -312,7 +314,6 @@ iISpaceDustIi | 3
 MaykollGD | 3
 AnielChasseur | 3
 logiking | 3
-kr1t | 3
 Presta | 3
 mikalgd | 3
 Chlorines | 3
@@ -434,6 +435,7 @@ amixam | 2
 MittensGD | 2
 Lorserix | 2
 AyDiePay | 2
+Hinds | 2
 ghathiitho | 2
 AlexS2003 | 2
 G4lvatron | 2
@@ -449,7 +451,6 @@ ZubwaR | 2
 MrClyde | 2
 Enceladus GD | 2
 cronibet | 2
-bli | 2
 soda2D | 2
 James | 2
 Nezziee | 2
@@ -464,6 +465,7 @@ Nickalopogas | 2
 xPix3lest | 2
 buttstallionpc | 2
 mrog | 2
+AvaKai | 2
 Awzer  | 2
 Starbooy | 2
 Nevec | 2
@@ -739,7 +741,6 @@ FreeedTheDolfin | 1
 Alphirox | 1
 cherryteam | 1
 Failure444 | 1
-Hinds | 1
 GeraldBrown | 1
 Optonix | 1
 vit12 | 1
@@ -753,7 +754,6 @@ HadiGD | 1
 GlobalisTik | 1
 Moxirulo | 1
 DreamEater | 1
-Geonox | 1
 Nova to | 1
 Anzer | 1
 Yirka | 1
@@ -786,6 +786,7 @@ Lake | 1
 Chavacado | 1
 Neutro | 1
 Giron | 1
+xTuffy | 1
 kang131 | 1
 Sumsar | 1
 endevvor | 1
@@ -810,7 +811,6 @@ Vertuoz | 1
 TeamHFC | 1
 Temptati0N | 1
 Elvii | 1
-AvaKai | 1
 FGHJapan | 1
 DarinLou | 1
 Empika | 1
@@ -849,6 +849,7 @@ Glittershroom | 1
 Namtar | 1
  alecast | 1
 AgentY | 1
+SparksOmega | 1
 Kiwi30 | 1
 LPpassy96 | 1
 Cyber Jupiter | 1
