@@ -2,24 +2,24 @@
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Sneaky Snake | MaxyLAND | 64803948 | 536239 | 22617
-| Aulta | By7on | 55976208 | 603976 | 35573
-| Geometry Dash | GDvesuvius | 67661363 | 618588 | 38231
-| Split Path | Jayuff | 62743002 | 416877 | 15488
-| Candescent | CastriX | 34749502 | 2265932 | 234844
-| Aer | neigefeu | 55215779 | 481720 | 33247
-| IZnite | izhar | 32400752 | 4168955 | 431013
-| weird | OSIRIS GD | 51173274 | 867401 | 66913
-| Distant Horizon | Waffl3X | 68263042 | 444787 | 28115
-| TranquillitY | BryanC2 | 59177605 | 273370 | 16114
-| Coeur Lambeaux | DYZEX | 69582529 | 590486 | 43571
-| Anna | iISpaceDustIi | 63553770 | 329160 | 17044
-| Ayu | Retropt | 57551137 | 643335 | 52416
-| Serponge Look At Me | iISpaceDustIi | 55037478 | 924996 | 51976
-| little soul | Vrymer | 62374745 | 329954 | 20969
-| Wishless | Pawlogates | 34224737 | 1978249 | 211686
-| Swag City | Xoroz | 66539851 | 457439 | 25995
-| Nice | danolex | 65109444 | 807894 | 59642
-|  TIA | BryanC2 | 54664621 | 739612 | 51215
-| Less than three | DanZmeN | 59760047 | 631758 | 48192
-| Anymore | oc3andark | 60087537 | 448892 | 27869
+| Sneaky Snake | MaxyLAND | 64803948 | 552977 | 23357
+| Aulta | By7on | 55976208 | 611660 | 36005
+| Geometry Dash | GDvesuvius | 67661363 | 670948 | 42290
+| Split Path | Jayuff | 62743002 | 426603 | 15835
+| Candescent | CastriX | 34749502 | 2305224 | 236610
+| Aer | neigefeu | 55215779 | 487627 | 33629
+| IZnite | izhar | 32400752 | 4244003 | 434654
+| weird | OSIRIS GD | 51173274 | 884214 | 67476
+| Distant Horizon | Waffl3X | 68263042 | 454391 | 28691
+| TranquillitY | BryanC2 | 59177605 | 276494 | 16264
+| Coeur Lambeaux | DYZEX | 69582529 | 624940 | 45357
+| Anna | iISpaceDustIi | 63553770 | 336656 | 17472
+| Ayu | Retropt | 57551137 | 663849 | 54000
+| Serponge Look At Me | iISpaceDustIi | 55037478 | 950611 | 53646
+| little soul | Vrymer | 62374745 | 333164 | 21178
+| Wishless | Pawlogates | 34224737 | 2010053 | 213230
+| Swag City | Xoroz | 66539851 | 464468 | 26409
+| Nice | danolex | 65109444 | 832239 | 61601
+|  TIA | BryanC2 | 54664621 | 758783 | 52134
+| Less than three | DanZmeN | 59760047 | 646703 | 49114
+| Anymore | oc3andark | 60087537 | 454158 | 28195
