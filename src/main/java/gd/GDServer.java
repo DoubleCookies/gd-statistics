@@ -59,7 +59,7 @@ public abstract class GDServer {
      */
     public static String fetchRecentFeaturedLevels(int i) throws IOException {
         return sendRequest("getGJLevels21.php",
-                "gameVersion=21&binaryVersion=34&gdw=0&type=4&str=&diff=-&len=-&page=" + i + "&total=0"
+                "gameVersion=21&binaryVersion=35&gdw=0&type=4&str=&diff=-&len=-&page=" + i + "&total=0"
                         + "&uncompleted=0&onlyCompleted=0&featured=1&original=0&twoPlayer=0&coins=0&epic=0"
                         + "&secret=" + SECRET);
     }
