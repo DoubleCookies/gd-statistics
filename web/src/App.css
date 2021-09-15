@@ -20,6 +20,21 @@
   text-align: center;
 }
 
+.lang-button {
+  opacity: 0.7;
+  transition: 200ms all ease-in;
+
+  border: none;
+  background: transparent;
+  margin-left: 20px;
+
+  font-size: calc(16px + 1vmin);
+}
+
+.lang-button:hover {
+  opacity: 1;
+}
+
 .main-content {
   max-width: 800px;
 
@@ -27,6 +42,24 @@
   padding: 10px;
 
   line-height: 1.5;
+}
+
+.main-content ul {
+  margin-top: 4px;
+}
+
+.main-headers {
+  margin-top: 20px;
+  margin-bottom: 0;
+
+  font-family: 'Balsamiq Sans', sans-serif;
+  font-size: calc(14px + 2vmin);
+  font-weight: normal;
+  text-align: center;
+}
+
+.tight-list {
+  padding-inline-start: 30px;
 }
 
 .footer-block {
