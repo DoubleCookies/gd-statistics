@@ -16,7 +16,7 @@ function App() {
     return (
         <div className="app">
             <header className="app-header">
-                <div style={{marginRight: 16}}>GDStatistics!</div>
+                <div style={{marginRight: 16}}>Gd-statistics!</div>
                 <div>
                     \( ◕  ᗜ  ◕ )/
                     <button className="lang-button" aria-label="Switch language (en/ru)"
@@ -34,7 +34,7 @@ function App() {
                 </Trans>
                 <h2 className="main-headers">{t("locationTitle")}</h2>
                 <Trans i18nKey="locationText">
-                    Посмотреть на все таблицы можно <a href='https://github.com/DoubleCookies/GDStatistics/tree/master/Statistics'>тут</a>.
+                    Посмотреть на все таблицы можно <a href='https://github.com/DoubleCookies/gd-statistics/tree/master/Statistics'>тут</a>.
                 </Trans>
                 <h2 className="main-headers">{t("workTitle")}</h2>
                 <Trans i18nKey="workList">
