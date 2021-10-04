@@ -9,9 +9,12 @@ const resources = {
             aboutText: "I collect data about top-50 most downloaded and most liked levels in Geometry Dash " +
                 "(overall and for \"demon\" difficulty levels). After that I form table and " +
                 "post it on Geometry Dash Wiki (ru). At the same time I create data for two templates which are used " +
-                "in articles about most downloaded levels.<1/>" +
+                "in articles about most downloaded levels. " +
                 "In result there is semi-automatic articles and templates update (and as a bonus, Wiki contains " +
                 "changes for these pages).",
+            locationTitle: "Where can I find it?",
+            locationText: "You can check all data <1>here</1>.",
+
             workTitle: "How does it work?",
             workList: "Everything is pretty simple and consecutive:<1>" +
                 "<0>Fetch data from Geometry Dash servers and get page (10 levels). Depending on type " +
