@@ -75,3 +75,13 @@
   font-size: 14px;
   text-align: center;
 }
+
+.gh-logo {
+  fill: #828282;
+  transition: 0.2s;
+}
+
+.gh-logo:hover {
+  fill: #504a4a;
+  transition: 0.2s;
+}
