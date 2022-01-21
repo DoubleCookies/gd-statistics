@@ -68,7 +68,7 @@ function App() {
                 <div>
                     <GithubIcon />
                 </div>
-                <div>2018-2021 <span role="img" aria-label="cookieEmoji">🍪</span></div>
+                <div>2018-2022 <span role="img" aria-label="cookieEmoji">🍪</span></div>
             </footer>
         </div>
     );
