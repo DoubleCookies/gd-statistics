@@ -67,20 +67,20 @@
 702912 | Cursedsnake | calm | 34
 619258 | Jumper | Jumper - Beyond The Walls | 34
 381421 | LoveKavi | Cherry Blossoms - LoveKavi | 34
-750873 | Geoplex | Geoplex - Glimmer | 33
 844658 | CreoMusic | Creo - Aura | 33
 590577 | ForeverBound | Stereo Madness 2 | 33
 734702 | 1f1n1ty | Calm Craggy Area (1f1n1ty Remix) | 33
 737702 | Geoplex | Geoplex - Florescence | 33
 679344 | KabukiTunes | Anki & Kabuki - Come Alive | 33
-686788 | Namice | Ripples | 33
 600451 | DJStriden | Level One | 33
 551069 | OcularNebula | Glittering Shores | 33
+750873 | Geoplex | Geoplex - Glimmer | 32
 544646 | Stratales | Spaghetti On The Side | 32
 648035 | bossfightofficial | Milky Ways Redux | 32
 829776 | CreoMusic | Creo - Nautilus | 32
 773288 | hinkik | Realms | 32
 595194 | Romos | Chaoz Fantasy Romos Remix | 32
+686788 | Namice | Ripples | 32
 785100 | cloudfield | cloudfield - Fantasy (ft. Reichuu) | 31
 810618 | CreoMusic | Creo - Crystallize | 31
 754029 | meganeko | Astro Soda | 31
@@ -133,7 +133,6 @@
 110798 | Waterflame | -Race around the world- | 26
 831097 | R3VMusic | Saunter | 26
 786863 | CreoMusic | Creo - In Circles | 26
-659922 | Soutfast | Stardust | 26
 18 | Waterflame | Geometrical Dominator | 26
 885164 | 1f1n1ty | Plümmet | 25
 737991 | bossfightofficial | Bossfight - Adust | 25
@@ -147,6 +146,7 @@
 828892 | ACXLE | Faces (original by Austin C) | 25
 223469 | ParagonX9 | ParagonX9 - HyperioxX | 25
 678497 | KabukiTunes | Promises | 25
+659922 | Soutfast | Stardust | 25
 157014 | ParagonX9 | ParagonX9 - Infiltration | 25
 498830 | Envy | EnV - FireFrost | 24
 555208 | viewtifulday | -=My Future=- | 24
@@ -344,7 +344,6 @@
 631875 | DJStriden | Level Two [Melodic EDM] | 16
 219635 | Waterflame | -Control: Mind- | 16
 808312 | BoomKitty | Tokyo Takedown | 16
-727487 | Xtrullor | Xtrullor - Fluorescent Forests (feat. Albert HyrÃ¶nen) | 16
 661012 | F-777 | Space Battle | 16
 771736 | CreoMusic | Creo - Enigma | 16
 680014 | garlagan | agoodgoodbye | 16
@@ -385,6 +384,7 @@
 558528 | OcularNebula | Lateral Descent | 15
 587885 | BoomKitty | Comodo | 15
 633746 | F-777 | This Isnt Science Rocket (2015 Edition) | 15
+727487 | Xtrullor | Xtrullor - Fluorescent Forests (feat. Albert HyrÃ¶nen) | 15
 712348 | ColBreakz | ColBreakz - Arcade | 15
 32207 | Dimrain47 | Forsaken Neon | 15
 32772 | API | -API- Paradise on E [REMIX] | 15
@@ -398,6 +398,7 @@
 806967 | alexizgd | Virtual Riot Ft. PRXZM - In My Head (ALESDA! Bootleg) | 15
 579857 | MadhouseDUDE | Massacre (Original Mix) | 15
 844250 | treepalm | I Love You La La La | 15
+684823 | meganeko | 2k9 battle jam | 15
 834826 | Sharks | Sharks - Light | 15
 738661 | DJKadenza | WICKED | 15
 817872 | BoomKitty | Shredageddon | 15
@@ -438,7 +439,6 @@
 750199 | paperskies | Paper Skies & Nanqo - Orbit | 14
 664484 | Lockyn | Lucent | 14
 827836 | teminiteofficial | Teminite - A New Dawn | 14
-684823 | meganeko | 2k9 battle jam | 14
 772055 | 1f1n1ty | Aeolia | 14
 710256 | Phyrnna | Hexennacht ~P~ | 14
 572652 | Jumper | Jumper - Cloud Haven | 14
@@ -488,6 +488,7 @@
 634406 | F-777 | Shipyard | 13
 349627 | shadow6nothing9 | Quiet Slumber | 13
 823812 | CreoMusic | Creo - Outlaw | 13
+794623 | DJVI | Cant Let Go 2.0 | 13
 451158 | F-777 | Backstabber - F-777 | 13
 708236 | cloudfield | cloudfield - Nostalgia | 13
 633175 | Multex | Multex - Activation | 13
@@ -538,7 +539,6 @@
 570434 | Envy | EnV - Bonus Level | 12
 643935 | FaunSound | Figurehead (GRTSU RMX) | 12
 413893 | Vertlain | The last flight | 12
-794623 | DJVI | Cant Let Go 2.0 | 12
 691703 | vffg | Kumquat | 12
 884210 | TheArcadium | TheFatRat & Anjulie - Close To The Sun | 12
 778324 | CreoMusic | Creo - Rock Thing | 12
@@ -1737,6 +1737,7 @@
 821173 | alexizgd | ALESDA! - Wake Up | 4
 822629 | Zooloo75 | why do birds suddenly appear (wip) | 4
 827714 | Sharks | Oliverse - Get High (Sharks Remix) | 4
+284427 | T-Free | ~|| Electric tears | 4
 1014019 | AuSk | Ausk - Waaaaavy | 4
 786862 | CreoMusic | Creo - Gravitate | 4
 688582 | lchavasse | ~:Drift:~ | 4
@@ -2065,6 +2066,7 @@
 477891 | gamernerd42 | Why did you leave me | 3
 485207 | DJ-Qwamii | Levels (Qwamii Remix) | 3
 761163 | sYrge | Namorog x Syrge - Ferð | 3
+730689 | EtzerGD | Immerse | 3
 898497 | Noisysundae | Miss Flora | 3
 581361 | Noisysundae | ! ! Ghost of Jupiter | 3
 899662 | Slleepwalker | Outside | 3
@@ -2131,7 +2133,6 @@
 370865 | xKore | xKore - Eden | 3
 675999 | Waterflame | -Conspicuous- | 3
 508935 | shadow6nothing9 | Our Darkest Dream -Piano | 3
-284427 | T-Free | ~|| Electric tears | 3
 907479 | VrimeMusic | PewDiePie, Party In Backyard - Mine All Day (Vrime Remix) | 3
 550904 | OcularNebula | 200 BigPartyMen | 3
 936797 | EspiDev | EspiDev - Lovefall | 3
@@ -2511,6 +2512,7 @@
 807337 | ToneCrush | Apollo - When Time Tears | 2
 1000390 | bossfightofficial | Bossfight - Work | 2
 823672 | TheLivingTombstone | Beep Beep Im a Sheep | 2
+690576 | Sunryser | Owl City - Fireflies (Instrumental Remake) | 2
 778462 | alexizgd | ALESDA! - Bombs (Ft. Romy Harmony) | 2
 502266 | Rukkus | NK - Classical | 2
 744516 | Reeez | 4d dawgs/????? | 2
@@ -2789,7 +2791,6 @@
 743953 | yagru | brt | 2
 704378 | HeliXiX | Alan Walker - Sing Me To Sleep (Remix) | 2
 985258 | Jusu-Tengu | Çlopeçtrum | 2
-730689 | EtzerGD | Immerse | 2
 552286 | BoomKitty | Mojave Radio | 2
 746086 | JordanKyser | Alan Walker - Faded ~ JK Remix | 2
 853312 | ELEPS44 | ELEPS - BROKEN (MELODIC DUBSTEP) | 2
@@ -3462,7 +3463,6 @@
 778761 | MonvoiceT | Sacry - Kesshou [M3nhHu3 req] | 1
 778990 | spectronoid97 | Bittersweet Reality (DDLC Your Reality Remix) | 1
 173916 | Caine1989 | Need U 2 B Complete [C89] | 1
-762323 | alexizgd | ALESDA! - Paradise (Ft. Mhyst) | 1
 302522 | Crystallize | Crystallize - All My Life | 1
 567996 | ARentz07 | Yogurt Yard Remix | 1
 857096 | jezzel | Trop - Jezzel | 1
@@ -4169,7 +4169,6 @@
 168734 | Waterflame | -Jumper- | 1
 969671 | Daydream-Anatomy | Among The Stars | 1
 993070 | WaxTerk | Remove.exe v2.0 | 1
-690576 | Sunryser | Owl City - Fireflies (Instrumental Remake) | 1
 1096146 | diyoung | Di Young - Pixel Pig | 1
 630764 | Schtiffles | New Message! | 1
 659256 | Jeyzor | High Hills | 1
