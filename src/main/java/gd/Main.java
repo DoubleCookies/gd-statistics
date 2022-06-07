@@ -1,7 +1,7 @@
 package gd;
 
-import com.sun.xml.internal.ws.util.StringUtils;
 import gd.enums.SortingCode;
+import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 
 import java.io.FileOutputStream;
@@ -19,7 +19,7 @@ public class Main {
     public static void main(String[] args) {
         processLevelsForType(SortingCode.DEFAULT, "featured");
         processLevelsForType(SortingCode.DEFAULT, "epic");
-        generateTopDemons();
+        //generateTopDemons();
     }
 
     private static void processLevelsForType(SortingCode sortingCode, String levelsType) {

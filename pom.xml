@@ -15,6 +15,19 @@
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.12.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.alex1304.jdash/jdash-client -->
+        <dependency>
+            <groupId>com.alex1304.jdash</groupId>
+            <artifactId>jdash-client</artifactId>
+            <version>4.0.5</version>
+        </dependency>
+
     </dependencies>
     <build>
         <plugins>
