@@ -1,9 +1,7 @@
 package gd;
 
-import gd.enums.SortingCode;
 import jdash.client.GDClient;
 import jdash.client.exception.GDClientException;
-import jdash.common.Difficulty;
 import jdash.common.LevelBrowseMode;
 import jdash.common.entity.GDLevel;
 import jdash.common.entity.GDSong;
@@ -42,33 +40,44 @@ public class ResponseGenerator {
     private static final Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> (int) (o2.description().length() - o1.description().length());
 
     private static List<GDLevel> levels;
+    private static List<GDLevel> epicLevels;
     private static final HashMap<GDSong, ArrayList<Long>> audioLevelIds = new HashMap<>();
     private static final GDClient client = GDClient.create();
 
-    static String[] processLevels(SortingCode sortingCode) {
-        processLevelsList(sortingCode);
-        if (levels == null || levels.size() == 0)
+    static String[] processFeaturedLevels(SortingCode sortingCode) {
+        if (isLevelsListEmpty(sortingCode))
             return null;
-        return getLevelsInformation();
+        return getFeaturedLevelsInformation();
+    }
+
+    static String[] processEpicLevels(SortingCode sortingCode) {
+        if (isLevelsListEmpty(sortingCode))
+            return null;
+        return getEpicLevelsInformation();
+    }
+
+    private static boolean isLevelsListEmpty(SortingCode sortingCode) {
+        processLevelsList(sortingCode);
+        return levels == null || levels.size() == 0;
     }
 
     private static void processLevelsList(SortingCode sortingCode) {
         if (levels == null) {
             logger.info("Receiving featured levels list...");
-            levels = getMostPopularFeatured(sortingCode);
+            levels = getFeaturedLevels(sortingCode);
         } else {
             logger.info("Filter epic levels...");
-            levels.removeIf(item -> !item.isEpic());
+            epicLevels = levels.stream().filter(GDLevel::isEpic).collect(Collectors.toList());
         }
     }
 
-    private static List<GDLevel> getMostPopularFeatured(SortingCode sortingCode) {
-
+    private static List<GDLevel> getFeaturedLevels(SortingCode sortingCode) {
         List<GDLevel> list = new ArrayList<>();
         int currentPage = 0;
         try {
             while (true) {
-                List<GDLevel> levels = client.browseLevels(LevelBrowseMode.FEATURED,null, null, currentPage).collectList().block();
+                List<GDLevel> levels = client.browseLevels(LevelBrowseMode.FEATURED,null, null, currentPage)
+                        .collectList().block();
                 if (levels != null)
                     list.addAll(levels);
                 else
@@ -82,15 +91,6 @@ public class ResponseGenerator {
         }
         sortLevelList(list, sortingCode);
         return list;
-    }
-
-    private static int returnLevelDifficultyNumber(GDLevel gdLevel) {
-        if (gdLevel.isAuto())
-            return 0;
-        int code = gdLevel.difficulty().ordinal() - 1;
-        if (gdLevel.isDemon())
-            code = 6 + gdLevel.demonDifficulty().ordinal();
-        return code;
     }
 
     private static void sortLevelList(List<GDLevel> list, SortingCode sortingCode) {
@@ -122,7 +122,15 @@ public class ResponseGenerator {
         }
     }
 
-    private static String[] getLevelsInformation() {
+    private static String[] getFeaturedLevelsInformation() {
+        return getLevelsInformation(levels);
+    }
+
+    private static String[] getEpicLevelsInformation() {
+        return getLevelsInformation(epicLevels);
+    }
+
+    private static String[] getLevelsInformation(List<GDLevel> levels) {
         logger.info("List received. Total " + levels.size() + " levels.");
         List<String> info = new ArrayList<>(generateListForDifficulties(levels));
         logger.info("Difficulties lists created.");
@@ -164,6 +172,15 @@ public class ResponseGenerator {
         stringArray[length - 1] = builders[length - 1].toString();
 
         return Arrays.asList(stringArray);
+    }
+
+    private static int returnLevelDifficultyNumber(GDLevel gdLevel) {
+        if (gdLevel.isAuto())
+            return 0;
+        int code = gdLevel.difficulty().ordinal() - 1;
+        if (gdLevel.isDemon())
+            code = 6 + gdLevel.demonDifficulty().ordinal();
+        return code;
     }
 
     private static String generateListWithLongestDescription(List<GDLevel> levels) {
@@ -252,6 +269,21 @@ public class ResponseGenerator {
                         (oldValue, newValue) -> oldValue, LinkedHashMap::new));
     }
 
+    private static String levelMarkdownString(GDLevel level) {
+        String creator = level.creatorName().isPresent() ? level.creatorName().get() : "-";
+        return "| " + level.name() + " | " + creator + " | " + level.id() + " | " + level.downloads() + " | " + level.likes();
+    }
+
+    private static String levelMarkdownWithDescriptionString(GDLevel level) {
+        String replacedDescription = level.description().replace("|", "&#124;");
+        String creator = level.creatorName().isPresent() ? level.creatorName().get() : "-";
+        return "| " + level.name() + " | " + creator + " | " + level.id() + " | " + level.description().length() + " | " + replacedDescription;
+    }
+
+    private static String songMarkdownString(GDSong song) {
+        return song.id() + " | " + song.artist() + " | " + song.title();
+    }
+
     static String generateTopDemonsList() {
         StringBuilder builder = new StringBuilder();
         List<GDLevel> list = getMostPopularDemons();
@@ -268,24 +300,10 @@ public class ResponseGenerator {
     private static List<GDLevel> getMostPopularDemons() {
         List<GDLevel> list = new ArrayList<>();
         if (!levels.isEmpty()) {
-            list = levels.stream().filter(level -> level.difficulty() == Difficulty.DEMON)
+            levels.sort(descendingDownloadsComparator);
+            list = levels.stream().filter(GDLevel::isDemon)
                     .limit(DEMONS_LIST_SIZE).collect(Collectors.toList());
         }
         return list;
-    }
-
-    private static String levelMarkdownString(GDLevel level) {
-        String creator = level.creatorName().isPresent() ? level.creatorName().get() : "-";
-        return "| " + level.name() + " | " + creator + " | " + level.id() + " | " + level.downloads() + " | " + level.likes();
-    }
-
-    private static String levelMarkdownWithDescriptionString(GDLevel level) {
-        String replacedDescription = level.description().replace("|", "&#124;");
-        String creator = level.creatorName().isPresent() ? level.creatorName().get() : "-";
-        return "| " + level.name() + " | " + creator + " | " + level.id() + " | " + level.description().length() + " | " + replacedDescription;
-    }
-
-    private static String songMarkdownString(GDSong song) {
-        return song.id() + " | " + song.artist() + " | " + song.title();
     }
 }

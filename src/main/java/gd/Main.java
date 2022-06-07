@@ -1,6 +1,5 @@
 package gd;
 
-import gd.enums.SortingCode;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 
@@ -19,12 +18,16 @@ public class Main {
     public static void main(String[] args) {
         processLevelsForType(SortingCode.DEFAULT, "featured");
         processLevelsForType(SortingCode.DEFAULT, "epic");
-        //generateTopDemons();
+        generateTopDemons();
     }
 
     private static void processLevelsForType(SortingCode sortingCode, String levelsType) {
         String capitalizedLevelsType = StringUtils.capitalize(levelsType);
-        String[] res = ResponseGenerator.processLevels(sortingCode);
+        String[] res;
+        if (levelsType.equals("featured"))
+            res = ResponseGenerator.processFeaturedLevels(sortingCode);
+        else
+            res = ResponseGenerator.processEpicLevels(sortingCode);
         if (res == null) {
             logger.warn(capitalizedLevelsType + " levels list is empty! No changes were made.");
             return;

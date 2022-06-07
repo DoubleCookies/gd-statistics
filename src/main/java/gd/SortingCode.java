@@ -1,4 +1,4 @@
-package gd.enums;
+package gd;
 
 /**
  * Represents different sorting variations
