@@ -1,0 +1,192 @@
+package gd;
+
+import jdash.common.entity.GDLevel;
+import jdash.common.entity.GDSong;
+import org.apache.log4j.Logger;
+
+import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+
+/**
+ * Class for forming data tables based on levels
+ */
+public class ResultDataGenerator {
+    private static final int DIFFICULTIES_COUNT = 12;
+
+    private static final String DIFFICULTIES_LIST_HEADER = "| Name | Creator | ID | Downloads | Likes |\n";
+    private static final String LONGEST_DESCRIPTION_LIST_HEADER = "| Name | Creator | ID | Length | Description |\n";
+    private static final String AUDIO_LIST_HEADER = "| ID | Author | Name | Count |\n";
+    private static final String BIG_AUDIO_LIST_HEADER = "| ID | Author | Name | Count | Level IDs |\n";
+    private static final String CREATORS_LIST_HEADER = "| Author | Count |\n";
+
+    private static final String TWO_COLUMNS_MARKDOWN_DIVIDER = "|:---:|:---:|\n";
+    private static final String FOUR_COLUMNS_MARKDOWN_DIVIDER = "|:---:|:---:|:---:|:---:|\n";
+    private static final String FIVE_COLUMNS_MARKDOWN_DIVIDER = "|:---:|:---:|:---:|:---:|:---:|\n";
+
+    private static final HashMap<GDSong, ArrayList<Long>> audioLevelIds = new HashMap<>();
+    private static final Logger logger = Logger.getLogger(ResultDataGenerator.class);
+
+    public static String[] getLevelsInformation(List<GDLevel> levels) {
+        logger.info("List received. Total " + levels.size() + " levels.");
+        List<String> info = new ArrayList<>(generateListForDifficulties(levels));
+        info.add(generateListWithLongestDescription(levels));
+        ArrayList<String> musicInfo = generateMusicList(levels);
+        info.add(musicInfo.get(0));
+        info.add(musicInfo.get(1));
+        info.add(generateBuildersList(levels));
+        logger.info("All lists created.");
+        return info.toArray(new String[0]);
+    }
+
+    private static List<String> generateListForDifficulties(List<GDLevel> levels) {
+        int length = DIFFICULTIES_COUNT;
+        String[] stringArray = new String[length];
+        StringBuilder[] builders = new StringBuilder[length];
+        int[] counter = new int[length];
+        for (int i = 0; i < length; i++) {
+            builders[i] = new StringBuilder();
+            builders[i].append(DIFFICULTIES_LIST_HEADER).append(FIVE_COLUMNS_MARKDOWN_DIVIDER);
+        }
+        for (GDLevel level : levels) {
+            int i = returnLevelDifficultyNumber(level);
+            if (i < 0) {
+                logger.warn("NA level in featured: " + level.id());
+            }
+            builders[i].append(levelMarkdownString(level)).append("\n");
+            counter[i]++;
+            builders[length - 1].append(levelMarkdownString(level)).append("\n");
+        }
+        for (int i = 0; i < length - 1; i++) {
+            builders[i].insert(0, "#### Total: " + counter[i] + " levels\n\n");
+            stringArray[i] = builders[i].toString();
+        }
+        builders[length - 1].insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
+        stringArray[length - 1] = builders[length - 1].toString();
+
+        return Arrays.asList(stringArray);
+    }
+
+    private static int returnLevelDifficultyNumber(GDLevel gdLevel) {
+        if (gdLevel.isAuto())
+            return 0;
+        int code = gdLevel.difficulty().ordinal() - 1;
+        if (gdLevel.isDemon())
+            code = 6 + gdLevel.demonDifficulty().ordinal();
+        return code;
+    }
+
+    private static String generateListWithLongestDescription(List<GDLevel> levels) {
+        int counter = 0;
+        StringBuilder builder = new StringBuilder();
+        builder.append(LONGEST_DESCRIPTION_LIST_HEADER).append(FIVE_COLUMNS_MARKDOWN_DIVIDER);
+        GDLevelsProcessing.sortLevelList(levels, SortingCode.LONGEST_DESCRIPTION);
+        for (GDLevel level : levels) {
+            builder.append(levelMarkdownWithDescriptionString(level)).append("\n");
+            counter++;
+        }
+        builder.insert(0, "#### Total: " + IntStream.of(counter).sum() + " levels\n\n");
+        return builder.toString();
+    }
+
+    private static ArrayList<String> generateMusicList(List<GDLevel> levels) {
+        StringBuilder simpleBuilder = new StringBuilder();
+        simpleBuilder.append(AUDIO_LIST_HEADER).append(FOUR_COLUMNS_MARKDOWN_DIVIDER);
+        StringBuilder additionalBuilder = new StringBuilder();
+        additionalBuilder.append(BIG_AUDIO_LIST_HEADER).append(FIVE_COLUMNS_MARKDOWN_DIVIDER);
+
+        Map<GDSong, ArrayList<Long>> result = getMapForSongsInLevels(levels);
+
+        List<GDSong> mapKeys = new ArrayList<>(result.keySet());
+        List<ArrayList<Long>> mapValues = new ArrayList<>(result.values());
+        for (int i = 0; i < mapKeys.size(); i++) {
+            simpleBuilder.append(songMarkdownString(mapKeys.get(i))).append(" | ").append(mapValues.get(i).size()).append("\n");
+            List<Long> levelIds = audioLevelIds.get(mapKeys.get(i));
+            String levelIdsString = levelIds.stream().map(String::valueOf)
+                    .collect(Collectors.joining("; "));
+            additionalBuilder.append(songMarkdownString(mapKeys.get(i))).append(" | ").append(mapValues.get(i).size()).append(" | ").append(levelIdsString).append("\n");
+        }
+
+        ArrayList<String> data = new ArrayList<>();
+        data.add(simpleBuilder.toString());
+        data.add(additionalBuilder.toString());
+        return data;
+    }
+
+    private static Map<GDSong, ArrayList<Long>> getMapForSongsInLevels(List<GDLevel> levels) {
+        Optional<GDSong> song;
+        for (GDLevel level : levels) {
+            song = level.song();
+            long levelId = level.id();
+            if (!song.isPresent()) {
+                logger.warn("Null GDSong object for level " + level.id());
+            } else {
+                ArrayList<Long> arrayListData = audioLevelIds.get(song.get());
+                if (arrayListData == null || arrayListData.isEmpty())
+                    arrayListData = new ArrayList<>();
+                arrayListData.add(levelId);
+                audioLevelIds.put(song.get(), arrayListData);
+            }
+        }
+        return audioLevelIds.entrySet().stream()
+                .sorted(Map.Entry.comparingByValue((o1, o2) -> (int) (o2.size() - o1.size())))
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
+                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));
+    }
+
+    private static String generateBuildersList(List<GDLevel> levels) {
+        StringBuilder builder = new StringBuilder();
+        builder.append(CREATORS_LIST_HEADER).append(TWO_COLUMNS_MARKDOWN_DIVIDER);
+        HashMap<String, Integer> buildersMap = getMapForBuilders(levels);
+
+        List<String> mapKeys = new ArrayList<>(buildersMap.keySet());
+        List<Integer> mapValues = new ArrayList<>(buildersMap.values());
+        for (int i = 0; i < mapKeys.size(); i++)
+            builder.append(mapKeys.get(i)).append(" | ").append(mapValues.get(i)).append("\n");
+        return builder.toString();
+    }
+
+    private static HashMap<String, Integer> getMapForBuilders(List<GDLevel> levels) {
+        HashMap<String, Integer> buildersMap = new HashMap<>();
+        for (GDLevel level : levels) {
+            if (level.creatorName().isPresent()) {
+                if (buildersMap.containsKey(level.creatorName().get()))
+                    buildersMap.put(level.creatorName().get(), buildersMap.get(level.creatorName().get()) + 1);
+                else
+                    buildersMap.put(level.creatorName().get(), 1);
+            }
+        }
+        return buildersMap.entrySet().stream()
+                .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
+                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));
+    }
+
+
+    private static String processTopDemons(List<GDLevel> list) {
+        StringBuilder builder = new StringBuilder();
+        if (list.size() == 0)
+            return "";
+        builder.append(DIFFICULTIES_LIST_HEADER).append(FIVE_COLUMNS_MARKDOWN_DIVIDER);
+        for (GDLevel level : list) {
+            builder.append(levelMarkdownString(level)).append("\n");
+        }
+        builder.insert(0, "#### Top-50 demons:\n\n");
+        return builder.toString();
+    }
+
+    private static String levelMarkdownString(GDLevel level) {
+        String creator = level.creatorName().isPresent() ? level.creatorName().get() : "-";
+        return "| " + level.name() + " | " + creator + " | " + level.id() + " | " + level.downloads() + " | " + level.likes();
+    }
+
+    private static String levelMarkdownWithDescriptionString(GDLevel level) {
+        String replacedDescription = level.description().replace("|", "&#124;");
+        String creator = level.creatorName().isPresent() ? level.creatorName().get() : "-";
+        return "| " + level.name() + " | " + creator + " | " + level.id() + " | " + level.description().length() + " | " + replacedDescription;
+    }
+
+    private static String songMarkdownString(GDSong song) {
+        return song.id() + " | " + song.artist() + " | " + song.title();
+    }
+}
