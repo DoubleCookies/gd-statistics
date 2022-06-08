@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/DoubleCookies/GDStatistics.svg?branch=master)](https://travis-ci.org/DoubleCookies/GDStatistics)
 
-Tool for collecting statistics about Geometry Dash featured levels. Based on Alex1304 [ultimategdbot](https://github.com/alex1304/ultimategdbot) project.
+Tool for collecting statistics about Geometry Dash featured levels. Created with [jdash](https://github.com/Alex1304/jdash).
 
 ## Features
 - Collect information about featured and epic levels.
@@ -17,7 +17,6 @@ Tool for collecting statistics about Geometry Dash featured levels. Based on Ale
 - **src** folder contains sources for this project.
 
 ## Plans
-- Create project github page
 - Describe how project works (maybe with illustrations)
 
 ## License
