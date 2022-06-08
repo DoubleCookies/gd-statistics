@@ -24,7 +24,6 @@ const resources = {
                 "</1>",
             plansTitle: "Any plans?",
             plansList: "<0>" +
-                "<1>Fix data fetching.</1>" +
                 "<1>Maybe check old commits, collect data from old months/years and " +
                 "build graph/table/<2>other thing</2>.</1>" +
                 "<1>Add illustrations. Everybody likes illustrations I guess?</1>" +
@@ -55,7 +54,6 @@ const resources = {
                 "</1>",
             plansTitle: "Есть ли планы на будущее?",
             plansList: "<0>" +
-                "<1>Поправить сбор данных.</1>" +
                 "<1>Можно будет пройтись по старым коммитам, собрать информацию по прошлым месяцам/годам " +
                 "и построить сводную табличку/график/<2>другую штуку</2>.</1>" +
                 "<1>Добавить иллюстраций. Все же любят картинки?</1>" +
