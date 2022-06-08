@@ -1,4 +1,4 @@
-#### Total: 3357 levels
+#### Total: 3359 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -1352,6 +1352,7 @@
 | Seismic Toss | Berkoo | 31198704 | 92 | Have fun with this colorful and intense level. '-')/ Thanks for epic and daily once again <3
 | TOE III | Manix648 | 29443338 | 92 | Third and non-official installment in the TOE series. For Viprin CC #8. EPIC? thinking emoji
 | Monsterfest | rafer | 29074072 | 92 | My first 2.1 level! Just a experimental demon so my next levels will be better! Pass: 310117
+| mashi | shakeyy | 80829895 | 91 | my entry for the Bing Bong creator contest - hope i used the correct offset for the song...
 | Vital | theGoT | 69995845 | 91 | the synth sequel that no one wanted, needed, or deserved. thanks to cubicshadow for merging
 | ebebebe | connot | 69930812 | 91 | A late birthday present for BIGMAC77 (added LDM due to high demand). Updated with bugfixes.
 | Brainfugd | Spu7Nix | 69434308 | 91 | read the tutorial &#124; 60hz recommended &#124; pls dont spam the buttons &#124; enable LDM if it's buggy
@@ -3197,6 +3198,7 @@
 | Mashup | Jayuff | 54724490 | 5 | mmmmf
 | Yakumo | VioletSE | 49149238 | 5 | bayun
 | Aline | DangerKat | 43130199 | 5 | ;3;)/
+| Chronos | ViPriN | 41893726 | 5 | Time.
 | Chronos | ViPriN | 41893726 | 5 | Time.
 | Magical Madness | Subwoofer | 36906582 | 5 | Cool.
 | Big Bang | Wav | 78364516 | 4 | boom
