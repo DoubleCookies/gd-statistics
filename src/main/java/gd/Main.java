@@ -22,16 +22,20 @@ public class Main {
     }
 
     private static void processLevelsForType(SortingCode sortingCode, String levelsType) {
-        String capitalizedLevelsType = StringUtils.capitalize(levelsType);
         String[] res;
         if (levelsType.equals("featured"))
             res = ResponseGenerator.processFeaturedLevels(sortingCode);
         else
             res = ResponseGenerator.processEpicLevels(sortingCode);
         if (res == null) {
-            logger.warn(capitalizedLevelsType + " levels list is empty! No changes were made.");
+            logger.warn(levelsType + " levels list is empty! No changes were made.");
             return;
         }
+        processLevelsData(sortingCode, levelsType, res);
+    }
+
+    private static void processLevelsData(SortingCode sortingCode, String levelsType, String[] res) {
+        String capitalizedLevelsType = StringUtils.capitalize(levelsType);
         for (int j = 0; j < 11; j++) {
             String prefix = difficultyFolderMap.get(j + 1) + " " + levelsType;
             writeToFile(sortingCode, prefix, j + 1, res[j].getBytes());

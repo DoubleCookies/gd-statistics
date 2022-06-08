@@ -48,8 +48,7 @@ public class GDLevelsProcessing {
         List<GDLevel> list = new ArrayList<>();
         if (!levels.isEmpty()) {
             levels.sort(descendingDownloadsComparator);
-            list = levels.stream().filter(GDLevel::isDemon)
-                    .limit(DEMONS_LIST_SIZE).collect(Collectors.toList());
+            list = levels.stream().filter(GDLevel::isDemon).limit(DEMONS_LIST_SIZE).collect(Collectors.toList());
         }
         return list;
     }

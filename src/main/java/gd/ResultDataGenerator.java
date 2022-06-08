@@ -13,35 +13,41 @@ import java.util.stream.IntStream;
  */
 public class ResultDataGenerator {
     private static final int DIFFICULTIES_COUNT = 12;
-
     private static final String DIFFICULTIES_LIST_HEADER = "| Name | Creator | ID | Downloads | Likes |\n";
     private static final String LONGEST_DESCRIPTION_LIST_HEADER = "| Name | Creator | ID | Length | Description |\n";
     private static final String AUDIO_LIST_HEADER = "| ID | Author | Name | Count |\n";
     private static final String BIG_AUDIO_LIST_HEADER = "| ID | Author | Name | Count | Level IDs |\n";
     private static final String CREATORS_LIST_HEADER = "| Author | Count |\n";
-
     private static final String TWO_COLUMNS_MARKDOWN_DIVIDER = "|:---:|:---:|\n";
     private static final String FOUR_COLUMNS_MARKDOWN_DIVIDER = "|:---:|:---:|:---:|:---:|\n";
     private static final String FIVE_COLUMNS_MARKDOWN_DIVIDER = "|:---:|:---:|:---:|:---:|:---:|\n";
-
     private static final HashMap<GDSong, ArrayList<Long>> audioLevelIds = new HashMap<>();
+
     private static final Logger logger = Logger.getLogger(ResultDataGenerator.class);
 
     public static String[] getLevelsInformation(List<GDLevel> levels) {
+        audioLevelIds.clear();
         logger.info("List received. Total " + levels.size() + " levels.");
         List<String> info = new ArrayList<>(generateListForDifficulties(levels));
         info.add(generateListWithLongestDescription(levels));
         ArrayList<String> musicInfo = generateMusicList(levels);
-        info.add(musicInfo.get(0));
-        info.add(musicInfo.get(1));
+        info.add(getBasicMusicInfo(musicInfo));
+        info.add(getExtendedMusicInfo(musicInfo));
         info.add(generateBuildersList(levels));
-        logger.info("All lists created.");
         return info.toArray(new String[0]);
+    }
+
+    private static String getBasicMusicInfo(ArrayList<String> musicInfo) {
+        return musicInfo.size() > 0 ? musicInfo.get(0) : "";
+    }
+
+    private static String getExtendedMusicInfo(ArrayList<String> musicInfo) {
+        return musicInfo.size() > 1 ? musicInfo.get(1) : "";
     }
 
     private static List<String> generateListForDifficulties(List<GDLevel> levels) {
         int length = DIFFICULTIES_COUNT;
-        String[] stringArray = new String[length];
+
         StringBuilder[] builders = new StringBuilder[length];
         int[] counter = new int[length];
         for (int i = 0; i < length; i++) {
@@ -57,6 +63,8 @@ public class ResultDataGenerator {
             counter[i]++;
             builders[length - 1].append(levelMarkdownString(level)).append("\n");
         }
+
+        String[] stringArray = new String[length];
         for (int i = 0; i < length - 1; i++) {
             builders[i].insert(0, "#### Total: " + counter[i] + " levels\n\n");
             stringArray[i] = builders[i].toString();
@@ -70,10 +78,10 @@ public class ResultDataGenerator {
     private static int returnLevelDifficultyNumber(GDLevel gdLevel) {
         if (gdLevel.isAuto())
             return 0;
-        int code = gdLevel.difficulty().ordinal() - 1;
         if (gdLevel.isDemon())
-            code = 6 + gdLevel.demonDifficulty().ordinal();
-        return code;
+            return (6 + gdLevel.demonDifficulty().ordinal());
+        else
+            return gdLevel.difficulty().ordinal() - 1;
     }
 
     private static String generateListWithLongestDescription(List<GDLevel> levels) {
@@ -138,7 +146,6 @@ public class ResultDataGenerator {
         StringBuilder builder = new StringBuilder();
         builder.append(CREATORS_LIST_HEADER).append(TWO_COLUMNS_MARKDOWN_DIVIDER);
         HashMap<String, Integer> buildersMap = getMapForBuilders(levels);
-
         List<String> mapKeys = new ArrayList<>(buildersMap.keySet());
         List<Integer> mapValues = new ArrayList<>(buildersMap.values());
         for (int i = 0; i < mapKeys.size(); i++)
@@ -163,7 +170,7 @@ public class ResultDataGenerator {
     }
 
 
-    private static String processTopDemons(List<GDLevel> list) {
+    public static String processTopDemons(List<GDLevel> list) {
         StringBuilder builder = new StringBuilder();
         if (list.size() == 0)
             return "";
