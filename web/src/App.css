@@ -77,10 +77,11 @@
 
 .gh-logo {
   fill: #6d6c6c;
-  transition: 0.2s;
+  transition: 0.3s;
 }
 
 .gh-logo:hover {
   fill: #322f2f;
-  transition: 0.2s;
+  transition: 0.3s;
+  transform: scale(1.2);
 }
