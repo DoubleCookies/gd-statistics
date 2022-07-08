@@ -1,29 +1,30 @@
-#### Total: 25 levels
+#### Total: 26 levels
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Cloudy | DHaner | 78743788 | 440349 | 55845
-| Glimpse | iIBonIi | 76326298 | 371318 | 24986
-| Abandoned Windmill | Lake | 75449766 | 520853 | 35894
-| Coeur Lambeaux | DYZEX | 69582529 | 1004283 | 66198
-| At Archdragon Peak | MattewGame | 69314264 | 354992 | 31762
-| Distant Horizon | Waffl3X | 68263042 | 675583 | 47666
-| Geometry Dash | GDvesuvius | 67661363 | 1614120 | 106101
-| Swag City | Xoroz | 66539851 | 652685 | 44401
-| Nice | Danolex | 65109444 | 1376956 | 120698
-| Sneaky Snake | MaxyLAND | 64803948 | 850955 | 38632
-| Anna | iISpaceDustIi | 63553770 | 466674 | 25477
-| Split Path | Jayuff | 62743002 | 566957 | 22044
-| little soul | Vrymer | 62374745 | 386968 | 25532
-| Anymore | oc3andark | 60087537 | 529814 | 34200
-| Less than three | Danzmen | 59760047 | 867792 | 65584
-| TranquillitY | BryanC2 | 59177605 | 333446 | 19977
-| Ayu | Retropt | 57551137 | 970557 | 82741
-| Aulta | By7on | 55976208 | 715932 | 43697
-| Aer | neigefeu | 55215779 | 574256 | 40613
-| Serponge Look At Me | iISpaceDustIi | 55037478 | 1328664 | 80315
-|  TIA | BryanC2 | 54664621 | 1049983 | 69886
-| weird | OSIRIS GD | 51173274 | 1123036 | 78384
-| Candescent | CastriX | 34749502 | 3476187 | 323507
-| Wishless | Pawlogates | 34224737 | 2500648 | 243878
-| IZnite | izhar | 32400752 | 5392332 | 502814
+| Fuel | bli | 81257107 | 256983 | 35942
+| Cloudy | DHaner | 78743788 | 494432 | 61587
+| Glimpse | iIBonIi | 76326298 | 385471 | 25967
+| Abandoned Windmill | Lake | 75449766 | 536203 | 36837
+| Coeur Lambeaux | DYZEX | 69582529 | 1025400 | 67402
+| At Archdragon Peak | MattewGame | 69314264 | 362180 | 32298
+| Distant Horizon | Waffl3X | 68263042 | 694488 | 49676
+| Geometry Dash | GDvesuvius | 67661363 | 1690648 | 111524
+| Swag City | Xoroz | 66539851 | 669560 | 46415
+| Nice | Danolex | 65109444 | 1416467 | 125821
+| Sneaky Snake | MaxyLAND | 64803948 | 871377 | 39773
+| Anna | iISpaceDustIi | 63553770 | 475971 | 26078
+| Split Path | Jayuff | 62743002 | 575578 | 22503
+| little soul | Vrymer | 62374745 | 389665 | 25800
+| Anymore | oc3andark | 60087537 | 533757 | 34593
+| Less than three | Danzmen | 59760047 | 879301 | 66836
+| TranquillitY | BryanC2 | 59177605 | 336424 | 20210
+| Ayu | Retropt | 57551137 | 991288 | 84927
+| Aulta | By7on | 55976208 | 720601 | 44164
+| Aer | neigefeu | 55215779 | 578205 | 41016
+| Serponge Look At Me | iISpaceDustIi | 55037478 | 1353776 | 82403
+|  TIA | BryanC2 | 54664621 | 1065764 | 71133
+| weird | OSIRIS GD | 51173274 | 1134980 | 79126
+| Candescent | CastriX | 34749502 | 3576963 | 332769
+| Wishless | Pawlogates | 34224737 | 2529655 | 246296
+| IZnite | izhar | 32400752 | 5463003 | 507872
