@@ -73,7 +73,6 @@
 718168 | cysmix | cYsmix - Moonlight Sonata | 5
 723714 | hyperdemented | Epilogue | 5
 725417 | F-777 | Hydra | 5
-745508 | ColBreakz | ColBreakz - HeartBeat | 5
 722221 | TenodiBoris | Far Away | 5
 738126 | ColBreakz | Tisment & ColBreakz - Silent Storm | 5
 709117 | cloudfield | Zedd - Ignite (cloudfield Bootleg) | 5
@@ -89,6 +88,7 @@
 803971 | ThisIsTheFatRat | TheFatRat - MAYDAY (feat. Laura Brehm) | 5
 867673 | Sharks | Sharks - Out My Head | 5
 759568 | LemKuuja | NOVEMBER | 5
+724826 | Geoplex | Catharsis | 5
 782870 | bossfightofficial | Bossfight - Nock Em | 5
 818078 | Cametek | Quaoar | 5
 864327 | Geoxor | Geoxor - Stardust | 5
@@ -136,7 +136,6 @@
 898019 | teminiteofficial | Teminite - Break Free | 4
 828460 | FarOutOfficial | On My Own (feat. Karra) | 4
 852209 | lchavasse | Fried Sushi | 4
-676174 | ColchianCat | Luminance | 4
 713536 | BurgeraX | BurgeraX: Scorpion [Drum & Bass] | 4
 574484 | F-777 | F-777 - Sonic Blaster | 4
 871523 | Dunderpatrullen | Arcadia | 4
@@ -163,6 +162,7 @@
 778356 | CricketSaysChill | We Cant Count | 4
 720358 | Kolkian | Rejuvenate | 4
 685186 | Schtiffles | Cantina | 4
+745508 | ColBreakz | ColBreakz - HeartBeat | 4
 383793 | Waterflame | -Lightspeed- | 4
 704018 | windluxmusic | Karaplex - Heartburn (Melodic Dubstep) | 4
 734693 | ColBreakz | Protolizard & ColBreakz - Nevermind | 4
@@ -176,7 +176,6 @@
 847116 | CreoMusic | Creo - Place On Fire | 4
 806165 | Geoplex | Geoplex - Enduring | 4
 820717 | redeilia | Redeilia - Incendiary | 4
-858998 | Sharks | Sharks - Light (VIP) | 4
 732009 | hyperdemented | Creo - Rivals | 4
 875969 | DrayxMusic | Next Adventure | 4
 878286 | 1f1n1ty | Obelisk | 4
@@ -193,7 +192,6 @@
 844420 | DerpCatOfficial | Derpcat - Kitty Bomb | 4
 781768 | garlagan | Form | 4
 778463 | KaixoMusic | Ziggurat (Original Mix) | 4
-724826 | Geoplex | Catharsis | 4
 724081 | canonblade | Canonblade - Gg Wp [Bronze Edition] | 4
 808406 | Geoplex | Geoplex - Affinity | 4
 868660 | alexizgd | ALESDA! - Burn | 4
@@ -202,6 +200,7 @@
 862252 | lukhash | WALKMAN | 4
 937964 | alexizgd | ALESDA! - Never Let Me Go | 4
 830459 | meganeko | Space Magic | 4
+554044 | OcularNebula | Bouncy BitHouse | 4
 772435 | PandaEyesOfficial | Panda Eyes feat. Subkey - Continue | 4
 717459 | Lethalix | Little Flame | 4
 719885 | AzazalEDM | Tryple & Azazal - Meowter Space | 4
@@ -209,6 +208,7 @@
 635716 | Xtrullor | Xtrullor - Earthsplitter | 3
 790745 | ColBreakz | Loxive & ColBreakz - Always With You <3 | 3
 845923 | cysmix | cYsmix - Mr. Megaman | 3
+714861 | csx42gaming | Evolve | 3
 700441 | Lockyn | EEK! + Lockyn - Glacier Galaxy | 3
 786563 | MacMelto | Go Longer | 3
 771905 | Sharks | Said - Dancing (Sharks Remix) | 3
@@ -250,6 +250,7 @@
 660882 | DJStriden | Level Five [Final Boss] | 3
 700211 | ColBreakz | ColBreakz - 2011 | 3
 927057 | ThisIsTheFatRat | TheFatRat - Electrified | 3
+676174 | ColchianCat | Luminance | 3
 614354 | Waterflame | -RadioCutter- | 3
 805587 | Xomu10 | Lanterns | 3
 895898 | meganeko | Discovery | 3
@@ -312,6 +313,7 @@
 684646 | meganeko | Robot Language | 3
 759497 | Sharks | Sharks - Shining Space | 3
 868444 | TheArcadium | Zukira - Blinded | 3
+858998 | Sharks | Sharks - Light (VIP) | 3
 743019 | dj-Nate | {dj-N} Hypercharged | 3
 768489 | SpazeUnofficial | Spaze - Dreams | 3
 914838 | CreoMusic | Creo - Lightmare | 3
@@ -358,7 +360,6 @@
 826626 | ShutEye | Shut Eye - Call Me | 3
 591319 | garlagan | Skyless | 3
 780702 | BoomKitty | Power Trip [ Geometry Dash SubZero ] | 3
-554044 | OcularNebula | Bouncy BitHouse | 3
 677465 | dexarson | Dex Arson Vs Charlie Zane - Nexus | 3
 727020 | Schtiffles | á‘«áµ˜áµ‰Ë¢áµ—á¶¦áµ’á¶° MáµƒÊ³áµ | 3
 748311 | canonblade | Canonblade - Evli Whiskey | 3
@@ -394,7 +395,6 @@
 587069 | Waterflame | -Endgame- | 2
 880262 | BoomKitty | Burning Sands | 2
 553488 | steampianist | Graveyard Shenanigans | 2
-714861 | csx42gaming | Evolve | 2
 936329 | alexizgd | ALESDA! - That Cute Girl | 2
 812038 | alexizgd | ALESDA! - Lost | 2
 759834 | SpeedoSausage | 1991 REEBOK PUMPS (demo) | 2
@@ -440,6 +440,7 @@
 606055 | Waterflame | -DuneRiders- | 2
 564162 | DuoCore | DuoCore - Carnage | 2
 771277 | CreoMusic | Creo - Dune | 2
+860153 | HeyJellyBear | BRAINWAVE | 2
 757184 | ColBreakz | Dex Arson - Rampage (ColBreakz Remix) | 2
 719950 | Waterflame | -Sinking Feeling- | 2
 550703 | AeronMusic | Sustain | 2
@@ -843,6 +844,7 @@
 1021114 | nandinanubis | Walking | 1
 1012674 | BoomKitty | Boom Slayer SFX | 1
 631875 | DJStriden | Level Two [Melodic EDM] | 1
+927071 | Sterrezo | Time Travel (w/ Retrograde) | 1
 852806 | lchavasse | CONCEPT | 1
 171702 | zirconmusic | Monstrous Turtles! | 1
 748921 | Marterro | The Final Encounter | 1
@@ -961,7 +963,6 @@
 1024213 | MonvoiceT | Summer Girl (gatis Mix) | 1
 760365 | BurgeraX | BurgeraX: Bloodthirst [Dubstep] | 1
 722933 | Phyrnna | Shelter (Piano ver.) | 1
-860153 | HeyJellyBear | BRAINWAVE | 1
 836626 | Nirreman | Deltarune - Lancer | 1
 912103 | meganeko | Pyroclastic Horizon | 1
 1006406 | XomuEDM | Gloxinia | 1
@@ -1040,6 +1041,7 @@
 1118569 | PandaEyesOfficial | Panda Eyes - Particles (Highscore II) | 1
 772337 | Blackhole12 | Legends of Magic | 1
 844801 | nstryder | Gigabit Weaboo | 1
+850364 | Koraii | Empress | 1
 97764 | Waterflame | -Showdown- | 1
 731587 | MadhouseDUDE | Titan Dance | 1
 1067000 | Greyvoice | The Leaves Turn Themselves | 1
@@ -1088,6 +1090,7 @@
 109377 | Waterflame | -Dark seaside- | 1
 795431 | Waterflame | -Race Around the Desert- | 1
 798103 | Xomu10 | Airborne | 1
+978424 | Greyvoice | Things Grow Here (longplay) | 1
 275534 | Waterflame | -Flight- | 1
 787986 | EspiDev | EspiDev - Reverie | 1
 896621 | GRGEMUSIC | HOW TO GLITCH HOP | 1
@@ -1238,6 +1241,7 @@
 661982 | dexarson | Machina (Ephixa Remix ) | 1
 771519 | AeronMusic | In Spirit | 1
 816083 | windluxmusic | Dull Machine - Prism (Koraii Remix) | 1
+816519 | treepalm | Its The Right Place | 1
 952199 | RutraOfficiel | Jonas Aden - My Love Is Gone (Rutra Remix) | 1
 989795 | CreoMusic | Creo - Worlds | 1
 721720 | PnG88 | Ragedance | 1
@@ -1452,6 +1456,7 @@
 777275 | ValeriaKitten | Lovely Kitten - Moonlight | 1
 884360 | KawaiSprite | Glossum Plum | 1
 541266 | Stratales | Chips Ahoy! | 1
+1105697 | Teminite | Teminite - Thundering Typhoons | 1
 855835 | Kolkian | Sugarsnap | 1
 955940 | Ockeroid | Dishonorable Discharge | 1
 728233 | FWLRmusic | FWLR - Badass Bae | 1
