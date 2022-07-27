@@ -4,7 +4,8 @@ import jdash.client.GDClient;
 import jdash.client.exception.GDClientException;
 import jdash.common.LevelBrowseMode;
 import jdash.common.entity.GDLevel;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -16,7 +17,7 @@ import java.util.stream.Collectors;
  */
 public class GDLevelsProcessing {
 
-    private static final Logger logger = Logger.getLogger(GDLevelsProcessing.class);
+    private static final Logger logger = LogManager.getLogger(GDLevelsProcessing.class);
     private static final GDClient client = GDClient.create();
     private static final int DEMONS_LIST_SIZE = 50;
 

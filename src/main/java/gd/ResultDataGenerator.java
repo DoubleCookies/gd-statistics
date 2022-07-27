@@ -2,7 +2,8 @@ package gd;
 
 import jdash.common.entity.GDLevel;
 import jdash.common.entity.GDSong;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.*;
 import java.util.stream.Collectors;
@@ -23,7 +24,7 @@ public class ResultDataGenerator {
     private static final String FIVE_COLUMNS_MARKDOWN_DIVIDER = "|:---:|:---:|:---:|:---:|:---:|\n";
     private static final HashMap<GDSong, ArrayList<Long>> audioLevelIds = new HashMap<>();
 
-    private static final Logger logger = Logger.getLogger(ResultDataGenerator.class);
+    private static final Logger logger = LogManager.getLogger(ResultDataGenerator.class);
 
     public static String[] getLevelsInformation(List<GDLevel> levels) {
         audioLevelIds.clear();
