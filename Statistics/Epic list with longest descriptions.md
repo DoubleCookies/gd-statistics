@@ -1,4 +1,4 @@
-#### Total: 3396 levels
+#### Total: 3394 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -213,6 +213,7 @@
 | Idi lesom blin besih | DeniPol | 49974684 | 138 | Hello! I represent to you the level that i built throughout the summer. Due to the large number of objects, i made several "LDM" functions
 | Wings Of Angel | JerkRat | 48618693 | 138 | What is it like after death? No one knows, it's one of the biggest mysteries of mankind. For JonathanGD's CC1. Dedicated to EVW. 180k obj.
 | Auria  | victorinoxX | 48522681 | 138 | Finally after 5 months, my first and maybe my only MC has been finished. Thanks a lot to all these great creators who helped me with this.
+| Just Go With It  | IsraEL GD | 48201158 | 138 | This is the first MC I that was loaded into my account, created by unknown but good creators. Organized by Steven KSttle &#124; Add LDM & ULDM 
 | Just Go With It  | IsraEL GD | 48201158 | 138 | This is the first MC I that was loaded into my account, created by unknown but good creators. Organized by Steven KSttle &#124; Add LDM & ULDM 
 | Tokyo Rush | Rusto | 47702969 | 138 | Collab With the one and Only Kips!!!  (He gave me this level btw, i did not steal it from him)  Please Subscribe to both our YT channels!!
 | Biru | JonathanGD | 47611766 | 138 | Full version is finally here! Big thanks to Viprin for giving me 1st place in Viprin's CC9 (unknown) &#124; 116500 objects &#124; 5 min 35 sec &#124; OwO
@@ -436,6 +437,7 @@
 | Magmanosa | CastriX | 36087516 | 132 | The new basement! "Magmanosa".The bossfight made in "Zelda - Skyward Sword" <3 -to achieve the power...- ~soon.~ For Bossfight CC :)
 | Nanamori | f3lixsram | 35726630 | 132 | A frenchy collab with Yakimaru and Tartofrez !  Video/pass on my youtube :3 My part is dedicated to peaple who think I am generic xD
 | Sword Of Xolan | Nightlex | 32346153 | 132 | Pick up the sword and swing in the name of justice! Ugh sorry for the lag! Dedicated to Partition! Pass is on my YouTube Channel! :)
+| Capital Punishment  | friendless | 81608598 | 131 | good heavens! the irs has discovered ive been carrying over $200K in unpaid taxes in a briefcase and is now attempting to seize it!
 | YOQUIERO | Vrymer | 77592888 | 131 | yoquieroyoquieroyoquieroyoquieroyoquieroyoquiero     /!\ flashing lights =) /!\    yoquieroyoquieroyoquieroyoquieroyoquieroyoquiero
 | Misch | Xatz | 69845405 | 131 | An experimental level, simple and decent. I hope you like it. (The original song was deleted, so the start does not have much sync)
 | At Archdragon Peak | MattewGame | 69314264 | 131 | The Nameless King was once a dragon-slaying god of war, before he sacrificed everything to ally himself with the ancient dragons...
@@ -2022,7 +2024,6 @@
 | Static | Chayper | 57232584 | 62 | I add some new things to me &#124; oof that one was hard to make :D
 | Isk | Chayper | 54931970 | 62 | I was working very hard. &#124; Dedicated to SamMaxx & LaserSword33
 | Bliss | Yendis | 52836737 | 62 | A new level where I experimented a bit with the deco. Enjoy :)
-| Skedaddle | EpicMasta11 | 52297712 | 62 | Unironically started building this in November. Enjoy guys. <3
 | in Silico | rafer | 49941534 | 62 | you have 3 minutes to ESCAPE before the whole island EXPLODES!
 | Enchanted Clearing | Nico99 | 49210527 | 62 | New level! This time is based on Magic and Creatures. Enjoy!!!
 | GuThrie | StevenKsttle | 45970557 | 62 | #Levelution level with 60k objs, Ok no!.      Verified by Mbed
@@ -2219,7 +2220,6 @@
 | Artificial Calamity | SaabS | 63454332 | 51 | Will you survive the calamity? &#124; Verified by Ramppi
 | Mobility | Alkatreize | 58693375 | 51 | .Get to the finish line or die . speedrun for coins
 | Agate | amixam | 57800357 | 51 | Happy early birthday, Agate!! A collab with KaivEx.
-| Eternity | JustBasic | 51770639 | 51 | Level made in 1 day :) Dedicated to all my friends 
 | Galvanic | distortt | 42497026 | 51 | Simple lvl, inspired by Fury0313. Hope you enjoy...
 | Energize | NASHII | 38113246 | 51 | C:      the dedications are at the end of the level
 | kalaxian | Thomartin | 36997718 | 51 | My first collab with JerkRat ! Wubba lubba dub dub.
@@ -2237,7 +2237,6 @@
 | Adventure | Shocksidian | 58321249 | 50 | Now including the original song! Hope you enjoy <3
 | Event Boundary | Knots | 57222342 | 50 | hardest and succiest coin ive ever made. good luck
 | Dimension Breaker | BIANOX | 55539300 | 50 | Extreme Demon made by 10 people. Verified by Gabs.
-| H | grebe | 52268255 | 50 | Modern level inspired by 1.9. Dedicated to Sammaxx
 | Khaki | Jayuff | 51377104 | 50 | empty ass level cause i dont have time to decorate
 | Glowy nightmares | GiaMmiX | 49983256 | 50 | Enjoy this halloween 2018 level! hope you like it 
 | Anything | Jayuff | 49166702 | 50 | built whatever came to mind~ simple level, bite me
@@ -2427,7 +2426,6 @@
 | Tourbillon | PTyXaLPHaZ | 58790883 | 41 | Now for something completely different...
 | ikuzo | SpooFy | 57801626 | 41 | dedicated to Kizuna AI cuz shes 2D but 3D
 | VoracitY | Antuness | 57213458 | 41 | 47k objects and 1 month of work, Enjoy ;)
-| WorsT LvL EveR MadE | Danzmen | 51450101 | 41 | I tried my absolute worst. don't enjoy :)
 | Candescent II | CastriX | 49460438 | 41 | A new easy level (not my best). Have fun!
 | Time to be Awesome  | Filaret | 43240913 | 41 | That it is time Yeah. TIME TO BE AWESOME 
 | Cauldron Party | beptile | 38329234 | 41 | Happy Halloween everyone :D (Tap for LDM)
@@ -2582,7 +2580,6 @@
 | Skid Marks | Split72 | 76767979 | 34 | love the drop of this song so much
 | friday | endevvor | 75438972 | 34 | THE WEEKEND CAN'T COME SOON ENOUGH
 | Ancient Arts II | DavoBoss  | 69648515 | 34 | Some stories have a second part...
-| Eternal Happiness | Nemsy | 68794164 | 34 | collab with ausk enjoy afsgdfdgsfs
 | No Limits | TheCheeseNugget | 67904356 | 34 | What is your favorite eyeballsize?
 | Point of light | SamMaxx | 67281603 | 34 | Living life through a sepia filter
 | eliminator | Wilz | 64089732 | 34 | full level on my youtube chanel :)
@@ -3128,6 +3125,7 @@
 | ILLUSION OF SPACE | Oasis | 76742853 | 11 | Song by SHK
 | IMPULSE | TriStorm | 73795682 | 11 | Made out of
 | Delirium Tremens | Vadi | 73289291 | 11 | bla bla bla
+| Eternal Happiness | Nemsy | 68794164 | 11 | awful level
 | UwU | TropoGD | 67825729 | 11 | Im a femboy
 | Simple | IsmailDaBest | 67481892 | 11 | hello there
 | Monochromatousnesses | mikalgd | 66736461 | 11 | reuploaded.
