@@ -59,17 +59,19 @@ public class GDLevelsProcessing {
         int currentPage = 0;
         try {
             while (true) {
+                Thread.sleep(1200);
                 List<GDLevel> levels = client.browseLevels(LevelBrowseMode.FEATURED,null, null, currentPage)
                         .collectList().block();
                 if (levels != null)
                     list.addAll(levels);
                 else
                     break;
-                if (currentPage % 100 == 0)
+                if (currentPage % 10 == 0) {
                     logger.info("Processing page " + currentPage);
+                }
                 currentPage++;
             }
-        } catch (GDClientException e) {
+        } catch (GDClientException | InterruptedException e) {
             logger.error("Exception during getting data: " + e + "\r\n" + e.getCause().getMessage());
         }
         return list;
