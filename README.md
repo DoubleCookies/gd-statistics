@@ -1,7 +1,4 @@
 # GDStatistics
-
-[![Build Status](https://travis-ci.org/DoubleCookies/GDStatistics.svg?branch=master)](https://travis-ci.org/DoubleCookies/GDStatistics)
-
 Tool for collecting statistics about Geometry Dash featured levels. Created with [jdash](https://github.com/Alex1304/jdash).
 
 ## Features
