@@ -59,7 +59,7 @@ public class GDLevelsProcessing {
         int currentPage = 0;
         try {
             while (true) {
-                Thread.sleep(1200);
+                Thread.sleep(1100);
                 List<GDLevel> levels = client.browseLevels(LevelBrowseMode.FEATURED,null, null, currentPage)
                         .collectList().block();
                 if (levels != null)
