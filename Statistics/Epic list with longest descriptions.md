@@ -1,4 +1,4 @@
-#### Total: 3629 levels
+#### Total: 3636 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -614,9 +614,11 @@
 | BuTiTi III | JonathanGD | 57433866 | 126 | The last level in the BuTiTi series. No more BuTiTi sequels after this one. &#124; Spend 7 months to build this. Verified by Nexus.
 | FirePower | MrLorenzo | 55955642 | 126 | Demon collab between me and PJ, a little part of the gameplay is made by arb71703. This was an old project. Verified by Dorami
 | Silverize | Agils | 52755435 | 126 | Sequel of Goldize, new update! Final nerfed and new coin. Endscreen by <cy>ZecretDash.</c> And thanks for the +500k downloads!
+| Silverize | Agils | 52755435 | 126 | Sequel of Goldize, new update! Final nerfed and new coin. Endscreen by <cy>ZecretDash.</c> And thanks for the +500k downloads!
 | Beastmode | Pipenachho | 51705784 | 126 | After hard months of work can I present to you this collaboration with an extremely good creator, Filaret! (Verified by Allan)
 | Six | Ezel142 | 50676602 | 126 | Hexagons have six sides, this level has seven stars...? An easier level for more casual players this time. I hope you enjoy :)
 | Volcanic Factory | DHaner | 49987007 | 126 | New level, new stuff after 4 months of inactivity. I promise be more active (though i'm tired of waiting for 2.2 ;-;) Enjoy :3
+| Covet | RNBW | 49098949 | 126 | Nothing too different here - another modern level with rotation-centric backgrounds. Still, hopefully, it should be enjoyable.
 | Covet | RNBW | 49098949 | 126 | Nothing too different here - another modern level with rotation-centric backgrounds. Still, hopefully, it should be enjoyable.
 | Astral Shadow  | Luxew | 46041354 | 126 | New level...I hope you enjoy it ! :)...Dedicated to : Danolaa( Paola) , XvictorCreatorX , Minimax , Maxyland and BloodSquad <3
 | Energy Intolerance | distortt | 44600930 | 126 | New level. I tried more effects and experimented with rotating objects... I hope it's not too similar to my previous levels :/
@@ -779,6 +781,7 @@
 | lumen | neogamerGD | 48149821 | 120 | One of my best levels, thanks to Desticy for inspiring me to create this, Dedicated to Team GeoForce and Desticy, Enjoy!
 | Nya | FaekI | 47523376 | 120 | so yeah it took 8 months but is finally out. Thanks to Soluble and akShoot for the help, you guys are the best    (>.<)/
 | Raava | Mantevian | 46105537 | 120 | The element series is now completed with this earth-themed level! Used very original ideas in this one. Epic? :thinking:
+| Blast Level | MrZiedZ | 42704288 | 120 | Finally! My best level so far! - Hope you enjoy it :) Dedicated to Nico99, Torch121, Flukester, SaabS, TriPodX and You !
 | Liftoff | Nico99 | 37623581 | 120 | Awesome collab by Nico99 (me), DarioGhm, SirZaiss and Masterale. I hope you like it!! Enjoy :D Video on my Yt channel :)
 | Deception Dive | Rustam | 34379100 | 120 | Collaboration between Zenthicalpha,Rustam,Mazl,Zober,Sharks,AmorAMC,Berke423,Lucasyecla99,Krampux,Disp,Platnuu and Ryder
 | B | motleyorc | 34085027 | 120 | Buzz Buzz, an incredible collab between me and ScorchVx, dedicated to Serponge, PanMan, and all of my wonderful viewers!
@@ -1703,6 +1706,7 @@
 | Phoenix | Owkeen | 34167869 | 82 | The rise of the Phoenix will mindblow your soul...   Fix update and LDM by Paultam
 | RAPID | Berkoo | 31927876 | 82 | Collab with Torch121, please check him out! Thanks for epic 1st place and daily :O
 | Lucidum | f3lixsram | 31420516 | 82 | A cool easy demon collab with ragnarok96 ! Pass and video on my youtube channel :3
+| Minity II | Minity | 88224583 | 81 | thx to connot, darkscoranglol, xstar7, gachristian1, and icaruswc for playtesting
 | BROWNOIX | ArtaxFerSarh | 82148336 | 81 | IvashkaUA - OuroiX - fufafac - ArtaxFerSarh - StarkyTheSalad - nectaroso - DoliaX
 | Tenshi | ViperBlax | 81757252 | 81 | Happy birthday Angelo400, you are a very special friend to me :D ( Pass: 110705 )
 | GO MOMENT | SmitN | 80380213 | 81 | Factory themed level that turned out to be the most fun level I've made, enjoy :)
@@ -2005,6 +2009,7 @@
 | madness | alkali | 66728284 | 68 | Inspired by the Madness series on Newgrounds. Collab with YunHaSeu14
 | idk | bunch | 63744968 | 68 | hybrid glow/modern/effect thing, heavily inspired by TheAlmightyWave
 | Anna | iISpaceDustIi | 63553770 | 68 | My mom asked me to make this, so here we are after more than a year.
+| cosmic carrot | OSIRIS GD | 58548763 | 68 | made in one week, this time a simple space theme, hope you enjoy it!
 | Night Shine | Owkeen | 58380135 | 68 | My best collab ever with DavJT and RekindL. Glad to be back finally.
 | BrawlBit | KJbeast1000 | 57885368 | 68 | FINALLY a new level. Hope you enjoy this 1.9 style with a 2.1 twist!
 | Prism | Pipenachho | 57619110 | 68 | My first "Modernistic" style level!, hope you like and enjoy this :D
@@ -2036,7 +2041,6 @@
 | Amaterasu | vsmln | 59701682 | 67 | very easy demon (new: nerfed since people can't pass triple spikes)
 | Chromatic Engines | chona026 | 58471832 | 67 | Chona026's "Retraction" remake. For V9tl & DTMaster's CC. (Part 2?)
 | Marik | BitZel | 57473037 | 67 | A quick remake of a pretty ancient level I did, I hope you like it.
-| True Calamity | Subwoofer | 57334967 | 67 | "You are no god... but I shall feast upon your essence regardless!"
 | True Calamity | Subwoofer | 57334967 | 67 | "You are no god... but I shall feast upon your essence regardless!"
 | Rebirth | gecko0 | 52826168 | 67 | My 2nd solo level! Focused on moves and pulses. Verified by Marwec.
 | Iridescence | enlex | 37375636 | 67 | Pretty cool collab with imVip3r :)   Hope you like it and have fun!
@@ -2154,7 +2158,6 @@
 | TiM | Wixers | 45097147 | 62 | I hope you enjoy it! :) Gameplay on my YT channel as always ;D
 | inNOVA | Echonox | 44005037 | 62 | Collab with two AWESOME creators: Pipenashho and AbstractDark!
 | Revive | Stardevoir | 43028970 | 62 | 26840 objects and 426 groups used. Sequel to Rebound! My best?
-| Revive | Stardevoir | 43028970 | 62 | 26840 objects and 426 groups used. Sequel to Rebound! My best?
 | Minimal Madness | Plygon | 40508974 | 62 | This level took months and months to make! I hope you like it!
 | Shapes | JustPotatoNow | 37835562 | 62 | 14K Objects / Level made for pure fun :D Enjoy !  Rate 3 Stars
 | Infinity | griffyn87 | 36079923 | 62 | My new level for Enlex CC, DreaMz CC2, and Jbeast15 CC. Enjoy!
@@ -2262,6 +2265,7 @@
 | Imp3rf3rct1on | Owkeen | 39269485 | 56 | Humanity corrupt the world, the robots take the controls
 | Transcendence | Alderite | 35345329 | 56 | Amazing collab with xMisery. Added Uldm for you guys ;-;
 | Believe | AceVict | 28879542 | 56 | Simple and easy level, please rate hard 4 stars! thx! :)
+| ENERGIZING | Ad0NAY27GD | 88480987 | 55 | Awesome duo with me GREAT friend CatronixGD, enjoy it!!
 | ChopStep | GiaMmiX | 87333912 | 55 | My best and hardest level yet. Verified By YakobNugget.
 | AssteroiD | Pwohna | 87307101 | 55 | Ladies and Gentlemen, ASSTEROID. (sequel to stargayzer)
 | Hidrece | Markydash | 77809915 | 55 | A mashup remake from my old level "Vkfrece" & "Hidron".
@@ -2464,6 +2468,7 @@
 | CastleMania | Serponge | 65044525 | 46 | Low Detail highly recommended for most devices
 | Sayonara Sekai | Reunomi | 61930129 | 46 | Izhar CC, Updated. You guys are overrating me.
 | velocity | Wilz | 60092902 | 46 | New difficult level can you pass it to 100% ? 
+| Mosaic | Darwin | 58566941 | 46 | Megacollab including Yakimaru and hu, hu... me
 | Entity | LandonGMD | 58490994 | 46 | report any bugs. this is my best work. thanks.
 | Arcania | Darwin | 56632223 | 46 | Amazing collab with Vip3r! big thanks to him! 
 | Back to me | Jezzel | 56255833 | 46 | One of my best levels, enjoy! - x) Pass 911187
@@ -2661,13 +2666,13 @@
 | Greetins User | DavJT | 57835791 | 38 | Collab with Xender (for Viprin's MCC3)
 | Reconnoiter | ElectroidDash | 57281479 | 38 | An adventurous ride through the cosmos
 | Chemistry Lab | icewither | 56722428 | 38 | Double replacement: AB + CD -> AD + CB
-| Chemistry Lab | icewither | 56722428 | 38 | Double replacement: AB + CD -> AD + CB
 | Skies | ZaDoXXZl | 50205045 | 38 | Dedicated to Peton, Xstar7 and Darwin.
 | Davide | Inf3rnal | 48926714 | 38 | new level! dedicated to my old friend.
 | Alter Order | FreakEd7 | 47990377 | 38 | All Balanced, All In Order, Or not...?
 | Messier 45 | Jayuff | 43409294 | 38 | very expirimental level. hope u enjoy!
 | Refresh | DesTicY | 38459797 | 38 | Well looks like I'm not dead... yet...
 | Cybernetic Showdown  | Tongii | 32243307 | 38 | 9% bug fixed - Verified by ChiefFlurry
+| Digital Glitch | DangerKat | 88500687 | 37 | error-error8990----------89 error- 89
 | AbuZz | ZubWill | 82940642 | 37 | Don't miss a beat, enjoy the moment!!
 | Virtualization | Splinter25 | 76799716 | 37 | Enter my own virtual world WOOOOOOOOO
 | Inferno Catalyst | NateRaven | 72639069 | 37 | Can you avoid the hazards and escape?
@@ -3116,6 +3121,7 @@
 | Haunted Level | MrZiedZ | 42339959 | 21 | -Haunted Description-
 | Skyfall | abdula | 34446044 | 21 | Hope You Enjoy   <3  
 | Electr2nic Super Joy | Etzer | 28503954 | 21 | oh boy, that was fun.
+| Magmaniac | Whirl | 88575621 | 20 | Feelin' hot hot hot.
 | HALLOSCREAM | Colombia Dash | 85241611 | 20 | ...DELUXE EDITION...
 | Sleepwalker | vismuth | 83410727 | 20 | You need to sleep...
 | Cupcake | Waferz | 76004125 | 20 | amog us iz stil funi
@@ -3466,7 +3472,7 @@
 | Waos | iMortlex | 86229592 | 4 | waos
 | Big Bang | Wav | 78364516 | 4 | boom
 | Termik | Akvaz | 76509331 | 4 | glow
-| Outbreak | SleyGD | 72184562 | 4 | wack
+| Outbreak | SleyGD | 72184562 | 4 | Wack
 | BRAINSLUSH ULTRAMESH | xyuns | 72126073 | 4 | huh!
 | Ablaze | Wav | 68790607 | 4 | helo
 | Unnamed sequel | CorroX | 67193379 | 4 | bird
@@ -3555,6 +3561,7 @@
 | Ghostbusters | Nariel | 49551087 | 1 | -
 |   | nasgubb | 39354797 | 1 |  
 | Kabosu | Lemons | 35033118 | 1 | k
+| Gloss | Mangosteen | 88499111 | 0 | 
 | MINIMUM | Insidee | 88108583 | 0 | 
 | Synergy | Vlacc | 87390464 | 0 | 
 | NEW LIGHT | overdefo | 87316498 | 0 | 
