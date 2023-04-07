@@ -1,86 +1,85 @@
-#### Total: 82 levels
+#### Total: 81 levels
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| Duplication | Zeptoz | 88577065 | 10887 | 546
-| Neliswave | MaFFaKa | 88136251 | 147019 | 9329
-| violet glint | cordeaux | 87968179 | 71530 | 2717
-| Fool Moon Paranoid | unne | 87932531 | 47021 | 1935
-| Dustmuncher | Loltad | 87462575 | 154608 | 5536
-| Sheol Death | TwisterDude161 | 87330493 | 109380 | 3929
-| Steel Nightmares | cornfungi | 87243839 | 130967 | 4932
-| TRANSTELLAR | Grax | 86589947 | 310443 | 11113
-| The  Place | Insidee | 84265500 | 361957 | 9176
-| Cloud Nine | SoDaZ | 84064573 | 154659 | 4989
-| My Time | Blueskiii | 82595578 | 97402 | 5132
-| Forsaken Reality | edenharley | 81377553 | 175780 | 7760
-| Star World | CarlosArt16 | 81091186 | 108284 | 5492
-| Auroral Bloom | Loltad | 81043147 | 74027 | 4160
-| rorriM | Shocksidian | 80983470 | 137626 | 6010
-| Energizer | syndd | 80202147 | 203007 | 10639
-| Lmao | MazZedy | 79075904 | 332258 | 17812
-| EXG | Grax | 76866307 | 230414 | 10817
-| Gumshot | qMystic | 75806677 | 302449 | 15443
-| 4 Matilda | Jeyzor | 75517608 | 197868 | 9124
-| Neon Raver | SleyGD | 74710072 | 178179 | 7176
-| Hyperion | Kardes | 74090626 | 59963 | 3196
-| CraZy III | DavJT | 73725400 | 6720078 | 431435
-| PURGATORY | Custi | 72969191 | 209879 | 10190
-| layers | FumoVaccinator | 72605157 | 78372 | 3704
-| THORNS and BRAMBLES | YoReid | 71920375 | 119011 | 6201
-| Flappy Dynamix II | RadiationV2 | 71850733 | 420801 | 14818
-| VEIL | neigemany | 71567198 | 170684 | 7831
-| Mastermind | Hinds | 71220097 | 328937 | 14969
-| Buh | MazZedy | 71084738 | 113734 | 6847
-| ROTTEN VALE | Custi | 70579305 | 239975 | 10716
-| Submersed Storm |  VolteX | 69789719 | 135362 | 6511
-| Klutz | para | 69732501 | 130948 | 6252
-| FFFFFF | Vlacc | 68983167 | 165234 | 7409
-| Swirling Fire | Jenkins | 67069282 | 108309 | 4670
-| Engine City | RedlixHD | 66394604 | 58981 | 3570
-| Lustre | OliSW | 66328428 | 213739 | 5566
-| Blaster | rustere | 66133800 | 69245 | 2756
-| Interstellar Infant | Fault | 65496280 | 128731 | 9620
-| Arcane | qMystic | 65269826 | 157058 | 13284
-| Artificial Calamity | SaabS | 63454332 | 140368 | 4296
-| Hyper Beam | Darwin | 62928150 | 259678 | 7182
-| Surge of Renewal | N3moProd | 62875785 | 31102 | 2164
-| Thanatophobia | ARtu | 62809982 | 613306 | 40016
-| The Bandere | Ka1ns | 62676629 | 136427 | 4528
-| Upbeat Universe | Howler | 62040387 | 61421 | 3339
-| CONK | SirHadoken | 61974257 | 99424 | 4089
-| Tropical Thunder | Pavlaxan | 61974149 | 52191 | 3147
-| Edens Blessing | Subwoofer | 61644725 | 87287 | 5000
-| Leyak | EnZore | 61137742 | 932721 | 59028
-| Sleepless | ChaSe | 61067595 | 110758 | 6347
-| Apache | Shocksidian | 60129422 | 136045 | 6113
-| Future Funk II | JonathanGD | 59626284 | 2827152 | 159967
-| Adventure | Shocksidian | 58321249 | 171077 | 5826
-| Dispersion | Yakimaru | 58174545 | 32544 | 1742
-| Thanos | Agils | 57660056 | 136852 | 9200
-| Kyrie Eleison | ViPriN | 57638361 | 483100 | 20915
-| Nine Paws | MaxyLAND | 57410372 | 205826 | 14122
-| Convection | VoidSquad | 57254147 | 56800 | 2677
-| Sonic Boom | SirHadoken | 56936525 | 307740 | 10496
-| Magma Bound | ScorchVx | 56568010 | 756285 | 54747
-| Two faced agony | FunnyGame | 55693430 | 292958 | 14671
-| Rebirth | gecko0 | 52826168 | 211415 | 14257
-| Big Boom | Pennutoh | 49755752 | 142525 | 10189
-| Death Breaker | lioleo | 49470094 | 76036 | 3714
-| CraZy II | DavJT | 47620786 | 3202379 | 185411
-| Frizzantino Vibes | Usermatt18 | 44734648 | 161681 | 11562
-| The Deathless | Edicts | 41352267 | 133832 | 9480
-| Red | Codex | 40328796 | 156579 | 10895
-| Colorful Corruption | albinomaster | 38142097 | 46366 | 1903
-| BuTiTi II | JonathanGD | 37259527 | 3274151 | 193211
-| Fiber | Shocksidian | 36834813 | 90946 | 7874
-| Nine CircleX | ViPriN | 36522386 | 2266743 | 111677
-| pulsar | iIAkariIi | 36099108 | 882751 | 141926
-| Spacelocked II | LazerBlitz | 35610305 | 346510 | 27283
-| ToE IV  | Manix648 | 35378937 | 569039 | 41076
-| Ghost Temple | DavJT | 34918883 | 181713 | 13502
-| Frontlines | Edicts | 32927589 | 728913 | 50834
-| Decimation | Lemons | 32298346 | 233456 | 18967
-| Primal Redux | Manix648 | 31772194 | 769047 | 58522
-| One | Ragnarus | 30753202 | 235332 | 21521
-| Roar of Time | GDSpeed | 27781773 | 217631 | 17713
+| SHUTDOWN | RadiationV2 | 88940164 | 139778 | 5251
+| Neliswave | MaFFaKa | 88136251 | 187939 | 11755
+| violet glint | cordeaux | 87968179 | 79206 | 3101
+| Fool Moon Paranoid | unne | 87932531 | 52952 | 2289
+| Dustmuncher | Loltad | 87462575 | 160550 | 5864
+| Sheol Death | TwisterDude161 | 87330493 | 115116 | 4233
+| Steel Nightmares | cornfungi | 87243839 | 135099 | 5198
+| The  Place | Insidee | 84265500 | 363165 | 9243
+| Cloud Nine | SoDaZ | 84064573 | 155861 | 5053
+| My Time | Blueskiii | 82595578 | 100344 | 5335
+| Forsaken Reality | edenharley | 81377553 | 176725 | 7819
+| Star World | CarlosArt16 | 81091186 | 109252 | 5573
+| Auroral Bloom | Loltad | 81043147 | 75433 | 4245
+| rorriM | Shocksidian | 80983470 | 138486 | 6066
+| Energizer | syndd | 80202147 | 204447 | 10756
+| Lmao | MazZedy | 79075904 | 337075 | 18121
+| EXG | Grax | 76866307 | 232410 | 10989
+| Gumshot | qMystic | 75806677 | 306384 | 15728
+| 4 Matilda | Jeyzor | 75517608 | 199226 | 9201
+| Neon Raver | SleyGD | 74710072 | 179043 | 7221
+| Hyperion | CHUZA | 74090626 | 60455 | 3226
+| CraZy III | DavJT | 73725400 | 6925768 | 442411
+| PURGATORY | Custi | 72969191 | 210847 | 10250
+| layers | FumoVaccinator | 72605157 | 79224 | 3747
+| THORNS and BRAMBLES | YoReid | 71920375 | 119744 | 6261
+| Flappy Dynamix II | RadiationV2 | 71850733 | 427050 | 15032
+| VEIL | neigemany | 71567198 | 171474 | 7885
+| Mastermind | Hinds | 71220097 | 332419 | 15163
+| Buh | MazZedy | 71084738 | 115396 | 6957
+| ROTTEN VALE | Custi | 70579305 | 240491 | 10740
+| Submersed Storm |  VolteX | 69789719 | 135921 | 6540
+| Klutz | para | 69732501 | 131822 | 6294
+| FFFFFF | Vlacc | 68983167 | 167641 | 7566
+| Swirling Fire | Jenkins | 67069282 | 109913 | 4768
+| Engine City | RedlixHD | 66394604 | 60070 | 3645
+| Lustre | OliSW | 66328428 | 214706 | 5617
+| Blaster | rustere | 66133800 | 70324 | 2808
+| Interstellar Infant | Fault | 65496280 | 131180 | 9777
+| Arcane | qMystic | 65269826 | 161979 | 13665
+| Artificial Calamity | SaabS | 63454332 | 141036 | 4314
+| Hyper Beam | Darwin | 62928150 | 261488 | 7250
+| Surge of Renewal | N3moProd | 62875785 | 31554 | 2188
+| Thanatophobia | ARtu | 62809982 | 628205 | 40913
+| The Bandere | Ka1ns | 62676629 | 136979 | 4556
+| Upbeat Universe | Howler | 62040387 | 62114 | 3372
+| CONK | SirHadoken | 61974257 | 100391 | 4134
+| Tropical Thunder | Pavlaxan | 61974149 | 52984 | 3204
+| Edens Blessing | Subwoofer | 61644725 | 88238 | 5045
+| Leyak | EnZore | 61137742 | 951264 | 60087
+| Sleepless | ChaSe | 61067595 | 113436 | 6514
+| Apache | Shocksidian | 60129422 | 137055 | 6179
+| Future Funk II | JonathanGD | 59626284 | 2900303 | 163647
+| Adventure | Shocksidian | 58321249 | 172388 | 5888
+| Dispersion | Yakimaru | 58174545 | 32936 | 1764
+| Thanos | Agils | 57660056 | 137591 | 9229
+| Kyrie Eleison | ViPriN | 57638361 | 487216 | 21105
+| Nine Paws | MaxyLAND | 57410372 | 208865 | 14243
+| Convection | VoidSquad | 57254147 | 57059 | 2694
+| Sonic Boom | SirHadoken | 56936525 | 312323 | 10647
+| Magma Bound | ScorchVx | 56568010 | 773615 | 56010
+| Two faced agony | FunnyGame | 55693430 | 295567 | 14781
+| Rebirth | gecko0 | 52826168 | 212128 | 14292
+| Big Boom | Pennutoh | 49755752 | 143618 | 10243
+| Death Breaker | lioleo | 49470094 | 76649 | 3747
+| CraZy II | DavJT | 47620786 | 3288460 | 189737
+| Frizzantino Vibes | Usermatt18 | 44734648 | 162583 | 11612
+| The Deathless | Edicts | 41352267 | 134549 | 9531
+| Red | Codex | 40328796 | 157733 | 10936
+| Colorful Corruption | albinomaster | 38142097 | 47053 | 1931
+| BuTiTi II | JonathanGD | 37259527 | 3334275 | 196385
+| Fiber | Shocksidian | 36834813 | 91709 | 7936
+| Nine CircleX | ViPriN | 36522386 | 2298466 | 112664
+| pulsar | iIAkariIi | 36099108 | 895692 | 142394
+| Spacelocked II | LazerBlitz | 35610305 | 349466 | 27434
+| ToE IV  | Manix648 | 35378937 | 577173 | 41416
+| Ghost Temple | DavJT | 34918883 | 183871 | 13602
+| Frontlines | Edicts | 32927589 | 736166 | 51130
+| Decimation | Lemons | 32298346 | 234543 | 19023
+| Primal Redux | Manix648 | 31772194 | 771727 | 58643
+| One | Ragnarus | 30753202 | 237161 | 21615
+| Roar of Time | GDSpeed | 27781773 | 218795 | 17748
