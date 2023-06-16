@@ -39,9 +39,9 @@ public class ResultDataGenerator {
     private static void processLevelsForType(SortingCode sortingCode, String levelsType) {
         String[] res;
         if (levelsType.equals("featured"))
-            res = getFeaturedLevelsData(sortingCode);
+            res = getFeaturedLevelsData();
         else
-            res = getEpicLevelsData(sortingCode);
+            res = getEpicLevelsData();
         if (res == null) {
             logger.warn(levelsType + " levels list is empty! No changes were made.");
             return;
@@ -71,11 +71,11 @@ public class ResultDataGenerator {
         logger.info("All " + levelsType + " lists are finished");
     }
 
-    public static String[] getFeaturedLevelsData(SortingCode sortingCode) {
+    public static String[] getFeaturedLevelsData() {
         return processLevels(LevelsProcessingService.getLevels());
     }
 
-    public static String[] getEpicLevelsData(SortingCode sortingCode) {
+    public static String[] getEpicLevelsData() {
         return processLevels(LevelsProcessingService.getEpicLevels());
     }
 

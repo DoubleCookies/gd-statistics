@@ -3,6 +3,8 @@ package gd.service.levelsProcessing;
 import gd.generators.WikiResultDataGenerator;
 import jdash.common.LevelBrowseMode;
 import jdash.common.entity.GDLevel;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,6 +12,7 @@ import java.util.stream.Collectors;
 
 public class WikiLevelsProcessingService extends AbstractLevelsProcessingService {
 
+    private static final Logger logger = LogManager.getLogger(WikiLevelsProcessingService.class);
     private static final int LIST_SIZE = 50;
     private static final int GD_PAGE_SIZE = 10;
 
@@ -72,7 +75,7 @@ public class WikiLevelsProcessingService extends AbstractLevelsProcessingService
                 }
             }
         } catch (Exception e) {
-            System.out.println("Limit reached for " + levelBrowseMode.name() + " levels. Message: " + e.getMessage());
+            logger.error("Limit reached for " + levelBrowseMode.name() + " levels. Message: " + e.getMessage());
         }
         return list;
     }

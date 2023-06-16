@@ -92,7 +92,7 @@ public class LevelsProcessingService extends AbstractLevelsProcessingService {
                 currentPage++;
             }
         } catch (GDClientException | InterruptedException e) {
-            logger.error("Exception during getting data: " + e + "\r\n" + e.getCause().getMessage());
+            logger.error("Exception during getting data: " + e + "; message: " + e.getCause().getMessage());
         }
         return list;
     }
