@@ -1,4 +1,4 @@
-package gd.service;
+package gd.service.levelsProcessing;
 
 import jdash.client.GDClient;
 

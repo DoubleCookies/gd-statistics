@@ -1,4 +1,4 @@
-package gd.service;
+package gd.service.levelsProcessing;
 
 import gd.SortingCode;
 import gd.generators.ResultDataGenerator;
@@ -8,7 +8,6 @@ import jdash.common.entity.GDLevel;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -34,10 +33,24 @@ public class LevelsProcessingService extends AbstractLevelsProcessingService {
 
     private static List<GDLevel> popularDemonsList;
 
+    public static List<GDLevel> getLevels() {
+        return levels;
+    }
+
+    public static List<GDLevel> getEpicLevels() {
+        return epicLevels;
+    }
+
+    public static List<GDLevel> getPopularDemonsList() {
+        return popularDemonsList;
+    }
+
     public static void processAllLevels(SortingCode sortingCode) {
         processFeaturedLevels(sortingCode);
         processEpicLevels(sortingCode);
         processMostPopularDemons();
+
+        ResultDataGenerator.processAllLevels(sortingCode);
     }
 
     public static void processFeaturedLevels(SortingCode sortingCode) {
@@ -113,15 +126,5 @@ public class LevelsProcessingService extends AbstractLevelsProcessingService {
         }
     }
 
-    public static List<GDLevel> getLevels() {
-        return levels;
-    }
 
-    public static List<GDLevel> getEpicLevels() {
-        return epicLevels;
-    }
-
-    public static List<GDLevel> getPopularDemonsList() {
-        return popularDemonsList;
-    }
 }

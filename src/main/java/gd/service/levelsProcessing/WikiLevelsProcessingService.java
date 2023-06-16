@@ -1,8 +1,6 @@
-package gd.service;
+package gd.service.levelsProcessing;
 
-import gd.generators.ResponseGenerator;
 import gd.generators.WikiResultDataGenerator;
-import jdash.client.GDClient;
 import jdash.common.LevelBrowseMode;
 import jdash.common.entity.GDLevel;
 
@@ -53,6 +51,7 @@ public class WikiLevelsProcessingService extends AbstractLevelsProcessingService
         int i = 0;
         try {
             while (demonsCount < LIST_SIZE) {
+                Thread.sleep(1100);
                 List<GDLevel> levels = client.browseLevels(levelBrowseMode,null, null, i)
                         .collectList().block();
                 if (levels != null) {

@@ -1,7 +1,7 @@
 package gd.generators;
 
 import gd.SortingCode;
-import gd.service.LevelsProcessingService;
+import gd.service.levelsProcessing.LevelsProcessingService;
 import gd.service.SaveResultsService;
 import jdash.common.entity.GDLevel;
 import jdash.common.entity.GDSong;

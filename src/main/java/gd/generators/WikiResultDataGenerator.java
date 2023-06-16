@@ -1,16 +1,14 @@
 package gd.generators;
 
 import gd.ListType;
-import gd.SortingCode;
 import gd.service.SaveResultsService;
-import gd.service.WikiLevelsProcessingService;
+import gd.service.levelsProcessing.WikiLevelsProcessingService;
 import jdash.common.Difficulty;
 import jdash.common.entity.GDLevel;
 
 import java.text.NumberFormat;
 import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 import static gd.Constants.*;
 

@@ -122,9 +122,9 @@ public class Constants {
     }
 
     /* Creators list which have article on wiki (with other article name) */
-    public static final Map<String, String> allowedCreatorsNamesWithReplacement = initCreatorsMapForRepalcement();
+    public static final Map<String, String> allowedCreatorsNamesWithReplacement = initCreatorsMapForReplacement();
 
-    private static Map<String, String> initCreatorsMapForRepalcement() {
+    private static Map<String, String> initCreatorsMapForReplacement() {
         Map<String, String> map = new HashMap<>();
         map.put("DiMaViKuLov26", "DimaVikulov26");
         map.put("DORABAE", "Dorabae");
