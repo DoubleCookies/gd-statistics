@@ -1,12 +1,14 @@
-package gd;
+package gd.service;
 
-import jdash.client.GDClient;
+import gd.SortingCode;
+import gd.generators.ResultDataGenerator;
 import jdash.client.exception.GDClientException;
 import jdash.common.LevelBrowseMode;
 import jdash.common.entity.GDLevel;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -15,43 +17,48 @@ import java.util.stream.Collectors;
 /**
  * Class for getting levels from database
  */
-public class GDLevelsProcessing {
+public class LevelsProcessingService extends AbstractLevelsProcessingService {
 
-    private static final Logger logger = LogManager.getLogger(GDLevelsProcessing.class);
-    private static final GDClient client = GDClient.create();
+    private static final Logger logger = LogManager.getLogger(LevelsProcessingService.class);
     private static final int DEMONS_LIST_SIZE = 50;
 
-    private static final Comparator<GDLevel> defaultDescendingIdComparator = (o1, o2) -> (int) (o2.id() - o1.id());
-    private static final Comparator<GDLevel> descendingLikesComparator = (o1, o2) -> (int) (o2.likes() - o1.likes());
-    private static final Comparator<GDLevel> ascendingLikesComparator = (o1, o2) -> (int) (o1.likes() - o2.likes());
-    private static final Comparator<GDLevel> descendingDownloadsComparator = (o1, o2) -> (int) (o2.downloads() - o1.downloads());
-    private static final Comparator<GDLevel> ascendingDownloadsComparator = (o1, o2) -> (int) (o1.downloads() - o2.downloads());
-    private static final Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> (int) (o2.description().length() - o1.description().length());
+    private static final Comparator<GDLevel> defaultDescendingIdComparator = Comparator.comparingLong(GDLevel::id).reversed();
+    private static final Comparator<GDLevel> descendingLikesComparator = Comparator.comparingInt(GDLevel::likes).reversed();
+    private static final Comparator<GDLevel> ascendingLikesComparator = Comparator.comparingInt(GDLevel::likes);
+    private static final Comparator<GDLevel> descendingDownloadsComparator = Comparator.comparingInt(GDLevel::downloads).reversed();
+    private static final Comparator<GDLevel> ascendingDownloadsComparator = Comparator.comparingInt(GDLevel::downloads);
+    private static final Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> o2.description().length() - o1.description().length();
 
-    public static List<GDLevel> levels;
-    public static List<GDLevel> epicLevels;
+    private static List<GDLevel> levels;
+    private static List<GDLevel> epicLevels;
 
-    public static List<GDLevel> processFeaturedLevels(SortingCode sortingCode) {
+    private static List<GDLevel> popularDemonsList;
+
+    public static void processAllLevels(SortingCode sortingCode) {
+        processFeaturedLevels(sortingCode);
+        processEpicLevels(sortingCode);
+        processMostPopularDemons();
+    }
+
+    public static void processFeaturedLevels(SortingCode sortingCode) {
         logger.info("Receiving featured levels list");
         levels = getFeaturedLevels();
         sortLevelList(levels, sortingCode);
-        return levels;
     }
 
-    public static List<GDLevel> processEpicLevels(SortingCode sortingCode) {
+    public static void processEpicLevels(SortingCode sortingCode) {
         logger.info("Filter epic levels");
         epicLevels = levels.stream().filter(GDLevel::isEpic).collect(Collectors.toList());
         sortLevelList(epicLevels, sortingCode);
-        return epicLevels;
     }
 
-    public static List<GDLevel> getMostPopularDemons() {
+    public static void processMostPopularDemons() {
         List<GDLevel> list = new ArrayList<>();
         if (!levels.isEmpty()) {
             levels.sort(descendingDownloadsComparator);
             list = levels.stream().filter(GDLevel::isDemon).limit(DEMONS_LIST_SIZE).collect(Collectors.toList());
         }
-        return list;
+        popularDemonsList = list;
     }
 
     private static List<GDLevel> getFeaturedLevels() {
@@ -104,5 +111,17 @@ public class GDLevelsProcessing {
                 break;
             }
         }
+    }
+
+    public static List<GDLevel> getLevels() {
+        return levels;
+    }
+
+    public static List<GDLevel> getEpicLevels() {
+        return epicLevels;
+    }
+
+    public static List<GDLevel> getPopularDemonsList() {
+        return popularDemonsList;
     }
 }

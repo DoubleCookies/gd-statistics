@@ -1,7 +1,11 @@
-package gd;
+package gd.generators;
 
+import gd.SortingCode;
+import gd.service.LevelsProcessingService;
+import gd.service.SaveResultsService;
 import jdash.common.entity.GDLevel;
 import jdash.common.entity.GDSong;
+import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -25,6 +29,69 @@ public class ResultDataGenerator {
     private static final HashMap<GDSong, ArrayList<Long>> audioLevelIds = new HashMap<>();
 
     private static final Logger logger = LogManager.getLogger(ResultDataGenerator.class);
+
+    public static void processAllLevels(SortingCode sortingCode) {
+        processLevelsForType(sortingCode, "featured");
+        processLevelsForType(sortingCode, "epic");
+        processTopDemonsList();
+    }
+
+    private static void processLevelsForType(SortingCode sortingCode, String levelsType) {
+        String[] res;
+        if (levelsType.equals("featured"))
+            res = getFeaturedLevelsData(sortingCode);
+        else
+            res = getEpicLevelsData(sortingCode);
+        if (res == null) {
+            logger.warn(levelsType + " levels list is empty! No changes were made.");
+            return;
+        }
+        processLevelsData(sortingCode, levelsType, res);
+    }
+
+    private static void processTopDemonsList() {
+        String res = getTopDemonLevelsData();
+        if (res.isEmpty())
+            return;
+        SaveResultsService.writeToFileToDemonsList(res.getBytes());
+        logger.info("Top-50 demon list finished");
+    }
+
+    private static void processLevelsData(SortingCode sortingCode, String levelsType, String[] res) {
+        String capitalizedLevelsType = StringUtils.capitalize(levelsType);
+        for (int j = 0; j < 11; j++) {
+            String prefix = SaveResultsService.difficultyFolderMap.get(j + 1) + " " + levelsType;
+            SaveResultsService.writeToFileRegularLists(sortingCode, prefix, j + 1, res[j].getBytes());
+        }
+        SaveResultsService.writeToFileRegularLists(sortingCode, capitalizedLevelsType, 0, res[11].getBytes());
+        SaveResultsService.writeToFileRegularLists(SortingCode.LONGEST_DESCRIPTION, capitalizedLevelsType, 0, res[12].getBytes());
+        SaveResultsService.writeToFileRegularLists(SortingCode.DEFAULT, capitalizedLevelsType + " audio info", 0, res[13].getBytes());
+        SaveResultsService.writeToFileRegularLists(SortingCode.DEFAULT, capitalizedLevelsType + " audio info expanded", 0, res[14].getBytes());
+        SaveResultsService.writeToFileRegularLists(SortingCode.DEFAULT, capitalizedLevelsType + " builders info", 0, res[15].getBytes());
+        logger.info("All " + levelsType + " lists are finished");
+    }
+
+    public static String[] getFeaturedLevelsData(SortingCode sortingCode) {
+        return processLevels(LevelsProcessingService.getLevels());
+    }
+
+    public static String[] getEpicLevelsData(SortingCode sortingCode) {
+        return processLevels(LevelsProcessingService.getEpicLevels());
+    }
+
+    public static String getTopDemonLevelsData() {
+        return ResultDataGenerator.processTopDemons(LevelsProcessingService.getPopularDemonsList());
+    }
+
+    private static String[] processLevels(List<GDLevel> levels) {
+        if (isLevelsListEmpty(levels))
+            return null;
+        return ResultDataGenerator.getLevelsInformation(levels);
+    }
+
+    private static boolean isLevelsListEmpty(List<GDLevel> levels) {
+        return levels == null || levels.size() == 0;
+    }
 
     public static String[] getLevelsInformation(List<GDLevel> levels) {
         audioLevelIds.clear();
@@ -89,7 +156,7 @@ public class ResultDataGenerator {
         int counter = 0;
         StringBuilder builder = new StringBuilder();
         builder.append(LONGEST_DESCRIPTION_LIST_HEADER).append(FIVE_COLUMNS_MARKDOWN_DIVIDER);
-        GDLevelsProcessing.sortLevelList(levels, SortingCode.LONGEST_DESCRIPTION);
+        LevelsProcessingService.sortLevelList(levels, SortingCode.LONGEST_DESCRIPTION);
         for (GDLevel level : levels) {
             builder.append(levelMarkdownWithDescriptionString(level)).append("\n");
             counter++;
