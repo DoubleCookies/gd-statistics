@@ -1,6 +1,5 @@
 package gd.generators;
 
-import gd.ListType;
 import gd.service.SaveResultsService;
 import gd.service.levelsProcessing.WikiLevelsProcessingService;
 import jdash.common.Difficulty;
@@ -13,6 +12,13 @@ import java.util.Optional;
 import static gd.Constants.*;
 
 public class WikiResultDataGenerator {
+
+    public enum ListType {
+        DOWNLOAD_LEVELS,
+        DOWNLOAD_DEMONS,
+        LIKED_LEVELS,
+        LIKED_DEMONS
+    }
 
     private static final String TOP_LEVELS_PAGE_START = "{{Фан-статья}}\n" +
             "{{Связанный шаблон|[[Шаблон:Топ 50 популярных уровней|данном шаблоне]]}}\n" +
@@ -136,7 +142,7 @@ public class WikiResultDataGenerator {
                 ? WikiLevelsProcessingService.getMostDownloadedLevels() : WikiLevelsProcessingService.getMostDownloadedDemons();
         for (GDLevel level : levelsForList) {
             counter++;
-            builder.append(smallWikiString(level)).append(counter == LIST_SIZE ? "\n" : ",\n");
+            builder.append(smallWikiString(level)).append(counter == WIKITABLE_LIST_SIZE ? "\n" : ",\n");
         }
         builder.append(ARRAY_END);
         return builder.toString();

@@ -16,21 +16,32 @@ public class WikiLevelsProcessingService extends AbstractLevelsProcessingService
     private static final int LIST_SIZE = 50;
     private static final int GD_PAGE_SIZE = 10;
 
-
     private static List<GDLevel> mostDownloadedLevels;
     private static List<GDLevel> mostDownloadedDemons;
-
     private static List<GDLevel> mostLikedLevels;
     private static List<GDLevel> mostLikedDemons;
+
+    public static List<GDLevel> getMostDownloadedLevels() {
+        return mostDownloadedLevels;
+    }
+
+    public static List<GDLevel> getMostDownloadedDemons() {
+        return mostDownloadedDemons;
+    }
+
+    public static List<GDLevel> getMostLikedLevels() {
+        return mostLikedLevels;
+    }
+
+    public static List<GDLevel> getMostLikedDemons() {
+        return mostLikedDemons;
+    }
 
     public static void processWikiLevels() {
         List<GDLevel> downloadedLevels = getListForMostDownloadedLevels();
         List<GDLevel> likedLevels = getListForMostLikedLevels();
 
-        mostDownloadedLevels = downloadedLevels.subList(0, LIST_SIZE);
-        mostDownloadedDemons = downloadedLevels.stream().filter(GDLevel::isDemon).collect(Collectors.toList());
-        mostLikedLevels = likedLevels.subList(0, LIST_SIZE);
-        mostLikedDemons = likedLevels.stream().filter(GDLevel::isDemon).collect(Collectors.toList());
+        storeLevelsInfo(downloadedLevels, likedLevels);
 
         WikiResultDataGenerator.processListsResults();
     }
@@ -51,12 +62,10 @@ public class WikiLevelsProcessingService extends AbstractLevelsProcessingService
     public static List<GDLevel> fillListWithLevels(LevelBrowseMode levelBrowseMode) {
         List<GDLevel> list = new ArrayList<>();
         int demonsCount = 0;
-        int i = 0;
+        int currentPage = 0;
         try {
             while (demonsCount < LIST_SIZE) {
-                Thread.sleep(1100);
-                List<GDLevel> levels = client.browseLevels(levelBrowseMode,null, null, i)
-                        .collectList().block();
+                List<GDLevel> levels = getGdLevelsPage(levelBrowseMode, currentPage);
                 if (levels != null) {
                     for (int j = 0; j < GD_PAGE_SIZE; j++) {
                         GDLevel level = levels.get(j);
@@ -69,7 +78,7 @@ public class WikiLevelsProcessingService extends AbstractLevelsProcessingService
                         if (demonsCount >= LIST_SIZE)
                             break;
                     }
-                    i++;
+                    currentPage++;
                 } else {
                     throw new Exception("Can't load levels!");
                 }
@@ -80,19 +89,11 @@ public class WikiLevelsProcessingService extends AbstractLevelsProcessingService
         return list;
     }
 
-    public static List<GDLevel> getMostDownloadedLevels() {
-        return mostDownloadedLevels;
+    private static void storeLevelsInfo(List<GDLevel> downloadedLevels, List<GDLevel> likedLevels) {
+        mostDownloadedLevels = downloadedLevels.subList(0, LIST_SIZE);
+        mostDownloadedDemons = downloadedLevels.stream().filter(GDLevel::isDemon).collect(Collectors.toList());
+        mostLikedLevels = likedLevels.subList(0, LIST_SIZE);
+        mostLikedDemons = likedLevels.stream().filter(GDLevel::isDemon).collect(Collectors.toList());
     }
 
-    public static List<GDLevel> getMostDownloadedDemons() {
-        return mostDownloadedDemons;
-    }
-
-    public static List<GDLevel> getMostLikedLevels() {
-        return mostLikedLevels;
-    }
-
-    public static List<GDLevel> getMostLikedDemons() {
-        return mostLikedDemons;
-    }
 }

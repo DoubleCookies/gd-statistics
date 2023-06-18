@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class Constants {
 
-    public static final int LIST_SIZE = 50;
+    public static final int WIKITABLE_LIST_SIZE = 50;
     public static final String WIKITABLE_START = "{| class=\"wikitable\"\n" +
             "! Место\n" +
             "! Уровень\n" +

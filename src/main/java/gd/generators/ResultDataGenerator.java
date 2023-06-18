@@ -53,7 +53,7 @@ public class ResultDataGenerator {
         String res = getTopDemonLevelsData();
         if (res.isEmpty())
             return;
-        SaveResultsService.writeToFileToDemonsList(res.getBytes());
+        SaveResultsService.writeToFileDemonsList(res.getBytes());
         logger.info("Top-50 demon list finished");
     }
 

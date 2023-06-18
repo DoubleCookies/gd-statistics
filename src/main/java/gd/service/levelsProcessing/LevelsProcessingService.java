@@ -8,10 +8,10 @@ import jdash.common.entity.GDLevel;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
+
+import static gd.SortingCode.*;
 
 /**
  * Class for getting levels from database
@@ -27,6 +27,19 @@ public class LevelsProcessingService extends AbstractLevelsProcessingService {
     private static final Comparator<GDLevel> descendingDownloadsComparator = Comparator.comparingInt(GDLevel::downloads).reversed();
     private static final Comparator<GDLevel> ascendingDownloadsComparator = Comparator.comparingInt(GDLevel::downloads);
     private static final Comparator<GDLevel> descriptionLengthComparator = (o1, o2) -> o2.description().length() - o1.description().length();
+    private static final Map<SortingCode, Comparator<GDLevel>> levelsComparatorMap = initComparatorsMap();
+
+    private static Map<SortingCode, Comparator<GDLevel>> initComparatorsMap() {
+        Map<SortingCode, Comparator<GDLevel>> map = new HashMap<>();
+        map.put(DESCENDING_LIKES, descendingLikesComparator);
+        map.put(ASCENDING_LIKES, ascendingLikesComparator);
+        map.put(DESCENDING_DOWNLOADS, descendingDownloadsComparator);
+        map.put(ASCENDING_DOWNLOADS, ascendingDownloadsComparator);
+        map.put(LONGEST_DESCRIPTION, descriptionLengthComparator);
+        map.put(DEFAULT, defaultDescendingIdComparator);
+        return map;
+    }
+
 
     private static List<GDLevel> levels;
     private static List<GDLevel> epicLevels;
@@ -55,7 +68,7 @@ public class LevelsProcessingService extends AbstractLevelsProcessingService {
 
     public static void processFeaturedLevels(SortingCode sortingCode) {
         logger.info("Receiving featured levels list");
-        levels = getFeaturedLevels();
+        levels = getFeaturedLevelsPage();
         sortLevelList(levels, sortingCode);
     }
 
@@ -74,14 +87,12 @@ public class LevelsProcessingService extends AbstractLevelsProcessingService {
         popularDemonsList = list;
     }
 
-    private static List<GDLevel> getFeaturedLevels() {
+    private static List<GDLevel> getFeaturedLevelsPage() {
         List<GDLevel> list = new ArrayList<>();
         int currentPage = 0;
         try {
             while (true) {
-                Thread.sleep(1100);
-                List<GDLevel> levels = client.browseLevels(LevelBrowseMode.FEATURED,null, null, currentPage)
-                        .collectList().block();
+                List<GDLevel> levels = getGdLevelsPage(LevelBrowseMode.FEATURED, currentPage);
                 if (levels != null)
                     list.addAll(levels);
                 else
@@ -98,33 +109,7 @@ public class LevelsProcessingService extends AbstractLevelsProcessingService {
     }
 
     public static void sortLevelList(List<GDLevel> list, SortingCode sortingCode) {
-        switch (sortingCode) {
-            case DESCENDING_LIKES: {
-                list.sort(descendingLikesComparator);
-                break;
-            }
-            case ASCENDING_LIKES: {
-                list.sort(ascendingLikesComparator);
-                break;
-            }
-            case DESCENDING_DOWNLOADS: {
-                list.sort(descendingDownloadsComparator);
-                break;
-            }
-            case ASCENDING_DOWNLOADS: {
-                list.sort(ascendingDownloadsComparator);
-                break;
-            }
-            case LONGEST_DESCRIPTION: {
-                list.sort(descriptionLengthComparator);
-                break;
-            }
-            default: {
-                list.sort(defaultDescendingIdComparator);
-                break;
-            }
-        }
+        Comparator<GDLevel> comparator = levelsComparatorMap.get(sortingCode);
+        list.sort(comparator);
     }
-
-
 }

@@ -16,7 +16,7 @@ public class SaveResultsService {
         writeToFile(SortingCode.DEFAULT, "Wiki", fileNamePrefix, 0, data);
     }
 
-    public static void writeToFileToDemonsList(byte[] data) {
+    public static void writeToFileDemonsList(byte[] data) {
         writeToFile(SortingCode.DEFAULT, "Regular", "Top 50 popular demons", 0, data);
     }
 
