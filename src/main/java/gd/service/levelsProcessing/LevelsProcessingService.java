@@ -66,19 +66,19 @@ public class LevelsProcessingService extends AbstractLevelsProcessingService {
         ResultDataGenerator.processAllLevels(sortingCode);
     }
 
-    public static void processFeaturedLevels(SortingCode sortingCode) {
+    private static void processFeaturedLevels(SortingCode sortingCode) {
         logger.info("Receiving featured levels list");
         levels = getFeaturedLevelsPage();
         sortLevelList(levels, sortingCode);
     }
 
-    public static void processEpicLevels(SortingCode sortingCode) {
+    private static void processEpicLevels(SortingCode sortingCode) {
         logger.info("Filter epic levels");
         epicLevels = levels.stream().filter(GDLevel::isEpic).collect(Collectors.toList());
         sortLevelList(epicLevels, sortingCode);
     }
 
-    public static void processMostPopularDemons() {
+    private static void processMostPopularDemons() {
         List<GDLevel> list = new ArrayList<>();
         if (!levels.isEmpty()) {
             levels.sort(descendingDownloadsComparator);

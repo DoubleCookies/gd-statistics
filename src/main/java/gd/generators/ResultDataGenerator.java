@@ -71,15 +71,15 @@ public class ResultDataGenerator {
         logger.info("All " + levelsType + " lists are finished");
     }
 
-    public static String[] getFeaturedLevelsData() {
+    private static String[] getFeaturedLevelsData() {
         return processLevels(LevelsProcessingService.getLevels());
     }
 
-    public static String[] getEpicLevelsData() {
+    private static String[] getEpicLevelsData() {
         return processLevels(LevelsProcessingService.getEpicLevels());
     }
 
-    public static String getTopDemonLevelsData() {
+    private static String getTopDemonLevelsData() {
         return ResultDataGenerator.processTopDemons(LevelsProcessingService.getPopularDemonsList());
     }
 
@@ -93,7 +93,7 @@ public class ResultDataGenerator {
         return levels == null || levels.size() == 0;
     }
 
-    public static String[] getLevelsInformation(List<GDLevel> levels) {
+    private static String[] getLevelsInformation(List<GDLevel> levels) {
         audioLevelIds.clear();
         logger.info("List received. Total " + levels.size() + " levels.");
         List<String> info = new ArrayList<>(generateListForDifficulties(levels));
@@ -205,7 +205,7 @@ public class ResultDataGenerator {
             }
         }
         return audioLevelIds.entrySet().stream()
-                .sorted(Map.Entry.comparingByValue((o1, o2) -> (int) (o2.size() - o1.size())))
+                .sorted(Map.Entry.comparingByValue((o1, o2) -> o2.size() - o1.size()))
                 .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue,
                         (oldValue, newValue) -> oldValue, LinkedHashMap::new));
     }
@@ -238,7 +238,7 @@ public class ResultDataGenerator {
     }
 
 
-    public static String processTopDemons(List<GDLevel> list) {
+    private static String processTopDemons(List<GDLevel> list) {
         StringBuilder builder = new StringBuilder();
         if (list.size() == 0)
             return "";

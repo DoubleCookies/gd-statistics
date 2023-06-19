@@ -46,11 +46,11 @@ public class WikiLevelsProcessingService extends AbstractLevelsProcessingService
         WikiResultDataGenerator.processListsResults();
     }
 
-    public static List<GDLevel> getListForMostDownloadedLevels() {
+    private static List<GDLevel> getListForMostDownloadedLevels() {
         return getListForType(LevelBrowseMode.MOST_DOWNLOADED);
     }
 
-    public static List<GDLevel> getListForMostLikedLevels() {
+    private static List<GDLevel> getListForMostLikedLevels() {
         return getListForType(LevelBrowseMode.MOST_LIKED);
     }
 
@@ -59,7 +59,7 @@ public class WikiLevelsProcessingService extends AbstractLevelsProcessingService
         return fillListWithLevels(levelBrowseMode);
     }
 
-    public static List<GDLevel> fillListWithLevels(LevelBrowseMode levelBrowseMode) {
+    private static List<GDLevel> fillListWithLevels(LevelBrowseMode levelBrowseMode) {
         List<GDLevel> list = new ArrayList<>();
         int demonsCount = 0;
         int currentPage = 0;

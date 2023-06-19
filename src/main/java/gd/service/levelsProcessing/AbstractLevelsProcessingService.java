@@ -10,7 +10,7 @@ public abstract class AbstractLevelsProcessingService {
 
     static final GDClient client = GDClient.create();
 
-    public static List<GDLevel> getGdLevelsPage(LevelBrowseMode levelBrowseMode, int page) throws InterruptedException {
+    static List<GDLevel> getGdLevelsPage(LevelBrowseMode levelBrowseMode, int page) throws InterruptedException {
         Thread.sleep(1100);
         return client.browseLevels(levelBrowseMode,null, null, page)
                 .collectList().block();
