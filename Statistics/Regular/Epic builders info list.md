@@ -1,7 +1,7 @@
 | Author | Count |
 |:---:|:---:|
 Darwin | 50
-DangerKat | 32
+DangerKat | 33
 Knots | 31
 Danzmen | 31
 WerewolfGD | 29
@@ -19,10 +19,10 @@ Zoroa | 22
 DepisH16 | 19
 abdula | 19
 Lemons | 19
+DHaner | 18
 SaabS | 18
 Nico99 | 18
 MrKoolTrix | 17
-DHaner | 17
 BranSilver | 17
 distortt | 17
 Cirtrax | 17
@@ -60,6 +60,7 @@ Usermatt18 | 11
 Owkeen | 11
 Alex112300 | 11
 Hann | 11
+Yendis | 11
 EnZore | 11
 Filaret | 10
 RadiationV2 | 10
@@ -71,7 +72,6 @@ DeniPol | 10
 bli | 10
 Splinter25 | 10
 Berkoo | 10
-Yendis | 10
 ZecretDash | 9
 Ferdefunky | 9
 neigefeu | 9
@@ -85,6 +85,7 @@ RealZober | 9
 TroxxP1 | 9
 YunHaSeu14 | 9
 Retropt | 9
+R3XX3R | 9
 nasgubb | 8
 Hyenada | 8
 DorSha | 8
@@ -93,16 +94,18 @@ FaekI | 8
 TypicalGMD | 8
 NogZ | 8
 BryanC2 | 8
+JonathanGD | 8
 Aleiz21 | 8
+GirlyAle02 | 8
 Inergy | 8
 deletedusergd | 8
 Skitten | 8
 Alkatraz | 8
 victorinoxX | 8
 Zidnes | 8
-R3XX3R | 8
 Nemsy | 8
 FUNKYpersy | 8
+SpKale | 8
 xMisery | 8
 DesTicY | 8
 Peton | 8
@@ -120,12 +123,11 @@ cometface | 7
 Mantevian | 7
 GiaMmiX | 7
 JacobROso | 7
-JonathanGD | 7
+J0eyOnGD | 7
 BlueRimz | 7
 HTigerzGD | 7
 RobzombiGD | 7
 Texic | 7
-GirlyAle02 | 7
 Chayper | 7
 Codex | 7
 CUBICCC | 7
@@ -139,7 +141,6 @@ Fault | 7
 FreakEd7 | 7
 Xstar7 | 7
 CatronixGD | 7
-SpKale | 7
 SmitN | 7
 SkiesCore | 7
 Whirl | 7
@@ -155,7 +156,6 @@ ILRELL | 6
 xenoteric | 6
 IIAnubisI | 6
 PleoSlim RMD | 6
-J0eyOnGD | 6
 NateRaven | 6
 falsterino | 6
 Flukester | 6
@@ -205,6 +205,7 @@ MistFix | 5
 BIANOX | 5
 Xatz | 5
 EpicMasta11 | 5
+Zhak | 5
 Nariel | 5
 Jeikins | 5
 Gachristian1 | 5
@@ -266,6 +267,7 @@ DreamTide | 4
 AirForce | 4
 Woom | 4
 MikeWheelerFan | 4
+GDvesuvius | 4
 Alderite | 4
 EpiEpz | 4
 CubicShadow | 4
@@ -274,7 +276,6 @@ Elisione | 4
 ByBoy 11 | 4
 Meeloz | 4
 Mazl | 4
-Zhak | 4
 isaacpl01 | 4
 iriswolfx | 4
 zZoomks | 4
@@ -297,6 +298,7 @@ Samoht | 4
 MazZedy | 4
 DarkEvan | 4
 IFSGeorge | 4
+shodai1128 | 4
 R4NGER | 4
 Spu7Nix | 4
 Custi | 4
@@ -362,7 +364,6 @@ TopMaksim | 3
 JustPotatoNow | 3
 iMortlex | 3
 Dashtrict | 3
-GDvesuvius | 3
 Fairfax | 3
 Zafkiel7 | 3
 IZann | 3
@@ -382,7 +383,6 @@ MittensGD | 3
 cherryteam | 3
 lysk | 3
 dkitey | 3
-ZeeToss | 3
 SirZaiss | 3
 X1RON | 3
 Nottus | 3
@@ -415,7 +415,6 @@ GDLoco | 3
 FumoVaccinator | 3
 ElectroidDash | 3
 Waltertheboss | 3
-shodai1128 | 3
 ELITEXD | 3
 iIBonIi | 3
 noru64 | 3
@@ -443,7 +442,6 @@ Vadi | 2
 Eridani | 2
 pocke | 2
 Cubix | 2
-verticallity | 2
 Gusearth | 2
 Bronks | 2
 Ryder | 2
@@ -540,7 +538,7 @@ AyDiePay | 2
 xyuns | 2
 Hinds | 2
 ghathiitho | 2
-VioletSE | 2
+ZeeToss | 2
 AlexS2003 | 2
 iMinAY | 2
 G4lvatron | 2
@@ -556,6 +554,7 @@ Xypheeeer | 2
 Edicts | 2
 gradientxd | 2
 kreyk29 | 2
+Shemozzle | 2
 ItzKiba | 2
 MrClyde | 2
 Enceladus GD | 2
@@ -602,6 +601,7 @@ thazm | 2
 xSkart | 2
 ZubWill | 2
 CryoChemist | 2
+Buziris | 2
 Destriv | 2
 Konsi | 2
 pyshoGD | 2
@@ -622,6 +622,7 @@ Sminx | 2
 Soluble | 1
 aviovlad | 1
 DorFlayGD | 1
+Johburger | 1
 RestarTheNitwit | 1
 Belphox | 1
 Lfritz | 1
@@ -674,6 +675,7 @@ Staps | 1
 mbed | 1
 Comically | 1
 xVainaja | 1
+verticallity | 1
 AxelGMD | 1
 Msapps | 1
 ElRafitahMix | 1
@@ -705,6 +707,7 @@ TheDevon | 1
 ByMaxCraft | 1
 Zeidos | 1
 ImSamo | 1
+ffero | 1
 Akame GD | 1
 neigemany | 1
 Colombia Dash | 1
@@ -731,6 +734,7 @@ SmoopInc | 1
 xToxiKGD | 1
 chamoylol | 1
 SomeRandomCow | 1
+Markyforce | 1
 ShakeoffX | 1
 Puueds | 1
 SwagFox | 1
@@ -798,6 +802,7 @@ iIiKrisDashiIi | 1
 scrumpy | 1
 YanisDiss | 1
 SleepYcAAt | 1
+Memeez | 1
 Jinta22 | 1
 Morce | 1
 JustJohn | 1
@@ -843,7 +848,6 @@ iIRedCatIi | 1
 danerdogger | 1
 SChaotyx | 1
 Galaxxyss | 1
-sharkdex110 | 1
 griffyn87 | 1
 SrGuillester | 1
 NEKONGAMES | 1
@@ -875,6 +879,7 @@ Penttagram | 1
 Djman13 | 1
 ImAkKo | 1
 C4deira | 1
+Starbom | 1
 MoxiT93 | 1
 smear | 1
 Gravii | 1
@@ -899,6 +904,7 @@ Creatorlings | 1
 realtheo | 1
 LeynarMusic | 1
 KGTA390 | 1
+rply | 1
 Niji | 1
 BobRatchet | 1
 Stardevoir | 1
@@ -912,6 +918,7 @@ Failure444 | 1
 Faun | 1
 GeraldBrown | 1
 Optonix | 1
+BrexXes | 1
 vit12 | 1
 IronIngot | 1
 Aimbotter2123 | 1
@@ -975,6 +982,7 @@ euphria | 1
 CreatorLW | 1
 LexipGG | 1
 XCYNICX | 1
+sharkdex | 1
 GDSpeed | 1
 WakySky | 1
 LightPotato99 | 1
@@ -1053,11 +1061,11 @@ OpteX | 1
 BySelling | 1
 iIFrostIi | 1
 Optation | 1
+LIEB | 1
 MrPPs | 1
 JustWemo | 1
 Ophelix | 1
 CarlosArt16 | 1
-Buziris | 1
 Buffed | 1
 IINimbusII | 1
 Noriega | 1
@@ -1086,7 +1094,6 @@ crashpancake2 | 1
 BaconPotato | 1
 zDrift | 1
 XOrder | 1
-iinvv | 1
 The Bread | 1
 ZachLy | 1
 DanLom | 1
