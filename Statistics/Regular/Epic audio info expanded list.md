@@ -98,6 +98,7 @@
 245921 | ParagonX9 | ParagonX9 - Chaoz Airflow | 5 | 58046687; 61307385; 57882498; 65466205; 67161679
 503544 | bossfightofficial | Starship Showdown | 5 | 57659514; 49854271; 43646211; 33892016; 91448272
 216300 | zirconmusic | Necromancy (drum n bass) | 5 | 69487890; 67710299; 71734488; 43908596; 59413155
+829777 | CreoMusic | Creo - Idolize | 5 | 56150438; 82272938; 57281479; 91701349; 57805587
 778356 | CricketSaysChill | We Cant Count | 5 | 51946111; 66846145; 57106915; 90615507; 58773921
 715825 | Schtiffles | Beep Beep | 5 | 54831622; 34085027; 35051517; 28577725; 35050229
 718168 | cysmix | cYsmix - Moonlight Sonata | 5 | 48743596; 57393111; 44734648; 57887714; 36906582
@@ -196,7 +197,6 @@
 477238 | Blackhole12 | ~BH~ Cosminox | 4 | 72653198; 55852369; 44686830; 43159026
 684300 | ColBreakz | ColBreakz - 10000 | 4 | 32572526; 30219145; 27117091; 50007109
 728687 | FWLRmusic | FWLR - Darkness | 4 | 64718563; 63422509; 68109632; 76509331
-829777 | CreoMusic | Creo - Idolize | 4 | 56150438; 82272938; 57281479; 57805587
 774027 | Waterflame | -Meltdown- | 4 | 64351195; 62264495; 65641152; 52527538
 734693 | ColBreakz | Protolizard & ColBreakz - Nevermind | 4 | 35427356; 35335302; 34424517; 35129636
 679016 | garlagan | PPaper PPlanes | 4 | 51538512; 54587623; 81412194; 51994492
@@ -356,6 +356,7 @@
 665266 | bossfightofficial | Bossfight - Sonder | 3 | 28969151; 33767026; 69412150
 752025 | LawnReality | Living Dream | 3 | 77151125; 38373714; 57020936
 129910 | Waterflame | -Control: Damage- | 3 | 58768854; 57430694; 78625754
+684649 | meganeko | Super Gamer Girl 3D | 3 | 92527233; 87708328; 91297057
 689362 | Breakthrough | Saao - Pirate Attack | 3 | 35612401; 35675203; 34133289
 796604 | whiscaskaat | Leaves & Flowers | 3 | 51377265; 61208179; 48359768
 700211 | ColBreakz | ColBreakz - 2011 | 3 | 27148456; 63789349; 28225110
@@ -371,7 +372,7 @@
 737826 | Sharks | Said - Nya (Sharks remix) | 3 | 36405416; 36494839; 39666838
 655358 | Lockyn | Skybound | 3 | 45043752; 77020233; 61422864
 708497 | Waterflame | -Boneyard- | 3 | 57154297; 78103113; 91380905
-944913 | ELEPS44 | ELEPS - Reset (Dubstep) | 3 | 66547344; 71292716; 65842614
+944913 | ELEPS44 | ELEPS - Reset (Dubstep) | 3 | 71292716; 65842614; 66547344
 557651 | CosmicDeejay | Salvation | 3 | 48759165; 46715525; 32238143
 747006 | F-777 | F-777 - The Secret Dynasty | 3 | 49987007; 63918780; 59098548
 801277 | teminiteofficial | Teminite - Ascent | 3 | 52167808; 51765508; 48996326
@@ -410,6 +411,7 @@
 865088 | Geoxor | Geoxor - Nana | 3 | 62575654; 63970594; 78956000
 532938 | OcularNebula | Dancing Moonman | 3 | 59233763; 57609004; 61307738
 591319 | garlagan | Skyless | 3 | 64261177; 60349637; 24676724
+780702 | BoomKitty | Power Trip [ Geometry Dash SubZero ] | 3 | 46334132; 44110087; 41007125
 728314 | Waterflame | -Absent- | 3 | 43965119; 88266256; 35844572
 748311 | canonblade | Canonblade - Evli Whiskey | 3 | 35851713; 37138256; 38669931
 616546 | OfficialNovacore | Desperado | 3 | 55544427; 45650578; 37915833
@@ -478,6 +480,7 @@
 729530 | punyasotunes | Punyaso - My Little Pony | 2 | 61611365; 59291804
 760696 | NoVAmusicofficial | NoVA - Breathe [Tropical House] | 2 | 47627583; 54735227
 1036460 | Dunderpatrullen | Disco Dancing Caravan Camping | 2 | 81548163; 87004655
+1149749 | korewakosu | violet. | 2 | 91615966; 87968179
 855936 | Blackhole12 | Digital Crystals | 2 | 63790087; 55627631
 948007 | Gage | frite2 | 2 | 79933666; 87316498
 713743 | ColBreakz | ColBreakz & Protolizard - Deception | 2 | 35777563; 36764284
@@ -570,6 +573,7 @@
 891440 | Djjaner | Fleetwire | 2 | 66728284; 85067260
 817366 | windluxmusic | Koraii - Trick Room | 2 | 65266309; 91054490
 854531 | MaFFaKa | Phantom Sage — Holystone | 2 | 54842344; 55326983
+969010 | HeyJellyBear | JellyBear & Seluekos - Break Party | 2 | 75765104; 91294711
 1008040 | cryptvoice | Crypt Voice - Brain Damage | 2 | 76421638; 80645466
 872497 | dirtypawsofficial | DirtyPaws & ELEPS - Double Trouble (Original Mix) | 2 | 59003333; 57134023
 747953 | ThisIsTheFatRat | TheFatRat - Fly Away feat. Anjulie | 2 | 62832683; 59943298
@@ -584,6 +588,7 @@
 803341 | AikaMusic | Kyou - Timeless [Future Bass] | 2 | 55563675; 46054754
 705699 | cloudfield | cloudfield - Lost | 2 | 32559622; 37904378
 602261 | IchigoChamploo | Mechanical Flow | 2 | 62936422; 65520090
+619544 | balderdact | [Chillstep] Adrift | 2 | 92427741; 60872393
 574601 | MadhouseDUDE | Chipparoony | 2 | 57326896; 51862065
 957695 | edexy | EDEXY - Ravers | 2 | 70728614; 85582923
 747737 | Wolf7ech | Ascension (Chillstep) | 2 | 46478676; 49508604
@@ -615,10 +620,12 @@
 710929 | x3MbeRx | 3MBER & SRK - Night Owls | 2 | 59774900; 49681756
 147150 | Shinrog | Storms of Agony | 2 | 33202713; 34530399
 1074946 | PandaEyesOfficial | SQUARE PERCEPTION - ROCK ON | 2 | 77592888; 78901064
+416891 | TheGuitahHeroe | Pokemon - Temporal Tower Remix | 2 | 92488018; 37708359
 743863 | SpazeUnofficial | Experimental Demo Age (OUT NOW!) | 2 | 61348317; 76742711
 750763 | ShutEye | Shut Eye - Flight | 2 | 54523552; 36679746
 1057950 | meganeko | meganeko x Shirobon - Play With Fire | 2 | 77268018; 90437094
 360895 | audiosyncratic | /September Remix\ | 2 | 55289201; 57932501
+555858 | OcularNebula | Azure Apex | 2 | 49223273; 49223273
 263942 | LK412 | [LK] Indian Dance Machine | 2 | 33544850; 37158921
 952053 | CreoMusic | Creo - Endless | 2 | 70484097; 68683520
 731596 | DJ-Zyzyx | Zyzyx - Jazz Battle | 2 | 44807198; 32888898
@@ -670,9 +677,7 @@
 564162 | DuoCore | DuoCore - Carnage | 2 | 36107975; 30797525
 835557 | Lapse | Reentry+ | 2 | 64412521; 63153955
 738322 | mrfaller | SVMMIT - Reflections | 2 | 40501984; 35651598
-735403 | xynstratorRecords | Arkady Ukupnik - Ill Never Marry You (DJ Koko Remix) | 2 | 62592746; 67842980
 771517 | AeronMusic | Rebirth | 2 | 57983789; 51746931
-684649 | meganeko | Super Gamer Girl 3D | 2 | 87708328; 91297057
 595087 | Tagiito | End of the World | 2 | 60202630; 26802561
 886355 | Slleepwalker | SLANDER - Love Is Gone (ft. Dylan Matthew) [Slleepwalker Edit) | 2 | 61148925; 59321687
 783801 | canonblade | Change | 2 | 43537990; 62895423
@@ -807,6 +812,7 @@
 854081 | EspiDev | EspiDev - Calibre | 2 | 60330152; 59949798
 971576 | 3rdPrototype | 3rd Prototype & Emdi - House [NCS] | 2 | 56916170; 57402184
 904334 | Miyolophone | Sunday | 2 | 60699482; 67364289
+1003205 | FWLRmusic | Already Gone (Slowpalace, FWLR, qwinn) | 2 | 92262040; 87319358
 791092 | MacMelto | Circus | 2 | 52485734; 89640947
 1013759 | BoomKitty | It Takes Me (feat. Waylon Reavis) | 2 | 83256789; 68500139
 859847 | BoomKitty | Warzone [Unfinished] | 2 | 60129422; 83158255
@@ -819,7 +825,6 @@
 722594 | KaixoMusic | Troglodyte (Original Mix) | 2 | 29519341; 34583618
 664602 | MadhouseDUDE | Team A | 2 | 36062234; 60357633
 578872 | Malifex | Mirror Night | 2 | 76452605; 61298043
-780702 | BoomKitty | Power Trip [ Geometry Dash SubZero ] | 2 | 46334132; 41007125
 749481 | Zooloo75 | drag me with you | 2 | 51770639; 44592558
 839266 | alexizgd | ALESDA! & Mask - Santa is Coming to Town | 2 | 65995177; 76834708
 530913 | Xtrullor | Wonderpunch | 2 | 32321683; 30670670
@@ -845,6 +850,7 @@
 677414 | Namice | Palm tree | 1 | 40552834
 1021215 | VOLANT | depthcore ft. polyscream | 1 | 70017248
 1072970 | mididucc | mididuck - the sun will shine | 1 | 78743788
+1085972 | decodyofficial | Titan Channel - ????? | 1 | 91690696
 677111 | DJVI | God Mode | 1 | 45227429
 785780 | ephixa | speed weed | 1 | 57102172
 867679 | Sharks | Sharks - Maelstrom | 1 | 58878696
@@ -900,6 +906,7 @@
 703135 | MafiaPineapple | PiÃ±a Colada | 1 | 38547814
 826957 | neple | Dj Neple - Partition | 1 | 57342005
 692849 | Namice | Space Ride | 1 | 51092414
+1229291 | dj-Nate | {dj-N} Electrodynamix 2 | 1 | 47221469
 462265 | GrayZ | super cute kitty anime techno. | 1 | 57757495
 967184 | ELEPS44 | ELEPS - Clouds (From the sky EP) | 1 | 78511572
 521252 | Envy | EnV - Sanctuary | 1 | 29074072
@@ -991,13 +998,11 @@
 377005 | feintDNB | Feint - Lift (Instrumental) | 1 | 40463389
 816371 | ggaero | Gaero - Blood Haiku | 1 | 51857399
 872483 | TardisPeanutMusic | Astedroid - Take Me Away | 1 | 57355108
-1149749 | korewakosu | violet. | 1 | 87968179
 728237 | FWLRmusic | FWLR & Twistex - Break Out | 1 | 58105590
 857696 | Blackhole12 | Whirlwind | 1 | 62323796
 758357 | DainykOfficial | NIVIRO - You (Dainyk Subtin Lift) | 1 | 56614466
 1138714 | jezzel | Jezzel - Is Gone | 1 | 81018185
 834998 | Koraii | Elephantine | 1 | 54601784
-1120091 | xfree99x | OPALINE.033h | 1 | 84331414
 714579 | FyremanMusic | Glory | 1 | 59004671
 743462 | Strykur | Aether | 1 | 86418429
 499194 | Euphy | S. - Cavalcade Evolution | 1 | 51071895
@@ -1070,7 +1075,6 @@
 957952 | 3YEOfficial | M83 - Midnight City (Echorift Cover) | 1 | 80165559
 911402 | ColBreakz | ColBreakz - You & Me | 1 | 68196428
 839889 | SpazeOfficial | Spaze - Emergence | 1 | 55431588
-1192218 | xfree99x | KIDS | 1 | 89606625
 793089 | DMDOKURO | Unholy Insurgency | 1 | 90251922
 843971 | DerpCatOfficial | Derpcat & ELEPS - The White Knight | 1 | 64509524
 1157414 | Astedroid | Colorful Dreams [Seikatsu Release] | 1 | 90269831
@@ -1079,6 +1083,7 @@
 925242 | WaxTerk | Dogout | 1 | 64643464
 672293 | JoarZ | JoarZ - Red Roses (Original Mix) | 1 | 55225914
 987459 | paperskies | Paper Skies & kittito - Nebula | 1 | 66352604
+1196690 | JVNOfficial | J V N - Cold Outside | 1 | 92352335
 1132447 | CreoMusic | Creo - Flow | 1 | 91055359
 488781 | Solkrieg | [Lavender Town Haunting]* | 1 | 56411909
 948346 | kayozkun | M2U - Gypsytronic (KayozKun Remix) | 1 | 83296274
@@ -1100,10 +1105,12 @@
 751598 | Dovax | Dovax - Desert Bounce | 1 | 36500807
 833209 | Koraii | Taxi | 1 | 67459345
 619222 | EmceeWhatE | !-Anemotaxis-! | 1 | 70893587
+1119874 | H20ghost | Thought | 1 | 92149907
 781202 | csx42gaming | Deathro - Through the Eye of a Prism [csx42 Remix] | 1 | 59151874
 784316 | Cryono77 | CHASE.mp3 | 1 | 59574225
 895527 | Kyutatsuki | ?????? (Sayonara Sekai) | 1 | 61930129
 896821 | PandaEyesOfficial | Panda Eyes - Anybody Else | 1 | 62028241
+605273 | UnrealReno | Interstellar (Yannic G Remix) | 1 | 89140813
 649333 | DJVI | Supercharge | 1 | 32827297
 929340 | Sterrezo | Zenith | 1 | 71554572
 988303 | 3rdPrototype | 3rd Prototype - Shadows | 1 | 57987804
@@ -1166,6 +1173,7 @@
 573010 | DuoCore | DuoCore - Endorphins | 1 | 30533157
 609597 | BlackACE321 | Tribal Heart - Timeline | 1 | 63707301
 663796 | NyxTheShield | Undertale - Asgore, The Fallen King | 1 | 37193104
+1120091 | FREE99 | OPALINE.033h | 1 | 84331414
 806082 | UntilRuins | Until Ruins - Heart | 1 | 60023789
 717445 | ColBreakz | ColBreakz - 15000 (ft. Miss Lina) | 1 | 58405776
 1063036 | CDJeremy | Noobase Dash | 1 | 73410403
@@ -1223,7 +1231,6 @@
 778692 | BMusOfficial | BMus - Essence | 1 | 44176287
 1083657 | H20ghost | Nameless Traveler (Espionage) | 1 | 74639177
 782965 | alexizgd | BMus & ALESDA! - Overcloud | 1 | 56590379
-969010 | HeyJellyBear | JellyBear & Seluekos - Break Party | 1 | 75765104
 689654 | Schtiffles | Hop | 1 | 55016141
 513555 | OcularNebula | Insomnia Dreams | 1 | 83645070
 818917 | MonvoiceT | Amidst x Sacry - Carousel | 1 | 56898043
@@ -1257,6 +1264,7 @@
 726822 | FelixSanHaro | Night Light | 1 | 32736905
 1162282 | Noisysundae | [BOF:ET] Interval | 1 | 86151468
 1079471 | Cuizo | Annihilate (MD2021) | 1 | 76866307
+1101720 | xynstratorRecords | Jackspy x Ukupnik - Never Marry You (Instrumental) | 1 | 67842980
 847328 | Andersson187 | EPIC (ALBUM PREVIEW) | 1 | 54724490
 904092 | KotoriSan | lalala remix | 1 | 62264041
 735623 | hawkfire7 | Keys of Freedom | 1 | 75718490
@@ -1293,7 +1301,6 @@
 1074080 | wispx | Idyllic | 1 | 83323273
 713135 | ThisIsTheFatRat | TheFatRat - Prelude | 1 | 33135407
 901623 | Waterflame | -Gabberfly- | 1 | 60188291
-619544 | balderdact | [Chillstep] Adrift | 1 | 60872393
 898565 | Another-Time | Sasha Sloan - Too Sad to Cry [Aerin Remix] [Melodic Dubstep] | 1 | 79253519
 666960 | Waterflame | -Dance-Off- | 1 | 36430972
 944179 | jekoer | Colorful | 1 | 62742386
@@ -1302,6 +1309,7 @@
 748465 | CV4 | Reas | 1 | 86050887
 844828 | janfon1 | CHASE.mp3 (Extended) | 1 | 58306889
 482162 | Stratales | Indecadence [WIP] | 1 | 56667268
+169589 | cycerin | Dark Conviction | 1 | 91816388
 879990 | alexizgd | ALESDA! - Raptor | 1 | 76663751
 812972 | SpitfyaUK | Spitfya - Adventure (Original Mix) | 1 | 58687036
 928152 | maritumix1 | 514 (original:Hartmanns Youkai Girl) | 1 | 66868360
@@ -1375,7 +1383,6 @@
 793206 | ELEPS44 | ELEPS - FIRE (METALSTEP) | 1 | 72969191
 330613 | EliteFerrex | Hyperion Overdrive | 1 | 32569165
 677900 | LemKuuja | Keep On Baby! (w/ Kill Me Baby) | 1 | 46201715
-416891 | TheGuitahHeroe | Pokemon - Temporal Tower Remix | 1 | 37708359
 410714 | Waterflame | -Whatever!- | 1 | 51145084
 754537 | ggaero | Gaero - Cobra | 1 | 56247762
 956246 | Getsix | Getsix - Chasing the Dragon | 1 | 88261400
@@ -1388,12 +1395,12 @@
 651406 | MegaSphere | NGs DnB | 1 | 34699785
 1138403 | Systemic | Sunshard [polarprism edit] | 1 | 80987708
 691180 | Squarion | Fallen Kingdom (Full) | 1 | 61752101
-555858 | OcularNebula | Azure Apex | 1 | 49223273
 832076 | SirHadoken | Termination Shock [Remake] | 1 | 57869049
 642120 | Exnotic | Spaze Unofficial - Musiken [SR 02] | 1 | 56360159
 571101 | Neovenetar | Yume Nikki: Snow World | 1 | 51939013
 405786 | Stratales | The Cake Tastes Fine | 1 | 48716880
 1167173 | LZNiney | Chops (GD VIP) | 1 | 87333912
+1228208 | Jayuff | next! level! | 1 | 92251385
 898096 | infowler | Sharks | 1 | 65349913
 1075213 | Darite | the monster under my bed | 1 | 74536363
 1138767 | DerpCatOfficial | Moonlight | 1 | 89379924
@@ -1553,6 +1560,7 @@
 582310 | dexarson | Machina | 1 | 28677296
 860296 | alexizgd | ALESDA! - Lonely | 1 | 55633164
 32772 | API | -API- Paradise on E [REMIX] | 1 | 60736727
+548713 | Shtriga | Armageddon | 1 | 91916496
 966987 | meganeko | Sunset | 1 | 73473750
 986590 | GobSmacked | GobSmacked & Piracle - Phobia | 1 | 82977900
 856484 | Andersson187 | NIGHT | 1 | 66262984
@@ -1572,6 +1580,7 @@
 912103 | meganeko | Pyroclastic Horizon | 1 | 59892507
 735460 | Gizmo-0 | JohnFn- I Can See You Now (Gizmo ReBirth) | 1 | 40641787
 843123 | R3VMusic | Affinity | 1 | 58653109
+945627 | Xorberax | xor - ?????????????????? | 1 | 91534923
 580950 | Rukkus | Realistik - 211 | 1 | 55693430
 900335 | NoveDeht | mines.ogg (unused) | 1 | 82166068
 1151602 | CarpetBakery | GURUs Facade | 1 | 89758084
@@ -1580,6 +1589,7 @@
 696406 | Xtrullor | Xtrullor - Event Horizon | 1 | 29917082
 805919 | DJ-Zyzyx | Zyzyx - Awake | 1 | 58270477
 525908 | OcularNebula | Xtreme Throat Anthem | 1 | 40838628
+735403 | xynstratorRecords | Arkady Ukupnik - Ill Never Marry You (DJ Koko Remix) | 1 | 62592746
 695257 | Envy | EnV - Microburst | 1 | 64587589
 873398 | RedSoul92 | If Youd Only Listened For A while | 1 | 75101593
 598349 | Waterflame | -Final Battle- | 1 | 50769602
@@ -1603,7 +1613,6 @@
 935880 | AgentOrangeXx | Lights On The Boulevard | 1 | 61808456
 629902 | Geoplex | Symmetrik & Geoplex - Tempest | 1 | 47787455
 883801 | Astral7 | Roxal x Yukster - Burn (Astral remix) | 1 | 58116497
-1115487 | xfree99x | SUICIDE OCEAN.042j | 1 | 87561046
 555709 | JonnyAtma | GaMetal - Bloody Tears | 1 | 56198265
 725382 | windluxmusic | Karaplex - Slumber | 1 | 47462458
 996831 | MusicbyFlups | Solstice | 1 | 67960201
@@ -1770,12 +1779,14 @@
 768383 | Geoplex | Geoplex - Eminence | 1 | 38074822
 969337 | RejSende | RejSende - Rainy Friday (Chill Beats Release) | 1 | 81624465
 1093205 | Sharks | Sharks & Skybreak - Whirlpool | 1 | 77152348
+1214150 | mididucc | mididuck - unstable | 1 | 92555035
 876102 | Koraii | Cable Kid: Comes Back to Play | 1 | 58528836
 537167 | danyool777 | Unjust Life DnB [AB] | 1 | 61130746
 712035 | Omnivore | ãƒã‚ªRENAISSANCE | 1 | 47770907
 932656 | Another-Time | Vivid X Aerin - Sky [Future House] | 1 | 90791409
 540503 | Isulf | Ramen Carnage | 1 | 34318505
 233860 | Waterflame | -Ricochet Love- | 1 | 28920582
+1192218 | FREE99 | KIDS | 1 | 89606625
 691000 | dexarson | Dex Arson - Embers Ft. Stacey Hunt | 1 | 32835034
 680273 | windluxmusic | Fallen Tears (Dream Trance) | 1 | 31037168
 877671 | Wintrr | Wintrr - Following | 1 | 59909372
@@ -1792,6 +1803,7 @@
 968937 | ivivarelus-gd | Dihedral (Colour Bass) | 1 | 64610503
 535331 | OcularNebula | Stay Inside Me | 1 | 41287705
 1016973 | Bossfight  | Bossfight - Endgame | 1 | 68451370
+1149445 | Trippple | Palace Wu | 1 | 92096673
 1051259 | KLYDIX | Luminous Flower (???) | 1 | 90895428
 855908 | Andersson187 | CuteNES | 1 | 87869759
 593161 | XxColozisoxX | Five hours 2 | 1 | 47523099
@@ -1804,6 +1816,7 @@
 849525 | 5m2kes | Instant Noodle | 1 | 88676879
 970981 | NoveDeht | Bloody Tears (Remix) | 1 | 64930910
 883136 | teminiteofficial | Teminite - Beleive | 1 | 58653266
+1189543 | GrizzlyCogs | Nubes | 1 | 91780215
 727165 | F-777 | Bow Wow | 1 | 29630142
 525323 | OcularNebula | Chirplet | 1 | 89977676
 754936 | garlagan | 00 | 1 | 61749328
@@ -1907,7 +1920,6 @@
 1091971 | EX-LYD | Sea Hike | 1 | 88982532
 791585 | Razorrekker | A new world: Flight - 8 | 1 | 47737567
 57239 | Waterflame | -Space pirates- | 1 | 30638657
-744098 | AlexPig60 | Electrodynamix 2 (Desx Remix) | 1 | 47221469
 890199 | FarOutOfficial | Humans (Far Out Remix) | 1 | 63454332
 659792 | mrfaller | SVMMIT - Hi-Fi (Lo-Fi VIP) | 1 | 55850812
 973628 | kavaltunes | Starlight | 1 | 75541771
@@ -1915,6 +1927,7 @@
 646789 | Waterflame | -Sunwalker- | 1 | 76510835
 869768 | 5m2kes | Kimchi Stew | 1 | 81549790
 564985 | plasma3music | Bridge Zone Remix - Sonic | 1 | 63574816
+1219728 | PredatorMusic | AIM - Sun Diver | 1 | 91811353
 537203 | Geoplex | Solar Rain | 1 | 55677002
 758778 | dexarson | Dex Arson - Slap Squad Ft Såvi ( Andys iLL Remix ) | 1 | 67904356
 737957 | SpazeUnofficial | Spaze - Expectations (ft. Fusion Circle) | 1 | 56614662
@@ -1946,7 +1959,6 @@
 773529 | PandaEyesOfficial | Panda Eyes - Take My Hand | 1 | 59254281
 569125 | Kman465 | Super Mario World Athletic rmx | 1 | 58722992
 1077346 | PandaEyesOfficial | PANDA EYES - ANTIPIXEL | 1 | 80560662
-1003205 | FWLRmusic | Already Gone (Slowpalace, FWLR, qwinn) | 1 | 87319358
 928603 | Miyolophone | Will of the Wisp OST - 04 - Vines | 1 | 66715392
 595897 | DwightFalcon | Fearless Retrieval | 1 | 84439748
 554195 | ForeverBound | Electron | 1 | 54880324
@@ -2006,6 +2018,7 @@
 847971 | TheArcadium | Viilo - Free | 1 | 72024993
 821173 | alexizgd | ALESDA! - Wake Up | 1 | 50278170
 955626 | immiyuri | Mayoi - Running Again (Miyuri Remix) | 1 | 71930730
+822787 | TheArcadium | Faux Tales - Beacon | 1 | 92292139
 970607 | WaxTerk | Blood Rain | 1 | 65023248
 916443 | dj-Nate | {dj-N} Bouncy (WIP) | 1 | 64486223
 1006138 | Djjaner | Might & Magic 2021 | 1 | 90809996
@@ -2037,6 +2050,7 @@
 727817 | Djjaner | Eliminator (Contest Remake/Remix) | 1 | 33405447
 479470 | keosni391 | ~Boombox 2012~ | 1 | 45887485
 808176 | Waterflame | -Coast- | 1 | 62367233
+1115487 | FREE99 | SUICIDE OCEAN.042j | 1 | 87561046
 793443 | DMDOKURO | Universal Collapse | 1 | 57334967
 507560 | Waterflame | -BlastProcess- | 1 | 60374125
 878445 | SKYWRD | SKYWRD & Daxiir - Knowing Better | 1 | 59398769

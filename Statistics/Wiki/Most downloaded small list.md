@@ -39,8 +39,8 @@ Ghoul,
 Dry Out RM,
 Supersonic,
 YStep,
-Easy,
 SLAM,
+Easy,
 Space Travel,
 Highscore,
 Polargeist v01,
@@ -48,5 +48,5 @@ Endless (FlappySheepy),
 Adrift,
 Crescendo,
 Fernanfloo 3,
-Dorabaebasic5
+First Race
 }}{{#vardefineecho:number|{{#expr:{{#arraysearch:levels|{{{1}}}}}}}}}<noinclude>{{doc}}[[Категория:Информационные шаблоны]]</noinclude>
