@@ -47,6 +47,6 @@ Polargeist v01,
 Endless (FlappySheepy),
 Crescendo,
 Adrift,
-Fernanfloo 3,
-First Race
+First Race,
+Fernanfloo 3
 }}{{#vardefineecho:number|{{#expr:{{#arraysearch:levels|{{{1}}}}}}}}}<noinclude>{{doc}}[[Категория:Информационные шаблоны]]</noinclude>
