@@ -10,349 +10,349 @@
 | [[The Nightmare]]
 | [[Jax]]
 | <center>{{Featured лёгкий демон}}</center>
-| 79 867 285
-| 4 562 901
+| 80 187 035
+| 4 575 086
 |-
 ! 2
 | [[Bloodbath]]
 | [[Riot]]
 | <center>{{Featured экстремальный демон}}</center>
-| 66 143 700
-| 3 327 895
+| 66 513 345
+| 3 343 311
 |-
 ! 3
 | [[The Lightning Road]]
 | [[Timeless real]]
 | <center>{{Featured лёгкий демон}}</center>
-| 49 978 522
-| 2 613 362
+| 50 176 399
+| 2 619 279
 |-
 ! 4
 | [[Nine Circles]]
 | [[Zobros]]
 | <center>{{Featured демон}}</center>
-| 44 473 673
-| 2 553 542
+| 44 688 450
+| 2 563 277
 |-
 ! 5
 | [[Platinum Adventure]]
 | Jerry4
 | <center>{{Featured лёгкий демон}}</center>
-| 29 357 156
-| 2 035 701
+| 29 533 578
+| 2 044 717
 |-
 ! 6
 | [[Speed Racer]]
 | [[ZenthicAlpha]]
 | <center>{{Featured лёгкий демон}}</center>
-| 35 908 266
-| 2 002 264
+| 36 057 805
+| 2 008 026
 |-
 ! 7
 | [[X]]
 | [[TriAxis]]
 | <center>{{Featured лёгкий демон}}</center>
-| 32 483 148
-| 1 783 015
+| 32 636 330
+| 1 789 012
 |-
 ! 8
 | [[Death Moon]]
 | [[Caustic]]
 | <center>{{Featured лёгкий демон}}</center>
-| 29 010 128
-| 1 583 750
+| 29 149 959
+| 1 589 230
 |-
 ! 9
 | [[Xstep v2]]
 | [[Neptune]]
 | <center>{{Featured лёгкий демон}}</center>
-| 32 456 562
-| 1 382 849
+| 32 579 690
+| 1 386 097
 |-
 ! 10
 | [[Supersonic]]
 | [[ZenthicAlpha]]
 | <center>{{Featured безумный демон}}</center>
-| 25 922 781
-| 1 317 412
+| 26 043 550
+| 1 321 303
 |-
 ! 11
 | [[Cataclysm]]
 | [[Ggb0y]]
 | <center>{{Featured экстремальный демон}}</center>
-| 31 862 981
-| 1 120 953
+| 32 025 010
+| 1 124 488
 |-
 ! 12
 | [[Dear Nostalgists]]
 | [[TriAxis]]
 | <center>{{Featured лёгкий демон}}</center>
-| 18 689 335
-| 1 110 154
+| 18 790 402
+| 1 114 137
 |-
 ! 13
 | [[Laser Room]]
 | [[TrueNature]]
 | <center>{{Featured лёгкий демон}}</center>
-| 31 309 904
-| 1 105 847
+| 31 414 500
+| 1 107 513
 |-
 ! 14
 | [[Extinction]]
 | [[HaoN]]
 | <center>{{Эпический лёгкий демон}}</center>
-| 28 522 991
-| 1 083 468
+| 28 668 362
+| 1 088 042
 |-
 ! 15
 | [[yStep]]
 | [[Darnoc]]
 | <center>{{Featured лёгкий демон}}</center>
-| 25 499 451
-| 972 350
+| 25 573 190
+| 973 709
 |-
 ! 16
 | [[Crescendo]]
 | [[MasK463]]
 | <center>{{Featured лёгкий демон}}</center>
-| 23 511 056
-| 928 899
+| 23 591 794
+| 930 610
 |-
 ! 17
 | [[Problematic]]
 | [[Dhafin]]
 | <center>{{Featured лёгкий демон}}</center>
-| 15 655 617
-| 923 191
+| 15 718 067
+| 925 553
 |-
 ! 18
 | [[DeCode]]
 | [[Rek3dge]]
 | <center>{{Featured лёгкий демон}}</center>
-| 16 584 198
-| 867 861
+| 16 670 392
+| 870 826
 |-
 ! 19
 | [[Sidestep]]
 | [[ChaSe]]
 | <center>{{Featured лёгкий демон}}</center>
-| 17 892 997
-| 852 142
+| 17 971 973
+| 854 880
 |-
 ! 20
 | [[Yatagarasu]]
 | [[TrusTa (игрок)|TrusTa]]
 | <center>{{Featured экстремальный демон}}</center>
-| 19 880 399
-| 846 960
+| 19 967 695
+| 849 148
 |-
 ! 21
 | [[demon mixed]]
 | RealOggY
 | <center>{{лёгкий демон}}</center>
-| 13 965 159
-| 823 272
+| 14 030 353
+| 825 528
 |-
 ! 22
 | [[Bloodlust]]
 | [[Knobbelboy]]
 | <center>{{Эпический экстремальный демон}}</center>
-| 22 046 175
-| 792 980
+| 22 174 144
+| 796 456
 |-
 ! 23
 | [[Ultra Paracosm]]
 | iIiRulasiIi
 | <center>{{лёгкий демон}}</center>
-| 10 711 598
-| 728 427
+| 10 770 510
+| 731 006
 |-
 ! 24
 | [[Theory of every v2]]
 | [[Neptune]]
 | <center>{{Featured лёгкий демон}}</center>
-| 17 590 476
-| 718 906
+| 17 640 631
+| 719 909
 |-
 ! 25
 | [[Impulse]]
 | [[MrCheeseTigrr]]
 | <center>{{Featured лёгкий демон}}</center>
-| 12 136 712
-| 716 727
+| 12 176 147
+| 717 797
 |-
 ! 26
 | [[Sonic Wave]]
 | [[Cyclic]]
 | <center>{{экстремальный демон}}</center>
-| 20 392 284
-| 712 427
+| 20 496 133
+| 714 842
 |-
 ! 27
 | [[Theory of Skrillex]]
 | [[Noobas]]
 | <center>{{средний демон}}</center>
-| 14 833 016
-| 688 237
+| 14 886 154
+| 689 213
 |-
 ! 28
 | [[demon park]]
 | [[M2coL]]
 | <center>{{Featured лёгкий демон}}</center>
-| 17 507 202
-| 674 789
+| 17 565 893
+| 675 988
 |-
 ! 29
 | [[Speed of Light]]
 | [[TheRealSalad]]
 | <center>{{Featured лёгкий демон}}</center>
-| 11 350 854
-| 638 488
+| 11 416 027
+| 640 626
 |-
 ! 30
 | [[-sirius-]]
 | [[FunnyGame]]
 | <center>{{Featured средний демон}}</center>
-| 9 086 871
-| 633 784
+| 9 136 941
+| 635 820
 |-
 ! 31
 | [[8o]]
 | [[Zobros]]
 | <center>{{Featured безумный демон}}</center>
-| 10 547 187
-| 620 131
+| 10 598 626
+| 621 753
 |-
 ! 32
 | [[Super Cycles]]
 | [[Jax]]
 | <center>{{Featured лёгкий демон}}</center>
-| 14 359 004
-| 594 456
+| 14 402 984
+| 595 306
 |-
 ! 33
 | [[Lights And Thunder]]
 | [[Lyod]]
 | <center>{{Featured лёгкий демон}}</center>
-| 10 815 814
-| 575 680
+| 10 857 303
+| 577 018
 |-
 ! 34
 | [[Jawbreaker (ZenthicAlpha)]]
 | [[ZenthicAlpha]]
 | <center>{{Featured демон}}</center>
-| 9 295 290
-| 571 742
+| 9 347 927
+| 573 719
 |-
 ! 35
 | [[Windy Landscape]]
 | [[WOOGI1411]]
 | <center>{{Featured безумный демон}}</center>
-| 8 589 664
-| 563 125
+| 8 630 169
+| 564 674
 |-
 ! 36
 | [[Slaughterhouse]]
 | IcEDCave
 | <center>{{экстремальный демон}}</center>
-| 9 800 812
-| 558 188
+| 9 929 510
+| 563 220
 |-
 ! 37
 | [[Lonely travel]]
 | [[FunnyGame]]
 | <center>{{Featured средний демон}}</center>
-| 7 511 287
-| 552 834
+| 7 543 151
+| 553 923
 |-
 ! 38
 | [[demon jumper]]
 | —
 | <center>{{Featured лёгкий демон}}</center>
-| 13 289 975
-| 547 735
+| 13 333 258
+| 548 662
 |-
 ! 39
 | [[Insomnia]]
 | [[Glittershroom]]
 | <center>{{Featured лёгкий демон}}</center>
-| 7 389 178
-| 547 146
+| 7 416 777
+| 548 257
 |-
 ! 40
 | [[Buck Force]]
 | [[Rob Buck]]
 | <center>{{Featured лёгкий демон}}</center>
-| 17 983 423
-| 543 125
+| 18 033 970
+| 543 772
 |-
 ! 41
-| [[FREEDOM]]
-| MrPPs
-| <center>{{Эпический лёгкий демон}}</center>
-| 9 013 574
-| 522 813
-|-
-! 42
 | [[Retro Circles]]
 | Nacho21
 | <center>{{Featured лёгкий демон}}</center>
-| 7 222 920
-| 522 372
+| 7 280 470
+| 525 125
+|-
+! 42
+| [[FREEDOM]]
+| MrPPs
+| <center>{{Эпический лёгкий демон}}</center>
+| 9 048 428
+| 524 219
 |-
 ! 43
 | [[ABCDEFGHIJKLMNOPQRS]]
 | NeoSweet
 | <center>{{Featured лёгкий демон}}</center>
-| 6 423 711
-| 518 825
+| 6 478 816
+| 522 244
 |-
 ! 44
 | [[Phobos]]
 | [[KrmaL]]
 | <center>{{Featured экстремальный демон}}</center>
-| 12 536 633
-| 509 356
+| 12 591 592
+| 510 903
 |-
 ! 45
 | [[Nantendo]]
 | im fernando
 | <center>{{Эпический средний демон}}</center>
-| 7 010 783
-| 498 265
+| 7 068 223
+| 501 740
 |-
 ! 46
 | [[CraZy III]]
 | DavJT
 | <center>{{Эпический безумный демон}}</center>
-| 7 892 149
-| 490 654
+| 7 961 879
+| 494 152
 |-
 ! 47
 | [[Hextec Flow]]
 | [[Darnoc]]
 | <center>{{Featured лёгкий демон}}</center>
-| 9 604 897
-| 488 930
+| 9 629 738
+| 489 658
 |-
 ! 48
 | [[Future Funk]]
 | JonathanGD
 | <center>{{Эпический демон}}</center>
-| 9 028 666
-| 482 399
+| 9 103 515
+| 486 037
 |-
 ! 49
 | [[invisible clubstep]]
 | —
 | <center>{{лёгкий демон}}</center>
-| 8 712 881
-| 479 906
+| 8 764 008
+| 481 712
 |-
 ! 50
 | [[Blue Hell]]
 | LaZye
 | <center>{{лёгкий демон}}</center>
-| 6 407 705
-| 478 410
+| 6 442 907
+| 480 174
 |}
