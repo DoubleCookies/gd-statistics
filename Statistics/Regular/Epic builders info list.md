@@ -2,8 +2,8 @@
 |:---:|:---:|
 Darwin | 50
 DangerKat | 33
-Danzmen | 32
 Knots | 31
+Danzmen | 31
 WerewolfGD | 29
 Jayuff | 28
 Danolex | 26
@@ -13,9 +13,9 @@ Wilz | 25
 f3lixsram | 24
 Serponge | 24
 alkali | 23
-Zoroa | 23
 CastriX | 22
 SamMaxx | 22
+Zoroa | 22
 DHaner | 19
 DepisH16 | 19
 abdula | 19
@@ -137,7 +137,6 @@ JHYMHMHY | 7
 ithedarki | 7
 FrostDragonGD | 7
 Cdpre | 7
-Lixars | 7
 sgam | 7
 AmorAltra | 7
 Fault | 7
@@ -177,6 +176,7 @@ enlex | 6
 Hychie | 6
 Bluskys | 6
 GeomTer | 6
+Lixars | 6
 FlacoGD | 6
 NukeIIX | 6
 Hyenaedon | 6
@@ -270,6 +270,7 @@ LandonGMD | 4
 Dudex | 4
 Agils | 4
 neogamerGD | 4
+Ploid | 4
 ValkyrieMaster | 4
 DhrAw | 4
 DreamTide | 4
@@ -291,6 +292,7 @@ iriswolfx | 4
 zZoomks | 4
 Knobbelboy | 4
 BitZGD | 4
+16lord | 4
 Luxew | 4
 ZubwaR | 4
 Superopi | 4
@@ -361,7 +363,6 @@ ToastLord | 3
 HollowEarth | 3
 iZinaD4sh | 3
 Noxop | 3
-Ploid | 3
 BlueLite | 3
 noxycraft | 3
 KlaurosssS | 3
@@ -389,7 +390,6 @@ para | 3
 NeyvaShift | 3
 R3S1GNAT1ON | 3
 Kyhros | 3
-16lord | 3
 Xyle | 3
 MittensGD | 3
 lysk | 3
@@ -465,9 +465,9 @@ Jaasim | 2
 KittyDoge | 2
 shaggy23 | 2
 Dubbayoo | 2
+Vexes7 | 2
 0xNano | 2
 Whitehead | 2
-Nymphe | 2
 Inf3rnal | 2
 GETZUCCED | 2
 SomeRandomCow | 2
@@ -527,6 +527,7 @@ Th04 | 2
 Svyre | 2
 krisz | 2
 camgotbitten | 2
+xenoremu | 2
 RhakY | 2
 Horneet | 2
 AniGleb | 2
@@ -579,6 +580,7 @@ endevvor | 2
 Bpi | 2
 Findexi | 2
 ElMatoSWAG | 2
+LuckyTheGamer | 2
 Joaquinvega | 2
 HelpegasuS | 2
 theGoT | 2
@@ -599,7 +601,6 @@ DYZEX | 2
 CorroX | 2
 ewop | 2
 Expy | 2
-64914031542 | 2
 Vicolor | 2
 zombier | 2
 Golden | 2
@@ -672,6 +673,7 @@ Minimi427 | 1
 TDP9 | 1
 playeruan | 1
 BelonziK | 1
+ZooxerYt | 1
 Relcet | 1
 GeonoxGD | 1
 IKaira | 1
@@ -1013,7 +1015,6 @@ LightPotato99 | 1
 Barbos3D | 1
 Al3xD | 1
 OmegaFalcon | 1
-LuckyTheGamer | 1
 Shuffle49 | 1
 Yannnis | 1
 facusgg | 1
@@ -1104,6 +1105,7 @@ TheRM22 | 1
 MikyFC | 1
 Americat5 | 1
 MiGor07 | 1
+TamaN | 1
 OutlawMz | 1
 V9LT | 1
 Ezel142 | 1
@@ -1130,6 +1132,7 @@ AddBadx | 1
 Aleker | 1
 ExIIImE | 1
 Dams778 | 1
+Zthos | 1
 JuNiOr202 | 1
 aedr | 1
 XcreatorGoal | 1
@@ -1137,6 +1140,7 @@ thebun | 1
 Vilms | 1
 BoneSoup | 1
 Dirdov | 1
+DivideNick | 1
 DimusLv | 1
 denberZ | 1
 Prism | 1
