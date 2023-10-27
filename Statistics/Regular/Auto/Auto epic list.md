@@ -1,45 +1,38 @@
-#### Total: 41 levels
+#### Total: 34 levels
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| boi dis AMAZING | Msapps | 86771711 | 293352 | 22190
-| boi dis AMAZING | Msapps | 86771711 | 293352 | 22190
-| boi dis AMAZING | Msapps | 86771711 | 293352 | 22190
-| autopilot | bli | 86293083 | 742992 | 72041
-| autopilot | bli | 86293083 | 742992 | 72041
-| autopilot | bli | 86293083 | 742992 | 72041
-| Arcadium | DHaner | 86041694 | 857868 | 79529
-| Arcadium | DHaner | 86041694 | 857868 | 79529
-| Hexahedron Chronicle | cw2003 GB | 82272938 | 829665 | 60097
-| Elements IV | Solacress | 80886969 | 548366 | 39307
-| Elements IV | Solacress | 80886969 | 548366 | 39307
-| DecoloreD | AxelGMD | 80018122 | 586816 | 50365
-| A past rewind | MarkyArchived | 77127254 | 435016 | 28742
-| A past rewind | MarkyArchived | 77127254 | 435016 | 28742
-| A past rewind | MarkyArchived | 77127254 | 435016 | 28742
-| World Box | Subwoofer | 77078753 | 435490 | 38579
-| World Box | Subwoofer | 77078753 | 435490 | 38579
-| A Special Place | TomekD | 75450292 | 337315 | 48704
-| Nightosphere | ElMatoSWAG | 75286027 | 818850 | 85031
-| spinchland | cerufiffy | 73180486 | 296666 | 22394
-| GenePlay | cronibet | 67761718 | 365151 | 22936
-| Offline | ajagajaga | 67450173 | 613904 | 66589
-| New Year III | Celestri | 66991546 | 490055 | 31734
-| Project MiX 2021 | ElRafitahMix | 66149904 | 332379 | 28055
-| Made in After Effect | SubToJaKalemGD | 66144274 | 421268 | 21064
-| Apple Pro Max | FGHJapan | 66098838 | 201291 | 19341
-| Find It | PENTpresents | 64039031 | 174335 | 12295
-| Chess | Incidius | 63029657 | 537249 | 23356
-| alas | tohey | 62365914 | 506385 | 42376
-| Treasure of the eel | BlackEye23 | 61991883 | 435395 | 42206
-| Myslenie | oc3andark | 61070967 | 500710 | 37006
-| Wistful | purzin | 57266538 | 689195 | 39155
-| Classical Chase | Cirtrax | 56563865 | 216370 | 14317
-| Panispheric | Pan | 56150438 | 434864 | 29629
-| Animation vs GD | AgentY | 55094160 | 1025281 | 88349
-| JusT RobS n TopS | Danzmen | 52070793 | 1608065 | 125066
-| What The F | Serponge | 41621791 | 2064155 | 148676
-| Emotional Release II | Serponge | 39955946 | 1826584 | 171907
-| Moonshine | smarkey12 | 36612486 | 163502 | 8982
-| technoloid | hypercube1 | 34059030 | 5384441 | 468510
-| Stick Figure Maze 2 | Coolyoman | 32713497 | 4490918 | 355147
+| boi dis AMAZING | Msapps | 86771711 | 294791 | 22315
+| boi dis AMAZING | Msapps | 86771711 | 294792 | 22315
+| boi dis AMAZING | Msapps | 86771711 | 294792 | 22315
+| autopilot | bli | 86293083 | 751507 | 72925
+| Arcadium | DHaner | 86041694 | 860458 | 79828
+| Hexahedron Chronicle | cw2003 GB | 82272938 | 833659 | 60362
+| DecoloreD | AxelGMD | 80018122 | 587892 | 50469
+| A past rewind | MarkyArchived | 77127254 | 435419 | 28781
+| A past rewind | MarkyArchived | 77127254 | 435419 | 28781
+| World Box | Subwoofer | 77078753 | 436655 | 38683
+| A Special Place | TomekD | 75450292 | 338201 | 48863
+| Nightosphere | ElMatoSWAG | 75286027 | 820196 | 85184
+| spinchland | cerufiffy | 73180486 | 296964 | 22425
+| GenePlay | cronibet | 67761718 | 365641 | 22987
+| Offline | ajagajaga | 67450173 | 618680 | 67030
+| New Year III | Celestri | 66991546 | 491464 | 31856
+| Project MiX 2021 | ElRafitahMix | 66149904 | 333279 | 28143
+| Made in After Effect | SubToJaKalemGD | 66144274 | 421586 | 21106
+| Apple Pro Max | FGHJapan | 66098838 | 201652 | 19392
+| Find It | PENTpresents | 64039031 | 174661 | 12328
+| Chess | Incidius | 63029657 | 539593 | 23478
+| alas | tohey | 62365914 | 506971 | 42448
+| Treasure of the eel | BlackEye23 | 61991883 | 436861 | 42327
+| Myslenie | oc3andark | 61070967 | 502349 | 37151
+| Wistful | purzin | 57266538 | 690951 | 39296
+| Classical Chase | Cirtrax | 56563865 | 216644 | 14347
+| Panispheric | Pan | 56150438 | 435203 | 29655
+| Animation vs GD | AgentY | 55094160 | 1027637 | 88613
+| JusT RobS n TopS | Danzmen | 52070793 | 1612312 | 125350
+| What The F | Serponge | 41621791 | 2074806 | 149078
+| Emotional Release II | Serponge | 39955946 | 1829303 | 172118
+| Moonshine | smarkey12 | 36612486 | 164127 | 9016
+| technoloid | hypercube1 | 34059030 | 5399120 | 469508
+| Stick Figure Maze 2 | Coolyoman | 32713497 | 4511057 | 356504
