@@ -2,7 +2,7 @@ package gd.generators;
 
 import gd.SortingCode;
 import gd.service.levelsProcessing.LevelsProcessingService;
-import gd.service.SaveResultsService;
+import gd.service.SaveToFileResultsService;
 import jdash.common.entity.GDLevel;
 import jdash.common.entity.GDSong;
 import org.apache.commons.lang3.StringUtils;
@@ -53,26 +53,26 @@ public class ResultDataGenerator {
         String res = getTopDemonLevelsData();
         if (res.isEmpty())
             return;
-        SaveResultsService.writeToFileDemonsList(res.getBytes());
+        SaveToFileResultsService.writeToFileDemonsList(res.getBytes());
         logger.info("Top-50 demon list finished");
     }
 
     private static void processLevelsData(SortingCode sortingCode, String levelsType, String[] res) {
         String capitalizedLevelsType = StringUtils.capitalize(levelsType);
         for (int j = 0; j < 11; j++) {
-            String prefix = SaveResultsService.difficultyFolderMap.get(j + 1) + " " + levelsType;
-            SaveResultsService.writeToFileRegularLists(sortingCode, prefix, j + 1, res[j].getBytes());
+            String prefix = SaveToFileResultsService.difficultyFolderMap.get(j + 1) + " " + levelsType;
+            SaveToFileResultsService.writeToFileRegularLists(sortingCode, prefix, j + 1, res[j].getBytes());
         }
-        SaveResultsService.writeToFileRegularLists(sortingCode, capitalizedLevelsType, 0, res[11].getBytes());
-        SaveResultsService.writeToFileRegularLists(SortingCode.LONGEST_DESCRIPTION, capitalizedLevelsType, 0, res[12].getBytes());
-        SaveResultsService.writeToFileRegularLists(SortingCode.DEFAULT, capitalizedLevelsType + " audio info", 0, res[13].getBytes());
-        SaveResultsService.writeToFileRegularLists(SortingCode.DEFAULT, capitalizedLevelsType + " audio info expanded", 0, res[14].getBytes());
-        SaveResultsService.writeToFileRegularLists(SortingCode.DEFAULT, capitalizedLevelsType + " builders info", 0, res[15].getBytes());
+        SaveToFileResultsService.writeToFileRegularLists(sortingCode, capitalizedLevelsType, 0, res[11].getBytes());
+        SaveToFileResultsService.writeToFileRegularLists(SortingCode.LONGEST_DESCRIPTION, capitalizedLevelsType, 0, res[12].getBytes());
+        SaveToFileResultsService.writeToFileRegularLists(SortingCode.DEFAULT, capitalizedLevelsType + " audio info", 0, res[13].getBytes());
+        SaveToFileResultsService.writeToFileRegularLists(SortingCode.DEFAULT, capitalizedLevelsType + " audio info expanded", 0, res[14].getBytes());
+        SaveToFileResultsService.writeToFileRegularLists(SortingCode.DEFAULT, capitalizedLevelsType + " builders info", 0, res[15].getBytes());
         logger.info("All " + levelsType + " lists are finished");
     }
 
     private static String[] getFeaturedLevelsData() {
-        return processLevels(LevelsProcessingService.getLevels());
+        return processLevels(LevelsProcessingService.getFeaturedLevels());
     }
 
     private static String[] getEpicLevelsData() {

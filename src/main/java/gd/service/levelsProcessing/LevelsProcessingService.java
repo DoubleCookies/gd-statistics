@@ -30,24 +30,24 @@ public class LevelsProcessingService extends AbstractLevelsProcessingService {
     private static final Map<SortingCode, Comparator<GDLevel>> levelsComparatorMap = initComparatorsMap();
 
     private static Map<SortingCode, Comparator<GDLevel>> initComparatorsMap() {
-        Map<SortingCode, Comparator<GDLevel>> map = new HashMap<>();
-        map.put(DESCENDING_LIKES, descendingLikesComparator);
-        map.put(ASCENDING_LIKES, ascendingLikesComparator);
-        map.put(DESCENDING_DOWNLOADS, descendingDownloadsComparator);
-        map.put(ASCENDING_DOWNLOADS, ascendingDownloadsComparator);
-        map.put(LONGEST_DESCRIPTION, descriptionLengthComparator);
-        map.put(DEFAULT, defaultDescendingIdComparator);
-        return map;
+        Map<SortingCode, Comparator<GDLevel>> comparatorMap = new HashMap<>();
+        comparatorMap.put(DESCENDING_LIKES, descendingLikesComparator);
+        comparatorMap.put(ASCENDING_LIKES, ascendingLikesComparator);
+        comparatorMap.put(DESCENDING_DOWNLOADS, descendingDownloadsComparator);
+        comparatorMap.put(ASCENDING_DOWNLOADS, ascendingDownloadsComparator);
+        comparatorMap.put(LONGEST_DESCRIPTION, descriptionLengthComparator);
+        comparatorMap.put(DEFAULT, defaultDescendingIdComparator);
+        return comparatorMap;
     }
 
 
-    private static List<GDLevel> levels;
+    private static List<GDLevel> featuredLevels;
     private static List<GDLevel> epicLevels;
 
     private static List<GDLevel> popularDemonsList;
 
-    public static List<GDLevel> getLevels() {
-        return levels;
+    public static List<GDLevel> getFeaturedLevels() {
+        return featuredLevels;
     }
 
     public static List<GDLevel> getEpicLevels() {
@@ -68,21 +68,21 @@ public class LevelsProcessingService extends AbstractLevelsProcessingService {
 
     private static void processFeaturedLevels(SortingCode sortingCode) {
         logger.info("Receiving featured levels list");
-        levels = getFeaturedLevelsPage();
-        sortLevelList(levels, sortingCode);
+        featuredLevels = getFeaturedLevelsPage();
+        sortLevelList(featuredLevels, sortingCode);
     }
 
     private static void processEpicLevels(SortingCode sortingCode) {
-        logger.info("Filter epic levels");
-        epicLevels = levels.stream().filter(GDLevel::isEpic).collect(Collectors.toList());
+        logger.info("Filtering featured levels to get only epic levels list");
+        epicLevels = featuredLevels.stream().filter(GDLevel::isEpic).collect(Collectors.toList());
         sortLevelList(epicLevels, sortingCode);
     }
 
     private static void processMostPopularDemons() {
         List<GDLevel> list = new ArrayList<>();
-        if (!levels.isEmpty()) {
-            levels.sort(descendingDownloadsComparator);
-            list = levels.stream().filter(GDLevel::isDemon).limit(DEMONS_LIST_SIZE).collect(Collectors.toList());
+        if (!featuredLevels.isEmpty()) {
+            featuredLevels.sort(descendingDownloadsComparator);
+            list = featuredLevels.stream().filter(GDLevel::isDemon).limit(DEMONS_LIST_SIZE).collect(Collectors.toList());
         }
         popularDemonsList = list;
     }

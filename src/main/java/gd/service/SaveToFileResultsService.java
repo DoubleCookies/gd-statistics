@@ -10,7 +10,7 @@ import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.Map;
 
-public class SaveResultsService {
+public class SaveToFileResultsService {
 
     public static void writeToFileWikiLists(String fileNamePrefix, byte[] data) {
         writeToFile(SortingCode.DEFAULT, "Wiki", fileNamePrefix, 0, data);

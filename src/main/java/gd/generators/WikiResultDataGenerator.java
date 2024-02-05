@@ -1,6 +1,6 @@
 package gd.generators;
 
-import gd.service.SaveResultsService;
+import gd.service.SaveToFileResultsService;
 import gd.service.levelsProcessing.WikiLevelsProcessingService;
 import jdash.common.DemonDifficulty;
 import jdash.common.Difficulty;
@@ -122,46 +122,46 @@ public class WikiResultDataGenerator {
 
     private static void generateMostDownloadedLevels() {
         mostDownloadedLevels = createTableForLevels(ListType.DOWNLOAD_LEVELS);
-        SaveResultsService.writeToFileWikiLists("Most downloaded", mostDownloadedLevels.getBytes());
+        SaveToFileResultsService.writeToFileWikiLists("Most downloaded", mostDownloadedLevels.getBytes());
     }
 
     private static void generateMostDownloadedLevelsForDemons() {
         mostDownloadedLevelsForDemons = createTableForLevels(ListType.DOWNLOAD_DEMONS);
-        SaveResultsService.writeToFileWikiLists("Most downloaded for demons", mostDownloadedLevelsForDemons.getBytes());
+        SaveToFileResultsService.writeToFileWikiLists("Most downloaded for demons", mostDownloadedLevelsForDemons.getBytes());
     }
 
     private static void generateMostLikedLevels() {
         mostLikedLevels = createTableForLevels(ListType.LIKED_LEVELS);
-        SaveResultsService.writeToFileWikiLists("Most liked", mostLikedLevels.getBytes());
+        SaveToFileResultsService.writeToFileWikiLists("Most liked", mostLikedLevels.getBytes());
     }
 
     private static void generateMostLikedLevelsForDemons() {
         mostLikedLevelsForDemons = createTableForLevels(ListType.LIKED_DEMONS);
-        SaveResultsService.writeToFileWikiLists("Most liked for demons", mostLikedLevelsForDemons.getBytes());
+        SaveToFileResultsService.writeToFileWikiLists("Most liked for demons", mostLikedLevelsForDemons.getBytes());
     }
 
     private static void generateMostDownloadedLevelsSmall() {
         String res = createShortListForDownloadedLevels(ListType.DOWNLOAD_LEVELS);
-        SaveResultsService.writeToFileWikiLists("Most downloaded small", res.getBytes());
+        SaveToFileResultsService.writeToFileWikiLists("Most downloaded small", res.getBytes());
     }
 
     private static void generateMostDownloadedLevelsSmallForDemons() {
         String res = createShortListForDownloadedLevels(ListType.DOWNLOAD_DEMONS);
-        SaveResultsService.writeToFileWikiLists("Most downloaded small for demons", res.getBytes());
+        SaveToFileResultsService.writeToFileWikiLists("Most downloaded small for demons", res.getBytes());
     }
 
     private static void generateMostDownloadedAndLikedCopyText() {
         String result = TOP_LEVELS_PAGE_START + mostDownloadedLevels
                 + TOP_MEDIUM_SECTION
                 + mostLikedLevels + TOP_LEVELS_PAGE_FINISH;
-        SaveResultsService.writeToFileWikiLists("Copy text", result.getBytes());
+        SaveToFileResultsService.writeToFileWikiLists("Copy text", result.getBytes());
     }
 
     private static void generateMostDownloadedDemonsCopyText() {
         String result = TOP_DEMONS_PAGE_START + mostDownloadedLevelsForDemons
                 + TOP_MEDIUM_SECTION
                 + mostLikedLevelsForDemons + TOP_DEMONS_PAGE_FINISH;
-        SaveResultsService.writeToFileWikiLists("Copy text for demons", result.getBytes());
+        SaveToFileResultsService.writeToFileWikiLists("Copy text for demons", result.getBytes());
     }
 
     private static final NumberFormat numberFormatter = NumberFormat.getNumberInstance();
