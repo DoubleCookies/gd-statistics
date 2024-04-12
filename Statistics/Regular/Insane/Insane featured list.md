@@ -1,4966 +1,5028 @@
-#### Total: 4962 levels
+#### Total: 5024 levels
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| dinosaur | alkali | 29519341 | 33569979 | 1693976
-| Unity | TriAxis | 12057578 | 31365585 | 1840387
-| Ghoul | DesTicY | 44121158 | 31262966 | 1023713
-| FLAPPY BIRD | TheRealDarnoc | 187254 | 21814796 | 886168
-| Tetrix | Insendium | 3010126 | 15558720 | 890726
-| dorabaebasic10 | DORABAE | 10125163 | 13437329 | 795415
-| Robtop Level Mix | Sir Heis | 11698380 | 13327680 | 769688
-| Cant let go v2 | IIINePtunEIII | 79275 | 12675671 | 542253
-| Jumper v2 | IIINePtunEIII | 87960 | 12077181 | 490387
-| Theory Of Theory | Sumsar | 1566116 | 10920277 | 387297
-| OMG ALIENS | Danzmen | 41736289 | 10082862 | 621460
-| ToE 2017 | GD Jose | 31372254 | 8428573 | 454830
-| The Magma Caverns | nasgubb | 11398172 | 6772091 | 428402
-| Clutterfunk Remix | - | 169590 | 6672530 | 334104
-| The Creator | caio2000 | 50007109 | 6598467 | 561806
-| Lunar Abyss | iIFrostIi | 28806662 | 6553613 | 396765
-| Clash | TheRealDarnoc | 269500 | 5986843 | 262478
-| La Campanella | FunnyGame | 3757912 | 5903548 | 397271
-| Time Machine v2 | IIINePtunEIII | 116806 | 5801601 | 288703
-| Cycles v2 R | IIINePtunEIII | 278956 | 5518937 | 287910
-| Cronos Fantasy | FunnyGame | 821459 | 5406791 | 328660
-| Luminoso | ViPriN | 1350389 | 5359034 | 258725
-| Tetris zone | Experience D | 827829 | 5093636 | 241071
-| ElectroGate | ZenthicAlpha | 1100161 | 4873926 | 233209
-| Wave Wave | TheRealDarnoc | 1796207 | 4758535 | 124902
-| nitrosphere | alkali | 34699785 | 4731508 | 306229
-| system out | RealKamijo | 946020 | 4597833 | 217652
-| Very hard CLG | FunnyGame | 49229 | 4591576 | 250695
-| Into the deep | ZenthicAlpha | 1267316 | 4480370 | 238654
-| Time Machine x3 | KriticK | 882417 | 3999146 | 231654
-| Heptagon Force | Sumsar | 1724579 | 3960172 | 214027
-| Electro DarnoX | Baskerville | 1215630 | 3946820 | 211692
-| Electric Freeze | TheRealDarnoc | 461472 | 3916473 | 209081
-| Blast Processing v2 | IIINePtunEIII | 2899139 | 3821712 | 201205
-| Hexagon Adventure | SMBlacktime | 1670283 | 3683000 | 207663
-| ErrorFunk | Lyod | 516810 | 3498849 | 206803
-| Polargeist HD | VENZA | 329929 | 3472243 | 175112
-| Hexagon Force V2 | Findexi | 1799065 | 3420589 | 189930
-| Hahaha Normal Map | RealHaHaHa | 457265 | 3342241 | 203463
-| The Split | Serponge | 28636863 | 3329038 | 249939
-| Nexus | ViPriN | 11360630 | 3310307 | 183757
-| Funky Cave | Gelt | 1728550 | 3216514 | 178706
-| Funky Dice | MrCheeseTigrr | 708901 | 3130816 | 178890
-| Royal Sky | FunnyGame | 664044 | 3104392 | 195512
-| Made in vuosaari | - | 471354 | 3092378 | 233745
-| Encore | ViPriN | 1205277 | 2993326 | 176762
-| Hyper ice Jumper | Lyod | 456675 | 2912063 | 161492
-| meteor force | Bronks | 24820596 | 2855082 | 255130
-| Three Step | ViPriN | 3161712 | 2763292 | 232188
-| Electroman 2017 | GD Jose | 27027024 | 2747318 | 193323
-| flappy bird demons | RealKamijo | 651738 | 2669964 | 120052
-| Clutterfunk 2017 | GD Jose | 35418030 | 2668881 | 158580
-| Checkmate | FunnyGame | 1447246 | 2665210 | 170089
-| Corrupted Kingdom | BlazeJcy | 857195 | 2643816 | 144220
-| Zenith | Jabbagrullo | 1311773 | 2634068 | 163864
-| Final Step | TheRealDarnoc | 340602 | 2630122 | 154090
-| Silhouette  | RealZober | 37634067 | 2601246 | 172004
-| Mystic Jumper | TheRealDarnoc | 745177 | 2581671 | 173690
-| Theory of Relativity | VENZA | 188909 | 2482728 | 131615
-| Mathymbol Alpha | ZenthicAlpha | 692596 | 2466072 | 190440
-| Dream | TheRealDarnoc | 1132530 | 2409419 | 159515
-| Monster Mischief | MrKoolTrix | 42843431 | 2392765 | 215645
-| Speed Blaster | ZenthicAlpha | 8134957 | 2380683 | 169268
-| Breakthrough | ZenthicAlpha | 884256 | 2346478 | 141748
-| FingerDash76 | KaiDashK76 | 29198721 | 2342179 | 91813
-| Anteroom | Nico99 | 41411342 | 2327665 | 163984
-| FingerCrash | Noriega | 28784493 | 2320993 | 127968
-| Scene Machine | TheRealDarnoc | 687938 | 2303642 | 138958
-| Gravity Cycles | Terminus M | 551979 | 2295397 | 133730
-| Bloodbath but no | Texic | 64968478 | 2105838 | 137022
-| Dimensional Shift | Lyod | 1683722 | 2011746 | 144266
-| Tyrian wall | Jabbagrullo | 804313 | 1998817 | 131725
-| UFO Dominator | ZelLink | 12756371 | 1967797 | 69447
-| Shuriken | Ferdefunky | 43923301 | 1925048 | 157338
-| Granite | rafer | 31993928 | 1868822 | 159257
-| AlterGame XIV | Serponge | 29812998 | 1866557 | 122239
-| phosphenes | piramidka | 36062234 | 1860394 | 124314
-| Predator | Samoht | 43537990 | 1823494 | 134791
-| Schiarendo | Usermatt18 | 31432270 | 1813155 | 150243
-| High Life | Migueword | 11849346 | 1801584 | 129968
-| FLAPPY BIRDS | DzRAS | 934438 | 1788854 | 100858
-| Hexagon Force 2016 | GD Jose | 25321905 | 1780335 | 128049
-| Caramel | LeocreatorX | 33115476 | 1759488 | 143644
-| ColorShine | enlex | 31298966 | 1745273 | 134780
-| HellGate Menace | ChaSe | 44131636 | 1676502 | 135222
-| Aglais | enlex | 34962227 | 1623470 | 127214
-| Robotic Nightmares | ViPriN | 2943060 | 1556245 | 106126
-| Mechanism | haoN | 44063088 | 1551257 | 163523
-| AfterForce | ViPriN | 10463007 | 1490005 | 135068
-| dorabaedifficult3 | DORABAE | 1998603 | 1472037 | 69523
-| Thought Process | wlfn | 30315888 | 1406398 | 134555
-| Acceleration | TamaN | 17822925 | 1358223 | 159140
-| Impavido | doritos1 | 73347997 | 1345360 | 79044
-| dorabaedifficult | DORABAE | 584615 | 1310831 | 65384
-| Zwap | Thomartin | 32827297 | 1266507 | 102341
-| The Nightmare v2 | - | 844293 | 1246047 | 53446
-| Nightcore | Tinymanx | 9032320 | 1234466 | 87970
-| Troll After Troll | Defectum | 1380050 | 1230299 | 23023
-| Dastardly | Subwoofer | 97454812 | 1217658 | 122592
-| Cataclysm | CRSR | 28529763 | 1140404 | 62417
-| Slimy | distortt | 41338463 | 1139009 | 66469
-| Final Battle | Findexi | 7511382 | 1136953 | 94047
-| Immersive  | Korita | 37489485 | 1121001 | 78361
-| monstrum | ZenthicAlpha | 29082822 | 1107294 | 87232
-| Ultimate Level Mix | RealSoulDash | 3140440 | 1106368 | 104602
-| Ginseng | TamaN | 12932830 | 1084747 | 120052
-| SUPER GD GEM HUNT 64 | Colon | 98076904 | 1080779 | 60495
-| Rectangle | Knots | 80270709 | 1041063 | 68751
-| Munchy Caverns | JacobROso | 23354184 | 1018098 | 76700
-| 60 Seconds | Sumsar | 21370564 | 1015642 | 65757
-| Press Start V | DepisH16 | 71554572 | 1001598 | 41633
-| ColorFul Game | Hahaha | 3581204 | 983275 | 84193
-| Kirbys Adventure | Jovc | 32676971 | 975673 | 91345
-| Blacklights | TheRealDarnoc | 29165461 | 974523 | 75078
-| Sky Striker | Chlorines | 36413297 | 957642 | 75339
-| dorabae jumping zone | DORABAE | 444823 | 917930 | 47638
-| Infinite Power | Optonix | 13123203 | 891931 | 74336
-| Level Up | ViPriN | 3890675 | 888555 | 79145
-| flappy bird | DzRAS | 1372582 | 887594 | 45249
-| Theory Of Every Mix | SUOMI | 4376468 | 874177 | 84367
-| Anbu | MistFix | 38685580 | 863862 | 73432
-| NanoByte | TriAxis | 16662049 | 859983 | 89264
-| Blast Processing V2 | Findexi | 3181935 | 859355 | 49870
-| Computer Talk | 1374 | 60621991 | 838981 | 79784
-| Fracture | Namtar | 6573748 | 826990 | 53918
-| Star Jumper | ViPriN | 8711878 | 797690 | 63559
-| Crystalized Rebirth | nikiy0 | 80829064 | 782839 | 61683
-| Crystalized Rebirth | nikiy0 | 80829064 | 782839 | 61683
-| Sad Machine | TamaN | 21927333 | 777420 | 80384
-| UFO Research Park | ZelLink | 4877117 | 772068 | 30182
-| The Nightmare 2019 | BranSilver | 53601704 | 762224 | 44753
-| solar era | alkali | 37154749 | 744706 | 68003
-| Sunshine Shrine | gecko0 | 57010547 | 737448 | 15741
-| Asterose | goose | 44525497 | 734813 | 57789
-| Forever Bound | BobRatchet | 22123698 | 731415 | 83347
-| the nightmare 2019 | alkali | 54746779 | 717219 | 34990
-| Refresh | DesTicY | 38459797 | 715087 | 58722
-| Hexagon force v1 | Chevere | 1653915 | 713841 | 55361
-| Amnesia | ZenthicAlpha | 4872295 | 710182 | 70477
-| Rhythm | 1u49 | 68117911 | 705234 | 48254
-| automation  | AirForce | 13150605 | 696953 | 38888
-| zone pirate ii | Wilz | 95778773 | 692060 | 59698
-| PAINt III | stubbypinata | 31269463 | 676193 | 54194
-| UwU | DHaner | 51547268 | 673170 | 50246
-| New Energy | ViPriN | 8627394 | 663459 | 65561
-| Livewire | Kozu44 | 31320481 | 660460 | 62844
-| BitterSweet | ChaSe | 15800054 | 659092 | 55696
-| xStep v2 rebirth | FunnyGame | 898263 | 658541 | 29175
-| water droplets | goose | 18974467 | 658124 | 67599
-| ExplorerS | iMinAY | 57577339 | 657253 | 22051
-| Neverending sky | JustPotatoNow | 98747150 | 655344 | 43206
-| Catharsis | Gravii | 33564671 | 651258 | 63730
-| Drift | G4lvatron | 17759639 | 651018 | 66989
-| Kiru ra Kiru | TriAxis | 18111424 | 636545 | 68274
-| Plants VS Zombies | GDvesuvius | 72128413 | 632015 | 37584
-| UNDERWORLD | Presta | 78878411 | 631419 | 48534
-| Insalium | Colxic | 36679587 | 629330 | 38071
-| Dash | ItsMeAnxiiety | 13502494 | 628858 | 27605
-| UFO Force | ZelLink | 4128177 | 627382 | 16256
-| Lucid Flashback | X1RON | 71447812 | 624175 | 57522
-| Seasonal Haven | AbstractDark | 90475597 | 623298 | 65594
-| geometrical domi v2 | Iid4sh3riI | 11113225 | 618501 | 45483
-| Pepsi | ValkyrieMaster | 63165412 | 613616 | 51641
-| One day | Jax | 1127183 | 608846 | 24934
-| Press Start IV | DepisH16 | 64199783 | 606365 | 22542
-| Vital | theGoT | 69995845 | 604135 | 28763
-| Technofunk | irsdorkage | 94962842 | 602093 | 44164
-| Storm | Wav | 71260164 | 599652 | 39455
-| Prince of Darkness | Adriam71 | 93234425 | 596968 | 54417
-| Monsters | Nikce | 95536714 | 596740 | 61980
-| Cosmic Brownie | Usermatt18 | 37332957 | 595255 | 51441
-| ToE Mix v2 | SUOMI | 13321643 | 590471 | 37670
-| Fast as Lightning | Rabbitical | 4254263 | 588121 | 56207
-| Robotic Night | Debihan | 95490170 | 571108 | 39608
-| BadLand | MrCheeseTigrr | 606179 | 567940 | 12894
-| Viridian | Hyenaedon | 95445613 | 561112 | 24915
-| Crimson Devilworks | SparksOmega | 71150917 | 559954 | 27616
-| Despicable XX | VRTGq | 76142451 | 559126 | 40705
-| Fairy Dreams | shaggy23 | 32218629 | 556839 | 44880
-| The Gungeon | MattewGame | 100995750 | 556299 | 57489
-| Meow Party  | Adiale | 22443093 | 556153 | 62750
-| Fugacious | IIAnubisI | 72807604 | 553311 | 43627
-| RUN | Cdpre | 78353144 | 548409 | 54745
-| Eight | Leksitoo | 24522597 | 545991 | 33125
-| Echo | noobas | 7450254 | 544607 | 59509
-| Flappy Bird remix | The Carrot | 601365 | 537423 | -11676
-| AfterProcess | ViPriN | 7185933 | 535146 | 58800
-| Ignite | MrLorenzo | 31844856 | 532155 | 49610
-| The Backrooms | TheRealPepsiMan | 101102438 | 531760 | 52138
-| Wild Card | Thomartin | 90471222 | 531651 | 50997
-| how cool could be | PixelLolka | 86147134 | 528748 | 45026
-| Nostalgia | Jeyzor | 12251114 | 527042 | 60435
-| Wake Up | Mulpan | 29096428 | 526277 | 48795
-| Moonlight | 1u49 | 64854861 | 524846 | 23387
-| The Catacombs | ItzKiba | 99001776 | 521541 | 26150
-| Power | Small | 48999939 | 517869 | 51866
-| Level Mix | Jeyzor | 1249219 | 509611 | 38705
-| UFOman adventures | ZelLink | 2538350 | 506030 | 17861
-| MAELSTROM | velvetsune | 86263800 | 504593 | 21098
-| MAELSTROM | velvetsune | 86263800 | 504593 | 21098
-| Flappy Cyber | ZelLink | 1699986 | 503573 | 25249
-| Ludicrous Speed | Leksitoo | 11655811 | 502665 | 46001
-| black powder | vrdr | 96609002 | 502292 | 45936
-| Broken Calendar | stratos2596 | 55627631 | 501073 | 33727
-| Sciophobia | RealZober | 40569028 | 491965 | 43330
-| OTHERSIDE | ChrySpy | 101850565 | 489331 | 34350
-| Lightning Reflex | Ad0NAY27GD | 83729866 | 480795 | 29539
-| mayonnaise cave | noobas | 6511152 | 479840 | 51688
-| Decent | SylntNyt | 56367479 | 475985 | 49922
-| 1337 | JerkRat | 96258005 | 475593 | 33669
-| Mechanical Fury | Noctaliium | 32724645 | 471995 | 48196
-| Gyrophare | Ellisha | 84494316 | 468321 | 26144
-| Flaklypa | ViPriN | 3811662 | 466279 | 47013
-| Final Boss II | RoyalP | 56483712 | 465612 | 33024
-| Dank Pursuit | Adiale | 25336017 | 462809 | 47208
-| Transform | Usermatt18 | 24259998 | 460988 | 48015
-| Dr Pepper | Maroplay | 93182527 | 460098 | 36076
-| Alien Invasion | khenomy | 92370498 | 458987 | 37780
-| New clubstep | Experience D | 5368033 | 456427 | 33630
-| Summer Winter | Booglee | 98893353 | 454475 | 38891
-| Citadel Climb | imbaz | 97627452 | 453758 | 35928
-| TouchArcade | Acors | 30822982 | 451374 | 41911
-| Game | Frama | 92843423 | 450410 | 45444
-| invisible xstep | BlackP2sFull | 450070 | 449297 | 33350
-| Hologram | FunnyGame | 2541506 | 447510 | 36145
-| wandering in space  | doritos1 | 77780116 | 446673 | 33708
-| Kill la Kill | M3nhHu3 | 20192708 | 444857 | 59282
-| PixelPath | AwiXan | 98003931 | 444189 | 32671
-| Chaoz Grandium | Temptati0N | 59130284 | 443921 | 35063
-| Creator | Turtle2107 | 13000392 | 439032 | 34703
-| Yoinky Sploinky | NukeIIX | 78103113 | 437026 | 29749
-| Balisong | Zeniux | 95762764 | 436118 | 35989
-| Blu | Nicki1202 | 58915395 | 434367 | 32171
-| Fusion palace | Experience D | 11822091 | 433781 | 45918
-| Easy and Hard | TheRealDarnoc | 63419 | 433663 | 17212
-| Dark Paradox | SaabS | 48695322 | 429890 | 39290
-| Troll Out | Defectum | 1291923 | 429648 | 7803
-| Controllable | AndrixGD | 95750592 | 427433 | 27979
-| Medium Rare Milk | TheTrueEclipse | 85734905 | 425560 | 16102
-| Burnout | Wav | 67839652 | 423780 | 22457
-| BREAKAWAY | KMJFIRE | 91967003 | 423062 | 37843
-| Swagger | Puueds | 93358704 | 421419 | 35750
-| Twoby Level | PAHC | 100271781 | 420735 | 21314
-| Evant | ILRELL | 29536842 | 418636 | 36549
-| MattTacc | johdanlop | 95209297 | 417245 | 35117
-| Tumble Jungle | nikroplays | 99103470 | 417082 | 24837
-| Dimensional | Nemsy | 71950911 | 417037 | 32968
-| Theodore | JCooch | 79343278 | 416447 | 14304
-| Summary | Danolex | 40604036 | 415384 | 43150
-| Deep Breath | DepisH16 | 75151404 | 413770 | 20940
-| Robot Uprising | Ficelo | 93873604 | 411027 | 26331
-| ElectroBonkers | TrickyBonkers | 93761830 | 407637 | 37136
-| Ronin | Jezzel | 73631611 | 406036 | 30525
-| Monster | Destriv | 50523840 | 405064 | 30113
-| Recalibrate | iZinaD4sh | 22383532 | 404865 | 37240
-| Wyvern | velvetsune | 75781732 | 404564 | 23521
-| Digitalism | doritos1 | 66661777 | 402884 | 33894
-| Funk That | Dragaconic | 93185323 | 401854 | 47941
-| zero angel | bunch | 80153956 | 400619 | 32613
-| Innervision | nampac | 50705114 | 399106 | 34297
-| IONIC | Bpi | 89659331 | 398117 | 29981
-| Demonfunk | Leksitoo | 17363987 | 397602 | 24675
-| Restart | Markyforce | 91541327 | 396667 | 31165
-| Count to Twenty | Zoroa | 57106915 | 395822 | 38494
-| Variant | Bizaare | 68799704 | 394879 | 22797
-| BRAINSTORM | BrainETR | 85280812 | 392584 | 15740
-| Blast ReProcessing | Codex | 29359391 | 392180 | 30835
-| D e a d m i X | Joath156 | 80017339 | 390496 | 36190
-| GO MOMENT | SmitN | 80380213 | 388433 | 29353
-| Shadow Rush | Tongii | 34279935 | 387892 | 39639
-| Ghost food | shodai1128 | 93875932 | 386107 | 32369
-| Polarization | Jabbagrullo | 2322673 | 384086 | 23315
-| Central Core | Renn241 | 75534380 | 382909 | 24625
-| Comatose Dreamscape | Knots | 61631083 | 382528 | 35829
-| DANGER high voltage | Buziris | 88745060 | 382299 | 28051
-| DANGER high voltage | Buziris | 88745060 | 382299 | 28051
-| Mythical Shadow | CastriX | 29721755 | 381977 | 35072
-| electric dash | isaacpl01 | 63789349 | 381629 | 24470
-| DigitalWorld | YahirPoint | 70493980 | 380635 | 36017
-| Ultimate Sound | KoromiGD | 85596448 | 379785 | 24021
-| supercharge  | sharkdex | 90153026 | 379169 | 26417
-| UFOdynamix | ZelLink | 3802409 | 379078 | 14574
-| Hidrece | MarkyArchived | 77809915 | 379012 | 28962
-| To the Top | Cirtrax | 50863505 | 375377 | 27505
-| Fluctuation | schady | 32916053 | 375004 | 38449
-| Caffeine Rush | Chayper | 60059338 | 374299 | 23883
-| 8 Bit Jungle | TypicalGMD | 71065128 | 371658 | 21132
-| IO | spark | 65068071 | 370964 | 21906
-| Clean Slate | Split72 | 96570950 | 368653 | 33404
-| Mystletainn | velvetsune | 96990017 | 368549 | 23444
-| Nostalgic Overdrive | aloom | 94686524 | 365880 | 23781
-| Momentum | Lenzelium | 70173057 | 364966 | 29273
-| Jumper v2 | Sumsar | 760332 | 363994 | 12892
-| Neodymium | ValkyrieMaster | 65772902 | 363478 | 11947
-| EXIT | Knots | 47662601 | 363459 | 33752
-| Sanctus | Xyle | 55611071 | 362613 | 23652
-| Outside Time | TypicalGMD | 79450765 | 362006 | 18251
-| Apex | Echonox | 19186885 | 361512 | 44501
-| FireFrost | Minesap | 2877459 | 361246 | 40184
-| Ne | Frama | 94506662 | 360212 | 38799
-| musical journey | yakine | 4518536 | 360049 | 27117
-| Brainshot | Wav | 81719901 | 359514 | 26240
-| A Gentle Stroll | Zoroa | 95292366 | 358908 | 24157
-| Encryptic | DeniPol | 46462501 | 357506 | 31013
-| Unnamed 7 | Etzer | 40037755 | 355988 | 26968
-| Factory Level | ssalt | 85623843 | 355109 | 25963
-| neXus  | Schneider9 | 50780745 | 354177 | 31550
-| Parastrike | Tongii | 26822731 | 352845 | 38225
-| Already Gone  | Adriam71 | 92262040 | 352358 | 25444
-| 937 | GeraldBrown | 62973709 | 351578 | 20020
-| i forgor | bunch | 74261758 | 351167 | 27896
-| Doomsday | IIINePtunEIII | 510004 | 351054 | 22757
-| Dark Halls | Whirl | 95363037 | 349509 | 22301
-| Amber | 1nfra | 80866876 | 347134 | 34545
-| Adagio | ViPriN | 1150414 | 346036 | 18520
-| Cinniama | mochiiii | 95294169 | 345956 | 24791
-| Flappy Bird | Alphalaneous | 66190207 | 345509 | 14626
-| Artificial Love | Erdyuri | 48713988 | 345457 | 31212
-| Palette | oraangee | 75553743 | 345270 | 26043
-| Sonar Manuevers | Zorochase | 7681293 | 341019 | 19550
-| Toy Thief | NogZ | 50680960 | 340917 | 31516
-| expansion | alkali | 68048356 | 340644 | 21657
-| Arcade  | ValentInsanity | 27373989 | 340575 | 38394
-| Digital Glitch | DangerKat | 88500687 | 340193 | 23199
-| Free Fall | Fletzer | 52367213 | 337851 | 27897
-| Run to the Hills | Th30ne | 98484695 | 337800 | 26708
-| aple kice | bunch | 66958210 | 337513 | 21190
-| Mechanic Upforce | ZenthicAlpha | 4144649 | 336682 | 30587
-| Jumping Master | - | 252581 | 336541 | 20320
-| Fast Dry Out | croshz | 885150 | 336065 | 24578
-| Velocity III | jacr360 | 39268754 | 333810 | 30101
-| Audio Boulevard | cXpium | 70984171 | 331572 | 25542
-| Supernova | Glittershroom | 6620290 | 330867 | 32529
-| Surface | SaabS | 31570072 | 330512 | 37047
-| Bass Knight | MaykollGD | 67728429 | 329661 | 23671
-| Archetype | ZenthicAlpha | 4727668 | 329422 | 37109
-| Termik | Akvaz | 76509331 | 328989 | 23175
-| VeE | Fletzer | 55762687 | 328486 | 22338
-| Marte | Edooox | 67984875 | 328160 | 23449
-| Circles | Darwin | 46622813 | 327396 | 22510
-| Instant Reaction | Enterrestrial | 11697387 | 326458 | 40023
-| Harps | Allex20 | 74567102 | 325831 | 22135
-| Retro Caverns | Nemsy | 91297057 | 325821 | 22987
-| Bossfight | Niji | 68625168 | 325554 | 10821
-| Existential  | CatronixGD | 90037421 | 325275 | 21612
-| Toxic city | Lixars | 54738102 | 324691 | 23650
-| Propane Nightmares | rafer | 37925002 | 324668 | 33179
-| Prodigy | Nicki1202 | 31360528 | 323629 | 35020
-| Joshua Vortex | JustJohn | 72498415 | 322627 | 25761
-| Ztay | Mineber | 77002501 | 322175 | 23600
-| Calmness | ArtViper | 74135363 | 321079 | 22502
-| Save | YunHaSeu14 | 75776048 | 320958 | 41317
-| Eternia | Zeniux | 89334701 | 320948 | 22345
-| Single Light | Danolex | 36504916 | 320294 | 25533
-| Crossing | Gelt | 9664324 | 318854 | 29409
-| Paradise World | shaggy23 | 29351710 | 318699 | 30367
-| marsh potao | bunch | 94731256 | 317718 | 24735
-| Neon Comet | J0eyOnGD | 73360672 | 317151 | 26784
-| Speed Tricks | GDSkele | 97614990 | 316449 | 22866
-| NeutroniuM | GiaMmiX | 78968273 | 315690 | 21769
-| Space Invasion | Andromeda GMD | 8280649 | 314756 | 31634
-| Enigma | KittyDoge | 61505156 | 314473 | 18281
-| Et Cetera | SpKale | 44840313 | 313728 | 27441
-| Broken | M3nda | 83533271 | 313511 | 25307
-| Iris Dei | Darwin | 31409467 | 313510 | 36096
-| CenterForce | ZenthicAlpha | 4482795 | 313437 | 33460
-| Kinetic | flameur | 82215819 | 313006 | 26892
-| Crystallizer | TheTrueEclipse | 14737567 | 312532 | 21971
-| Fiery Astringent | Nemsy | 83709175 | 310644 | 15000
-| All Night Long | Subwoofer | 63521576 | 309877 | 18787
-| Treasures trial | Dragaconic | 98438984 | 309466 | 28020
-| hullabaloo here | Buziris | 94353525 | 309194 | 24191
-| PP Drop | theAlias | 61545007 | 308452 | 12658
-| Stereophonic Funk | vonic | 79578581 | 307877 | 22955
-| force  | Xenvill | 90755752 | 307528 | 18044
-| POLAR EQUALS | cometface | 77826154 | 307397 | 22353
-| Infinite Party | zorlex | 84167274 | 306742 | 22581
-| fire n bass | doritos1 | 57473912 | 306713 | 20929
-| Electrolyte | Minesap | 5196945 | 306688 | 32149
-| Terrifiant | Hydren | 70019126 | 306278 | 27673
-| Generations | OnlyTrying | 99578001 | 306109 | 19154
-| Disintegrate | vonic | 84380367 | 305247 | 19755
-| Disintegrate | vonic | 84380367 | 305247 | 19755
-| BubbleBath | Iamlost1337 | 17177503 | 302863 | 28242
-| LA HUIDA | Buziris | 91811777 | 302726 | 22775
-| jarvis silent map | robotchief | 75504757 | 302621 | 22587
-| SMASH IT | Aleiz21 | 67710299 | 302407 | 17417
-| Twenty On3 | Aleiz21 | 77516716 | 301449 | 22285
-| Burger Dance | SirExcelDJ | 93343006 | 301344 | 28262
-| Ancient Arts II | LucyGMD | 69648515 | 301274 | 15249
-| Mallet | Beljakow | 93758124 | 300020 | 24964
-| Fast Cant Let Go | croshz | 922398 | 299418 | 21086
-| AsyluM | OmegaFalcon | 29394015 | 298916 | 28241
-| Da Dank Site | kodex360 | 68329897 | 297498 | 18732
-| Industrial Society | V3KTXR | 79619064 | 296446 | 24221
-| stepping on flowers | vrymer | 100384133 | 295576 | 8906
-| silent hill | noobas | 3512376 | 295391 | 25509
-| Pump up the volume | Chayper | 65318273 | 294757 | 16844
-| Code | IIAnubisI | 51115607 | 294307 | 26717
-| Anger | Amukkuna | 96682975 | 293341 | 13416
-| Morphine | MistFix | 54530713 | 292759 | 25035
-| Trollgeist | Defectum | 1237456 | 292750 | 5777
-| Like a Blast | Zinht | 63713595 | 291734 | 20517
-| Just OnE LeveL MorE | SrMDK | 60312003 | 291090 | 20593
-| Mayday | Insendium | 12149228 | 290449 | 34679
-| Showdown | ZenthicAlpha | 25211712 | 289489 | 28339
-| Deep Space | meeloz | 100586569 | 288947 | 14128
-| Blue Dimensions | Wav | 63240826 | 288498 | 15184
-| Space Fighters | meromelon | 13804827 | 288396 | 21054
-| Inbound | Zeniux | 89246770 | 287629 | 27394
-| CybernistiC | Darwin | 31929275 | 287502 | 31652
-| control | Nickalopogas | 57487499 | 287179 | 20033
-| Glacial | Serponge | 44454630 | 286874 | 26880
-| Laurel | Split72 | 83453794 | 285989 | 23266
-| raveyard | LightPotato99 | 80914306 | 285744 | 23089
-| UFO xStep | ZelLink | 2010422 | 285410 | 10000
-| Daybreak | Zeniux | 91811353 | 284860 | 26423
-| exploding box | SirZaiss | 46032463 | 284549 | 27838
-| The other side | Jorgem1gue7 | 96447996 | 284003 | 13631
-| Aero Zone | Rawin | 60188291 | 283518 | 15975
-| Bass Kick | Spectex | 7562884 | 282976 | 30151
-| Ridge | JA4Y | 79029376 | 282571 | 20210
-| HardBeat | TheRM22 | 26032106 | 281817 | 19917
-| Marion | NeutKat | 90816624 | 280288 | 21482
-| Marion | NeutKat | 90816624 | 280288 | 21482
-| PAINt II | stubbypinata | 24842672 | 278803 | 27497
-| Toxin Lab | Xaro | 6531884 | 278054 | 33099
-| Reactant | AndrixGD | 92543345 | 277893 | 22027
-| maeshmolowa | bunch | 64279282 | 277541 | 16816
-| Bonk | Wav | 63148614 | 276858 | 18304
-| REGAIN CONTROL | Apstrom | 90355268 | 276511 | 23366
-| Flowers Garden | shaggy23 | 24997050 | 276148 | 30126
-| Harenae | guppy28 | 60513698 | 275167 | 21826
-| kStep | ZenthicAlpha | 1998197 | 274918 | 20534
-| Inside | Darwin | 49697813 | 274649 | 26380
-| Blink Blink Blink | GDTicLos | 97910997 | 274451 | 16710
-| Planetary Expedition | Maboflo | 17641941 | 273797 | 24215
-| Direction  | Korita | 34526077 | 272110 | 25761
-| VIII | ItsEnigma | 67902743 | 271621 | 16691
-| Immortal Iris | Gusearth | 61063947 | 271051 | 18991
-| Exploding System | OLEEEEG | 92267072 | 270880 | 19993
-| A Pretty Easy Level | Codex | 89961490 | 270736 | 27310
-| Ficelopolis | Ficelo | 92217968 | 270288 | 22562
-| Overload | DangerKat | 87053654 | 270079 | 21708
-| Futuristica | Jeyzor | 5763091 | 269247 | 29431
-| Mileage | Nemsy | 89709802 | 267960 | 23514
-| alone | Jezzel | 60148025 | 267800 | 16891
-| The Furious | KaiDashK76 | 28697792 | 267690 | 29006
-| Phantom | thebun | 90680237 | 267351 | 20071
-| Phantom | thebun | 90680237 | 267351 | 20071
-| Disco Chip | TheRealDarnoc | 6195520 | 266436 | 29395
-| adrenaline | Erxu | 61307385 | 266251 | 20932
-| The AAAAA | Alphirox | 88329895 | 266029 | 28041
-| QVYJH | JumpingTheory | 94144575 | 265081 | 21949
-| PLUGIN | fJud | 94265781 | 264855 | 16992
-| Final Theory | Minesap | 4822540 | 264491 | 26425
-| Time Stop | Selskiy Kot | 99753499 | 264423 | 20840
-| PixelGame | Serponge | 27583231 | 264365 | 22558
-| Glow Manic | Vexes7 | 63918780 | 264289 | 15560
-| Shimmer | Elsig2002 | 75591599 | 263355 | 19383
-| Lets GroovE | Optation | 75671329 | 263249 | 20429
-| CUBED GALAXY | Wilz | 54525995 | 262717 | 26848
-| SICK AND TWISTED | johdanlop | 103192803 | 262377 | 14170
-| Samed | Hydren | 66640781 | 262284 | 26738
-| Odyssey | JacobROso | 62901896 | 262008 | 14918
-| Thermodynamix | Dambrearon | 76661488 | 261534 | 22544
-| Diver | RickTz | 64676489 | 261374 | 15262
-| Glare of light | Nexender | 64416619 | 261114 | 14467
-| New Horizon | ML500 | 98423083 | 260049 | 18939
-| Pix | ZachLy | 80467319 | 260027 | 24899
-| Retrospective | Shatt3rium | 79544961 | 259604 | 20535
-| Reactor | CultriX | 58790213 | 259380 | 15614
-| OUR EXTRAVAGANZA | PICAAAAAA | 89140813 | 259001 | 22962
-| KrisMas | HTigerzGD | 76858511 | 258684 | 18373
-| Jarvis McFlarvis | BridgetTheCroco | 77801238 | 258355 | 19108
-| TLYABWF | velvetsune | 89758084 | 258085 | 18781
-| PSYNAPSE X | BridgetTheCroco | 66542544 | 256968 | 16500
-| Tricky Industry | Edooox | 75829356 | 256911 | 23517
-| SleepYcAAt II | Moffer | 94576006 | 256393 | 20027
-| SourCream | Rockstr99 | 6890250 | 255321 | 27314
-| Dune Boi | Serponge | 40821087 | 255152 | 23734
-| Shape of the Sun | TpAesuki | 89048483 | 254989 | 17061
-| Spartan Tower | Raivolt | 97614556 | 254211 | 19413
-| Friendship | AmorAltra | 34177489 | 254146 | 27263
-| Astray | Suixam | 54503216 | 253911 | 25035
-| Invigorate | RealZober | 32371324 | 253758 | 27827
-| SPECTRUM SURGE | BrainETR | 73666392 | 253657 | 17496
-| level mix | Madman123 | 1513272 | 253616 | 10793
-| AnnoZone | Annon | 63292359 | 253533 | 16604
-| Blockbuster | AgentJo | 94947089 | 252446 | 11885
-| The Depths | Latko | 90971819 | 250726 | 19603
-| Mach X | Nemsy | 65793998 | 249615 | 15448
-| Error | Xypheeeer | 95044315 | 249563 | 11921
-| Holy Milk | Pan | 19288971 | 249455 | 35535
-| More Beats | Yakimaru | 48829531 | 249415 | 24910
-| Cool Voyage | shaggy23 | 34989249 | 249093 | 23772
-| Dashing Thru Petals | Spidrach | 100457692 | 248722 | 14246
-| LockDown | R3XX3R | 54375171 | 248708 | 24415
-| FluorLights | ElMatoSWAG | 85582923 | 248671 | 10642
-| Energy Beam | IyuriI | 39809733 | 248651 | 20235
-| Sly Shuffle | MrKoolTrix | 38857027 | 248299 | 26989
-| CLoNEs | Split72 | 62877097 | 247739 | 16382
-| onyeung rings | bunch | 76559456 | 247495 | 20482
-| Triagonal Corundum | Tenzelo | 49166541 | 246476 | 22333
-| IyuriI BossFight | IyuriI | 29140802 | 246402 | 27979
-| Ricochet Love | ViPriN | 3399616 | 246291 | 30172
-| Mythical | balli | 58118800 | 246282 | 14469
-| Scenic Route | nampac | 59027350 | 245570 | 14564
-| The True Boss | Caeden117 | 11132905 | 243884 | 31333
-| Sequenctial | Havok | 10198733 | 243733 | 24037
-| Circvmcenter | MisterBean | 80880443 | 243385 | 17825
-| Circvmcenter | MisterBean | 80880443 | 243385 | 17825
-| Thingy | BridgetTheCroco | 66560970 | 243232 | 14678
-| Ransom | MrSpaghetti | 89927490 | 243116 | 22264
-| Time Battle  | Panfi2 | 11390392 | 243030 | 20542
-| AUDIO VISUAL | AudieoVisual | 96009570 | 242945 | 12482
-| The Seven Seas II | Peton | 29418571 | 242887 | 19407
-| Shuriken | Serpent | 73694082 | 242074 | 23016
-| CR4ZY | jneh | 61772172 | 240445 | 15232
-| Sometimes You Die | nsheyld | 97954892 | 239451 | 25367
-| ARRAX | YanisDiss | 90443284 | 239383 | 18677
-| Floodfall Caverns | J735 | 91446593 | 237976 | 15472
-| Simbiotic | Zinht | 75070862 | 237586 | 15752
-| Contrast | DashDude | 87989674 | 237055 | 20139
-| Deathrun | AgentJo | 57411692 | 236953 | 14636
-| Electrolysis | RealZober | 35933196 | 236824 | 27661
-| Make It | issanagay | 73142901 | 236705 | 13483
-| Deep Sleep | PixelLolka | 100774827 | 236353 | 18056
-| The third light | Churrasco | 13051557 | 235906 | 20064
-| Salvation | R4nchi | 60141325 | 235752 | 15678
-| Adventure Fantasy | JerkRat | 2979753 | 235533 | 25023
-| Adventure Time | Subwoofer | 84233422 | 235500 | 14583
-| Adventure Time | Subwoofer | 84233422 | 235500 | 14583
-| Rising Circles | TrigoniX01 | 9803621 | 235433 | 35613
-| Theta Tocktail | WerewolfGD | 79480175 | 235117 | 11963
-| Modern Cave | Mazl | 28816779 | 235075 | 27707
-| Turn To Stone | PAHC | 77419444 | 234913 | 19202
-| Astral Zero | ViPriN | 2353552 | 234735 | 20671
-| Lets Bounce | iIRockyIi | 12337067 | 234565 | 28241
-| again 2 | ImAkKo | 93952431 | 234346 | 24690
-| PAINt | stubbypinata | 23329204 | 234080 | 25403
-| Dare | Twoots | 11384332 | 233348 | 28136
-| UFO Cycles | ZelLink | 1989096 | 233094 | 9391
-| UFO Adventures | ElEcmEtAl | 1590239 | 232890 | 8312
-| 2011 | ValentInsanity | 24748864 | 232711 | 27772
-| Super Cataclysm | GSD | 11925525 | 231756 | 27202
-| Dystopia | PotatoBaby | 59823443 | 230777 | 15125
-| Destiny Zone | Skitten | 10556202 | 230019 | 25836
-| crazy bolt easy ver | Experience D | 564455 | 229772 | 7727
-| Mangler | Vexes7 | 67114232 | 229513 | 14735
-| Doritos Nacho Cheese | BrainETR | 77508963 | 229022 | 24578
-| Strident | Xylph | 54831622 | 228848 | 15520
-| amazing level | AlrexX | 63725478 | 228238 | 14828
-| Square Shock | MoxiT93 | 51139172 | 228204 | 23781
-| AlphA OmegA | Vexes7 | 65143046 | 227777 | 23290
-| Dream Traveller | Inergy | 35606643 | 227777 | 10317
-| zone pirate iii | Wilz | 102117428 | 227594 | 16209
-| Chipperly | Andromeda GMD | 18305057 | 227230 | 22620
-| Master Dominator | ML500 | 14501585 | 227101 | 22023
-| transistor II | xcy7 | 15590591 | 226967 | 22495
-| Gears of a King | Spectex | 38176028 | 226124 | 17155
-| Python | MattMrn | 11691969 | 225857 | 25692
-| Viscera | SaviN7 | 88541078 | 225328 | 18072
-| The Future | M3llo | 48057975 | 224928 | 14906
-| Garuda Impact | ghostmonkeyb | 97613548 | 224689 | 17546
-| Crazydylopsious | xQuadrant | 3343998 | 224520 | 13269
-| Ninox | GD Jose | 62548661 | 224459 | 16227
-| Dread | YunHaSeu14 | 78727750 | 224097 | 24731
-| Kool Trip | DamianosKabanos | 59849490 | 223838 | 15198
-| Special Essence | ItzMezzo | 47637822 | 223085 | 13652
-| Utopia | mikeymonke | 61865319 | 223075 | 12573
-| Eclipse | DimaNelis | 48978074 | 222446 | 11211
-| Gate of war | Experience D | 13906643 | 221711 | 23964
-| Regain Control | Akvaz | 91420965 | 221701 | 10920
-| ScaleoticA | MiGor07 | 62296864 | 221461 | 11562
-| Sweetland | Darixen | 76842657 | 221138 | 18082
-| Trouble | iFuse | 63260507 | 221085 | 10831
-| Rocket | MyGoldenChips | 14031694 | 221067 | 18845
-| Blender | skrillero01 | 90562111 | 220813 | 20618
-| Blender | skrillero01 | 90562111 | 220813 | 20618
-| Transit | KJbeast1000 | 27080271 | 220528 | 28217
-| Nostalgic Area | AlexGdGamer | 89268921 | 218710 | 18901
-| TrouBle | ItsJustCohen | 63355334 | 218621 | 12506
-| The Orbital Ring | Markyforce | 95141546 | 218601 | 12976
-| Memory Lane | BlockinBlocker | 51350208 | 218588 | 15478
-| No Limits | Voxicat | 67904356 | 217810 | 12893
-| snatcher | Dubayo | 65738425 | 217784 | 14338
-| Fatal Error II | Hinds | 5673129 | 217308 | 18902
-| Mirage Rod | Nemsy | 77452901 | 217279 | 20334
-| Industrialization | Akvaz | 97824850 | 216618 | 13973
-| iII HyperSpeed IIi | Defiant | 4212152 | 215872 | 15585
-| Invert | ShakeoffX | 66142986 | 214660 | 15565
-| Stereophonic Sound | MrCheeseTigrr | 12575447 | 214381 | 24863
-| Unstable | Split72 | 62119263 | 214199 | 17211
-| Oscillation | Mangosteen | 49094568 | 214131 | 21477
-| Swingie | Sparktwee | 98619812 | 213815 | 19960
-| DEEP BLUE | ImMaxX1 | 98154220 | 213569 | 12952
-| Nirvana 2 | Etzer | 6267598 | 212929 | 24320
-| It Chases | BrainETR | 98218741 | 212880 | 15039
-| exquisite | TinyXD | 60357169 | 212768 | 12347
-| Hype Blaster | iIFrostIi | 11670829 | 212491 | 23122
-| Facade | ScorchVx | 40356239 | 212191 | 18533
-| The Core | QuadarVerse | 99246000 | 211921 | 16701
-| Downpour | Dyrox | 13050651 | 211524 | 16923
-| Fluctuate II | Accelec | 72421107 | 211202 | 11292
-| New theory | Experience D | 9388962 | 210954 | 18241
-| GGGDDD | someoneiguess23 | 99311196 | 210531 | 16195
-| Neonita | LightWinner | 77152348 | 210519 | 17015
-| angelbeats | xcy7 | 14055443 | 209869 | 26783
-| Only One Level | realbikas | 99987431 | 209553 | 13703
-| New | Akvaz | 76930517 | 209124 | 17163
-| Icons Race II | VegasKoneko | 65816311 | 208924 | 16775
-| Burn | R3XX3R | 91380905 | 208767 | 11969
-| Fusion Chamber | iIiKrisDashiIi | 51245238 | 208189 | 14431
-| Vector | FunnyGame | 1265701 | 207893 | 13877
-| Wisdom Teeth | PhantomX | 78846245 | 207497 | 17145
-| Xeno Gene | Rockstr99 | 7366575 | 207360 | 22050
-| Gloss | Mangosteen | 88499111 | 207274 | 11004
-| Gloss | Mangosteen | 88499111 | 207274 | 11004
-| The ElectroMan | izhar | 27456344 | 206530 | 17132
-| Toxic Sector | DamianosKabanos | 90053107 | 206268 | 10631
-| Mime and Dash | johdanlop | 96368989 | 206199 | 12551
-| Fuzzy | TheRealDarnoc | 3554723 | 206187 | 22264
-| sugar high | Wentex | 77916231 | 205308 | 17351
-| MALWARE | AudieoVisual | 92574507 | 204993 | 15455
-| Wawa | Wav | 70254698 | 204534 | 11300
-| Twenty Four | ZeroSR | 92149907 | 203805 | 12185
-| Sarcasm | ZenThriXGD | 41174374 | 203379 | 15694
-| Headshot | YunHaSeu14 | 78333488 | 203131 | 19314
-| Power Surge | Optonix | 28128689 | 203103 | 23285
-| Spicy Corridor | f3lixsram | 43732736 | 202639 | 24325
-| 3000 | Nico99 | 33827728 | 202267 | 22611
-| robotic nightmare   | xcy7 | 2945650 | 201562 | 11993
-| Overdoze | skrillero01 | 58791220 | 201217 | 15479
-| VoracitY | Antuness | 57213458 | 200815 | 14380
-| Fortress | Partition | 22098 | 200763 | 12008
-| Falling Petals | shodai1128 | 99384559 | 200564 | 13691
-| Luster | Mineber | 95288177 | 200428 | 11073
-| ONETheLegendOf1000 | JuNiOr202 | 99566839 | 200273 | 11807
-| 7Step | TheRealDarnoc | 776285 | 200001 | 11168
-| OBSCURED REALITY | VrageraGD | 65597225 | 199870 | 17645
-| Space Invaders | meromelon | 3055651 | 199560 | 7642
-| Incursio | ViPriN | 2721093 | 199466 | 21800
-| Clutterfunk X | alkali | 27171642 | 199462 | 14169
-| Monochrom | PixelLolka | 97519430 | 198480 | 13810
-| Pulsar | JerkRat | 8302366 | 198201 | 23600
-| Carrot Juice | Codex | 15498807 | 197221 | 21398
-| Xsea | Radius | 13232368 | 197142 | 14241
-| Sent | Mulpan | 60872551 | 196990 | 11570
-| circuit of gray | Experience D | 7247104 | 196873 | 20591
-| Melody | sweetdude | 15768640 | 196000 | 22561
-| New Adventures | Picha | 13152766 | 195975 | 26067
-| Nefarious | Lemons | 35159674 | 195742 | 25876
-| Block Steady | JuNiOr202 | 100055039 | 194813 | 12021
-| Virtual | L1X3Y | 61940285 | 194724 | 13382
-| xFunk | ZenthicAlpha | 1289930 | 194235 | 12457
-| Sound of Infinity | Vermillion | 3043062 | 194194 | 21294
-| Kipster A | Th04 | 19404907 | 193925 | 24661
-| Elevatia | Andro3d | 29846664 | 193656 | 20063
-| Plav | zorlex | 79773642 | 193573 | 18116
-| Piano Slap | Nico99 | 39607173 | 192753 | 17069
-| MECHA GODZILLA | FlacoGD | 75632366 | 192739 | 13098
-| Whole New Level | NinKaz | 92251385 | 192465 | 16630
-| Neverending Travel | Darwin | 30378296 | 191659 | 25949
-| murasaki | Vaddow | 52733698 | 191400 | 10796
-| OddShapes | Dastan21 | 55183166 | 191363 | 14757
-| Chinese Dance  | Etzer | 8298065 | 190698 | 20071
-| Geegian | Xatz | 48405958 | 190388 | 11661
-| Milky Ways | RealInf3ction | 8285575 | 190141 | 16807
-| PopcorN | FaekI | 37606234 | 190072 | 15631
-| camgotbitten | camgotbitten | 58023260 | 189523 | 13683
-| Geowise | DesTicY | 12199639 | 189158 | 22910
-| POPE | Whirlaroni | 96790869 | 189105 | 14300
-| Old Fashioned Brawl | DreamEater | 58468099 | 188378 | 13270
-| the Massive | 1374 | 42951609 | 187498 | 17117
-| RealistikCore | Usermatt18 | 7894853 | 187329 | 24038
-| PartyTime | Superopi | 5371450 | 186576 | 19791
-| Flux Capacitor | Jirk | 57988518 | 186216 | 12302
-| fascinating step | RealKamijo | 758829 | 185920 | 17334
-| Shocked | TheRealDarnoc | 974971 | 185679 | 10561
-| Insane Party II | FillipsMen | 17679732 | 184775 | 16252
-| UwU | TropoGD | 67825729 | 184046 | 6843
-| Extraterrestrial | ValkyrieMaster | 64633794 | 183872 | 9180
-| Arctic | Sting871 | 62784044 | 183866 | 9626
-| electrodynamix v2 | AeonAir | 849886 | 183845 | 7024
-| StarQuake II | MasK463 | 10092077 | 183184 | 16701
-| Quantum Showdown | Tongii | 35648730 | 182872 | 20355
-| N0v4 | FunnyGame | 33881006 | 182506 | 20120
-| Genesis | TheRealSalad | 13920616 | 181246 | 18804
-| Holomadness | Rek3dge | 2763669 | 180977 | 13631
-| Color Caverns | Bizaare | 70559923 | 180690 | 10816
-| Cerberus Boss Fight | Krexon | 11443828 | 180553 | 23749
-| Castle core | Experience D | 8096517 | 179973 | 17496
-| Players   | Fury0313 | 26851979 | 179882 | 14992
-| Authority | Usermatt18 | 39564265 | 179851 | 18901
-| Nox | Spu7Nix | 35282689 | 178813 | 17796
-| Kunstige | realwhata | 63987245 | 178796 | 11152
-| fp | FunnyGame | 57564910 | 178732 | 10511
-| Hiii | orots | 62040249 | 178451 | 20547
-| Visual Vexation | RehanZ | 93314434 | 177143 | 12404
-| Pinnacle | Optical | 34227786 | 176272 | 22477
-| Transient | ChuchitoDomin | 57246825 | 175735 | 13481
-| Electroman Adventur | DzRAS | 1224259 | 175658 | -3120
-| Pandora | BlastiXGD | 25249785 | 175295 | 20876
-| Light Dash | ASonicMen | 2875419 | 175110 | 21378
-| Portal Box | Vertuoz | 65146862 | 175050 | 6539
-| Focus On | Lebi06 | 89852786 | 175026 | 9532
-| Zarks Spire | SpotL | 98815156 | 174956 | 15826
-| Dat Travel | Serponge | 16834794 | 174359 | 22533
-| Unnamed h | R3XX3R | 76421638 | 173920 | 11763
-| Infinitesimal | jacr360 | 29588785 | 173537 | 20836
-| Comet | VRTL | 93369357 | 173534 | 9455
-| On The Run | DeeperSpace | 102343042 | 173353 | 13640
-| Numero 27 Eletoculy | nmth14gp | 82070133 | 172169 | 12715
-| End of the World | Usermatt18 | 23291238 | 171886 | 20570
-| Geometrical Rush | xVainaja | 89439707 | 171807 | 9947
-| Invasion | Mulpan | 33796924 | 171521 | 20734
-| Hypnotic Trance | Hychie | 54983038 | 171201 | 12225
-| electro valley | Dubayo | 64102833 | 169893 | 8266
-| Orange | RealSoulDash | 5007493 | 169609 | 18142
-| The Hollow | SaabS | 41819814 | 168840 | 13856
-| VINTAGE | dkitey | 100715374 | 168504 | 13551
-| Torrent | Ficelo | 97787812 | 168307 | 11933
-| Dinosaurs | Aleiz21 | 56874646 | 168139 | 7326
-| Star Platinum | Tinymanx | 27007996 | 167890 | 20454
-| Electronic Speed | MrCheeseTigrr | 984236 | 167130 | 10890
-| Noctus | Destriv | 99719427 | 167059 | 11162
-| Abyss | Findexi | 7685571 | 166612 | 19530
-| Powers of Ten | MoonSpark | 27117091 | 166545 | 14957
-| Squad Out | GiggsRH | 72908955 | 166202 | 10217
-| Quantic Theory | Noriega | 2240089 | 165979 | 9573
-| Daora | Epxa | 58705732 | 165890 | 11268
-| Machinal | tricipital | 74878806 | 165410 | 10091
-| Apocalypse | nainteils | 13209510 | 164020 | 18870
-| ClutterFunky | Sumsar | 1172326 | 163321 | 8572
-| Aelinda | Splinter25 | 70017248 | 162342 | 10472
-| Crispy Fantasy | CrisPy Dash | 8991993 | 161575 | 17323
-| Frenetic | AbstractDark | 16031812 | 161055 | 20417
-| Loophole | loogiah | 36612035 | 161006 | 15245
-| Cloud 9 | nampac | 39348985 | 159606 | 8326
-| Ascendant | Hdow | 18754122 | 159412 | 13153
-| night rider | GDmelody | 12822758 | 159376 | 10821
-| Get high | truongwf | 76522107 | 159183 | 9372
-| Castle of Fury | Deevoo | 11393779 | 158786 | 18031
-| Global Warming | Dorami | 2424381 | 158557 | 9055
-| Jodies Dream | TroxxP1 | 55400930 | 158456 | 8354
-| Predators | Nico99 | 37977638 | 158200 | 16024
-| Out | Xender Game | 47453581 | 158009 | 13738
-| delusion | Waltertheboss | 72269836 | 157960 | 10967
-| new level | Jeyzor | 31877340 | 157835 | 17123
-| Full Power | Jinta22 | 75633670 | 157687 | 11387
-| Arcadia | NateRavenno | 72931298 | 157597 | 8861
-| Sword Of Xolan III | Nightlex | 34639105 | 157499 | 20183
-| Lucidation | Polarbeahr | 88964243 | 157107 | 8969
-| Lucidation | Polarbeahr | 88964243 | 157107 | 8969
-| Shattered Landscape | fJud | 88746028 | 156492 | 9804
-| Shattered Landscape | fJud | 88746028 | 156492 | 9804
-| Mind the Gap | TheRealDarnoc | 12568 | 154908 | 9220
-| Conclusion   | Mabby | 6469931 | 154291 | 17833
-| Xstep Special Mode2 | IamXstep | 1760244 | 153896 | 5185
-| GeoCosm | SilverSoul | 13417814 | 152840 | 19728
-| Honey Fun | Mulpan | 58774438 | 152671 | 7362
-| Vibrant Burst | Split72 | 66707477 | 151727 | 7952
-| Speedballing | Jayuff | 58760050 | 151691 | 15510
-| colorful depths | potatoplayer | 32039923 | 151668 | 18419
-| Ublut | Skeetawn | 100713173 | 151283 | 9901
-| Boo | Whirl | 46803003 | 150958 | 13618
-| The hidden land | BlueLite | 37708359 | 150802 | 15692
-| Pandemonium | PurpleGuy99 | 13517801 | 150752 | 10165
-| Radiation Mayhem | Alfred PKNess | 45142485 | 150358 | 14928
-| 511BEE | Wulzy | 74151302 | 150302 | 10316
-| ChillFunk | TheRealDarnoc | 618347 | 149640 | 7657
-| OHIO | MixUpYT | 86374261 | 149601 | 6334
-| Posterize | Chayper | 94171332 | 149390 | 7634
-| Inception | MuLhM | 11294445 | 149373 | 18843
-| cZ | Etzer | 20035843 | 148802 | 17230
-| Dash Away | NeroFX | 12743589 | 148596 | 5567
-| Disco Party | Balloons | 14995569 | 148574 | 10643
-| Operation Exodus | Xaro | 7640103 | 148202 | 15925
-| Absolutism | Player Time | 35633247 | 148109 | 15415
-| Lonesome | FunnyGame | 1337871 | 148006 | 9124
-| The Unforgiven | Aleiz21 | 92707522 | 147956 | 7979
-| Time Machine v2 | Sumsar | 803221 | 147907 | 6348
-| Abomination | Piseto | 41083032 | 147820 | 13260
-| janity | Apstrom | 67445381 | 147592 | 5493
-| Nine Circles | Xoroz | 79188336 | 147045 | 10819
-| Nine Circles | Xoroz | 79188336 | 147045 | 10819
-| GEOMETRY JUMP | robotchief | 98394571 | 146569 | 15636
-| Mystical | FunnyGame | 71997813 | 146212 | 9772
-| Chaotic | Findexi | 2982094 | 144910 | 18225
-| grebeworld | grebe | 62868423 | 144876 | 12555
-| Spicy Noodles | Codex | 37955884 | 144645 | 17031
-| Neon Corruption | Ggb0y | 6047323 | 144158 | 13764
-| Nelis Adventure | PixelLolka | 88314683 | 144064 | 15401
-| just shape and milks | gustavov3 | 99115172 | 144063 | 12329
-| Dehydrated | JerkRat | 2310118 | 144043 | 10478
-| Triangle | Alkatreize | 103205817 | 143932 | 9682
-| Bouncy World | Serponge | 7559388 | 143475 | 18275
-| Time Bomb | J0eyOnGD | 77246359 | 143440 | 9889
-| National theory | Experience D | 7588972 | 142901 | 12319
-| Vivid escape | Erdyuri | 26861337 | 142104 | 17901
-| Its Raining Men | Spa8 | 36436231 | 141861 | 14648
-| I N | Xender Game | 54448827 | 141839 | 14792
-| Crepuscule | Ficelo | 95034412 | 141758 | 7032
-| MulPaws | Mulpan | 57864791 | 141644 | 9834
-| New Style | SilverSoul | 17453327 | 141558 | 17364
-| wonk | AudieoVisual | 99862161 | 141513 | 11705
-| EASY and NORMAL | NAMHO | 86293 | 141252 | -1620
-| Alphabet M | FunnyGame | 496779 | 140568 | 10121
-| New Genesis | Swirl | 8966405 | 140564 | 17648
-| pg1004 | Gelt | 5163842 | 140395 | 12909
-| Hyper Intelligence | Toxic GD | 17529929 | 140387 | 16382
-| Wizard Dreams | mishy | 83645070 | 140359 | 7413
-| Wizard Dreams | mishy | 83645070 | 140359 | 7413
-| Paincoal II | spl1nt | 74676221 | 140311 | 9481
-| Speed of sound | haoN | 5451550 | 140078 | 10976
-| Indiko | Lyriaki | 86627300 | 139779 | 6011
-| Indiko | Lyriaki | 86627300 | 139779 | 6011
-| Almost Strange | lespainsaucho | 80483398 | 139769 | 12240
-| Okiba Crackdown | Evasium622 | 16080023 | 139298 | 13676
-| Annihilate | thebun | 99202592 | 139170 | 6771
-| Inflection | Glittershroom | 8261457 | 139148 | 16838
-| Blaster | Wav | 71141367 | 139128 | 9931
-| Raid Shadow Dash | DeniPol | 83324283 | 139121 | 7052
-| Raid Shadow Dash | DeniPol | 83324283 | 139121 | 7052
-| Dawn stadium | Experience D | 7672993 | 138891 | 15351
-| Draw me a Pixel | MarkyArchived | 81260549 | 138863 | 8236
-| Draw me a Pixel | MarkyArchived | 81260549 | 138863 | 8236
-| Draw me a Pixel | MarkyArchived | 81260549 | 138863 | 8236
-| Retro Hacker | BlastiXGD | 31508357 | 138815 | 19606
-| NyaDance | ImGabeGD | 92772390 | 138800 | 7566
-| Just That Easy | MitKit | 98081864 | 138660 | 6374
-| Haywire | ViPriN | 2113651 | 138652 | 13009
-| Fire Power | DemonMKer | 4329523 | 138650 | 16228
-| Egotism | DavJT | 102609414 | 138615 | 8048
-| VTech | Skitten | 15229878 | 138379 | 17717
-| Speedbreaker | iIFrostIi | 10875305 | 138142 | 13430
-| Spectrum Overdrive | AbstractDark | 24318764 | 137172 | 19265
-| Coloring Lightning | Gelt | 6564988 | 137134 | 17947
-| SubZerO LeVeL | SrMDK | 58239703 | 136248 | 4862
-| Spiritual Forces | Zoroa | 55660457 | 136006 | 6961
-| See The Stars | spuddles | 63089636 | 135801 | 8535
-| Dom Disco | Ryder | 70795769 | 135736 | 7637
-| Phantom Realm | ASonicMen | 2390995 | 135175 | 9920
-| Groove Machine | Ghost | 988444 | 135148 | 6912
-| Great Invention | YunHaSeu14 | 93719951 | 135073 | 12809
-| chiptune | JerkRat | 3543749 | 134902 | 16633
-| DistorteD | Serponge | 19391175 | 134557 | 18612
-| PLATNET | Alphirox | 96973539 | 134462 | 8499
-| Fantasy Base | TheRealDarnoc | 826013 | 134318 | 8169
-| Doggo Flusters | ELITEXD | 93134931 | 134102 | 10042
-| aurora | albinomaster | 24936194 | 133869 | 17464
-| Zone Domination | Toxic GD | 11329262 | 133687 | 13213
-| not jank | pocke | 84200792 | 133253 | 6132
-| not jank | pocke | 84200792 | 133253 | 6132
-| Solar | PotatoBaby | 28976999 | 133089 | 17307
-| Post Meridiem | aedr | 86962884 | 133021 | 6240
-| Post Meridiem | aedr | 86962884 | 133021 | 6240
-| Clutterfunk V01 | Mixroid | 177550 | 132877 | 6063
-| Dark Leaper | CreatorFreeze | 28692609 | 132581 | 18924
-| Desultory | Echonox | 16566745 | 132141 | 17346
-| Cosmic Vengeance | Syunide | 32494868 | 132140 | 18693
-| Osaka Rush | Ferdefunky | 40865359 | 131831 | 10873
-| You Are Holy | Nova4664 | 80761584 | 131364 | 8675
-| Peer Gynt | XxJ0SHxX | 46095523 | 131286 | 6921
-| Hexagon Force v2 | Nena Kiwi | 1691025 | 131066 | 5284
-| Tritanopia Pulse | Cthulu | 45803164 | 131018 | 11365
-| Locomotion | Lemons | 60804795 | 130998 | 8492
-| Raptisoft | MarkyArchived | 70434057 | 130945 | 9348
-| Viper | SMBlacktime | 3027416 | 130829 | 13558
-| TheoryOfRelativity 2 | VENZA | 2820042 | 130658 | 9368
-| Bloodwolf | WerewolfGD | 35066069 | 130262 | 11074
-| Amethystia | Xender Game | 54861984 | 130038 | 10128
-| Theory of Nothing | TheRealDarnoc | 191029 | 130017 | 906
-| Skyway | Gelt | 7177242 | 129977 | 13857
-| Headshot | AndrixGD | 91530036 | 129788 | 9413
-| The DEADLY Tower | MrYer | 98182902 | 129698 | 11580
-| Forever Gone | Superopi | 9561634 | 129690 | 13776
-| time system | izhar | 10954151 | 129399 | 18481
-| Solar flairdrive | Experience D | 8686698 | 129331 | 12811
-| endgame | Iid4sh3riI | 8051336 | 129331 | 8884
-| Funky Funk | Zidnes | 74776149 | 129119 | 7825
-| Shockless | MasK463 | 1530816 | 129119 | 5685
-| Sonanda | Mulpan | 60301139 | 129102 | 7145
-| spired | Colxic | 21785838 | 129005 | 17222
-| Family | Darwin | 39180479 | 128855 | 13852
-| Raptura | ChuchitoDomin | 76663751 | 128767 | 8677
-| Oof | BlueRimz | 54818851 | 128712 | 9171
-| Abyss of Darkness | sink | 72772568 | 128640 | 5030
-| Star Blossom  | ZelLink | 11204711 | 128612 | 14922
-| robtop NEVER CLEAR | ItzKiba | 89958857 | 128611 | 5864
-| Cauldron Party | beptile | 38329234 | 128488 | 14029
-| time to run II | Wilz | 66982422 | 127992 | 6047
-| Malware | eopc | 75925680 | 127907 | 8287
-| Into the Light | Vermillion | 27620163 | 127805 | 12950
-| pixie | orots | 83269854 | 127102 | 4343
-| Efimero | iMortlex | 78549453 | 126942 | 8586
-| Fallen Era | alkali | 25539996 | 126642 | 17465
-| Claustrophobia | Gelt | 2497745 | 126325 | 9228
-| RobTopCity | Apstrom | 73057485 | 125775 | 12401
-| Cocktail | CreatorLW | 32940610 | 125691 | 10716
-| Dizzier Run | TheRealDarnoc | 569882 | 125631 | 7978
-| Rise | Masterthecube5 | 102184114 | 125585 | 9416
-| Noobtition | WerewolfGD | 57342005 | 125544 | 9013
-| Arus Madness | TheRealDarnoc | 179170 | 125516 | 7408
-| Bossfight | DragonSK | 57252806 | 125508 | 5257
-| windfall | Crispinus | 12385896 | 125377 | 11195
-| Retro Runway | thebun | 83623085 | 125365 | 6436
-| Citrus | Usermatt18 | 24689588 | 125317 | 16227
-| intercept   | Ruf | 3001269 | 125312 | 14618
-| Breakdown | Star77 | 19547449 | 125145 | 16216
-| DeepSeaTemple | OmgItsLemon | 2901232 | 125113 | 12648
-| Gray pantheon | NASHII | 39080559 | 124579 | 14780
-| We Are Shapes | NogZ | 52999065 | 124465 | 11650
-| shutdown | alkali | 27435232 | 124169 | 19149
-| Sword Of Xolan II | Nightlex | 34194166 | 124066 | 15110
-| electric robot | Wilz | 77968214 | 123901 | 7758
-| Stereophonic Light | andrew1311X | 96750200 | 123615 | 6046
-| Retina | Thomartin | 51621423 | 123574 | 12058
-| Fly Machine | Noriega | 1628620 | 123504 | 5273
-| Apocalyptic Ruins | TamaN | 15045460 | 123329 | 17765
-| Sound Visualization | Cdpre | 63336521 | 123198 | 7825
-| Snakeblock Ruins | neoraptor | 97720311 | 123090 | 11236
-| Life | Skitten | 4234281 | 122939 | 12898
-| Trick Or Treat II | MasterDam | 76186935 | 122934 | 7671
-| Crazy Adventure | Edooox | 70469948 | 121977 | 6100
-| Celestial Storm | RyanAB | 36253994 | 121785 | 12985
-| Scary Nights | iMortlex | 85130037 | 121592 | 6198
-| Quick Escape | TheRealWeenside | 99414513 | 121500 | 6729
-| Boomerang | Centurie | 18503991 | 121342 | 11398
-| Astral Traveler | meromelon | 11621331 | 121273 | 14681
-| 15Years | MegaVanya123 | 79055110 | 121052 | 7362
-| Deadly Loops | Se7eN | 3932644 | 121020 | 9677
-| Berserk | rafer | 27148456 | 120946 | 11445
-| quake goes brr | KonduktorGMD | 98509079 | 120880 | 8078
-| On | Danzmen | 51252981 | 120832 | 11996
-| monster | Wilz | 60501542 | 120707 | 5622
-| Rising Madness | CyanBoi | 97948216 | 120549 | 10612
-| Bird cage | goose | 24693210 | 120505 | 13671
-| Marigold | vortrox | 94656408 | 120458 | 4437
-| Speedstyling | Dominus | 64931713 | 120315 | 6638
-| carnivores | SirZaiss | 35713007 | 120202 | 12415
-| Negativity | mikeymonke | 34557239 | 120078 | 18328
-| Bass knight | Elsig2002 | 11955937 | 120032 | 13438
-| Anastasia and Koteev | MCAASJ | 89640947 | 120016 | 12778
-| Hypercharged | DorSha | 39018482 | 119972 | 15700
-| HeartBreaker | Draykonic | 11958784 | 119740 | 14366
-| ViPriN | Cirtrax | 42506053 | 119497 | 8181
-| Renegade | Ferdefunky | 38193067 | 119437 | 13626
-| Virtual World | Fault | 37207644 | 119198 | 14085
-| Monody | Eluselus | 16177560 | 119170 | 10374
-| Jupiter Operation | ZelLink | 6606222 | 119167 | 11476
-| Sweet Dreams | Danolex | 26476410 | 119129 | 17095
-| reborn kingdoms | Enceladus GD | 28920582 | 119010 | 16859
-| mini chaos impact | Rockstr99 | 4638132 | 118866 | 12254
-| Snap | DashDude | 91427162 | 118815 | 7555
-| Tower Bornay | MeowSgam | 67020887 | 118752 | 3914
-| Dragon Claws | Piseto | 32737350 | 118741 | 14377
-| holostar city | xcy7 | 11347335 | 118702 | 15111
-| Electronic Park | ZenthicAlpha | 982533 | 118594 | 12447
-| Axolotl | chamoylol | 72003193 | 118575 | 10690
-| Scarab | Steekmen | 58121899 | 118166 | 7913
-| CYBERFUNK | Johburger | 90798357 | 118164 | 6862
-| Clink | Split72 | 74711089 | 118026 | 7031
-| Evolution | AeonAir | 2984083 | 117777 | 10197
-| vertigo | ItzMezzo | 65641152 | 117333 | 10137
-| N0PA | LEALHALZITX | 82922627 | 117269 | 7120
-| Mission 101 | Arkoon | 73732693 | 117105 | 6204
-| Dragon Factory | SynthSaturn | 11545264 | 117033 | 15400
-| Defection | Dako | 3434802 | 116789 | 12381
-| SunSet | Jeyzor | 605437 | 116601 | 11605
-| Infernoplex | EthanLX | 4378323 | 116582 | 10872
-| Weekends | caerbanoc | 98055355 | 116547 | 6363
-| Perkz of a Square | TheRealDarnoc | 285442 | 116418 | 6677
-| Crunchy Apple v2 | Superopi | 6941866 | 116374 | 13531
-| Variety | Apstrom | 77300574 | 116258 | 8738
-| Forgotten Vale | BowtieGD | 71606243 | 116228 | 7019
-| DISCOMBOBULATE | Spu7Nix | 36833192 | 116228 | 9540
-| Osiris | DAPixelhero | 98126704 | 116213 | 13217
-|  old times  | pineapple | 8282500 | 116180 | 10334
-| Overload | Darwin | 47147285 | 115793 | 11953
-| Little big trial | mishy | 72103202 | 115561 | 7196
-| Crazy Dynamix | Dorami | 2036978 | 115467 | 3314
-| Essence Access | Hikex | 77500519 | 115446 | 9515
-| StreetFunk | Hyenaedon | 34175907 | 115167 | 13681
-| Melodic Head | MrLumo | 14386226 | 115040 | 13697
-| Visualizer | vonic | 86237536 | 114971 | 7210
-| Friendly Adventure | AbstractDark | 11349424 | 114957 | 9889
-| Falcon Punch | Gelt | 3369264 | 114899 | 12251
-| Inside Finite | willy5000 | 5031423 | 114796 | 13381
-| korea park | Experience D | 643365 | 114753 | 3947
-| Three | 1374 | 64224547 | 114720 | 10750
-| SkyLine | Tronzeki | 28951789 | 114512 | 14500
-| lexapro | DivideNick | 94513739 | 114436 | 5987
-| Code Snatcher | stubbypinata | 25746271 | 114177 | 13946
-| Stamina | Geox01 | 71325359 | 114090 | 8624
-| The Switch Trials | CamZam | 101191227 | 114007 | 7001
-| Love You | Zoroa | 58311359 | 113804 | 6456
-| sugar rush | Iid4sh3riI | 14366954 | 113781 | 13964
-| NeoN Velocity | SmitN | 74742245 | 113726 | 7036
-| Quinque | YunHaSeu14 | 69265458 | 113584 | 9254
-| Aurandomness | nmth14gp | 78957052 | 113167 | 7295
-| Night Fury | Experience D | 4297429 | 112818 | 11924
-| Retro Adventures | Shatt3rium | 72764123 | 112572 | 6275
-| Force Of Everything | Minesap | 2229230 | 112418 | 7081
-| Deap sea frost | Experience D | 3677189 | 112298 | 11982
-| Tim Machine | 8BitFudge | 65189504 | 112093 | 9941
-| Spike Dodger | FillipsMen | 26655895 | 112046 | 9611
-| Sputnik | Edooox | 76615484 | 111624 | 7935
-| Electroman Episode | Pollapo | 4882608 | 111511 | 7682
-| quadra | distortt | 54959957 | 111389 | 6390
-| tech of tomorrow | xcy7 | 2389984 | 111070 | 10306
-| Progulka | MaFFaKa | 97109153 | 110714 | 6972
-| Race Round The World | Skitten | 3736586 | 110405 | 10604
-| torn dimension | FunnyGame | 62835942 | 110094 | 6067
-| Speedrun | SpKale | 65768174 | 110073 | 7522
-| The Reactor | Edge | 32835034 | 109993 | 13324
-| Unnamed sequel | CorroX | 67193379 | 109433 | 5491
-| AwaY | iriswolfx | 76053628 | 109363 | 7543
-| Radiance Boosting | ChuchitoDomin | 68181258 | 109172 | 5189
-| Inevitable | Dubayo | 82105721 | 108992 | 6956
-| ZuM | Wixers | 44656645 | 108691 | 10539
-| Deep Galaxy | TrueNature | 8562531 | 108582 | 11481
-| Ship 45 Frenzy | rhyllus | 102529530 | 108388 | 9195
-| False Horizon | lumpy | 68363590 | 108380 | 5247
-| SunSet 7 | Jeyzor | 11566634 | 108307 | 12438
-| Knock Out | CatioGD | 96638270 | 108265 | 6676
-| Soundscape | SamMaxx | 50428536 | 107963 | 10312
-| Arcanic spell | Darwin | 34410038 | 107710 | 16190
-| Midnight Moon | ZelLink | 5776293 | 107593 | 13565
-| Nuclear Theory | TamaN | 5406107 | 107386 | 12179
-| Striker | Soulsand | 34930075 | 107267 | 8171
-| crass glippings | fr3dmc | 88171956 | 107254 | 6880
-| crass glippings | fr3dmc | 88171956 | 107254 | 6880
-| crass glippings | fr3dmc | 88171956 | 107254 | 6880
-| chaoz nightmare | Etzer | 3448208 | 107040 | 8921
-| redux | jahaziel | 12100897 | 107017 | 14070
-| Back On Track HARDv | Player | 30058 | 106423 | 3786
-| Menacing Manor | Whirl | 100389003 | 106410 | 4263
-| Electroman V2 | DaddePro | 526513 | 105759 | 5902
-| Chunche | abdula | 61688413 | 105716 | 8500
-| doublefunk | Lyod | 2198197 | 105344 | 7133
-| GalaxyStar | Rublock5 | 3286238 | 105068 | 9941
-| lunar ii | alkali | 52414003 | 104662 | 9232
-| Something Funky | TheRealDarnoc | 226651 | 104647 | 5255
-| Viper | XronoM | 11801889 | 104149 | 11044
-| GalaxyManAdventures | JerkRat | 2208881 | 103971 | 7063
-| Flight Of Space 3 | KFAOpitar | 1942106 | 103821 | 9497
-| Atmosphere | Fault | 50309126 | 103542 | 8565
-| Cutter disco | Inergy | 42053765 | 103360 | 9949
-| Enzymic | enlex | 34078964 | 103346 | 12006
-| Meltdown | AndrixGD | 96498065 | 103330 | 6624
-| BaxMix | Hikex | 78108852 | 103327 | 6524
-| Presto | ViPriN | 1524466 | 103257 | 9208
-| Merry Christler | Xyle | 65759635 | 103114 | 5476
-| Come Back to Earth | Wulzy | 59725003 | 102931 | 6970
-| Jackpot | RyanAB | 26632118 | 102842 | 8063
-| Haunted Woods | RealSoulDash | 3038491 | 102716 | 9331
-| Crystal rush | Digitalzero | 10927673 | 102558 | 11863
-| Ice and curves | TheRealDarnoc | 434107 | 102529 | 5592
-| ExagGeration | skrillero01 | 60357633 | 102527 | 5734
-| Trollville | robotchief | 83798027 | 102452 | 4406
-| Astronaut 13 | Sarynin | 11304531 | 102377 | 9833
-| Shimmer | Nottus | 101182804 | 102258 | 7321
-| Just Another Level | TheRealDarnoc | 45827 | 102204 | 5305
-| InterStellar | TrueNature | 2236898 | 101935 | 7019
-| arc flash  | xcy7 | 8142761 | 101823 | 11548
-| ketchuplust | bunch | 70284005 | 101776 | 10090
-| Cosmic Nirvana | RadiationV2 | 15256163 | 101437 | 13659
-| beautifuldynamix | RealKamijo | 891985 | 101381 | 7171
-| Cord Cutter | MaxTwelve | 82092190 | 101373 | 6758
-| Bionic Force | Rublock5 | 2328068 | 101287 | 6218
-| i travel sky | RealKamijo | 278514 | 101258 | 11416
-| Electric Forest | TrueNature | 2376766 | 101175 | 7035
-| Chromatic 37 | nehegas | 51785505 | 101165 | 8944
-| Astral Dimension | Darixen | 87103535 | 101108 | 6364
-| Astral Dimension | Darixen | 87103535 | 101108 | 6364
-| Joviality | RealZober | 38244821 | 101103 | 11788
-| Broken Aura | meromelon | 14921280 | 101071 | 12112
-| Nightmare | Draykonic | 10387528 | 101045 | 6501
-| MindDrop | TheRealDarnoc | 153406 | 100807 | 5171
-| Monster Cave | RoyalP | 41370023 | 100742 | 9279
-| Maestoso | ViPriN | 1639698 | 100604 | 7960
-| G A R B A G E | Twoots | 24317650 | 100465 | 12933
-| Vapor | PotatoBaby | 34878135 | 100354 | 13788
-| Empire | ChaSe | 26460011 | 100173 | 12493
-| Joker | BridgetTheCroco | 64924353 | 100104 | 4159
-| Everybody Bounce | Usermatt18 | 17774766 | 99598 | 12905
-| Skyrise | ferrarizo | 11832376 | 99549 | 12728
-| Grim Reaper | Mulpan | 46817283 | 99203 | 9698
-| Pyrodynamix | Vermillion | 7588661 | 99157 | 9892
-| Aether Enterprise | Tongii | 56186095 | 99124 | 5572
-| thingy | alkali | 57102172 | 98811 | 7297
-| Clutterfunk Abduct | Gelt | 326284 | 98789 | 4672
-| Dinosaur Remake | Shatt3rium | 64715446 | 98665 | 5196
-| ElecTech | distortt | 48087337 | 98618 | 10405
-| Dancing Naked | Xenone | 16657213 | 98497 | 11845
-| On | Spa8 | 27582575 | 98318 | 11774
-| Nuclear | DWShin | 4842371 | 98252 | 9229
-| Calm Before A Storm | TrueChaos | 9901914 | 98095 | 11540
-| Fly To Freedom | CribCrab | 11343368 | 97913 | 6056
-| Kaihua | X1RON | 69686688 | 97842 | 7887
-| Abstract Atmosphere | Neeki | 95518583 | 97687 | 5061
-| Bliss | Yendis | 52836737 | 97581 | 10693
-| pretty much a level | FCMasloPL | 101574620 | 97412 | 11071
-| touhou | ZelLink | 62696726 | 97345 | 4568
-| Final Mission | Findexi | 10171935 | 97136 | 12486
-| NOW | YunHaSeu14 | 64653464 | 96947 | 8160
-| nef | Darwin | 45889713 | 96892 | 10061
-| Post Processing | Met3o | 70912173 | 96879 | 8286
-| Red Mug | Lyriaki | 79590948 | 96790 | 7862
-| heaven and hell | stratos2596 | 98657490 | 96760 | 6846
-| SWAG STRIDE | Lightning78 | 74640206 | 96716 | 6336
-| SpoOky | ZubWill | 58261214 | 96649 | 5628
-| electrodynamix v3 | iiIneonIii | 1376514 | 96573 | 4350
-| the realistik v2 | Irika | 6977311 | 96552 | 9850
-| Global Warming ii | Dorami | 4302350 | 96547 | 9592
-| retical | Gouns | 31924650 | 96414 | 13785
-| Electro Adventures 2 | xQuadrant | 4982137 | 96257 | 9789
-| Downburst | Edooox | 90078680 | 96256 | 6611
-| party time | Iid4sh3riI | 13108300 | 96254 | 10418
-| Frostfire | NukeForceX | 100539622 | 96161 | 6943
-| The Great Gobsmack | Wav | 96341415 | 95563 | 6239
-| S L E N D E R | SH3RIFFO | 725563 | 95530 | 6639
-| Color Chase | Jeyzor | 3406038 | 95510 | 10403
-| Emotional Journey | RadiationV2 | 24676724 | 95475 | 11241
-| FlashBack | jaffytaffy | 12686708 | 95453 | 10624
-| Hexagon Madness | SMBlacktime | 1706773 | 95228 | 6917
-| Electrodinamix RM | Lixars | 54345662 | 95141 | 6078
-| nature trip | pyshoGD | 71767563 | 95068 | 6494
-| Star Wars | mrjedi | 46933880 | 94991 | 8135
-| Where The Sky Fades | Knots | 45772757 | 94905 | 9503
-| Decrypte | MrSpaghetti | 90689192 | 94899 | 5317
-| Decrypte | MrSpaghetti | 90689192 | 94899 | 5317
-| Decrypte | MrSpaghetti | 90689192 | 94899 | 5317
-| Decrypte | MrSpaghetti | 90689192 | 94899 | 5317
-| spartan 117 | loogiah | 12035881 | 94791 | 9429
-| W I T C H B L A D E | Fedistg | 99933525 | 94719 | 6973
-| Entranced | Defiant | 19980547 | 94696 | 12992
-| Liftoff | Usermatt18 | 21827558 | 94521 | 14074
-| Save us | YunHaSeu14 | 100420886 | 94500 | 4276
-| Ghost Alley | Starbooy | 28913982 | 94435 | 13483
-| DOM | kodex360 | 69220154 | 94405 | 4561
-| temples gauntlet | Colombia Dash | 83118796 | 94374 | 6271
-| temples gauntlet | Colombia Dash | 83118796 | 94374 | 6271
-| SkeletroN | 4rcO | 81813524 | 94223 | 7223
-| Thousand | Texic | 65484990 | 94149 | 9925
-| Party House | nehegas | 27576767 | 94121 | 11973
-| gwa gwa | logiking | 65219497 | 94105 | 6281
-| Warning | DangerKat | 71307107 | 94089 | 6690
-| Kawaragi | MittensGD | 73950635 | 93967 | 6524
-| H8 | Megaman9 | 19062070 | 93926 | 11084
-| secret laboratory | RealKamijo | 362846 | 93680 | 6048
-| Aura | JustBasic | 55056653 | 93676 | 6488
-| Up and Down | Illli | 99351044 | 93642 | 10528
-| Magico | ViPriN | 1778161 | 93604 | 9833
-| Dragon Force | zara | 1733330 | 93573 | 4814
-| The Killer | Tedesco96 | 26561501 | 93539 | 13406
-| Sky Drive | Rek3dge | 4308967 | 93290 | 9653
-| Dear Memories | God Of Music | 58521861 | 93257 | 5692
-| X2 easy | Mixroid | 110417 | 93198 | 5355
-| darkness heaven | Experience D | 1116402 | 93160 | -2663
-| Farben | Xatz | 72997580 | 93108 | 6176
-| New Genesis | lumpy | 12053144 | 93096 | 11879
-| Revolution Realm | Dorami | 2350276 | 93057 | 5728
-| Burst of Chaos | Usermatt18 | 27149933 | 93055 | 11378
-| Huh | Lyrial | 68683520 | 93046 | 4039
-| Cosmic Dreamer | DemonMKer | 3257384 | 93013 | 8904
-| Disposition | Usermatt18 | 24454672 | 93002 | 12814
-| Star Map | Texic | 94429941 | 92872 | 6796
-| Restart | ChrySpy | 75767917 | 92662 | 5980
-| Time Memory | TrueNature | 3870544 | 92660 | 7133
-| Glorious Morning | Dorami | 2917343 | 92632 | 9267
-| Revenge | MrSpaghetti | 70146400 | 92543 | 9804
-| Breakfast Frenzy | Knots | 56898043 | 92524 | 7425
-| blackout | tunar98 | 86108 | 92445 | 4523
-| In full action | ZelLink | 9346867 | 92429 | 8986
-| velocity | jacr360 | 27874711 | 92422 | 11704
-| Fallen Era II | PSAY | 26154761 | 92243 | 10877
-| Virtual Rift | Hinds | 3637514 | 92178 | 10294
-| GossVandal | Renn241 | 75452858 | 92071 | 6980
-| Lightmares | Wav | 60929446 | 91976 | 8035
-| electrohalloween | Wilz | 57950791 | 91800 | 6346
-| Blooming | WOOGI1411 | 3512246 | 91480 | 8231
-| The Invasion | MuLhM | 11972868 | 91123 | 11871
-| Misterio | FunnyGame | 41453591 | 91116 | 7262
-| Modesto | ViPriN | 1702937 | 91004 | 8119
-| Cityscape | 1u49 | 69979225 | 90967 | 5589
-| THE DROP | mbedsun | 81231368 | 90770 | 7241
-| THE DROP | mbedsun | 81231368 | 90770 | 7241
-| OverLand | SkillzAura | 31746958 | 90654 | 12426
-| Waterfall Cave | weoweoteo | 3957370 | 90541 | 10557
-| The Ultimate Show | Etzer | 3188430 | 90499 | 9796
-| Embers | Svyre | 28361950 | 90350 | 7673
-| Mystica | Rexone | 41241008 | 90323 | 7063
-| Project utopia 4 | Experience D | 2615814 | 90272 | 6105
-| divine | TheRealWind | 76336526 | 90241 | 6865
-| BrainETR II | Moffer | 97044666 | 90232 | 6337
-| Altiora Petamus | G4lvatron | 51694267 | 90143 | 8704
-| Moai | realwhata | 65571312 | 90141 | 8280
-| BMPmap | 9767 | 99986024 | 90087 | 6577
-| Eliminator | Alderite | 33405447 | 89906 | 12341
-| Prescript | flash | 61860688 | 89892 | 6025
-| The Final Round | DiaWord | 20381077 | 89838 | 14093
-| UMA | Echonox | 15901610 | 89785 | 12102
-| Exitus | LTGS | 16241318 | 89730 | 12844
-| Dew | Optical | 35287682 | 89596 | 13738
-| Poison Valley | Nico99 | 29073556 | 89574 | 12184
-| Aether Catalyst | Toxic GD | 20083166 | 89565 | 12152
-| Light Wave | Myinus | 1267676 | 89536 | 5238
-| The Metal Game | Tygrysek | 9448240 | 89505 | 12125
-| Me | AlexEa | 69106677 | 89450 | 5786
-| End of the world | Superopi | 3637926 | 89429 | 10483
-| Apocalypse | Superopi | 10071566 | 89352 | 11553
-| Dawns dungeon | Experience D | 9603538 | 89333 | 10344
-| AraZonA | Bassiegames | 13366076 | 89261 | 11014
-| Block Cave | MrLumo | 18081418 | 89244 | 9918
-| Lift off | haoN | 27316270 | 89211 | 13677
-| Fexeu | Rifky12 | 73960778 | 89150 | 6234
-| Second Race | Skitten | 6770184 | 89088 | 11076
-| Christmas Sleep | DeniPol | 51797882 | 88896 | 7160
-| Full Moon | FrostDragonGD | 57988282 | 88859 | 4939
-| Nelis force  | Kpokaht | 87026987 | 88765 | 4871
-| Rise | jaffytaffy | 21814026 | 88642 | 10550
-| ColBreakz | Alex  GD | 25433425 | 88632 | 5617
-| AeReal | AyDiePay | 30473338 | 88595 | 13777
-| Universe Collapse | NiTro451 | 16526308 | 88541 | 10672
-| Shakedown | Florent | 13924148 | 88097 | 10891
-| Coexistence of star | Experience D | 9729902 | 88063 | 10556
-| Monolithic Rush | BranSilver | 44089512 | 88025 | 9087
-| Chatel | abdula | 61030693 | 87876 | 8584
-| Lego Madness v2 | lNitroxin | 12188908 | 87747 | 6714
-| RAINBOW sense final | ZelLink | 1291078 | 87704 | -2427
-| Radiation Hazard | JerkRat | 1852658 | 87635 | -10
-| Alegria | LuisJR11 | 39875856 | 87392 | 6153
-| Dream Team | Surv | 20465958 | 87368 | 11035
-| Ancient Keeper | Robotic24 | 63090665 | 87355 | 5472
-| Space Invaders | HideousToaster | 59181868 | 87304 | 4443
-| The Resistance | TheRealRow | 52244801 | 87267 | 8587
-| Dual Fantasy | dhk2725 | 13984469 | 87200 | 7459
-| Spacial Rend | Angelism | 6456055 | 87140 | 8567
-| Normalism | ElEcmEtAl | 610016 | 87112 | 2666
-| Funky Trigger | ZenthicAlpha | 786083 | 87060 | 7359
-| Earth Break | Mulpan | 37589679 | 86877 | 10469
-| Vortex Focus | YunHaSeu14 | 46516835 | 86874 | 8582
-| Perfect Storm | Raszagal | 4957305 | 86787 | 9578
-| Faraway | Picha | 7003842 | 86742 | 11488
-| Lightcolours | OpteX | 17688915 | 86628 | 10172
-| Runaway v2 | Alaiskai | 6451503 | 86571 | 7409
-| slopez | ItzMezzo | 98286716 | 86496 | 6623
-| Believe | Twistaah | 95726237 | 86475 | 7655
-| Art of Music | BranSilver | 36121059 | 86460 | 10974
-| Mr Spike III | FUNKYpersy | 62370077 | 86427 | 4192
-| Friction | Star77 | 26887355 | 86258 | 14441
-| Spacial Rush | Skitten | 35691290 | 86101 | 11321
-| Guardians | AmorAltra | 29716471 | 86070 | 11936
-| V I S I O N | Leinad421 | 14775594 | 86019 | 11151
-| Legends | MrSpaghetti | 81188907 | 85671 | 6077
-| Toxic Tower | nainteils | 9900676 | 85639 | 8940
-| The 3rd Crepuscule | crepuscole | 827470 | 85494 | -1497
-| maze house | RealKamijo | 827737 | 85364 | 5693
-| Lune | Cdpre | 59774900 | 85354 | 4195
-| Hydraulic | Shutter | 32076650 | 85336 | 7786
-| ELECTRONIC STAGE | Ad0NAY27GD | 94479442 | 85320 | 6257
-| For Skeleton | SMBlacktime | 4536291 | 85126 | 9510
-| Best Track | TrueNature | 1823557 | 84858 | 4336
-| Rainfall | NeyvaShift | 25161168 | 84813 | 11458
-| Gotcha | DesTicY | 26020477 | 84724 | 9648
-| Popcorn | xXTotoXx | 10966402 | 84643 | 4955
-| Glittering Cave | TheAquila | 13166480 | 84343 | 10177
-| 60Hz Hell | Devilmine | 89532385 | 84316 | 5359
-| Candy Land | MrCheeseTigrr | 426785 | 84284 | 5504
-| Radon | EVAD3 | 24590907 | 84067 | 9914
-| Movistar | FUNKYpersy | 63553145 | 84035 | 6221
-| Outcast | MistFix | 63707301 | 83837 | 3613
-| The Spire | thejshadow | 97627772 | 83836 | 10222
-| DashPot | JM70 | 27393326 | 83547 | 4677
-| Lonely Dasher | Rublock5 | 2331040 | 83455 | 415
-| Crystalline | fJud | 90986759 | 83429 | 6054
-| Hydro Rush | GMD Dominator | 34056925 | 83429 | 11869
-| Legato | ViPriN | 1680100 | 83255 | 8152
-| Hyper Destruction | MorpheiX | 8919083 | 83240 | 10430
-| Nautilus | GDFlutter | 76778424 | 83198 | 4656
-| Dashing Muse | RedlixHD | 59545322 | 83062 | 3163
-| H3H3 | chipzz | 20218985 | 83056 | 10699
-| Chipper | Superopi | 29622290 | 83006 | 9162
-| Vita Nova | LucyGMD | 98358682 | 82975 | 7441
-| End of the World | xRadian | 6741892 | 82794 | 10163
-| Micro Mages | Cleber012 | 91345763 | 82747 | 5287
-| BRAINSLUSH ULTRAMESH | xyuns | 72126073 | 82676 | 5679
-| GreeD | Danzmen | 33594551 | 82617 | 9226
-| Changing | Usermatt18 | 10635193 | 82566 | 10732
-| ChromaPunk  | DT Mark | 7635942 | 82166 | 10402
-| Friday Night | Megaman9 | 11918033 | 82164 | 5031
-| Chess Maze | Gelt | 1410045 | 82112 | 3299
-| thoughts thoughts | cerufiffy | 73962802 | 82075 | 6282
-| What is This | IIErickGDII | 90511166 | 81956 | 5033
-| Kurli Batik | RikLymback | 54795218 | 81852 | 5474
-| jumper version2 | LIM | 74360 | 81773 | 2386
-| Devoto | ViPriN | 1860434 | 81601 | 8675
-| Falcon Punch | Rublock5 | 3190828 | 81554 | 9226
-| Isolated | JacobROso | 19040717 | 81549 | 10726
-| New Beginning II | SMBlacktime | 11190238 | 81527 | 10635
-| Under Water | sheredX | 98707647 | 81434 | 4529
-| Lunar Remains | BridgetTheCroco | 69801989 | 81152 | 5797
-| Chin | NogZ | 56798192 | 81057 | 4566
-| Sibilant | xSlendy | 99852563 | 80976 | 7717
-| The Reign of Osiris | doritos1 | 52292679 | 80934 | 8455
-| Fluidic World | TrueNature | 1597630 | 80900 | 3610
-| Alien | TroxxP1 | 49942943 | 80761 | 7769
-| Abyssal Paracosm | Haru | 13449388 | 80750 | 15420
-| OverWorld | Spawn | 75016 | 80730 | 3785
-| SpeedBounce | Masterale | 37006382 | 80725 | 9640
-| Hexagonest | Gelt | 1643353 | 80711 | 4620
-| Glitterfunk | Glittershroom | 1088582 | 80706 | 5045
-| The Wrath | FreakEd7 | 27648032 | 80518 | 11612
-| vStep | TrueNature | 1344761 | 80498 | 3268
-| Elegy | ViPriN | 1417005 | 80419 | 6963
-| Surge | SirHadoken | 40249367 | 80274 | 7493
-| Funky Bliss | FozaeKitty | 36080060 | 80235 | 9413
-| electrodynamix remix | qurnl2012 | 930712 | 80229 | 3988
-| Monster City II | SilverSoul | 2436868 | 79992 | 5748
-| Panoramic | ch4rlie03 | 83974292 | 79984 | 4668
-| Panoramic | ch4rlie03 | 83974292 | 79984 | 4668
-| Flare Aura | Nico99 | 45364968 | 79922 | 9087
-| Rise | Seokso | 52119771 | 79918 | 7826
-| Postscript | gecko0 | 60179265 | 79903 | 6069
-| Resurrection | Wav | 61671641 | 79756 | 4532
-| impending storm | Justizz | 88681985 | 79635 | 5479
-| OuterDimentional | stubbypinata | 26393200 | 79631 | 10891
-| Tech Run | Lugunium | 20029588 | 79616 | 5925
-| Entity | LandonGMD | 58490994 | 79610 | 4642
-| hue180 | Wulzy | 51322879 | 79380 | 6836
-| Ghost house | Experience D | 1165107 | 79212 | -1076
-| Crystal Genesis | izhar | 12138199 | 79207 | 9429
-| Spearmint | Simwamwi | 88414262 | 79111 | 4912
-| Spearmint | Simwamwi | 88414262 | 79111 | 4912
-| chromatic area | SAS07 | 99543842 | 79025 | 6300
-| The Rusty Tower | LinuDi | 98498149 | 78963 | 8009
-| Mantroskylo | Myo0 | 32983817 | 78946 | 10996
-| Rivals | Darwin | 34816164 | 78867 | 9666
-| Dolce | ViPriN | 1829155 | 78769 | 7473
-| EricVanWilderman | Awzer  | 40878233 | 78554 | 9327
-| Dank Egypt | ExtoPlasm | 55128872 | 78429 | 5405
-| Dark Waver | Altin | 10250333 | 78367 | 11535
-| Triple Gear | Andro3d | 16038130 | 78336 | 9386
-| Time Lapse | joarZ | 7305075 | 78018 | 5866
-| day dream | pineapple | 4401283 | 77935 | 7124
-| Freezen flight | Experience D | 2167922 | 77924 | 5857
-| SewerStep  | TheRealDarnoc | 198694 | 77715 | 4174
-| Fletcher | fin | 18595506 | 77706 | 9982
-| CYBERNINJA | JesseGDGaming | 102637473 | 77584 | 5553
-| Nemesis | Jabbagrullo | 8692201 | 77455 | 7110
-| xMine | TrueNature | 2198513 | 77153 | 4448
-| zenthics birthday | Experience D | 1055455 | 77092 | 5571
-| Circus of Disaster | heda | 60770289 | 77079 | 4167
-| Your Love Is Gone | IsmailDaBest | 61148925 | 77058 | 4187
-| Realms | Cirtrax | 57023664 | 77050 | 6054
-| Voluto | Findexi | 9957223 | 77014 | 9446
-| La Citadel | Robotronx | 102486777 | 76859 | 3001
-| Crimson Thoughts | Aprevwaves | 92315050 | 76857 | 6217
-| Tentacle Tackle | Hyenaedon | 48352376 | 76762 | 7574
-| Worst Drop | BrainETR | 93655958 | 76637 | 7508
-| We Can Dream | Anya21 | 76453771 | 76614 | 7292
-| Beerus | abdula | 37792980 | 76534 | 4789
-| manifest | epiphani | 69908940 | 76480 | 5391
-| Desolation | Samoht | 33121504 | 76476 | 11126
-| broken | Waddl3 | 75615718 | 76475 | 6232
-| Simplist Disco | JamAttack | 58404289 | 76308 | 6310
-| ElectroInevitability | noobas | 4004569 | 76197 | 6870
-| Rebound | DangerKat | 94246028 | 76169 | 5408
-| Frosty Forest | nehegas | 32751561 | 76107 | 10612
-| Hallows | Cirtrax | 65023248 | 76103 | 3899
-| Quasar | MasK463 | 154617 | 76087 | 2445
-| Electrical Haze V3 | iIJigSawIi | 13220783 | 76060 | 8279
-| Power Of Track | NormDanchik | 48414093 | 76043 | 6927
-| Asterisk | ZenthicAlpha | 702576 | 75987 | 7372
-| Parasite | LeocreatorX | 46048898 | 75949 | 7387
-| SpeedyStep | Sumsar | 966841 | 75817 | 4960
-| envie | ChiN3x | 37382404 | 75797 | 10324
-| Deep purple | AleXins | 100155462 | 75776 | 4302
-| Shattered Engine | Dudex | 19358412 | 75619 | 12113
-| colour kamikaze | alkali | 59403326 | 75605 | 5956
-| wobbly tooth | Iid4sh3riI | 5004303 | 75592 | 6694
-| Blast Rift | DreamEater | 13243563 | 75567 | 7419
-| transform | Enceladus GD | 35216845 | 75520 | 10700
-| Okiba Crackdown  | Andro3d | 14953076 | 75468 | 7791
-| SunSet 3 | Jeyzor | 1069020 | 75386 | 6680
-| Carousel | Hychie | 96173957 | 74862 | 4598
-| HOT | Dakotazishere | 96926775 | 74808 | 6584
-| Running | RunningGMD | 98622241 | 74690 | 5619
-| Reincarnation | GdTheTactiq | 13062542 | 74655 | 9039
-| Celestial Ascent | Df0rDie | 67192024 | 74623 | 3672
-| Sleighfeu | para | 65881638 | 74615 | 4833
-| Sucker For Orange | Split72 | 98814860 | 74506 | 5730
-| Aethers | Ashes  | 14807960 | 74489 | 8996
-| Glowing Maze | Florent | 11881544 | 74478 | 9687
-| Zenith | BrexXes | 96285671 | 74457 | 5795
-| Amalgam | Wav | 77177533 | 74314 | 6519
-| Theory of Wildstep | Glittershroom | 920378 | 74279 | 6372
-| Impulse | iIiRulasiIi | 12923025 | 74203 | 8382
-| Pyrocastellum | Vermillion | 12563351 | 74106 | 9972
-| ugh | Waltertheboss | 70754765 | 74063 | 6003
-| LUV | Megaman9 | 21979732 | 74040 | 9727
-| TimeLapse | TheRealDarnoc | 173410 | 73959 | 3976
-| Midnight Tower | BuiltInMacro | 97552065 | 73952 | 4211
-| Chromatic Engines | chona026 | 58471832 | 73950 | 3788
-| Partition | Leafparfait | 52867460 | 73867 | 4987
-| Creo | Aconn | 65032457 | 73766 | 6618
-| P O R T A L | SH3RIFFO | 1327725 | 73763 | 5111
-| Bop it | SleyGD | 61307713 | 73653 | 4535
-| Frozen Fusion | Rob Buck | 9301350 | 73620 | 7149
-| FIDDLESTICKS | Split72 | 78592018 | 73556 | 6418
-| Be Gone Mr Gawne | Vlacc | 8028457 | 73549 | 7775
-| Go Flex | MrSpaghetti | 87301459 | 73514 | 5026
-| Flares | Nikce | 56395811 | 73396 | 6468
-| IX | ItsEnigma | 73993098 | 73369 | 5019
-| Fun House | - | 1993542 | 73103 | 3783
-| cave  escape | Dyone | 100791583 | 73093 | 4412
-| chronological run  | xcy7 | 8918708 | 73043 | 6998
-| XOZGAZ | Pettsu | 92251660 | 72991 | 4841
-| The Triggers | SP ValuE | 94397190 | 72910 | 6176
-| bass knight | Iid4sh3riI | 10464681 | 72841 | 7233
-| Bling | SomeRandomCow | 96130258 | 72774 | 5230
-| Glitter Force | Glittershroom | 1664266 | 72767 | 6482
-| Halberd Invasion | ZelLink | 4647018 | 72650 | 8690
-| Change the size | YunHaSeu14 | 163022 | 72642 | 4432
-| Marble Run | Empika | 79926284 | 72625 | 5558
-| Radio Cutter | Xenone | 10992269 | 72483 | 9967
-| Altern Future | Pipenachho | 64070742 | 72435 | 3544
-| Delicious | Dafingus | 38614895 | 72324 | 8975
-| Silver Revolution | SilverSoul | 12745453 | 72316 | 7200
-| Elysium | SkiesCore | 25081851 | 72170 | 9435
-| Robotic Nightmare | BadgerBoy | 3823860 | 72162 | 4560
-| ranibow sprimkle | bunch | 63114666 | 72067 | 4452
-| Loogiah theory | loogiah | 3714737 | 72061 | 6205
-| Genocide | Kaito | 15262339 | 71955 | 9828
-| hyper hexagon | Jo2000 | 2189514 | 71905 | 5304
-| Wizard | DesTicY | 24604796 | 71893 | 8325
-| forest of dawn | Experience D | 391989 | 71853 | 5011
-| show no tears | SariaGD | 10884033 | 71848 | 8339
-| Theory of Space | ASonicMen | 2117076 | 71826 | 4195
-| Expulse | GCDarkGGG | 16418522 | 71807 | 8983
-| Time Road | Rabbitical | 116622 | 71752 | 3439
-| Control | iIiPentagoNiIi | 86746940 | 71664 | 3415
-| Control | iIiPentagoNiIi | 86746940 | 71664 | 3415
-| Hahaha Hard Map | RealHaHaHa | 564416 | 71637 | 3110
-| GIBSUN | CatronixGD | 67977362 | 71601 | 4461
-| New xStep | TrueNature | 1982393 | 71590 | 4693
-| Fusion | xcy7 | 17422082 | 71571 | 9743
-| Col travel | NASHII | 31489120 | 71564 | 9382
-| Meowter Space | netherdon | 29456899 | 71445 | 7484
-| Toxicant | ValkyrieMaster | 66448095 | 71407 | 3622
-| 9CT | Cdpre | 61092684 | 71402 | 5460
-| Swing Squad | TrueCopa | 14133002 | 71396 | 7607
-| Orbin | Proact | 101850302 | 71391 | 7502
-| Lumen Semitis | ChaSe | 24539953 | 71369 | 8966
-| the deepest depths | studt | 68289526 | 71297 | 4603
-| new clutterfunk | Experience D | 1948117 | 71182 | 4791
-| Fancy | Lorserix | 65546984 | 71164 | 7567
-| mechanic soldier | Experience D | 1417766 | 71139 | 4158
-| Double Jump | Andro3d | 13895667 | 71098 | 7538
-| 3AKAT | Inex | 88852164 | 70922 | 10751
-| 3AKAT | Inex | 88852164 | 70922 | 10751
-| The Last Fraction | FreakEd7 | 47737567 | 70904 | 7195
-| Zer0 | Mitz | 41483972 | 70707 | 7468
-| Cord Cutter   | LeocreatorX | 33994217 | 70684 | 8545
-| Glowing Outrage | DubstepFanatic | 95751851 | 70670 | 5072
-| Red 13 | SilverSoul | 4584896 | 70566 | 7947
-| Pc Party | Andro3d | 11486496 | 70503 | 8286
-| Eradication | wlfn | 26607159 | 70492 | 10181
-| swift dynamic | Rifky12 | 73740527 | 70409 | 4827
-| cyclic | Experience D | 488302 | 70298 | 5576
-| Ragnarok | Ragnarus | 36979164 | 70211 | 8529
-| Frozen Thundershock | MrCheeseTigrr | 552825 | 70200 | 5074
-| In A Decade And Back | JamAttack | 65116315 | 70123 | 4930
-| Time Division | MasK463 | 227152 | 70099 | 3518
-| Dehydrated | Sumsar | 1052703 | 70047 | 4715
-| Fatality | - | 242188 | 70018 | -1099
-| Fairy Tail | hyperfox | 36814557 | 69845 | 7850
-| Tone | thazm | 81009400 | 69792 | 5350
-| Cosmos | CreatorRP | 66124694 | 69722 | 1904
-| Flash | Wav | 93970904 | 69634 | 5094
-| electric jungle | Ligh7ningStrik3 | 2394387 | 69570 | 7177
-| Check Steam | gruzzy | 96241895 | 69500 | 3408
-| Happy Flying | Rabb2t | 100584 | 69452 | -1057
-| Transformed | ghostface | 26088213 | 69430 | 9968
-| Motives Finale | Howler | 49736625 | 69407 | 6426
-| cross v3 | 99geometrydash | 469549 | 69395 | 3407
-| Variety of Thoughts | ChuchitoDomin | 60242867 | 69262 | 3940
-| Blanched | Mazl | 24655443 | 69219 | 9843
-| MRRDRR | N1mda | 78870917 | 69201 | 5882
-| MRRDRR | N1mda | 78870917 | 69201 | 5882
-| Stomping Beats | Alexanca | 100827866 | 69142 | 4043
-| MonoStep | Hinds | 2829311 | 69101 | 12185
-| The Universe | PixelCat | 13095523 | 69070 | 8287
-| WindFall  | LazerBlitz | 7462126 | 68986 | 5712
-| teleporting facility | MisterM | 12534341 | 68982 | 8484
-| LIE 2 ME | KMJFIRE | 91920373 | 68967 | 5775
-| Flier | Nemsy | 78351187 | 68715 | 6216
-| Fast as Lightning | Gamerespawn | 1446681 | 68688 | 3675
-| Space Park | - | 437139 | 68567 | 3341
-| TRUSTFALL | DavJT | 93200208 | 68457 | 5190
-| AngelSound | HyDroTek | 12138140 | 68445 | 7520
-| Biodynamix | - | 1530381 | 68445 | 2874
-| For Dark Boshy | SMBlacktime | 4381679 | 68417 | 7566
-| Valiant | Codex | 44434398 | 68340 | 7868
-| Shifting Systems | Haru | 12204803 | 68277 | 10767
-| FuturePast | ZenthicAlpha | 779444 | 68168 | 6419
-| Super mario | Brigno | 455059 | 68150 | 3070
-| space suit | alkali | 19734678 | 68131 | 10973
-| fukuoka rush         | alkali | 46235254 | 68025 | 7469
-| Demon EVO | Rob Buck | 3483898 | 68009 | 4769
-| Devine | iZappeR | 74536363 | 67967 | 4810
-| Luminance | DangerKat | 49582359 | 67949 | 7687
-| photonic alloy | TyphoonThunder | 56257489 | 67895 | 4400
-| luminance | Luddee | 100384238 | 67865 | 4098
-| Prismarine | Ardolf | 63240011 | 67660 | 3301
-| oddments | orots | 97833731 | 67633 | 5503
-| StarTale | Altin | 14369261 | 67607 | 8338
-| Yoshis Island | Awzer  | 41728438 | 67579 | 7129
-| velocity mines | Ggb0y | 5373613 | 67509 | 7339
-| Arcade dominator | GloryEX | 15990105 | 67485 | 6014
-| The Second Gear | AnielChasseur | 62540072 | 67482 | 5216
-| objective | LandonGMD | 69874098 | 67375 | 4654
-| Magic Marker | Chomik56Exists | 102258000 | 67288 | 3156
-| Idolize | sfhRene | 71560221 | 67275 | 5404
-| Energize | Wav | 72271683 | 67242 | 4461
-| Rivv | kr1t | 71098575 | 67204 | 4192
-| Dawn Interaction | ZenthicAlpha | 732508 | 67182 | 6169
-| Catcher | alkali | 18794732 | 67140 | 8423
-| Silence | xAgustin72 | 100527047 | 67119 | 5472
-| Flashback Tapes | Siyphe | 100462460 | 66979 | 3228
-| Gradual | RetroScope | 27301294 | 66974 | 9001
-| YANDL | LudiumGD | 79470942 | 66923 | 4689
-| The depths of Earth | Venillah | 98411615 | 66702 | 8344
-| HIDEAWAYYY | KMJFIRE | 85549357 | 66673 | 4577
-| Timeless Cosmos | iFlame | 12691794 | 66620 | 5351
-| 3 Ft High and Rising | Umbraleviathan | 94270772 | 66619 | 4267
-| Afterlife | studt | 61383614 | 66619 | 4842
-| Just Kidding | DangerKat | 48493005 | 66584 | 6518
-| Baller Factory | Inoculist | 60700412 | 66521 | 2643
-| Megaman Return | Nico99 | 44842833 | 66439 | 6885
-| DeathCore  | MaJackO | 4063391 | 66406 | 6408
-| xLax | Platnuu | 18006526 | 66304 | 6054
-| Wild Throw | Split72 | 93792926 | 66301 | 5021
-| Unlock | PAHC | 63534588 | 66291 | 3618
-| Eurorave | jaffytaffy | 7837713 | 66248 | 7574
-| average GD player | truongwf | 87946500 | 66221 | 4058
-| Strata | Jayuff | 23205787 | 66175 | 9010
-| RAZORBLADE | AudieoVisual | 94256894 | 66137 | 6696
-| Punchline | Shuffle49 | 36342881 | 66089 | 8719
-| toxins like nickel | llertt | 94590783 | 66073 | 4773
-| Breakthrough | Superopi | 3747698 | 66066 | 9086
-| BlindSight | MasK463 | 223459 | 66023 | 3095
-| Digital Love | xToxiKGD | 98505121 | 65923 | 4495
-| Fossilis | Ploid | 49923473 | 65906 | 8035
-| All Around | Flukester | 40091034 | 65881 | 7950
-| Solar Eclipse  | Draykonic | 12620029 | 65865 | 9211
-| Glitch Gremlin | gluewis | 24536952 | 65856 | 7400
-| Polargeist | 14Circles | 13051502 | 65855 | 4886
-| Theory OE 2 PART 2 | RareNytemare | 4226271 | 65734 | 8860
-| clutterfunk v4 | SMBlacktime | 738804 | 65638 | 2975
-| crasher | - | 2079873 | 65611 | 2349
-| Ahippinandahoppin | WerewolfGD | 59233763 | 65577 | 3608
-| Daft Punk | Mulpan | 49243176 | 65549 | 5027
-| Murder | NateRavenno | 27823961 | 65549 | 6807
-| Psicosis  | abdula | 35327886 | 65524 | 8202
-| Reflection | Zwenty | 29769542 | 65502 | 9719
-| SplasH  | Danzmen | 34186314 | 65323 | 7326
-| Radiant Revolution | PyroGix | 103190335 | 65049 | 4483
-| Terry | Destriv | 88156177 | 64948 | 3843
-| Terry | Destriv | 88156177 | 64948 | 3843
-| Rainbow Sky | YunHaSeu14 | 111375 | 64942 | 4866
-| NINE | YunHaSeu14 | 73244272 | 64916 | 5336
-| -genesis- | greXxio | 17716977 | 64842 | 10392
-| SternschaueR | Tfor1 | 102176550 | 64770 | 4173
-| Demonclub  | Pasiblitz | 3816759 | 64740 | 4859
-| Mayhem | dakiro | 57556923 | 64572 | 4770
-| MOUNT 27 | Sardll27 | 79931779 | 64533 | 4416
-| VisualizE | motleyorc | 27909038 | 64449 | 6069
-| Primal Tear | Minesap | 1342233 | 64415 | 3171
-| Lockout | Joltic | 26902538 | 64179 | 8207
-| Invisivle Cycles | - | 439914 | 64121 | 8667
-| OreGon DonoR | jifya | 80100355 | 64058 | 6278
-| hyperactive | St1ngray | 1430966 | 64055 | 2452
-| Dynamic Interaction | ZenthicAlpha | 766269 | 64044 | 5922
-| back on troll | Defectum | 1225197 | 63878 | -1437
-| TINCH | iMinAY | 89612226 | 63742 | 4100
-| Stargazing | Aquatias | 13289797 | 63709 | 7918
-| Keep in Touch | Zoroa | 57499171 | 63687 | 5426
-| Magic Box Mansion | TemperedShoeGD | 99424014 | 63481 | 5196
-| Catastroforce | RealSoulDash | 2381675 | 63464 | 3859
-| Midnight Sun | DemonBestGG | 288141 | 63446 | 3210
-| Mobilization | Brawlboxgaming | 17881185 | 63422 | 8463
-| Misch | Xatz | 69845405 | 63414 | 4966
-| hexagon function | Experience D | 1809811 | 63189 | 3834
-| bichrome | ChiN3x | 55793219 | 63121 | 3755
-| TKM XATZ | JHERALD | 84807612 | 62949 | 4356
-| Crystal Rush | MattMrn | 9330319 | 62877 | 8204
-| Evedatsia | Doujo | 27579224 | 62810 | 8257
-| Theory of Dawn | Experience D | 2320532 | 62610 | 4802
-| jarvisgreatcollab | robotchief | 87244270 | 62553 | 4967
-| line of dawn | Experience D | 1201611 | 62498 | 3718
-| The Intruder | Alex112300 | 56736010 | 62464 | 4795
-| Psychic Interaction | ZenthicAlpha | 795479 | 62455 | 5898
-| Hex Protocol | Insendium | 1788053 | 62449 | 3966
-| Never Again | Mazl | 12081282 | 62435 | 8283
-| Cosmic Station | Rexonics | 79071874 | 62418 | 4772
-| Pure Power | Edooox | 74332871 | 62382 | 4854
-| Vector | charky | 51558598 | 62382 | 6158
-| Bubblegum | Zeniux | 101282008 | 62337 | 5408
-| PhantO | 70UNIK | 57358777 | 62327 | 5965
-| Uplink | Xaro | 12193212 | 62319 | 9147
-| Deja vu | Oskux | 12608780 | 62282 | 6519
-| SIMG Factorial 1 | LunarSimg | 98862 | 62208 | 6108
-| Heaven | BroodingAcorn | 98100704 | 62186 | 4693
-| Speed POP Race | YunHaSeu14 | 317321 | 62104 | 4377
-| Garden of Shapes | Jinnans | 65398705 | 62092 | 4683
-| WRONG WAY | spark | 72342790 | 62039 | 4469
-| Just a featured | retromanGD | 83582279 | 61978 | 5167
-| Just a featured | retromanGD | 83582279 | 61978 | 5167
-| Just a featured | retromanGD | 83582279 | 61978 | 5167
-| Slow Mortem | Pipenachho | 22360278 | 61942 | 6447
-| ElectroNova  | CheeseFudge  | 2082646 | 61927 | 2119
-| Rotd II | MorpheiX | 32367759 | 61923 | 8745
-| gravity | xcy7 | 16825624 | 61895 | 8334
-| ILTOG | ThatJack | 79870351 | 61894 | 4675
-| ILTOG | ThatJack | 79870351 | 61894 | 4675
-| Electrika | Dorami | 10335448 | 61874 | 8440
-| ikuzo | SpooFy | 57801626 | 61834 | 5451
-| Damn squad | NASHII | 40116461 | 61829 | 6083
-| 9o | Axrus | 11634242 | 61804 | 5757
-| One Take Wulzy | Wulzy | 94200308 | 61786 | 3601
-| i go to bim planet | Bimms | 101860446 | 61781 | 3998
-| Abandoned Castle | Gvozden | 18053869 | 61703 | 7773
-| Happiness | FaekI | 41295704 | 61693 | 6273
-| bFs | Cdpre | 58966172 | 61650 | 4099
-| Recalibration Row | Nemsy | 74177398 | 61614 | 6391
-| Finality | DriftGMD | 95585136 | 61596 | 4446
-| Laboratory | Jeyzor | 1239805 | 61567 | 3728
-| Time Capsule | ASonicMen | 4643530 | 61508 | 7103
-| ampuis | bunch | 63265053 | 61506 | 4134
-| Gris II | Davoxt | 102620708 | 61264 | 3139
-| Firefactory | Rustam | 14582993 | 61231 | 7617
-| DELTA | ZubWill | 97251941 | 61138 | 4104
-| The Wastelands | dolphe | 57586194 | 61021 | 4443
-| Rise of the Dead | Jeyzor | 2821959 | 60997 | 5317
-| Filia Project | TroxxP1 | 61350105 | 60988 | 4285
-| Will II | Non4med | 14298827 | 60923 | 7148
-| Game Master | BlastiXGD | 45627449 | 60866 | 4991
-| Lost Time | Texic | 57893804 | 60825 | 3598
-| SteamPunk Something | Andro3d | 24373571 | 60804 | 7347
-| Ocean Temple | Sharks | 17931155 | 60688 | 5794
-| i travel sky 2 | RealKamijo | 480731 | 60666 | -144
-| Lucid | Wav | 76794274 | 60636 | 5586
-| Strongest Stage | mkComic | 11040708 | 60516 | 6589
-| STARS SO BRIGHT | dkitey | 98466191 | 60487 | 7786
-| Glow n Stuff | spark | 51547514 | 60422 | 5875
-| Valkyrie | AeonAir | 2203275 | 60415 | 3732
-| Sinister Power  | TheRealSquizz | 13042662 | 60390 | 8238
-| Rampant | Chlorines | 26636856 | 60362 | 5719
-| Bonkers | BranSilver | 57154297 | 60350 | 4318
-| One Touch | Hilsh | 94691025 | 60290 | 4664
-| suspicious stride | LGgd | 87801447 | 60156 | 3144
-| Final Battle  | Andro3d | 13277456 | 60129 | 6814
-| Inference | VoBrAn | 13880478 | 60117 | 7497
-| SuperUltimateCore | Dorami | 3996715 | 60113 | 5800
-| -contemptible- | Iqrar99 | 15085083 | 60100 | 7882
-| Snowhy Bells | MeowSgam | 66010605 | 59842 | 3745
-| Crispy | EVAD3 | 17738301 | 59641 | 8920
-| Plasmatic | Jeyzor | 1027392 | 59613 | 4186
-| Forwards | Jeikins | 76575869 | 59567 | 4000
-| Inmune Fusion | nehegas | 28060276 | 59548 | 9543
-| Spookay | Alex112300 | 64641398 | 59540 | 3746
-| Dreamscape | Angelism | 4913812 | 59531 | 7711
-| Razzmatazz | Norcda Childa | 19076528 | 59520 | 8547
-| destroyer | Wilz | 61611365 | 59451 | 3447
-| LAUNCHERRRRRRRRRRRR | PICAAAAAA | 84398056 | 59433 | 3212
-| LAUNCHERRRRRRRRRRRR | PICAAAAAA | 84398056 | 59433 | 3212
-| TimeBreaker | xPix3lest | 26847681 | 59358 | 7643
-| Electro Plasma | MrCheeseTigrr | 459504 | 59279 | 4742
-| Switch | HcreatoR | 93671325 | 59142 | 4561
-| Mitsotakhs | Darite | 71882443 | 59133 | 4187
-| BladePark | TheRealDarnoc | 146873 | 59039 | 2720
-| sleepy joe | fr3dmc | 94160507 | 59010 | 4751
-| Heaven X | Pollapo | 4662856 | 59006 | 4434
-| DashTea | Mojitoz | 60412613 | 58734 | 2351
-| blood of chaos | Experience D | 664255 | 58721 | 3736
-| Spell IHOP | robotchief | 85760643 | 58713 | 3447
-| Pancakes | Pan | 22162476 | 58655 | 8416
-| ClutterGears | Minesap | 1078706 | 58560 | 3650
-| ronaldinio gauczo | jneh | 75966527 | 58507 | 4448
-| Knock Out | Yakimaru | 48682510 | 58507 | 5987
-| FITH | 4rcO | 98231998 | 58458 | 4618
-| Crop Duster | Skitten | 5172601 | 58430 | 8462
-| Shinobue | Hyenaedon | 54747724 | 58426 | 3961
-| Phi East and Fern | Bizaare | 78342984 | 58414 | 5430
-| W0rk | iArcanGD | 63099070 | 58372 | 3315
-| Clutterfocus  | Andro3d | 32667717 | 58165 | 6947
-| Take a Look | SMBlacktime | 3170195 | 58139 | 7620
-| Triumph | MrSpaghetti | 90297342 | 58135 | 4775
-| Delphi Modus | Presta | 86598656 | 58031 | 3284
-| Delphi Modus | Presta | 86598656 | 58031 | 3284
-| 404 | Carnitine | 92880221 | 58028 | 4866
-| level two | AirForce | 14088202 | 57986 | 7126
-| RIVE | X1RON | 102995937 | 57893 | 3704
-| Herofunk | Mursu | 4850366 | 57840 | 7738
-| Super Lasaga Winter | AppleM2Chip | 76800080 | 57798 | 3566
-| Concern | AyDiePay | 33835902 | 57778 | 8774
-| Rhythm Buster | DangerKat | 87047223 | 57733 | 4249
-| Nightloween | Cesardavid21GD | 84060400 | 57687 | 3445
-| PumP It | EchoSpiracy | 32253831 | 57674 | 8087
-| AuroraTheory  | EternaswipVMAX | 9384998 | 57612 | 7486
-| Across | gluewis | 26089760 | 57490 | 9044
-| Spicy | NASHII | 38364372 | 57441 | 6775
-| Minimal Madness | Plygon | 40508974 | 57436 | 6372
-| Hot Air | 64x | 93382584 | 57389 | 3907
-| Dont lose your way | Dashtrict | 26116979 | 57378 | 8675
-| Frenzy | balli | 60478107 | 57327 | 4132
-| Bababarbaque | kodex360 | 69143296 | 57294 | 2380
-| Mixed Emotions | Zircone | 65491112 | 57216 | 3850
-|  UnREAL | M3nda | 86620019 | 57064 | 2980
-|  UnREAL | M3nda | 86620019 | 57064 | 2980
-| Star Gazing | MrLorenzo | 44494992 | 56822 | 6270
-| Opus | Falkuma | 44205936 | 56751 | 4978
-| time nova | Experience D | 2275894 | 56662 | 4834
-| System Reboot | ASonicMen | 8122026 | 56591 | 7373
-| Dream Away | Lumicon | 68983316 | 56566 | 3463
-| BOOM Blast | AndrixGD | 93590654 | 56548 | 4086
-| Clusterfunk | cyaNeon | 2035697 | 56477 | 2529
-| WHITE SPACE | erquillo1 | 82307995 | 56435 | 3187
-| WHITE SPACE | erquillo1 | 82307995 | 56435 | 3187
-| kaCHING | flash | 41699713 | 56333 | 5869
-| Level Two | Serinox | 67596678 | 56139 | 2852
-| Hidden Identity | Cubix | 16856676 | 56133 | 7312
-| Hopefulness | Tedesco96 | 21990731 | 56083 | 6739
-| T Rex | PETTER | 62480701 | 55963 | 7114
-| Louis XIV | Ficelo | 93831576 | 55895 | 4742
-| Disgust | iArcanGD | 78936090 | 55893 | 4289
-| Delusion | Zcratch | 30253315 | 55827 | 6994
-| Bolt | Hyenaedon | 26632729 | 55815 | 6114
-| Dark Nebula | Glittershroom | 1831263 | 55792 | 4730
-| across  | SrToposaurio | 98635067 | 55757 | 3839
-| Le Viking | MrSpaghetti | 78105627 | 55692 | 5470
-| Dark Madness | - | 953539 | 55687 | 4233
-| Generic wave iii | The Goola | 78743399 | 55668 | 4284
-| Hyper Time | YunHaSeu14 | 93046435 | 55661 | 4405
-| SpeedBreaker | LazerBlitz | 10590863 | 55648 | 5822
-| bims platformer | Bimms | 97740305 | 55482 | 5894
-| Love Life | Pollapo | 4780933 | 55432 | 4438
-| What if | JumpingTheory | 68901612 | 55423 | 3132
-| DeadBeat | GDAndreZ | 26053134 | 55415 | 7286
-| annoying shower | haizenberg | 24724657 | 55400 | 6603
-| Dysphoria | Hychie | 70369047 | 55382 | 4082
-| racespeeder | pineapple | 4170615 | 55333 | 4280
-| Kake Redux | akinawoo | 94925273 | 55308 | 3516
-| New Truth | Player Time | 18273422 | 55276 | 10086
-| Radiance | PotatoBaby | 47574315 | 55264 | 5980
-| Lunar Storm | mbedsun | 87491565 | 55252 | 5040
-| Lunar Storm | mbedsun | 87491565 | 55252 | 5040
-| Mixtape | vyp | 102474413 | 55250 | 3903
-| Shiny Vibes | Krimp77 | 93075138 | 55236 | 4051
-| The Monsuta | Ardant | 35308541 | 55195 | 8329
-| touching grass | kr4t | 91248722 | 55142 | 4137
-| spaceman | Rifky12 | 93709386 | 55071 | 4639
-| Retrospect | NeutKat | 62832683 | 55038 | 3996
-| Aestas | f3lixsram | 35233082 | 55030 | 9138
-| eucalypt | spark | 78233914 | 55000 | 4064
-| Synergize | tricipital | 90042088 | 54936 | 3998
-| NePtunE DeathMix | AeonAir | 1314462 | 54920 | 3104
-| OutBreaker | Torch121 | 32203939 | 54859 | 6592
-| Detour | fJud | 81726443 | 54829 | 4553
-| gray cave grave rave | MIRugene | 98336001 | 54827 | 2779
-| Dustar | simplox | 80195110 | 54818 | 4515
-| Dustar | simplox | 80195110 | 54818 | 4515
-| Neo Sector X | DangerKat | 79858150 | 54782 | 3946
-| black nicht | - | 75978 | 54729 | 3070
-| Sound Burst | Zafkiel7 | 38411820 | 54690 | 5388
-| Armored Zone | xSmokes | 12302526 | 54666 | 7226
-| What | Subwoofer | 40059678 | 54638 | 2747
-| Electro Cycles | - | 863216 | 54630 | 8033
-| Paranormal activity | Jeyzor | 623252 | 54629 | 3772
-| Short Circuit | Extrox | 97119093 | 54586 | 3942
-| Falling Ligths | Dragn3el | 26472707 | 54491 | 7320
-| Killowater | VEYZZ | 97087916 | 54465 | 3571
-| Toxic Sorrow | Ashes  | 14570069 | 54423 | 6063
-| Going Hard | AlvaroRH99 | 87493075 | 54315 | 3535
-| Rain full | TGBrockS | 2917293 | 54292 | 6375
-| SkyTech | Rek3dge | 2567710 | 54232 | 4565
-| HolicFactory | Dorami | 13047183 | 54077 | 7015
-| Creativity is Key | PERS1AN | 73360899 | 54074 | 3370
-| Pandoro | Pennutoh | 51358977 | 54055 | 5548
-| Armageddon | Mantevian | 54774384 | 53986 | 4165
-| Chromatic | Darixen | 86554963 | 53924 | 3121
-| somnus | xcy7 | 7674776 | 53894 | 6941
-| SPAGH NEVER CLEAR | MrSpaghetti | 89999998 | 53882 | 3540
-| SPAGH NEVER CLEAR | MrSpaghetti | 89999998 | 53882 | 3540
-| SPAGH NEVER CLEAR | MrSpaghetti | 89999998 | 53882 | 3540
-| Derivation | WerewolfGD | 55587141 | 53882 | 3522
-| frozen dream | RealKamijo | 720318 | 53836 | 4203
-| Super Starrcat | DubbyBall | 84682924 | 53738 | 2716
-| Super Starrcat | DubbyBall | 84682924 | 53738 | 2716
-| Final Battle | Novus | 18106061 | 53577 | 5536
-| Last Tunnel | Experience D | 928802 | 53558 | 3364
-| crystal blood 1 | The Carrot | 666203 | 53531 | -1716
-| Halcyon | Defiant | 7558643 | 53523 | 6537
-| Hel | Nemsy | 81400295 | 53507 | 4938
-| Solar Power | Spa8 | 25005047 | 53505 | 6891
-| Magical Madness | Subwoofer | 36906582 | 53471 | 5852
-| Ultra Super Deluxe | YunHaSeu14 | 1100354 | 53430 | 3002
-| Firelands | Cookieszs | 18879212 | 53420 | 6253
-| Neon City | YunHaSeu14 | 263869 | 53399 | 3385
-| REDlixa | Noxop | 59825518 | 53397 | 3488
-| NoXWyR | Moffer | 68060517 | 53390 | 3226
-| Stunlock | Yendis | 59574225 | 53390 | 4189
-| coffin oxygen 119 | robotchief | 77165779 | 53254 | 4451
-| Leapfrog | jaffytaffy | 24748890 | 53179 | 7240
-| MiNd | MrMeurick | 58711844 | 53164 | 3956
-| Static | GD Melk | 85223249 | 53163 | 3561
-| Deception | NASHII | 36797434 | 53132 | 3526
-| game player | 2003devin | 66329153 | 53128 | 3179
-| Cane Universe | EDSJustin | 8742496 | 53105 | 6894
-| Hexagram Bounce | DorSha | 40392875 | 53058 | 5601
-| Color Swarm | Split72 | 69778847 | 53057 | 5400
-| Monument | Howler | 97582524 | 53052 | 3316
-| King Crimson | charky | 56680161 | 53024 | 2817
-| Inferno | Pakki | 47181765 | 52985 | 3948
-| supranova | Experience D | 277765 | 52826 | 4099
-| Skystrike | 40elyk | 26244091 | 52811 | 4629
-| GravitY On  | Tutone | 20226527 | 52810 | 6483
-| Backstabber | Cardium | 3751887 | 52786 | 6960
-| Ligmatic | mikeymonke | 48716880 | 52768 | 6054
-| Just shapes Y Beats | MeowSgam | 52504380 | 52708 | 3081
-| Unnamed 109 | Shaaant | 56546008 | 52691 | 3617
-| Follow The Light | BrotGD | 81347094 | 52623 | 4209
-| Follow The Light | BrotGD | 81347094 | 52623 | 4209
-| RAINBOW RUSH | AlonGD | 100373203 | 52614 | 5304
-| AppleDynamix | Pennutoh | 6815116 | 52555 | 4985
-| Just Enjoy  | Gabriel5700 | 93215605 | 52505 | 4291
-| soulstorm | doritos1 | 59745562 | 52479 | 3832
-| Entrance To Hell | XcreatorGoal | 101924517 | 52448 | 3375
-| hidden stars | Experience D | 224503 | 52319 | 4328
-| beginning of time | Terminus M | 2896974 | 52311 | 4673
-| Hexagon Let Go | SMBlacktime | 1947653 | 52302 | 3069
-| Embers | Temptati0N | 52383795 | 52283 | 4250
-| Cirricolossus | cronibet | 59544990 | 52275 | 3367
-| andromeda  | xcy7 | 3709782 | 52269 | 5688
-| Inspirations | Experience D | 652334 | 52153 | 3562
-| Industrialize | Mursu | 6868569 | 52142 | 7824
-| Aquafire | Exylem | 61181738 | 52114 | 2509
-| Rexistence | spl1nt | 82582847 | 52011 | 3899
-| Colorful Tears | Zyzyx | 13023527 | 51896 | 7967
-| Rise | PotatoBaby | 32356143 | 51851 | 7798
-| Immortalia | SavageNerd | 87956161 | 51805 | 3412
-| pixel rainbow | juanmhtxd | 82334994 | 51789 | 5316
-| pixel rainbow | juanmhtxd | 82334994 | 51789 | 5316
-| Inflection | Darixen | 80694639 | 51774 | 5166
-| Inflection | Darixen | 80694639 | 51774 | 5166
-| Inflection | Darixen | 80694639 | 51774 | 5166
-| Inflection | Darixen | 80694639 | 51774 | 5166
-| Aimless | Squall7 | 32095659 | 51695 | 7963
-| velocity | Wilz | 60092902 | 51628 | 4254
-| See The Light | Nedyah | 102296290 | 51621 | 3853
-| Rise Of Dragons | OverZero | 12445305 | 51546 | 6975
-| Communist Party | Subwoofer | 38621454 | 51480 | 6547
-| Space Riders | Quiken | 13444144 | 51468 | 7308
-| WOBLEE | Raskali | 99862530 | 51412 | 4055
-| Hexagon Out | SMBlacktime | 1789307 | 51378 | 3015
-| Shvek V | syndd | 80694129 | 51316 | 3433
-| Shvek V | syndd | 80694129 | 51316 | 3433
-| Shvek V | syndd | 80694129 | 51316 | 3433
-| Shvek V | syndd | 80694129 | 51316 | 3433
-| fire valley  | Quarl | 63120823 | 51224 | 2987
-| Flipswap Galaxy | HyperComet | 98738751 | 51200 | 4269
-| Dismember | xXLOCOXx | 44055813 | 51159 | 5655
-| BeaN | orots | 61030470 | 51113 | 4343
-| Frozen Heart | LeocreatorX | 31614251 | 51112 | 6536
-| Radio Wave | Surv | 15950015 | 51017 | 6685
-| NAVINHAS | rafabirds | 94211421 | 51007 | 3775
-| Kepler | Wav | 82115462 | 50873 | 4124
-| Oriens | Pipenachho | 34362272 | 50829 | 7104
-| Reign | Usermatt18 | 9543326 | 50740 | 7727
-| Tranced | jaffytaffy | 26320596 | 50719 | 7155
-| body jammer | Flocab | 65549598 | 50711 | 4006
-| Hydrolysis | RealZober | 26519496 | 50682 | 6459
-| Vivid Hue | iITesseractIi | 59358800 | 50651 | 3180
-| Dungeon Madness | SaudDehan | 11485432 | 50624 | 5754
-| ElectroLux | Rek3dge | 1138878 | 50607 | -835
-| Crimson days | zeSophia | 9941679 | 50560 | 5717
-| Stabilized World | vonic | 84904083 | 50546 | 2636
-| Stabilized World | vonic | 84904083 | 50546 | 2636
-| BiggestLetdown | Vesii | 56850761 | 50488 | 3720
-| DuckTwober | Bizaare | 75254785 | 50461 | 4220
-| Pexizen | Mulpan | 40091457 | 50456 | 5267
-| Energy Intolerance | distortt | 44600930 | 50437 | 5544
-| xGWx | Z3R3P | 94658492 | 50431 | 3859
-| Electrodynamix v4 | SMBlacktime | 863008 | 50416 | 1336
-| Sunset World | CreatorJR | 11955734 | 50403 | 6104
-| Electroman Adven v3 | ZeroPoint | 1932826 | 50344 | 2179
-| lightbreakers | Splenetic | 14426817 | 50330 | 7062
-| Cry | LazerBlitz | 9997380 | 50310 | 5567
-| Shapes N Dash | ZecretDash | 56158794 | 50293 | 5199
-| Symptome | guppy28 | 64097338 | 50285 | 4100
-| IQube | Isahung | 99775909 | 50275 | 3562
-| Starry Sky | Findexi | 1115926 | 50256 | 3711
-| Stroll | Wav | 92860241 | 50139 | 3867
-| Chromophobia | TheRealSquizz | 13487637 | 50099 | 7215
-| Jamspace | SpKale | 94534964 | 50092 | 3970
-| Samurais Reason | retromanGD | 93370001 | 49979 | 3669
-| IntelCore | Noriega | 5591701 | 49901 | 7620
-| Digital paradise | MuLhM | 9804842 | 49889 | 6641
-| Time Path | TrueNature | 1931715 | 49793 | 2883
-| M E T R I O N | angelouxD | 90460305 | 49772 | 3037
-| Tilty Funk | TrueNature | 1729402 | 49755 | 2284
-| Dark Bullet | EnZore | 31358778 | 49740 | 5410
-| Fluorine | Unbipentium | 77511936 | 49617 | 3185
-| confusion | - | 297394 | 49599 | 2404
-| Pegasus | xMisery | 44764799 | 49596 | 5198
-| jarvisdifficult | robotchief | 85388604 | 49455 | 3235
-| jarvisdifficult | robotchief | 85388604 | 49455 | 3235
-| jarvisdifficult | robotchief | 85388604 | 49455 | 3235
-| Rhythm Striker | TDP9 | 97868211 | 49433 | 5204
-| ZiPiks | kodex360 | 69420633 | 49415 | 3545
-| Dark Galaxy | Noriega | 4509149 | 49386 | 6353
-| Zula | Zhorox | 90651508 | 49265 | 3224
-| Volcanic Fortress | Brawlboxgaming | 17074369 | 49243 | 6388
-| Freyen | AleXins | 64610503 | 49232 | 3884
-| Descend to Earth | SpKale | 70640367 | 49212 | 3914
-| Flood Escape | Balloons | 98229716 | 49168 | 3862
-| swiffer wet jet | Alphirox | 88298794 | 49159 | 4528
-| Event Rush | abdula | 27399229 | 49103 | 7141
-| Desertum | DHaner | 57303056 | 49086 | 5964
-| Dive | Hann | 57168987 | 49049 | 3682
-| Come una Folgore | MrLorenzo | 62906815 | 49037 | 3876
-| Frozen road | - | 885647 | 49022 | 2749
-| ice cave v3 | - | 438914 | 49013 | 3646
-| Alive | RennZ | 102957669 | 48998 | 3616
-| chOnk | bunch | 65762800 | 48911 | 4608
-| Silent Lunch | Nova4664 | 96738215 | 48890 | 4101
-| Elysium | AndrixGD | 97245009 | 48752 | 4084
-| Xoanide | TpAesuki | 69772813 | 48748 | 2743
-| Beginning of time | meromelon | 2853842 | 48741 | 4359
-| Danger District | Toxic GD | 9211138 | 48692 | 5853
-| 90 north | pocke | 70550055 | 48572 | 3582
-| Rattle | PotatoBaby | 41532878 | 48532 | 5689
-| Exodus | Player Time | 26708852 | 48510 | 6460
-| Zimbabwe | Oasis | 63412305 | 48476 | 4019
-| Energy Dash | Lyod | 358226 | 48467 | 3358
-| Jam | NASHII | 35021991 | 48416 | 5595
-| Cirrus | Knots | 48441790 | 48320 | 5826
-| Neut | LemonsodaKitty | 91374322 | 48296 | 3289
-| Makarony | Df0rDie | 57326896 | 48291 | 2700
-| Desumari | Bluskys | 56758288 | 48154 | 2972
-| tsitrA | N3xuse | 81411036 | 48148 | 3354
-| Hexagon Theory | SMBlacktime | 1745468 | 48120 | 2679
-| The Undead | Chlorines | 42415410 | 48102 | 5127
-| Veni Vidi Vici | Vermillion | 1836715 | 48079 | 3007
-| Cycles | Eclipsed | 61486727 | 48067 | 2582
-| bipolar  nightmare | Filaret | 83883792 | 47995 | 3240
-| bipolar  nightmare | Filaret | 83883792 | 47995 | 3240
-| Adventure Extreme | Dorami | 3895809 | 47913 | 4045
-| Cosmic Light | Dragn3el | 33571083 | 47882 | 7525
-| Combination | Azelicee | 84412718 | 47827 | 2439
-| Combination | Azelicee | 84412718 | 47827 | 2439
-| Kostya | DokyG | 61714234 | 47811 | 2834
-| haha effects go brrr | Perars | 64983434 | 47799 | 3168
-| Wake up | willy5000 | 13859636 | 47794 | 5970
-| Digital Overdrive  | ch4rlie03 | 98559252 | 47768 | 6139
-| Morello | Nottus | 81563732 | 47639 | 3690
-| Morello | Nottus | 81563732 | 47639 | 3690
-| SECLUDED SKY  | Ad0NAY27GD | 80063527 | 47588 | 3342
-| all the way | - | 2056465 | 47580 | 1943
-| Mid castle | ZelLink | 1420763 | 47562 | 2650
-| Comfortable  | Zyplex | 50288184 | 47524 | 4459
-| Proton Field | Vlacc | 12734407 | 47499 | 4947
-| Prism | AndrixGD | 87889786 | 47444 | 3466
-| The Arcology | Priisma | 13002626 | 47400 | 6278
-| glowity | Cinemat | 81228102 | 47363 | 3017
-| glowity | Cinemat | 81228102 | 47363 | 3017
-| Electroman Force | Findel | 2082955 | 47333 | 2098
-| Deja Vu | xVainaja | 87620672 | 47290 | 3819
-| Deja Vu | xVainaja | 87620672 | 47290 | 3819
-| The Screamroom | Goodbye GD | 15798818 | 47254 | 4145
-| Malice | vortrox | 64504643 | 47238 | 2395
-| Bouncin | PERS1AN | 75080144 | 47166 | 3112
-| Golden Infinity | Iid4sh3riI | 7859570 | 47122 | 5639
-| Reawaken | Squall7 | 93063209 | 47042 | 3698
-| foc | kcool101 | 77049036 | 47042 | 4492
-| ablixa | Toxikuu | 58878783 | 46941 | 2489
-| the last straw | cXpium | 91737498 | 46936 | 4114
-| Krakatoa | Bizaare | 68322043 | 46908 | 4021
-| area nys15 The 2 | nys | 1431395 | 46892 | -1193
-| Chary | Oskreix | 38269522 | 46798 | 6908
-| hacker machine | - | 214942 | 46732 | -362
-| Area Tracer | GDvesuvius | 68282118 | 46710 | 2130
-| AA STAP | - | 115825 | 46708 | 2038
-| Entropy | AeonAir | 1860882 | 46675 | 2237
-| Plant World | TrueNature | 979449 | 46651 | 2406
-| NirmitI | CreatorFreeze | 32468834 | 46567 | 4998
-| Magnolia | Hakurei Reimu | 12961577 | 46567 | 6923
-| Chaoz Impact | Arthur | 3396322 | 46553 | 3564
-| different funk | Devilmine | 86415818 | 46531 | 3111
-| Energy Impact | MrCheeseTigrr | 408495 | 46521 | 4509
-| Creamy Butter | Shocksidian | 14037878 | 46513 | 6083
-| KOZEL | LeynarMusic | 58039259 | 46474 | 2499
-| Shiny Way | Zwenty | 37029387 | 46385 | 5736
-| Phobos | Sir Doge | 49541938 | 46379 | 2122
-| Never Surrender | AlvaroRH99 | 88800600 | 46351 | 3656
-| Galaxy Garden | Amza | 92867791 | 46344 | 3626
-| Dismantle | Carnage37 | 52801034 | 46335 | 4999
-| Crystal Caves | btotheandrews | 17696589 | 46320 | 7096
-| Flat Chest IV | Twistaah | 94316384 | 46256 | 3612
-| Dragons | IiBlackLL | 11808607 | 46222 | 4546
-| BuFFeR | Rekiii | 36443559 | 46092 | 3289
-| Syrup Cave  | RealZober | 20544783 | 46064 | 6512
-| Adrenaline | xMisery | 57484909 | 46030 | 2793
-| Crunchy | Alexanca | 80944548 | 46010 | 3568
-| Ahoy Marine II | Jirk | 32993087 | 45983 | 6297
-| Evil Inside | Xypheeeer | 80974289 | 45864 | 3580
-| Sky Castle | TimeRed | 102352816 | 45832 | 2951
-| Electric Jungle | creeper1347 | 2491857 | 45780 | 4309
-| The Inevitable | jaffytaffy | 24296621 | 45743 | 4997
-| MayoMaze | Splenetic | 6455304 | 45729 | 5147
-| Dodecahedron Force | Siri | 1669327 | 45707 | 1652
-| Spectex Impact | Spectex | 2827718 | 45674 | 4591
-| ILLUMINATE | RegentGD | 73306039 | 45643 | 2851
-| Acquiesce | Oasis | 61448723 | 45626 | 4036
-| NANL | MisterCofla | 100732183 | 45601 | 3342
-| portal | Whirl | 91420752 | 45562 | 3714
-| RPMX | Cheeseguy | 4820315 | 45519 | 5919
-| insanis | f3lixsram | 26473786 | 45510 | 7934
-| PuMp | Pechuga20 | 57616550 | 45506 | 3185
-| AntiPixel | Xiodazer | 11811266 | 45498 | 5709
-| BanderSnatch | supamarioxx | 61320999 | 45494 | 2687
-| Titanium DeCoder | iISpaceDustIi | 50906583 | 45485 | 3138
-| Cosmic Chaos | Optation | 56607164 | 45405 | 3510
-| Dusty Dunes | Nezzieverse | 81091173 | 45367 | 3989
-| FGH ji | iMonikaa | 82901850 | 45284 | 2664
-| Chelou | Gepsoni4 | 67351115 | 45273 | 3050
-| Cosmic Dreamer | CreativeAlloy | 11278666 | 45249 | 5558
-| Source of hope | BitZGD | 63730412 | 45224 | 2544
-|  Warpside Trials | XcreatorGoal | 102335941 | 45197 | 2337
-| destroy | sharkdex | 99370365 | 45116 | 5592
-| Sky Serenity | RealZober | 20829037 | 45085 | 6869
-| Gus Funk | SouneX | 101343310 | 45074 | 3372
-| Gilded Temple | tricipital | 87211340 | 45073 | 2864
-| cosmic dream | carapa22 | 9620652 | 45043 | 5683
-| Glitch Gremlin | Juffin | 6812342 | 45009 | 5712
-| Black and White | - | 1260361 | 44950 | 2599
-| orac | Nemsy | 70827409 | 44905 | 4185
-| transition | asvezesopa | 28699119 | 44858 | 5449
-| AnotherRainbowyLevel | BridgetTheCroco | 68716980 | 44791 | 3321
-| The number 5  | Adiale | 12809853 | 44710 | 7040
-| Artificial Ambience | Eridani | 60317281 | 44657 | 2543
-| Ink Hell | Alex112300 | 59525361 | 44643 | 3211
-| BitBreaker | Xelin | 8931918 | 44609 | 5617
-| TWOpointTWO | Texela | 78320148 | 44603 | 4129
-| Silver Eclipse | Gusearth | 14389330 | 44601 | 5115
-| Mega Mash | Wav | 98380937 | 44543 | 3651
-| chaoz fantasy | BroodingAcorn | 102766345 | 44405 | 2920
-| Flirtatious Jungle  | Dyrox | 8069195 | 44351 | 5686
-| Final Steps | BlastiXGD | 34884344 | 44314 | 7554
-| crystal blood 2 | The Carrot | 808068 | 44302 | -848
-| fast as lightning 2 | wamiq | 12037098 | 44280 | 3827
-| vista | 99geometrydash | 100125 | 44270 | -183
-| Funky funky | - | 214882 | 44257 | 3749
-| boneyard | Hychie | 100341594 | 44209 | 3587
-| Roma | RealZober | 61046304 | 44185 | 2318
-| Imperial | SkiesCore | 43865773 | 44180 | 5595
-| Spectral Chambers | KwoobGD | 100460804 | 44177 | 3172
-| Aboard Dankness | talia | 28014573 | 44175 | 6662
-| Wishing Well | MrSpaghetti | 84056414 | 44174 | 3598
-| PunchZ | xtobe5 | 11962363 | 44148 | 5463
-| theory of harder map | - | 1538887 | 44069 | 1181
-| Komi | Dioxis | 60635337 | 44051 | 3147
-| Purity | Hychie | 62264734 | 43980 | 2816
-| Mithril | MoonSpark | 33309469 | 43951 | 5601
-| Genocide | Syunide | 14982046 | 43937 | 5953
-| BEATMANIAC | xenoremu | 76215677 | 43923 | 3242
-| Flashing Journey | Jeyzor | 984062 | 43894 | 4532
-| Payback | BridgetTheCroco | 69173046 | 43855 | 2763
-| 53836863 | Xoroz | 53836863 | 43821 | 3342
-| velocity II | Wilz | 66279612 | 43803 | 3055
-| UK pizza delivery | EpicLemon99 | 102766357 | 43750 | 3953
-| Pain and Suffering | Oskux | 4224505 | 43732 | 4070
-| 1UP | Mangosteen | 47227168 | 43695 | 4321
-| Blaster Effect | Tronzeki | 10556973 | 43689 | 4959
-| Nightmare traveller | Inergy | 37793502 | 43674 | 4808
-| XI Step | dohyen | 72812 | 43645 | 2461
-| Hard Core | - | 67358 | 43596 | 1502
-| PanTioN | Iiwosii | 47234639 | 43558 | 5278
-| Azure heart | notoxic34 | 101232166 | 43527 | 3350
-| CHYCHY | Pettsu | 101254641 | 43491 | 3759
-| R U Ready | Lebi06 | 91039842 | 43471 | 2883
-| R U Ready | Lebi06 | 91039842 | 43471 | 2883
-| lost forest | Experience D | 220297 | 43466 | 1865
-| Rise Up | Zaphii | 65978994 | 43431 | 2622
-| Tamsario | zZoomks | 62520346 | 43411 | 2656
-| Closed Beta Test | BridgetTheCroco | 68240392 | 43361 | 3444
-| Psychotic Lights | Rifct | 93846197 | 43356 | 3521
-| i cried | llertt | 87488379 | 43242 | 2947
-| i cried | llertt | 87488379 | 43242 | 2947
-| Delta | ItzMezzo | 80538836 | 43234 | 3736
-| Arcade Run and Neon | Shatt3rium | 84271032 | 43185 | 2545
-| thulium | bunch | 60405885 | 43176 | 3688
-| The reign of horus | doritos1 | 86427947 | 43152 | 2803
-| The reign of horus | doritos1 | 86427947 | 43152 | 2803
-| The reign of horus | doritos1 | 86427947 | 43152 | 2803
-| Pangea Software | MarkyArchived | 89771497 | 43150 | 3455
-| You uoY | Splinter25 | 90434274 | 43047 | 3529
-| Ichor | Nwolc | 11561503 | 43044 | 4359
-| Beyond Time | Mulpan | 26436732 | 43012 | 5794
-| Vibing Moments | Mineber | 91417559 | 43001 | 3085
-| Troublesome | Wav | 57134023 | 42981 | 3367
-| electrodynamix aker | - | 919674 | 42847 | 1339
-| Mystical Reality | euxx | 62105821 | 42846 | 2518
-| Ruminant | NogZ | 51090690 | 42844 | 4587
-| Spooky Time | HugusTheNoob | 64860481 | 42798 | 2723
-| I Love Among US | KNOEPPEL | 67074873 | 42670 | 2919
-| Vaplock | Agils | 61123634 | 42663 | 2621
-| La szagal Nu Rave | GrenadeofTacos | 85393053 | 42662 | 2233
-| La szagal Nu Rave | GrenadeofTacos | 85393053 | 42662 | 2233
-| Massacre  | Carnitine | 61172191 | 42660 | 3165
-| chaoz airflow | Iid4sh3riI | 4595087 | 42646 | 4212
-| Brawlhalla | WerewolfGD | 46452613 | 42633 | 3983
-| Im a Man | akApple | 49911661 | 42606 | 4716
-| SHEOL | potatoplayer | 13451096 | 42534 | 5135
-| BANSH33  | Carnitine | 92583659 | 42525 | 2954
-| Collabz System | AncherStram | 3736167 | 42521 | 3800
-| ORBIT | vegtam | 98114079 | 42496 | 2849
-| Technical Showdown | flameur | 72704495 | 42446 | 3924
-| Dark Step | Devylan | 11831718 | 42408 | 5772
-| Crunch Time | SirZeus | 62512389 | 42391 | 2311
-| Vibrant Trance | Triadic | 4378441 | 42257 | 4349
-| Hexagon Dasher | Dextrose | 1930994 | 42210 | 2153
-| Cosmos | Goobfrudla | 91006474 | 42155 | 3169
-| Shockdynamix | DreamEater | 101192849 | 42114 | 2686
-| robo run | Iid4sh3riI | 11384248 | 42097 | 4991
-| Concept no4 | Presta | 88911215 | 42061 | 3024
-| Time Sequence | Star77 | 25452144 | 42047 | 6615
-| Digital Zone | YunHaSeu14 | 337585 | 42007 | 3404
-| Haunted Moments | ChuchitoDomin | 65015877 | 41982 | 3189
-| Dansa Tropical | LuisGX12 | 17394170 | 41959 | 6799
-| Crusade | AmorAltra | 38975325 | 41955 | 5278
-| Vivid dreams | ItzMezzo | 58864050 | 41898 | 3112
-| Deaths Grave | Nena Kiwi | 1372091 | 41839 | 1608
-| Swirl Realm | TrueNature | 1671258 | 41688 | 2494
-| Incorrectly hell | Experience D | 711796 | 41651 | 0
-|   uwu  | ImKumoriGD | 67359581 | 41632 | 1903
-| Twilight | Ad0NAY27GD | 77690584 | 41620 | 3737
-| SuperChaotic Flight | Dorami | 3707934 | 41601 | 4361
-| Lezard Chic | Hydren | 64224149 | 41586 | 6134
-| We Are One | AeonAir | 1439512 | 41532 | 2146
-| Generation | Rustle | 13144004 | 41506 | 4635
-| THE SWIVELLER | therealbillly | 82016380 | 41456 | 3893
-| nauru | Pettsu | 95301651 | 41421 | 3784
-| transistor | xcy7 | 3740578 | 41405 | 4448
-| For ZenthicAlpha | SMBlacktime | 2016843 | 41372 | 2693
-| Remorse | Squall7 | 37072071 | 41356 | 5940
-| HADES | Echonox | 13384975 | 41352 | 5718
-| dizzy run | emiliax | 584022 | 41318 | 2605
-| apocalypse realm | Experience D | 406131 | 41276 | 3379
-| boleumdal | K911unA | 84785445 | 41178 | 2675
-| Fire Nova | Kama2326 | 12092161 | 41038 | 5420
-| dizzy | iZeo | 70586330 | 41036 | 4083
-| harlequin | ItzMezzo | 64735621 | 41007 | 2660
-| RadioCutter | RealSoulDash | 6059066 | 40971 | 5863
-| Cane Swinning | SMBlacktime | 3468103 | 40950 | 4305
-| Thumper | Phantomech2 | 8856997 | 40947 | 3868
-| Techno Chaos II | Carnage37 | 45440794 | 40871 | 4521
-| Automatic Dance | Jezzel | 55000269 | 40843 | 1587
-| Dark Spectrum | Nox | 1476111 | 40833 | 2065
-| Acuario | MrShetoss | 46791031 | 40812 | 2531
-| heavenly colors  | AirForce | 14586133 | 40800 | 5339
-| Linnaea Borealis | PICAAAAAA | 78117747 | 40799 | 3223
-| Electrorampage | Florent | 11881436 | 40796 | 6139
-| Gunmetal Black | AeonAir | 1458259 | 40774 | 1056
-| colosus right v2 | IRock3roI | 12403443 | 40718 | 5822
-| Into Open Air | SunBun | 101628718 | 40626 | 1752
-| Cave Escape | CubeKingGD | 98248028 | 40590 | 3301
-| Rum n Bass | J735 | 60874997 | 40563 | 1663
-| Robtop Disco | OssyTheDragon | 42518363 | 40539 | 2254
-| Sometimes | MrSpaghetti | 90066758 | 40523 | 3402
-| Sometimes | MrSpaghetti | 90066758 | 40523 | 3402
-| Exodus | Non4med | 14107471 | 40483 | 5154
-| Time Collapse | Lyod | 265969 | 40455 | 2579
-| Perception | TheGeoDude | 14262751 | 40431 | 6353
-| Chicken | buoGrOsSo777 | 92171910 | 40409 | 3083
-| Ink Machine II | KittyDoge | 44306956 | 40388 | 4550
-| Edge of Universe | Oskux | 3539673 | 40380 | 4136
-| horizon | Zhiana | 68846058 | 40361 | 2806
-| JungKook Dash | Mineber | 73120239 | 40329 | 3081
-| NightCity | Zinht | 84561575 | 40320 | 2716
-| WickedSick | Quiken | 14596998 | 40300 | 5990
-| Hall Of The King | Aleiz21 | 66124444 | 40299 | 2574
-| The Milky Road | Uprush | 10970841 | 40251 | 5113
-| Space Time | iI Flow Ii | 3741432 | 40216 | 3216
-| Resurrection | HTigerzGD | 55863598 | 40190 | 2977
-| MeatBawl | TheShadowRealm | 67879622 | 40175 | 1475
-| BARRIER | alkali | 90762612 | 40152 | 3245
-| Speed Stage | DarXis4 | 17098611 | 40131 | 4918
-| AmoLemoAwzZervWhaBuf | Awzer  | 60569568 | 40129 | 2773
-| MrDynamix | Carnitine | 94075257 | 40121 | 3611
-| Neo | FrostDragonGD | 61208179 | 40121 | 1926
-| Anesthetic Daydream | Hychie | 57028176 | 40083 | 2251
-| Planet Nine | Split72 | 94227252 | 40014 | 3584
-| Boo | Shaowin | 79214822 | 40012 | 3796
-| Boo | Shaowin | 79214822 | 40012 | 3796
-| Verdict | LandonGMD | 54418384 | 40001 | 4640
-| 5L | TheLasaga | 65413127 | 39995 | 4093
-| NIP | BALTZ | 86112291 | 39881 | 2441
-| Epilepsy Mania | A145 | 65953618 | 39877 | 3025
-| August 2021  | Janucha | 73003131 | 39786 | 2212
-| Emergency Lockdown | FrostDragonGD | 60992587 | 39779 | 2770
-| Programmed Rhythm | DubstepFanatic | 92833587 | 39736 | 3866
-| stardust | kreyk29 | 92724755 | 39659 | 2427
-| WildFire | Wav | 54990114 | 39654 | 3915
-| Cable | PotatoBaby | 48649610 | 39637 | 4510
-| Techplat | Mehdi860 | 98062841 | 39594 | 3914
-| Turn Off Your Ego | PixelMini | 60075794 | 39579 | 2891
-| somnambulism | cerufiffy | 60139281 | 39569 | 2391
-| FAYRDUST | ZukulentoO | 13433184 | 39545 | 5536
-| vesuve | pineapple | 3472006 | 39538 | 4357
-| Lost souls IV | Digitalzero | 13381757 | 39512 | 5034
-| Dawnamix | Experience D | 916245 | 39470 | 3292
-| Massive Roast Planet | RyanAB | 28894252 | 39363 | 5369
-| Aeterion | Zephal11 | 15387026 | 39316 | 5709
-| Sacrifice | MrSpaghetti | 90178763 | 39254 | 2910
-| Sacrifice | MrSpaghetti | 90178763 | 39254 | 2910
-| Sacrifice | MrSpaghetti | 90178763 | 39254 | 2910
-| 7funk | Jo2000 | 1195293 | 39237 | 2330
-| Noctopia | BridgetTheCroco | 81754403 | 39152 | 2791
-| Slaughterfunk | jneh | 70706362 | 39145 | 1476
-| ShowDown | PuffiTree | 48733434 | 39126 | 4328
-| roadkill | pocke | 91313704 | 39106 | 3060
-| robtop dusbtep | 110010110 | 59253052 | 39049 | 1876
-| Simple Base | Rublock5 | 1419644 | 39017 | 2289
-| geometry machine | - | 145998 | 39016 | 172
-| SuperDynamix | Evasium622 | 956341 | 39009 | 1926
-| Homesick | Howler | 57276799 | 38960 | 2787
-| Someone | 8BitFudge | 13529751 | 38956 | 5620
-| Grynn | matt843 | 99327725 | 38944 | 2195
-| harden than heaven | - | 117855 | 38936 | 220
-| Imaginaerium | WazE | 3502368 | 38909 | 3520
-| The Ancient Ruins | Zelda9912 | 15985098 | 38897 | 3877
-| PhentoM | Iiwosii | 57026126 | 38881 | 2672
-| Tnemele | Dafingus | 32938420 | 38870 | 6746
-| Stardust | Coneth  | 18194527 | 38856 | 5031
-| Flip Flap | ruined | 848039 | 38856 | 2510
-| level demon | - | 145251 | 38844 | 1244
-| Evolution | niremasit | 38862711 | 38821 | 3775
-| Utopia World | Pollapo | 4985741 | 38795 | 4137
-| Floppy Bird | kr1t | 79197475 | 38774 | 3381
-| NextnextNext | Blogde | 97520144 | 38751 | 5204
-| ColdHeat | TrueNature | 642038 | 38750 | 2031
-| Battle City | Antassma | 64761503 | 38643 | 2058
-| Heart | DHaner | 96658514 | 38615 | 3878
-| Firebird Fortress  | fr3dmc | 100733618 | 38606 | 2957
-| Divinity | NicaDasher667 | 31168747 | 38599 | 5552
-| Dazzling | W3ndy | 66842948 | 38549 | 2071
-| fcka | quickcheck | 81767830 | 38543 | 2812
-| Zeniob | MarkyArchived | 59762766 | 38537 | 2335
-| Rustic | Exylem | 59411546 | 38508 | 2241
-| urMumLookinKindaNice | BushAvenue | 83465420 | 38492 | 2485
-| Angled Way | Gamerespawn | 1690571 | 38400 | 1980
-| Nosebleed Subsidia  | Gtnaon8 | 88887827 | 38396 | 2952
-| Mechanize | Waffl3X | 48438974 | 38396 | 4839
-| Uprise | VeXyn | 9073726 | 38379 | 5282
-| VN | ViralDL | 77878856 | 38369 | 3646
-| Jolly good show | T0rnat | 74768326 | 38241 | 2752
-| Hurricane | ZidDer BGD | 40272277 | 38240 | 7024
-| Lateral | kr1t | 71018428 | 38177 | 1986
-| Double Cheeseburger | Xoroz | 70977586 | 38054 | 4246
-| Astronomic | Mazl | 24961389 | 38053 | 5092
-| Next Processing | Syniath | 38833873 | 38050 | 4394
-| Downtown Funk | VladAAA | 64370350 | 37981 | 2821
-| ElectroDynamic | - | 1206223 | 37954 | 1462
-| Voyager | VeltX | 83750514 | 37893 | 2826
-| Time Temple | BlastiXGD | 36349111 | 37893 | 4691
-| Bubbleland | Nemsy | 94805369 | 37868 | 3391
-| Bionic City | ThatJack | 97710012 | 37779 | 3706
-| Plasma World | LimeGun | 1950278 | 37777 | 1786
-| Glowdern | BowtieGD | 68403481 | 37773 | 2741
-| OutBurst | Gouns | 34198563 | 37756 | 6395
-| inside demons | mbedsun | 91297283 | 37744 | 2623
-| Taiko | Steekmen | 93830477 | 37737 | 2202
-| Shortcut To Space | carlosbmt22 | 68048862 | 37721 | 2316
-| Marik | BitZel | 57473037 | 37647 | 3052
-| Steam machine | Inergy | 39964950 | 37619 | 4947
-| Bloom | Slipiao | 74325876 | 37493 | 2570
-| WildBorn | sirDannygd | 99637681 | 37483 | 2813
-| Chapstick | Howler | 51959027 | 37428 | 4096
-| The Theory | Superopi | 941416 | 37354 | 3018
-| Electronic World | DemonBestGG | 644224 | 37317 | 1989
-| New Game | Xfaider | 99110414 | 37300 | 4502
-| Sword Master | rafer | 21671648 | 37275 | 2702
-| World Race 2 | Spectex | 13069903 | 37233 | 3846
-| Red Observer | ninq | 72733913 | 37218 | 2891
-| Infiltrage  | Gepsoni4 | 97787052 | 37185 | 6938
-| Bonk | ShadowIan | 65129582 | 37170 | 2575
-| Nuetronium | xXNooBZzXx | 90689591 | 37128 | 3149
-| beautiful of dawn | Experience D | 239196 | 37110 | 2858
-| Electric Flow | TrueNature | 785835 | 37041 | 2209
-| rinsed pringles | GDcob | 73844199 | 37035 | 2966
-| wayside | SupuGD | 85063706 | 37017 | 2324
-| SELF AWARE | Nezzieverse | 77569712 | 37007 | 2192
-| Versatility | Gamerespawn | 2170717 | 37003 | 3113
-| Chronic Line | Angelism | 2852066 | 36909 | 3921
-| Gaster | Therealclubin | 16889474 | 36907 | 1632
-| Elevation | Zeidos | 35104379 | 36906 | 4793
-| Magmatic Ruins | ItsJustCohen | 68500139 | 36893 | 2700
-| Tank Dash | MitKit | 37494939 | 36851 | 2916
-| Mimpi | Izzul93 | 77597067 | 36839 | 3367
-| Turbulence | Edooox | 97769006 | 36810 | 3873
-| Dawn of Ages | Insendium | 2157699 | 36768 | 2971
-| Paradox | AndrixGD | 89357684 | 36751 | 3503
-| Scarlet Fog | Wintter | 98144846 | 36651 | 3099
-| Electroman Remix | qurnl2012 | 522042 | 36643 | 2592
-| BlacktimeDynamix | SMBlacktime | 968882 | 36618 | 2374
-| Crimson Corridors | Copypasta | 69843465 | 36591 | 3286
-| A New Pledge | ThorMode | 15705498 | 36586 | 5244
-| Fireball AR | ItsGwMe | 5094361 | 36585 | 4529
-| Necropolis | ImSamo | 62943335 | 36564 | 2114
-| AbsoLute Dash | Rublock5 | 1510765 | 36553 | 1855
-| Percussion | Alex084 | 31344612 | 36548 | 5737
-| qver | iZeo | 70048032 | 36500 | 3323
-| Belt Is Shift | iKoty | 100019167 | 36471 | 2097
-| Twenty One Pilots | ExequielSoria | 51864783 | 36438 | 4079
-| Di | Fluore | 33124626 | 36393 | 5274
-| Fuzzy | gluewis | 27797775 | 36388 | 5477
-| Timed | Digitalight | 30124603 | 36319 | 5363
-| Uretre | MorpheiX | 36719922 | 36262 | 4815
-| Endaina | Toughfey | 61208765 | 36226 | 2285
-| eliminator | Wilz | 64089732 | 36217 | 2502
-| chocolate muffing | bunch | 90571969 | 36179 | 3081
-| pyramid of giza | pineapple | 3815496 | 36140 | 3297
-| Industrial Fallout | loserchik67 | 26212638 | 36138 | 4993
-| Cane Swinging v2 | Lish | 7562313 | 36135 | 4113
-| Classic | Hann | 57664600 | 36098 | 2024
-| Hot Sauce | BridgetTheCroco | 77408280 | 36082 | 3357
-| NextStep | Evasium622 | 2073847 | 36068 | 1898
-| Times sublime | Optonix | 34183862 | 35979 | 5660
-| Summit | ElEcmEtAl | 794738 | 35950 | -407
-| Paladin | Codex | 17386724 | 35940 | 5845
-| The Cosmos | Krimp77 | 84403659 | 35932 | 2426
-| The Cosmos | Krimp77 | 84403659 | 35932 | 2426
-| Drowning | HexagonDashers | 18450970 | 35852 | 7114
-| Stronghold Derelict | nyab | 12849638 | 35832 | 5373
-| AfterDynamix | CubeDasher | 8307845 | 35817 | 4424
-| Limit Step | TrueNature | 794892 | 35769 | 2570
-| Meeditty |  Ryan | 37372285 | 35767 | 3909
-| One Out Of Millions | Lyriaki | 72639337 | 35760 | 2715
-| Bastion | Coreybirdo | 13828165 | 35740 | 5631
-| Chromafinale | Jabbagrullo | 1848182 | 35725 | 1427
-| Merry Crisis | hashgd | 97524974 | 35710 | 3284
-| lunarerlism | Experience D | 740673 | 35701 | 3349
-| Holy Moly Its J | Sobeann | 85532484 | 35690 | 2593
-| Holy Moly Its J | Sobeann | 85532484 | 35690 | 2593
-| Protect Your Square | PoIsEn324 | 50514366 | 35687 | 2488
-| JalouWyn | Anuarl | 75282525 | 35632 | 3746
-| LineTheory  | Zelda9912 | 9527434 | 35628 | 4340
-| Burst | DashDude | 74882359 | 35619 | 2932
-| Pulsar | Hydronus | 66375984 | 35619 | 2318
-| back talk | BadPurple | 97000623 | 35488 | 2854
-| Sky Fall | SuprSwiglz18 | 15292513 | 35438 | 4700
-| Sightreadable GP | BridgetTheCroco | 68573847 | 35398 | 2248
-| Yuh | VecToRx GD | 100962017 | 35305 | 2525
-| IZOZ | Nicki1202 | 26572019 | 35293 | 4230
-| Slime Inc | Gepsoni4 | 68540220 | 35273 | 2940
-| The Brightside | MrSpaghetti | 62012000 | 35255 | 4311
-| AlvaExcel | AlvaroRH99 | 85821126 | 35254 | 2256
-| Assault Undertown | SrToposaurio | 91251985 | 35115 | 2357
-| Forerunner | Havok | 2204352 | 35113 | 2382
-| Coralux | SirZaiss | 36825859 | 35046 | 4290
-| Abstort | redwn | 49543933 | 35019 | 4357
-| El Jardin de Viprin | melX0exe | 92483637 | 35007 | 3828
-| For Pride | MrSupremeGD | 70154728 | 34995 | 2374
-| Singularity | Davidayy | 98986889 | 34969 | 2265
-| Mintspark | Howler | 57304701 | 34944 | 2092
-| Jupiter | ViP3r | 37394630 | 34921 | 3948
-| an another dawn | atmospher | 55895552 | 34920 | 2847
-| Diamond Rift | xXxShadowxXx | 2846335 | 34895 | 2581
-| Close Combat | Sobeann | 103041664 | 34892 | 2918
-| Aguizote | Iiwosii | 64718563 | 34884 | 2332
-| Sideral Ruins | MeRlO CreatoR | 11002111 | 34833 | 4167
-| Aeronautics | mirajune | 26768124 | 34820 | 5322
-| Crimson Showdown | JustBasic | 36511367 | 34818 | 5246
-| Signals | BridgetTheCroco | 74669514 | 34816 | 2612
-| Forgotten Fantasy | Matobia | 101402856 | 34775 | 2080
-| Electro Peak | icewither | 51117240 | 34768 | 3837
-| Wrath | xSkylighter | 15365132 | 34743 | 3685
-| Tropical Temple | CreatorMoldy | 95392499 | 34709 | 2428
-| Overclock | Pan | 24795078 | 34662 | 5071
-| Vortex Flow | DreamEater | 3586751 | 34662 | 3665
-| Fury | NASHII | 41942873 | 34660 | 2584
-| Bloody Tears | Lish | 11589101 | 34644 | 3094
-| Energy Cycle | Hakkou | 12487145 | 34559 | 5128
-| Infinite | Serinox | 58476958 | 34487 | 2524
-| Uncommon | Wav | 61406310 | 34456 | 3337
-| Chime | Nemsy | 70240766 | 34451 | 3818
-| Rhubarb | Sands | 81586492 | 34401 | 2905
-| Rhubarb | Sands | 81586492 | 34401 | 2905
-| Phoenix | DarkZoneTV | 13866332 | 34378 | 4724
-| Electrodrome II | Nico99 | 50175300 | 34336 | 4123
-| what the THUMP | EnenzoGD | 93273966 | 34325 | 3108
-| Clock Tower | WSKKung | 57409868 | 34288 | 2451
-| Adonis | enlex | 47701736 | 34283 | 3729
-| Aihoi | Sendent | 73849124 | 34275 | 2866
-| Adrift | Psynapse  | 12380973 | 34261 | 2926
-| Night Dream | Noriega | 2714524 | 34255 | 2930
-| Black Oil | BlastiXGD | 26273924 | 34166 | 5448
-| Synthesis X | Happolicious | 13489859 | 34151 | 6186
-| wiiiioooo wiiiioooo  | JustL3o | 93938620 | 34140 | 2354
-| Come Here | Gepsoni4 | 77515011 | 34111 | 3940
-| Theory Of Iceland | - | 1357705 | 34107 | 1601
-| TACTICAL | PICAAAAAA | 90873009 | 34094 | 2761
-| Urgence | guppy28 | 78145791 | 34091 | 2874
-| flash | glare7 | 99077470 | 34085 | 2879
-| Nice | Qubb | 61437853 | 34060 | 2450
-| Toxic Complex | SmitN | 67064257 | 33991 | 1847
-| Atomic Blast | Desx74 | 27407812 | 33960 | 4859
-| pushing onwards | goldjojo | 98222467 | 33898 | 2729
-| Chromatic Blast    | diamondstorm | 82285678 | 33893 | 3068
-| Chromatic Blast    | diamondstorm | 82285678 | 33893 | 3068
-| Chromatic Blast    | diamondstorm | 82285678 | 33893 | 3068
-| Galruxy | - | 801252 | 33866 | 2039
-| Vee | Spectex | 8256877 | 33852 | 4972
-| Starlight Stage | Sylv | 65418059 | 33849 | 3256
-| Tegen het Prisma | FadeOff | 93781658 | 33847 | 2838
-| Nvm | Split72 | 64656956 | 33833 | 3759
-| Dem Odyssey | Hyenaedon | 29887437 | 33828 | 5216
-| sky of honor | Experience D | 620942 | 33828 | 2920
-| Contrast | - | 1823655 | 33806 | 2133
-| Relaunch | Markyforce | 92688330 | 33787 | 3493
-| Triforce | Erdyuri | 56597927 | 33785 | 2397
-| Interception | DemonMKer | 4294374 | 33732 | 3813
-| HopeFulNess III | snowmage | 37193195 | 33721 | 4642
-| LIGHTNING Jumper | TheRealZust | 133350 | 33716 | 1004
-| Theory of Pokey | Angelism | 1922302 | 33713 | -201
-| Avoidable Cause | Baanz | 67687594 | 33631 | 2176
-| RadioCutter | Andro3d | 6594675 | 33619 | 4679
-| Robtop Industries | clncrvl | 77129887 | 33582 | 2819
-| AscenT | GeomTer | 52885502 | 33581 | 3630
-| Hornankoje | catgirlBlitz | 50000004 | 33567 | 2666
-| Congruence | toopert | 97594934 | 33539 | 2421
-| zenthic cave | Experience D | 633463 | 33520 | 2878
-| babaabbas0 funk0 | babaabbas0 | 66869863 | 33490 | 1898
-| infested waters | xcy7 | 12970037 | 33484 | 5631
-| Point Force | - | 1796620 | 33464 | -554
-| Flasky | Mineber | 66896632 | 33414 | 2208
-| Pizza II | FUNKYpersy | 62089428 | 33382 | 2177
-| the warning | skelox | 3027391 | 33365 | 3232
-| Alterwolf | WerewolfGD | 48426148 | 33316 | 2762
-| Burnt Toast | Split72 | 61000032 | 33261 | 3178
-| Saluti Utente | Exi0n | 65081130 | 33208 | 2353
-| Underland | SkillzAura | 34923851 | 33161 | 4245
-| magistar | im fernando | 48139023 | 33129 | 2471
-| Auto Pilot | cometface | 70079937 | 33123 | 1583
-| Adustrial | Howler | 59661932 | 33123 | 2342
-| Alphawolf | WerewolfGD | 48118261 | 33103 | 4181
-| purple universe | zekvo | 12416598 | 33083 | 5159
-| Liminal | theGoT | 67628612 | 33079 | 2271
-| FF0000 | LightPotato99 | 79356892 | 33049 | 3209
-| FF0000 | LightPotato99 | 79356892 | 33049 | 3209
-| Elliptical | NateRavenno | 48273733 | 32981 | 3797
-| ClimatiX | Razorendoe | 15851379 | 32941 | 4634
-| Nyastep | Navoltski | 58742824 | 32920 | 2661
-| Zaana | GDMazii | 77695213 | 32861 | 3570
-| OWIBLION | Peter | 49435684 | 32852 | 3807
-| Rainbow Factory SP | - | 3316392 | 32837 | 3743
-| Purple Circle | Split72 | 66894372 | 32830 | 3276
-| Extreme funk | Galluxi | 1193978 | 32812 | 2155
-| Aphelion | ILRELL | 42961817 | 32806 | 4147
-| Spectre Probe | ZielXY | 24739136 | 32790 | 4160
-| electroman dynamix | - | 1080659 | 32728 | 1575
-| Magnum | logan4722 | 1439051 | 32691 | 1541
-| Violence | Chlorines | 30950152 | 32683 | 2580
-| Deformed | MikyFC | 35777563 | 32639 | 4778
-| Insomnia | Novus | 17207032 | 32628 | 3222
-| Remember Way | Myinus | 288639 | 32598 | 2460
-| gray world | kastor | 2955009 | 32594 | 3298
-| Blossom | Havok | 12583763 | 32587 | 4619
-| Naive | MaxyLAND | 56607302 | 32575 | 2189
-| Hexamans Adventure | Pasiblitz | 2160620 | 32554 | 1784
-| Zizibum | Rogue | 9037557 | 32538 | 4405
-| Based DUO | iMortlex | 72969434 | 32505 | 2478
-| Leverage Science | TrueNature | 665970 | 32486 | 244
-| Switcher | iZeo | 73559095 | 32462 | 2646
-| Hamburger | Ajedaboss | 41551990 | 32434 | 3424
-| ShakeN | PaLiX | 3895815 | 32426 | 1942
-| Xenoblast | TD Epic | 45460106 | 32416 | 2899
-| rEflEx | Awzer  | 30808250 | 32402 | 4939
-| Copycat | Dominus | 54663514 | 32400 | 1572
-| Crystal Dungeon | Jouster228 | 97788519 | 32375 | 2739
-| The Last Straw | TrueNature | 435390 | 32342 | 1826
-| Desesperate | XcreatorGoal | 45709005 | 32298 | 3194
-| Virus 0101 1010 | Obnoxi0us | 10623808 | 32298 | 3253
-| Malfunction | ARtu | 63970594 | 32263 | 2630
-| Electrodynamix 2 | G0ldcraft | 92379549 | 32231 | 3148
-| hex Flex | Pasiblitz | 2011174 | 32145 | 1865
-| Monsteristic | Elisione | 43209357 | 32120 | 3768
-| diagonal | Alphirox | 60522555 | 32111 | 2645
-| -excelline- | Bio21 | 16080193 | 32099 | 4916
-| The First Crepuscule | - | 587026 | 32083 | 1739
-| ElectroStep | - | 441490 | 32076 | 2158
-| NeoFrame | Whippie37 | 81190436 | 32070 | 3024
-| NeoFrame | Whippie37 | 81190436 | 32070 | 3024
-| xoroz | Xoroz | 22400723 | 32014 | 1618
-| Everyday | DemonBestGG | 147251 | 31974 | 416
-| Glitch Gremlin | AUFrosty | 12727441 | 31948 | 3973
-| never gawne | Ludicrous | 10961840 | 31922 | 4406
-| ElectroCode | BGames | 12696291 | 31913 | 3679
-| Soul of Crying | GdTheTactiq | 16668778 | 31814 | 5352
-| Vincia | RayOriens | 16361083 | 31808 | 4697
-| DarkDynamix | TrueNature | 920357 | 31807 | 2144
-| Inert | X1RON | 88593019 | 31789 | 2859
-| Blazing | DarkBoshy | 7858058 | 31776 | 4996
-| priDEMONth | tricipital | 91677667 | 31746 | 1797
-| StormFront | Oskux | 8919612 | 31714 | 4528
-| The skull ghost | lmarce1 | 85212082 | 31710 | 2272
-| Arcus | ILRELL | 59326876 | 31687 | 2410
-| Fast As Light | GuraNuS | 5256546 | 31686 | 2915
-| The ultimate Matrix | EthanMG | 12881483 | 31684 | 4824
-| high enough | JustPotatoNow | 59809365 | 31652 | 2100
-| Stardust | fJud | 103252610 | 31633 | 2974
-| NEONLIGHTS  | Ad0NAY27GD | 101268245 | 31630 | 2256
-| Windows 7 | DoctorSnake | 65844915 | 31623 | 1449
-| True Love | DrimpGD | 82305913 | 31619 | 2754
-| True Love | DrimpGD | 82305913 | 31619 | 2754
-| True Love | DrimpGD | 82305913 | 31619 | 2754
-| Yeh | Split72 | 64227826 | 31597 | 2675
-| Flirts | Adiale | 11288857 | 31592 | 4067
-| Space Invaderz | Codex | 7949371 | 31584 | 3641
-| Electric Touch | Gusearth | 97990910 | 31557 | 2275
-| ventilation | fr3dmc | 90565817 | 31546 | 2287
-| Black of Colony | - | 200635 | 31543 | 3073
-| Prototype | JustWemo | 43752262 | 31538 | 3470
-| Dark Madness | Tronzeki | 11344770 | 31531 | 4638
-| Jungle Step | Superopi | 2477588 | 31521 | 2616
-| Crystalline | RoXion | 3690643 | 31503 | 4674
-| DiscoDrive | GeoMEtryManGD | 11600951 | 31492 | 5075
-| Deep Sea | ASonicMen | 2033900 | 31482 | 2181
-| Family | FloxMi | 63453187 | 31448 | 1799
-| Pentangon Force | CanadianKing | 1946487 | 31427 | 1274
-| RAINBOW gray RM | ZelLink | 194118 | 31423 | 2789
-| In Reality | JamAttack | 55725904 | 31405 | 3773
-| Limits | Krawler | 69772154 | 31396 | 2186
-| Lost Legends | 123Ev4n | 16195122 | 31376 | 4072
-| Trickle Treat | Kerbexx | 84804167 | 31369 | 2009
-| Maui | DashDude | 82323588 | 31347 | 3124
-| Maui | DashDude | 82323588 | 31347 | 3124
-| Overclocked | Gamerespawn | 1124569 | 31327 | 1582
-| speedlevel | Itzabunny | 67492871 | 31309 | 1649
-| Expedition D | GiggsRH | 92574915 | 31294 | 2516
-| Ratio Adventures | NukeIIX | 81074143 | 31267 | 3384
-| Ratio Adventures | NukeIIX | 81074143 | 31267 | 3384
-| Xarostep V2 | Xaro | 3824501 | 31232 | 3676
-| Forbidden Voices | MrLorenzo | 14093681 | 31229 | 5701
-| Endpoint Demon | Devilmine | 102737702 | 31227 | 2113
-| Eleonora | DeniPol | 43898136 | 31210 | 3801
-| RetroFunk | fenk | 73216276 | 31191 | 2679
-| BlockDude | zejoant | 76013631 | 31181 | 1659
-| Dark Adventures | Dako | 1332664 | 31167 | 1629
-| Mescarade | CastriX | 42159901 | 31144 | 4078
-| The Extreme 1 | - | 212951 | 31124 | 1667
-| BACK to the present | ZelLink | 595492 | 31058 | 2352
-| Thunderman Adven RM | AeonAir | 1068017 | 31023 | 1693
-| Fluxx 2 | Hyenaedon | 40072682 | 30999 | 3191
-| HopeFulNess II | snowmage | 29968396 | 30998 | 4764
-| Geometric Energy | Arysta | 54596879 | 30987 | 2774
-| Color Processing | GoldenRS | 66585380 | 30965 | 2120
-| Niveau 3 | Ficelo | 91617353 | 30962 | 2698
-| Kouseki | SirExcelDJ | 97779285 | 30950 | 2968
-| Wonderstruck | Non4med | 11261813 | 30916 | 3587
-| Vortex | Megantwoo | 27548692 | 30900 | 3779
-| Liquid Containers | TheRaptor999 | 11800867 | 30893 | 3922
-| Snowpeak Mines | ZepherGD | 28410478 | 30830 | 4687
-| The Saving | JmanDj | 100526338 | 30817 | 2341
-| 2 0 2 3 | kolorbok | 87276020 | 30788 | 1866
-| disc zone | Experience D | 799489 | 30779 | 2840
-| Electroluminescent | Annon | 47241792 | 30759 | 3414
-| KillCatStrophe | Arysta | 32403938 | 30756 | 4354
-| GIBIJI DAWN | Changeable | 74578859 | 30754 | 2256
-| MoonFlare | Riky2610 | 45801349 | 30746 | 3440
-| Powerux | Agils | 45163298 | 30740 | 3828
-| Essence of Fortune | JaoDay | 45037106 | 30683 | 4385
-| Sky Fortress | Evasium622 | 1926205 | 30672 | 1546
-| Im meh  | Doroku | 80559119 | 30609 | 3301
-| Im meh  | Doroku | 80559119 | 30609 | 3301
-| Lonely Night | Mr kim | 11993757 | 30606 | 4444
-| Ethereum | krisz | 77467098 | 30575 | 2206
-| Mystic Lab | KeiAs | 12332305 | 30574 | 4558
-| DARK | GDvesuvius | 62394145 | 30554 | 1730
-| Iznite | Sylv | 60584385 | 30554 | 1848
-| P0K3R F4C3 | N17R00000000000 | 73610537 | 30540 | 1906
-| Beam Spectre | Arysta | 40163611 | 30533 | 3384
-| Bliss and Blazes | GoofyTooty | 99724544 | 30522 | 2798
-| dangerous incounter | - | 109117 | 30516 | 385
-| Revision | Optation | 76271372 | 30504 | 3072
-| gemstone | Non4med | 14581986 | 30491 | 2039
-| Ascent of Light | MattySpark | 70125985 | 30480 | 2609
-| Call For The demons | BadgerBoy | 4478305 | 30471 | 3328
-| Pongix AdveNtures | Pongix | 66538981 | 30438 | 1685
-| Electroblast | Noriega | 2555105 | 30355 | 2482
-| electro world | - | 841608 | 30341 | 1670
-| Apparent | Annon | 34179063 | 30307 | 4246
-| GeoDominated | IBlitzDashAirI | 12417009 | 30280 | 3250
-| Last words | Glouti | 4463560 | 30269 | 2966
-| Shadow Let Go | Rublock5 | 1187222 | 30219 | 1903
-| The Rewinder II | V3KTXR | 81778208 | 30191 | 3396
-| Twinker World | Rublock5 | 1649392 | 30179 | 1960
-| Retrospect | Woom | 79799473 | 30156 | 2126
-| Frozen Time | Gamerespawn | 607599 | 30137 | 1336
-| Bionuclear Anthrax | loogiah | 3623022 | 30103 | 3524
-| 2001 A space odyssey | xcy7 | 10626897 | 30088 | 4783
-| Hue II | MasterCarrot438 | 68030400 | 30068 | 2023
-| Hemisphere | RoyalP | 64996837 | 30031 | 2001
-| ADE | dongchi | 63772700 | 30031 | 2396
-| Ascension | Fairfax | 49508604 | 30018 | 3751
-| Shadow Jumper | Rublock5 | 1211180 | 29993 | 2188
-| Nada De Nada | itSko | 78482430 | 29979 | 2236
-| Lychinius | WerewolfGD | 51071895 | 29972 | 3801
-| shining | Rifky12 | 66144939 | 29931 | 1824
-| Adventure Fantasy | Nico99 | 73186334 | 29924 | 2626
-| Season2 Lv7 Anger | IamXstep | 926936 | 29898 | 1703
-| insane flow | - | 217421 | 29876 | 695
-| 404 | rittee | 92264747 | 29828 | 2743
-| Asphodel | DWShin | 26331160 | 29803 | 4499
-| Chroma Scale | MrLithium | 100873958 | 29781 | 2496
-| electro force | MrLumo | 1719260 | 29763 | 1322
-| Evasion | Extrox | 27177963 | 29749 | 4631
-| Faith | MrYBC | 16010337 | 29746 | 4302
-| To Conclude | ZepherGD | 11914321 | 29737 | 4625
-| Season2 Lv5 Heir | IamXstep | 735391 | 29735 | -275
-| Cluttertilt | Gamerespawn | 1969035 | 29720 | 1553
-| funk of dawn | Experience D | 792506 | 29678 | 2612
-| Halogan | itSko | 79370692 | 29658 | 2981
-| Halogan | itSko | 79370692 | 29658 | 2981
-| Spectrum | potatoplayer | 8050003 | 29652 | 4687
-| Moxie | Cirtrax | 75240885 | 29650 | 1920
-| Jetstream | GDSkele | 82148051 | 29648 | 2207
-| Factorio | Regulus24 | 43579743 | 29621 | 3486
-| factors | VecToRx GD | 21272116 | 29588 | 4823
-| A d V e N t U r E | - | 1130069 | 29586 | 2305
-| zero hard 3 | - | 131195 | 29580 | 2333
-| Neon Spheres | KarikioX7gd | 62073326 | 29489 | 1733
-| BookkooB | DeiKay | 98151652 | 29473 | 2059
-| Captured souls | Digitalzero | 14674047 | 29465 | 4755
-| Bowsers Fury | Moffe | 72300264 | 29447 | 2373
-| Overcast | kr1t | 51221141 | 29438 | 2181
-| V E E R | Ad0NAY27GD | 76538121 | 29430 | 2440
-| LAST STAGE | AlvaroRH99 | 91901083 | 29406 | 2637
-| Globe Navigation V2 | B u r n | 13464080 | 29405 | 4182
-| big chungus sux lol | cerufiffy | 55362981 | 29388 | 1103
-| Twelve Twelve | Split72 | 86644603 | 29238 | 2580
-| Twelve Twelve | Split72 | 86644603 | 29238 | 2580
-| SIMG Factorial EX 2 | LunarSimg | 748530 | 29236 | -403
-| HiThisIsALevel | Robanana | 90933393 | 29235 | 3581
-| The Five | Wentex | 83321866 | 29223 | 2542
-| Polychromatica | Wav | 64776008 | 29200 | 2841
-| Massacre | Bio21 | 58917246 | 29169 | 1845
-| Polar | Motu | 863183 | 29139 | 2168
-| Abandoned mine | Astronaut21 | 92548400 | 29115 | 2837
-| shutter | 2turntdeezy | 101233721 | 29074 | 2040
-| Rob never TOP | BrainETR | 91315911 | 29072 | 2435
-| GROH | KittyDoge | 45065320 | 29053 | 3972
-| Hero Force | Ranexi | 1668150 | 29046 | 1280
-| Broken Heart  | snowmage | 26427118 | 29038 | 3854
-| Kuki | Szilu | 60215264 | 29028 | 2087
-| XI | ItsEnigma | 86444971 | 28983 | 1985
-| XI | ItsEnigma | 86444971 | 28983 | 1985
-| Doggy | IKaira | 68188008 | 28977 | 2037
-| Team C | Zeidos | 26538930 | 28960 | 4243
-| cFunk Factory | Nena Kiwi | 1577404 | 28957 | -125
-| Fuzle | Oskux | 24485601 | 28943 | 4468
-| Solid Flow | Nemsy | 71565034 | 28921 | 3350
-| Celestial remnants | Abdou01 | 102529669 | 28859 | 2338
-| CoRrosIve | AngeloLP | 40254506 | 28855 | 2429
-| TM72 | Moosh | 69086799 | 28806 | 1777
-| Octane | Pavyzone | 37519801 | 28790 | 2904
-| Cute | dongchi | 59346262 | 28722 | 1556
-| Hero Back | MaxyLAND | 59301244 | 28721 | 1879
-| REcode | Alphirox | 67590931 | 28705 | 2406
-| Radiation Zone | ValkyrieMaster | 63510623 | 28689 | 2337
-| Neowolf | WerewolfGD | 45063264 | 28662 | 3822
-| SuLang | e0ts | 71653963 | 28646 | 2473
-| inohaveagamergirl | gustavov3 | 95728737 | 28630 | 2857
-| Nobody Home | Whirl | 88991003 | 28615 | 2460
-| Nobody Home | Whirl | 88991003 | 28615 | 2460
-| Luminous | NGTofficial | 83391057 | 28551 | 2503
-| Luminous | NGTofficial | 83391057 | 28551 | 2503
-| Dia castle | - | 356220 | 28546 | 1473
-| Not Dead Yet | Pipenachho | 25316910 | 28526 | 3129
-| halcyon | Inspirity | 6188035 | 28522 | 3864
-| demon gear | - | 938784 | 28494 | -223
-| Bwatt | Yakimaru | 55056041 | 28422 | 2669
-| Placebos | sheredX | 97087639 | 28411 | 2463
-| Club HexX | Nena Kiwi | 1530427 | 28369 | 730
-| Chaotic Flow | dhk2725 | 3653659 | 28363 | 2505
-| Ghost System  | ZeiThex | 27219507 | 28362 | 3863
-| Woah Look A Level | DubstepFanatic | 70878101 | 28355 | 2370
-| Spark Of The Inferno | Reunomi | 43423579 | 28346 | 3341
-| Vapiric Aura | IZann | 60584338 | 28344 | 1843
-| Warlock | TD Epic | 42720336 | 28262 | 2958
-| Crack In Time | - | 821794 | 28231 | 1585
-| Lightspeed | Lebi06 | 63241786 | 28221 | 2102
-| Interstellar | Nova4664 | 85109272 | 28198 | 2330
-| say less | pocke | 79224369 | 28160 | 1940
-| Perpetual Burn  | Chanel 6 | 58287553 | 28121 | 1600
-| Phantom | 1nfra | 75629621 | 28113 | 2624
-| Andromeda | mikeymonke | 49295528 | 28037 | 3112
-| Andesite | Woosp | 98092068 | 28021 | 3649
-| Dark Star | nainteils | 10569900 | 27983 | 3893
-| Carnivores | EncisoGD | 60023563 | 27944 | 2249
-| polymer | cerufiffy | 68579643 | 27932 | 1598
-| Radioactif | Gepsoni4 | 86438742 | 27871 | 3012
-| Radioactif | Gepsoni4 | 86438742 | 27871 | 3012
-| Roaring Tides II | RadiationV2 | 13799044 | 27846 | 4014
-| 2024 | Kixgz | 97919153 | 27835 | 1647
-| Anya | Anya21 | 70153212 | 27834 | 2707
-| Ukrainian Power | syndd | 70853397 | 27705 | 2471
-| Glow Caverns | Skullgas125 | 59977423 | 27683 | 2203
-| Our Future | D3aThBR1ng3r | 10080986 | 27647 | 4613
-| Mercy  | ALISYdvblhas li | 27034839 | 27644 | 3981
-| Cowabunga  | iMortlex | 103196533 | 27618 | 2051
-| Electro Force | Nox | 1708831 | 27598 | 1678
-| Spooky Nemo | Nemsy | 64784335 | 27581 | 2468
-| season2 Lv4 ToyLand | IamXstep | 684980 | 27546 | 1514
-| Ocean Core | iMorphix | 18141471 | 27490 | 4016
-| oco | shnitzle | 77477141 | 27489 | 2349
-| Divine Life | LeocreatorX | 34883289 | 27485 | 4005
-| Robotic Dance | riader | 79576683 | 27472 | 2981
-| Robotic Dance | riader | 79576683 | 27472 | 2981
-| Robotic Dance | riader | 79576683 | 27472 | 2981
-| Course Back | TrueNature | 622146 | 27469 | 2263
-| Forceful Hexagon | AntRocks42 | 2847030 | 27464 | 2100
-| Brutality | skrillero01 | 61209286 | 27462 | 2531
-| Timescape | GD Master | 918646 | 27460 | 1966
-| Uoc J | truongwf | 82247248 | 27451 | 2451
-| Uoc J | truongwf | 82247248 | 27451 | 2451
-| Uoc J | truongwf | 82247248 | 27451 | 2451
-| Loogiah Force | loogiah | 1897336 | 27433 | 2043
-| Break The Silence | ItzDemonicDash | 70260948 | 27408 | 1648
-| H E R E | vrymer | 36423351 | 27406 | 3543
-| Water Realm | YaelV5 | 2165642 | 27343 | 1733
-| sp0M0ky | Luddee | 57874594 | 27340 | 2197
-| hexagon dash | IronMaker | 1909330 | 27322 | 1297
-| Making It | Nemsy | 68575091 | 27318 | 2553
-| Toxic Sky | meromelon | 4292587 | 27307 | 2715
-| Combo Breaker | jaffytaffy | 8874417 | 27292 | 4090
-| V0 | ManGolu | 66783284 | 27280 | 1468
-| Nukamelon Dominator | realwhata | 93951089 | 27243 | 2373
-| GlowHaze | ItsJustCohen | 66767495 | 27242 | 1801
-| Turcazo | abdula | 57460926 | 27237 | 2618
-| Wonder | IIAnubisI | 46186358 | 27221 | 3671
-| BALTSU | Pettsu | 93095665 | 27197 | 2976
-| SuperDash | Scotty16 | 11786243 | 27170 | 3158
-| ELLVO | Vadi | 75014002 | 27165 | 2326
-| Mechanical Enforcing | BlasterRobotz | 57295910 | 27159 | 2270
-| April | Haminopulus | 55049158 | 27149 | 2374
-| chip melody  | hyp3rdemente | 9733022 | 27132 | 3271
-| Hiking Time | JuanE0 | 99392702 | 27103 | 2450
-| Spectrum | Tygrysek | 13133336 | 27089 | 4709
-| Sweet Stars | Zhak | 65249486 | 27087 | 2274
-| intrude | emiheliou | 71739033 | 27086 | 2657
-| HexStep | - | 1084448 | 27077 | -84
-| RetroCycles | Arrownote | 101582280 | 27002 | 2282
-| Toxic | stillSCXPE | 14786815 | 26983 | 3637
-| living in the light | cometface | 76898771 | 26946 | 2515
-| Darnoc is evrything | Oskux | 1019664 | 26935 | 1765
-| Digital Identities | NateRavenno | 83213889 | 26933 | 2133
-| Digital Identities | NateRavenno | 83213889 | 26933 | 2133
-| Digital Identities | NateRavenno | 83213889 | 26933 | 2133
-| C 0 R D | RetXXXX | 92838544 | 26905 | 2301
-| drawn | Version20 | 889744 | 26875 | -393
-| Colorful Caverns | VeXyn | 12951181 | 26842 | 4336
-| Byte System | MoonBlade2000 | 13341185 | 26832 | 3694
-| darksider | Nova to | 43193892 | 26794 | 1670
-| Super Cute Kitty | DaFinn | 57757495 | 26782 | 1852
-| POOL | GDCreeper4 | 87794734 | 26766 | 1644
-| Imagination Nation | squishyj | 59164674 | 26742 | 3069
-| apocalypse | vrdr | 97309271 | 26735 | 2089
-| In The Night | Chances | 65707001 | 26732 | 1963
-| Travellers Diary | TamTixx | 57089265 | 26693 | 1470
-| Ice crown | HeroMoltenGD | 61225203 | 26668 | 1773
-| The Machine | Pipenachho | 46333807 | 26654 | 1807
-| winner | Dubayo | 66579742 | 26585 | 1942
-| Ages | James | 67294839 | 26579 | 1630
-| Morce Is Mod | PICAAAAAA | 63000773 | 26569 | 1782
-| Vagarious | crashpancake2 | 56690843 | 26568 | 1884
-| Speed of Warp | Dasher3000 | 69769878 | 26563 | 3394
-| the only level | sparkyidk | 99167919 | 26562 | 3024
-| MyPepinillo | DarkrozzGD | 60138828 | 26556 | 1976
-| After shadow | Rublock5 | 1147511 | 26556 | 2022
-| Bababooey | Vioxgaming | 95571375 | 26554 | 2451
-| Spark | Etzotik | 18674282 | 26501 | 3384
-| FunkyWay | TheElectroGD | 60753138 | 26468 | 2288
-| Rumination | Shrip | 82664645 | 26463 | 2504
-| theory of rhythm | Creatorchess | 2211756 | 26460 | 1455
-| hoover | ewop | 66979008 | 26448 | 1686
-| Black And White | Prinplup | 897938 | 26438 | -238
-| Nano Love | Valkinator | 67625578 | 26425 | 1737
-| I Love Mike Wheeler | MikeWheelerFan | 82288694 | 26417 | 1655
-| Cosmic | Swirl | 6145410 | 26375 | 3937
-| Electronix | Jasii | 82842605 | 26345 | 1549
-| Electronix | Jasii | 82842605 | 26345 | 1549
-| EXERTion | Myaaaaaa | 82663744 | 26344 | 1519
-| EXERTion | Myaaaaaa | 82663744 | 26344 | 1519
-| blue universe | zekvo | 12319625 | 26334 | 3811
-| My Space JSP | - | 97632 | 26330 | 1590
-| Kongeriger | SirExcelDJ | 64174033 | 26319 | 1595
-| Youre Gonna Love Me | fawksgdd | 70309116 | 26314 | 1705
-| Uzbekistan | Artifie | 85839680 | 26307 | 1788
-| Vortex | Triadic | 5926519 | 26298 | 3216
-| Promised Neverland | Alvilation | 69478057 | 26296 | 1810
-| Bunk | Cheeseguy | 74914123 | 26293 | 1923
-| Funity | Apstrom | 64426020 | 26276 | 1675
-| Sphereal | DangerKat | 57423135 | 26275 | 1709
-| OH COLORS | thazm | 91974400 | 26260 | 2694
-| Misty Mires | Latko | 91939361 | 26260 | 2584
-| Floward | CastriX | 39645160 | 26250 | 4497
-| SourCreamV2 | AUFrosty | 11520863 | 26248 | 3699
-| Space | DamianosKabanos | 66134958 | 26228 | 1870
-| Chive | SomeRandomCow | 92155246 | 26216 | 2841
-| In Circles | nekochan nd | 45818283 | 26208 | 1816
-| Spaceman | - | 199976 | 26201 | 2494
-| Gloomy Town | ylliee | 52882767 | 26161 | 3012
-| HeroHell | TheTrueSanji | 21354428 | 26120 | 3824
-| Scud | YunHaSeu14 | 71552792 | 26106 | 2924
-| Fort Stride | ElectroBlaze | 77794176 | 26082 | 2616
-| Raptor | juandeman | 48442538 | 26081 | 2183
-| One Hit Wonder | Numptaloid | 58489598 | 26060 | 1924
-| Anata No SonZai | Glaid | 46158304 | 26006 | 2814
-| Midsommar | Hann | 63713285 | 25978 | 1573
-| Extreme Super SSS | - | 807644 | 25940 | 396
-| Livewire | Hakkou | 6763599 | 25922 | 3742
-| Anfer Pekyrie | icewither | 54882661 | 25892 | 2202
-| Toxicity | Debihan | 44557537 | 25885 | 2231
-| Cane Swinging | NitronicFury | 16279869 | 25858 | 2748
-| a separate peace | - | 337079 | 25852 | 1569
-| field of dreams | mSeesha | 67900824 | 25845 | 1610
-| TheoryStep | - | 199246 | 25837 | 1816
-| Death Factory | raidennn | 1647512 | 25829 | -268
-| Peculiar | Olympic | 44120349 | 25741 | 2613
-| The World Race | PhantomX | 70796412 | 25737 | 1575
-| Dungeon Run | TheGalaxyCat | 102074035 | 25726 | 1405
-| Viprin CC2 | Koopazu | 68722888 | 25719 | 1508
-| Chiptune V2 | dudley | 7239303 | 25699 | 4109
-| DigitalBurst | f0x3wd | 30809171 | 25654 | 4178
-| Gibbage Cat | riader | 83002174 | 25628 | 2529
-| Gibbage Cat | riader | 83002174 | 25628 | 2529
-| Okay | JustJohn | 66206725 | 25626 | 1395
-| ice shocked | St1ngray | 1363589 | 25595 | 1140
-| Desolate Place | ZooxerYt | 89766291 | 25592 | 2381
-| Lightning storm | BlazeJcy | 127774 | 25564 | 412
-| UNrendered | flash | 58923073 | 25511 | 2842
-| Metallic Degradation | LudiumGD | 82785170 | 25492 | 2304
-| Metallic Degradation | LudiumGD | 82785170 | 25492 | 2304
-| Chaos Heart | Amukkuna | 91681571 | 25478 | 2159
-| Colorful brain ii  | dakiro | 50914372 | 25470 | 3259
-| end of the world | - | 556663 | 25444 | 1937
-| Minexyl | DashTY | 61084767 | 25430 | 2217
-| n  zone  | ruined | 800432 | 25429 | 1115
-| Discotic | EnZore | 33112656 | 25420 | 4073
-| destiny of memory | BurstStar | 702294 | 25411 | 1461
-| operation gray II | MaxiKD | 20444240 | 25409 | 3980
-| Fuchsia Town | EmyX | 60419889 | 25401 | 1034
-| skamtebord | bunch | 73192567 | 25395 | 2590
-| Donner | AnLa | 67821476 | 25379 | 1942
-| Deep Impact | iIsane | 36126515 | 25360 | 2893
-| Element 89 Ac | BEkID1442 | 379893 | 25351 | 1682
-| Changing Dreams | Twandash | 91461689 | 25343 | 2354
-| Volatile | LexipGG | 66913900 | 25335 | 1875
-| Purple Twinkle | Soluble | 67190746 | 25326 | 1535
-| You Cant | Annon | 91168684 | 25310 | 2138
-| Destruction | - | 239072 | 25288 | 301
-| Walaxy | SokA2832 | 72768079 | 25284 | 2186
-| Robtech | Kyuro | 92211941 | 25266 | 2721
-| lost temple  | elect | 100585292 | 25264 | 1538
-| eacker hacker | - | 166084 | 25259 | 828
-| Lustra  | Galuss | 52595645 | 25255 | 2697
-| Spectral Blitz | Ajedaboss | 42044936 | 25245 | 2713
-| RELIC REALMS | Mmath | 74991851 | 25213 | 1676
-| TRINITE | Alphirox | 96973494 | 25178 | 3374
-| scheol | e3ea | 99405134 | 25173 | 1224
-| Current | 1u49 | 67161679 | 25155 | 1755
-| Catformer Level | Aerma | 99230947 | 25154 | 2713
-| Hangul | TD Epic | 50407991 | 25134 | 3109
-| Dance To The Beat | Snarlax523 | 39914847 | 25126 | 3130
-| Killshot | Anya21 | 75769179 | 25122 | 2206
-| HOLDING ON | EnenzoGD | 84118909 | 25114 | 1817
-| HOLDING ON | EnenzoGD | 84118909 | 25114 | 1817
-| Transcendence | Alderite | 35345329 | 25095 | 3524
-| Elect dash | KeiAs | 530431 | 25067 | 1609
-| OverBass | MrSaturnuz | 12188377 | 25046 | 3873
-| Convalesce | ZeroSR | 62517184 | 25011 | 2040
-| Get up | paultam | 96616612 | 25004 | 2377
-| Lost in Time | Zeroniumm | 1152608 | 24994 | 1248
-| SPAGHETTI BLITZ | sparktwo | 93147570 | 24954 | 2888
-| We Up | Neofar | 94053356 | 24910 | 2124
-| Alphabet W | Dux | 499265 | 24910 | 1017
-| lightshow | Deciduous | 75005798 | 24880 | 1792
-| Fantasy | FUNKYpersy | 64018923 | 24866 | 1977
-| Madeliene Exposal | robotchief | 89639989 | 24847 | 2473
-| Taplika II | JFZDash | 28744554 | 24842 | 2347
-| Xanis | Aiyamii | 64556213 | 24813 | 1309
-| Shots Fired | Zajicek | 59459102 | 24805 | 1645
-| LosS | Debihan | 49547966 | 24781 | 2204
-| Starlight | 1u49 | 68975129 | 24768 | 2608
-| Lv22 A War Begins | IamXstep | 163300 | 24730 | 1639
-| Bleep Bloop | xXLOCOXx | 60999140 | 24695 | 2564
-| macaroni salad | Binary666 | 82718389 | 24679 | 2301
-| macaroni salad | Binary666 | 82718389 | 24679 | 2301
-| macaroni salad | Binary666 | 82718389 | 24679 | 2301
-| Cristalizado | AxelGMD | 95004355 | 24672 | 2423
-| - shattered ii - | Intrix | 11970596 | 24662 | 3661
-| Paincoal III | spl1nt | 77234474 | 24651 | 2025
-| King Go | Arkoon | 88304298 | 24640 | 1849
-| Mainframe | Elvii | 60126490 | 24640 | 1962
-| Unlinked Reality | Arysta | 38852235 | 24639 | 2922
-| The living Jungle | EmilJsson | 1082046 | 24637 | 1036
-| Ascendency | Cosmicss | 73435457 | 24625 | 1934
-| TetrYs | Mineber | 67449297 | 24605 | 2236
-| Specture | Optation | 64477154 | 24582 | 1711
-| Enigma | buoGrOsSo777 | 62655393 | 24549 | 1782
-| Beast Moderator | Th3HungVN | 55390977 | 24536 | 1357
-| Walkman | Flosia | 66325324 | 24522 | 2316
-| Sentimental | Evasium622 | 4050249 | 24489 | 1782
-| Compaction | Ajedaboss | 49434663 | 24469 | 2040
-| archimedes | SirZaiss | 34751935 | 24420 | 3226
-| Stabilo | - | 203138 | 24404 | -88
-| Minus 15327 Degrees | RandomiGD | 92903691 | 24392 | 1818
-| Mellifluous Muse | R3aperGMD | 99333053 | 24374 | 1827
-| Disoriented | krisz | 54488483 | 24357 | 2814
-| Body | IZann | 68945171 | 24311 | 1565
-| Flowage | - | 122180 | 24311 | 1877
-| Unnamed Captain | VexautdYT | 65884262 | 24308 | 1523
-| The Revolution Step | ElEcmEtAl | 691885 | 24295 | -139
-| Darnoc Dash | gogBone | 73230158 | 24291 | 1682
-| Endless Future | Squall7 | 88398934 | 24289 | 1859
-| Endless Future | Squall7 | 88398934 | 24289 | 1859
-| FLY | BrayBrayGD | 89956046 | 24282 | 1689
-| Star Showdown | Atomic | 59972574 | 24275 | 1521
-| Hieta Gateway | Skeetawn | 99394698 | 24265 | 1902
-| Holystone | skrillero01 | 56821993 | 24230 | 2259
-| Centauri | Team Proxima | 55730900 | 24199 | 2622
-| Gargantua | Hann | 55028910 | 24175 | 1900
-| Resonation | Nico99 | 31542522 | 24170 | 3998
-| Combo Breaker | Vlacc | 117857 | 24153 | 1299
-| Saskatta |  Ryan | 35363099 | 24152 | 2567
-| unbound energy | Mazl | 13813805 | 24131 | 3335
-| Utopie | Nottus | 98547379 | 24110 | 3024
-| Once More | Evasium622 | 8068001 | 24103 | 2947
-| Oscillate | ChiN3x | 55312656 | 24097 | 1865
-| Technic | LeynarMusic | 57179728 | 24086 | 1936
-| DURACELL | vit12 | 67442806 | 24073 | 1289
-| Cyber Odissey | ZadyCR | 48759165 | 24072 | 2762
-| Infected | Goodbye GD | 3393825 | 24067 | 1964
-| falcon punch | Terminus M | 3359206 | 24066 | 2132
-| Novic | Novic | 91594 | 24056 | 1525
-| TESSERACT | Mmath | 98696597 | 24055 | 1507
-| the fat | Xoroz | 69000000 | 24004 | 1917
-| Komodian Flash | GrenAde | 18085079 | 23977 | 3277
-| THE LAST BATTLE | Erickblaster | 43746756 | 23954 | 3497
-| Factory rush | MrElectrodude | 98263132 | 23943 | 1887
-| serenity | kenaz | 12795515 | 23936 | 2836
-| Op10n10 | TrueNature | 486484 | 23928 | 1600
-| Fuzzy | Fletzer | 67158595 | 23896 | 1791
-| DestinatioN | Viricent | 40865270 | 23875 | 2931
-| Lovely Rush  | Colxic | 51777369 | 23866 | 2786
-| FARD MOUNTAIN | EDDIEXSMITH | 65353713 | 23832 | 1788
-| strands | ashhy | 97730492 | 23776 | 2020
-| True Fire Souls | BladeonGD | 93584978 | 23766 | 2102
-| Way Up | ItzSlash | 38881855 | 23739 | 2598
-| ThunderDynamix | - | 1571048 | 23732 | 1163
-| SILLYLAND | Split72 | 90559521 | 23713 | 2464
-| Gufi Tower | Justusrl | 97913598 | 23707 | 3415
-| Cosmic Void | Sruj | 56522939 | 23701 | 1804
-| Frigid Speed | Codex | 7526460 | 23680 | 3725
-| Lecy | ChrySpy | 66348667 | 23671 | 1566
-| Mining Mines | MaxyLAND | 65128642 | 23627 | 1138
-| Digital Corruption | Shatt3rium | 51370787 | 23600 | 1824
-| destiny of choice | BurstStar | 533926 | 23527 | -146
-| Maverick Feud | SrToposaurio | 89815457 | 23514 | 1922
-| Saw Of Destruction  | InsaneJohnson | 48274648 | 23492 | 2379
-| Icicle Hell | Juhou | 51653753 | 23489 | 2133
-| CrazyMania | HanStor | 76592544 | 23480 | 2065
-| Sahara | hashgd | 64142506 | 23472 | 2057
-| immortal dogma | - | 381308 | 23463 | 1254
-| inspired | Opak | 13489936 | 23460 | 3244
-| Monsterous Toxic | Ellasio | 13227862 | 23455 | 2615
-| Watch Your Step | Cdpre | 60339190 | 23444 | 1812
-| The Art Of The Blade | slayerkirb | 91313018 | 23427 | 1955
-| Semiclassical | charifma | 90142214 | 23426 | 2690
-| mystic machine | - | 1229785 | 23412 | 1154
-| Sky Runner | Arkoon | 36302072 | 23401 | 3885
-| Star Dreamer | JustBasic | 90724928 | 23389 | 2154
-| Diaphanous  | IIAnubisI | 48331678 | 23385 | 2912
-| Split | kodex360 | 76260418 | 23331 | 1730
-| Castle Bleck | wBERSw | 15579380 | 23317 | 3374
-| weblewoble | bunch | 90978310 | 23312 | 2288
-| PSYCHODRAMA | swwft | 61055252 | 23312 | 2034
-| Revolt | Straw | 18393682 | 23312 | 3506
-| Farewell | Olikros | 47517326 | 23281 | 2506
-| TimeStream | - | 396800 | 23227 | 2142
-| crystal force | exploreX6 | 4265260 | 23226 | 2883
-| Hysteria | ToXxin | 54558663 | 23214 | 1369
-| DualitY | CrazyLaurent | 63050499 | 23181 | 1528
-| Farewell | Suwiwit | 62747482 | 23179 | 1658
-| that way | pineapple | 4250039 | 23147 | 2764
-| Focus Blast | Edooox | 67008645 | 23139 | 1787
-| New Shapes | PAHC | 76955218 | 23122 | 1870
-| I Hate Retro | MaxxoRMeN | 82698899 | 23099 | 1978
-| The De Leon | syndd | 58280519 | 23095 | 1792
-| Kei | Aiden87 | 44035830 | 23038 | 2837
-| Brighten | Justizz | 102226291 | 23021 | 2033
-| Heaven | Parallax | 6437375 | 23013 | 2613
-| Neon Knight | ML500 | 18235141 | 22961 | 3542
-| EcholandZ | xThomasMP | 42709007 | 22950 | 2959
-| Robot Energy | Shatt3rium | 89936038 | 22888 | 1879
-| HEY | Hedgefox | 63881065 | 22829 | 1322
-| Slime virus | - | 731234 | 22764 | -43
-| Oil Spill | MrLithium | 101555009 | 22763 | 1225
-| Pulsing Land | Andr1x | 50960825 | 22742 | 1430
-| Astral Rush | CrafGD | 57021055 | 22734 | 1843
-| Ice aurum | TrueNature | 452615 | 22729 | 1457
-| Haven II | ILRELL | 26428882 | 22722 | 3512
-| Detour | Lyriaki | 69342360 | 22706 | 2125
-| Phantom Star | dawnii | 57451079 | 22703 | 1386
-| Thermity  | zZoomks | 33404197 | 22701 | 2865
-| Shockwave | JamieZz | 40315525 | 22690 | 2286
-| SystemFusion | Rlol | 13373030 | 22677 | 3761
-| doggo | Supris | 48857446 | 22665 | 1929
-| Cosmic Delfin | Urge | 98951059 | 22663 | 1103
-| Solargeist | - | 880197 | 22660 | 1532
-| Shop Savant | CryoChemist | 60737164 | 22651 | 1072
-| Colorful dream | Morce | 42301241 | 22597 | 2971
-| Hydrogenesis | akinawoo | 92043055 | 22593 | 1919
-| Color Endurance | TempledoX | 58380455 | 22588 | 1813
-| flux | V9LT | 54577226 | 22587 | 2300
-| Laser Dash | BrainETR | 66108073 | 22583 | 2387
-| i   GG world 1   i | GGtime | 727423 | 22568 | 1274
-| Hazy Hazard | Gusearth | 63087061 | 22557 | 1797
-| Nacrift | ToXxin | 61482690 | 22539 | 1577
-| Hexagon Highway  | iEloy | 2436710 | 22519 | 1616
-| Dante | Ultimxte | 66208641 | 22473 | 2447
-| Dive | LeynarMusic | 60112789 | 22446 | 1587
-| Fortnite Dance 2 | Skullgas125 | 78168445 | 22437 | 1043
-| Fortnite Dance 2 | Skullgas125 | 78168445 | 22437 | 1043
-| KURO | ILRELL | 56517947 | 22417 | 1723
-| LETS F ING GOOOOOOOO | Ellisha | 77605973 | 22411 | 1520
-| LETS F ING GOOOOOOOO | Ellisha | 77605973 | 22411 | 1520
-| 6 sided journey | GD DoctorScar | 1754396 | 22400 | -147
-| somnu | neigefeu | 53523225 | 22386 | 1756
-| Reminisce | BlazeJcy | 212207 | 22379 | -75
-| Dota II | GoBubble | 100018513 | 22363 | 1565
-| Eclipse | crashpancake2 | 55468317 | 22336 | 1906
-| Xirism | VirtualCrack | 30102977 | 22303 | 2665
-| STARTLEBARK | Split72 | 102475623 | 22295 | 1901
-| volcanic theory | Gouns | 37126739 | 22293 | 3707
-| funny car | chloi | 103254037 | 22282 | 1315
-| Retrodynamics | ElectroBlaze | 58395574 | 22279 | 1505
-| Trypanosomiasis | ZenThriXGD | 46807902 | 22259 | 2295
-| QuadraStrike | elianaaa | 56852759 | 22253 | 1376
-| eternal fall | legitshot | 16813206 | 22226 | 3556
-| Circulation | Nemsy | 75116765 | 22224 | 3181
-| Dynamic Theory | iIFrostIi | 8737924 | 22218 | 3371
-| Hyperion | iZappeR | 45771733 | 22171 | 2884
-| Radiocut | NateRavenno | 55169831 | 22161 | 1431
-| Surface Distraction | Darixen | 52416191 | 22143 | 2081
-| Uprising | Vrock24 | 11870638 | 22124 | 3137
-| Sery | Serinox | 63926161 | 22103 | 1761
-| The Swag | Rawin | 67163897 | 22096 | 1902
-| Inside my head | AleXins | 56837612 | 22084 | 2430
-| micron | XCYNICX | 66751135 | 22082 | 1491
-| SploOsh | TheShadowRealm | 67680295 | 22065 | 1031
-| UP and DOWN | - | 97770 | 22048 | 1288
-| CybericFunk | - | 1588408 | 22013 | 976
-| Help Yourself | ColinT | 79165115 | 22001 | 1604
-| Island Hop | Prometheus | 44091759 | 22001 | 2579
-| neofade | pepjin | 84906505 | 21977 | 1413
-| Elevate | RyanAB | 29979366 | 21958 | 3249
-| turbo dynamix | - | 837582 | 21953 | 1040
-| seconds away | LightningBass | 513896 | 21934 | 2489
-| Level Two | Crystiee | 84949738 | 21933 | 1404
-| Level Two | Crystiee | 84949738 | 21933 | 1404
-| kodez | kodex360 | 72379445 | 21927 | 2041
-| Blue Duck Adventures | Terron | 6849850 | 21918 | 2140
-| TeratoGenic | CreatorDiana | 48304195 | 21901 | 2723
-| Success | Milos482 | 44310598 | 21891 | 2579
-| Light Diagram | KineticFrost | 83523295 | 21878 | 1764
-| funk land | - | 216471 | 21876 | 1307
-| Grygorovych | Kohtpojiep | 47140019 | 21843 | 2520
-| Bitwise | stardust1971 | 3901644 | 21833 | 1853
-| Bandit | SomeRandomCow | 100533774 | 21828 | 2238
-| HighCharge  | AlasstorGD | 95376353 | 21814 | 2440
-| Ecriptic | xCaptain | 45563742 | 21803 | 2699
-| Holy Views | theGoT | 81242035 | 21749 | 1997
-| Holy Views | theGoT | 81242035 | 21749 | 1997
-| FeverActive | TrueNature | 775893 | 21738 | 1578
-| Crunchy | EVAD3 | 10735358 | 21731 | 3712
-| POP FACTOR | johdanlop | 98947301 | 21721 | 1498
-| Channel Inferno | KwoobGD | 102413670 | 21710 | 1970
-| Crystallics | vonic | 85133678 | 21648 | 963
-| Crystallics | vonic | 85133678 | 21648 | 963
-| Phosphorescent | Jaasim | 73228801 | 21597 | 1753
-| Glare | ThorMode | 15843041 | 21538 | 3594
-| The Krisz | Jaxz3764 | 75768061 | 21537 | 2559
-| Geometric Night | KorpralGurka | 573645 | 21521 | 1412
-| LATI           LONGI | velvetsune | 80559892 | 21515 | 2304
-| LATI           LONGI | velvetsune | 80559892 | 21515 | 2304
-| Numazu | RoyalP | 40589681 | 21488 | 2548
-| Hychie | wRubix | 96010502 | 21473 | 2401
-| the edge  | AirForce | 13262853 | 21454 | 3502
-| have fun | DamianosKabanos | 95175085 | 21443 | 1972
-| Jump N Splash | Rawin | 61809417 | 21415 | 1681
-| Dark Lunar   | - | 513613 | 21397 | 1337
-| Energy Ascent | creeperus | 61334689 | 21364 | 1684
-| Blast | XerazoX | 56626919 | 21361 | 1658
-| Natural Reborn | DreamTide | 65204192 | 21339 | 1371
-| HyperNova | Swirl | 8490481 | 21336 | 3186
-| OxYDoP | Moffer | 96261871 | 21332 | 2309
-| Flux | AndrixGD | 93178296 | 21320 | 2085
-| ClutterDash | Evasium622 | 860651 | 21315 | 1341
-| Effectum Deducendi | DjDayyy | 35306113 | 21294 | 2875
-| Level Up | NotKaizer | 95044242 | 21262 | 1551
-| Infected | juandeman | 42754966 | 21262 | 2171
-| WestNote | Lemons | 17289787 | 21249 | 2109
-| Fuzzy | XerXer | 95918040 | 21225 | 1788
-| me gusta | Goobfrudla | 70473492 | 21218 | 1791
-| Pandora Palace | NukeIIX | 75613803 | 21216 | 2644
-| CommaDynamix | - | 928153 | 21210 | 996
-| Supposition | AxolotlCamellia | 54452203 | 21187 | 2652
-| Legacy | Zak Senpai | 59824964 | 21177 | 1638
-| Neko Party | Kingoo | 76237507 | 21166 | 1649
-| Heavy Fate | Rustle | 11574924 | 21145 | 3052
-| storage room 1 | Oskux | 1207218 | 21140 | 1207
-| Reducto | Nico99 | 12391685 | 21099 | 3502
-| NightclubStep | Awzer  | 45094025 | 21098 | 2310
-| Hexagon power | - | 1766320 | 21089 | 1088
-| Nitrodynamix | JumpingTheory | 65901410 | 21084 | 1504
-| Intense Power | AleXins | 59091227 | 21081 | 1873
-| Haunted | TheTrueEclipse | 64907416 | 21079 | 1672
-| Lost In the light | Serinox | 58134625 | 21069 | 1661
-| Overcome | YunHaSeu14 | 27688395 | 21065 | 3543
-| Blast Highway | Nico99 | 43208525 | 21063 | 2415
-| Kazinu Alsariqa | yarikchaynik | 44740940 | 21061 | 2267
-| Demotivation | JustWaaf | 75061693 | 21058 | 2084
-| Fresh | 1u49 | 67500443 | 21035 | 1982
-| Salitter | iMinAY | 64982388 | 21026 | 1394
-| The Pillars | 8BitFudge | 13776296 | 21016 | 3408
-| Illusions | Dynasteel | 72705646 | 20987 | 1629
-| CP1 Theory | - | 989656 | 20950 | 909
-| Ice Age | Goobfrudla | 68695913 | 20937 | 1407
-| coexistence | - | 587160 | 20937 | 1458
-| Ricochet | ThatJack | 64171492 | 20928 | 1337
-| THE GD EXPERIENCE | PICAAAAAA | 82742817 | 20914 | 1622
-| THE GD EXPERIENCE | PICAAAAAA | 82742817 | 20914 | 1622
-| HyperFlux | ValkyrieMaster | 62627851 | 20892 | 1694
-| Deluge | Staps | 58448097 | 20887 | 1608
-| Fake documentary | - | 149648 | 20861 | 845
-| Radioactive Factory | Mazl | 6517255 | 20856 | 2661
-| Spectral Nebula | Tenu | 85979871 | 20830 | 2043
-| k s u a | gustavov3 | 97812399 | 20819 | 1280
-| run way  | CatronixGD | 78496739 | 20795 | 1851
-| Catalyze | TheHuevon | 50057816 | 20784 | 1524
-| Spooky Darkness | syndd | 65026200 | 20768 | 1253
-| Cheerful Rush | Amidon | 45595678 | 20743 | 2516
-| Flex | MadPilot | 35185989 | 20736 | 2250
-| Neptune Deathmix 2 | Menegoth2 | 1322835 | 20736 | 1182
-| Lilium Light | Unbihexium | 71807316 | 20731 | 1520
-| Irrational isle | twigxcabaret | 74268353 | 20726 | 1978
-| everything is near | Zhiana | 77204281 | 20693 | 1920
-| Evolve | Prism | 16405785 | 20680 | 2665
-| Bass Island | Xenvill | 91489195 | 20646 | 1842
-| Gracious | adafka | 77748716 | 20626 | 2154
-| Plasma Reactor V2 | RealSoulDash | 2858470 | 20584 | 1676
-| Current Mood | SirZaiss | 55607748 | 20557 | 1971
-| Suburban | oatmealine | 98269917 | 20534 | 1971
-| Money Laundering | Wentex | 80137597 | 20518 | 1624
-| WE BE GOIN TO BRAZIL | BrainETR | 77959116 | 20513 | 2645
-| Brightest Night | SStartDash | 80403689 | 20505 | 2247
-| Brightest Night | SStartDash | 80403689 | 20505 | 2247
-| Rhythm Paradise | Mazl | 5725915 | 20495 | 2612
-| red wood | iILoBeeIi | 322849 | 20472 | 615
-| will | Non4med | 13570907 | 20456 | 2525
-| Dead Noises | IHogartI | 12555293 | 20435 | 3018
-| Outlast | Exylem | 56842105 | 20414 | 1448
-| Kimera | Toxic GD | 36995264 | 20395 | 3038
-| Floor of Gluttony | Zenovia | 67428122 | 20380 | 1127
-| Pumpkin Night | OTSOSAL | 85212348 | 20359 | 1587
-| vaulted skies | JA4Y | 75387933 | 20348 | 1888
-| Right Here Waiting | zaRIKU | 795382 | 20336 | 609
-| Interest | AlbertoG | 66145999 | 20332 | 1558
-| Aeon Contrivance | gluewis | 33789399 | 20331 | 2790
-| BEAT STOMPER | SkynixGD | 101153539 | 20324 | 2304
-| F R E S H | DaFinn | 41303623 | 20321 | 2144
-| Penumbra | AutoNick | 38735844 | 20303 | 2412
-| Hazardous | Dysphemism | 3253947 | 20294 | 2333
-| A dance of light | zMurray | 83353602 | 20243 | 1429
-| passage | Kingoo | 79209934 | 20242 | 2043
-| infestation | hexary | 69057986 | 20213 | 1428
-| The Electronic | OcoOz | 57334600 | 20200 | 1474
-| Clasics | ByBoy 11 | 47294199 | 20195 | 2635
-| -unnamed- | Non4med | 15871672 | 20177 | 2931
-| 7Kromer | SirDany | 91080067 | 20157 | 1372
-| DYNAMIC DUNES | BrainETR | 78892626 | 20141 | 2986
-| ISAAAAAC | Df0rDie | 59067557 | 20122 | 1597
-| Adrenaline | Adriam71 | 93072744 | 20115 | 2077
-| Tricipital Adventure | SouneX | 86167298 | 20103 | 1056
-| Factor | wiktord | 51571401 | 20096 | 1840
-| Out Of Love | DepisH16 | 82780803 | 20049 | 1440
-| Out Of Love | DepisH16 | 82780803 | 20049 | 1440
-| Pneumonic | EpicMasta11 | 41856946 | 20018 | 2517
-| Lightyear | khelado | 65829254 | 20010 | 1447
-| HEXED | NateRavenno | 79661920 | 20000 | 1477
-| doideira | rafabirds | 91794156 | 19989 | 1790
-| groob city | camgotbitten | 94994942 | 19934 | 1900
-| Prestasia | GDMazii | 75647971 | 19911 | 1759
-| Lockout | DreamEater | 27431278 | 19900 | 2500
-| Le Atlantique | RealZober | 30382561 | 19896 | 3212
-| Equallix | LazerBlitz | 10409653 | 19873 | 2566
-| Pharaons Curse  | NotKaizer | 99455139 | 19865 | 2470
-| Abyss  | doritos1 | 49019489 | 19852 | 2270
-| Timer On Time | nielxen | 32204488 | 19807 | 2437
-| Just one more night | RealSoulDash | 10089478 | 19770 | 2702
-| Him | Bluskys | 59615104 | 19747 | 1278
-| Adamantium | meeloz | 37941762 | 19737 | 2794
-| Watch Your Step | Comically | 65188191 | 19717 | 2052
-| PEEB FACTORY | robotchief | 90601741 | 19711 | 2378
-| PEEB FACTORY | robotchief | 90601741 | 19711 | 2378
-| Mu Cephei | Anya21 | 76776320 | 19711 | 2137
-| Dissimilitude | Spectex | 55686109 | 19699 | 2143
-| EVO | PICAAAAAA | 94717313 | 19698 | 1546
-| Club Heckler | YunHaSeu14 | 36751733 | 19656 | 2106
-| Time Distorter | JustJrockGMD | 89851442 | 19610 | 2071
-| CryoCore | catgirlBlitz | 77694048 | 19564 | 1892
-| Q5 | Cirtrax | 66509543 | 19539 | 1450
-| Breakout | Twistaah | 87648175 | 19526 | 1981
-| Fast As Lightning Z | AceVict | 62934476 | 19519 | 1129
-| roses | pocke | 78083759 | 19503 | 2475
-| EnvyDia | Tygore | 99858473 | 19487 | 2086
-| FF00FF | SUKEGAME | 69589467 | 19455 | 1598
-|  Phynko | Pettsu | 80466822 | 19450 | 1479
-|  Phynko | Pettsu | 80466822 | 19450 | 1479
-| Extraction | PheyrOx | 35631803 | 19419 | 1983
-| The Hell Cave | jiseop | 98395916 | 19397 | 1795
-| very very simple lvl | NixinityFeralRF | 76847211 | 19396 | 2098
-| lying flowers | sharkdex | 94187709 | 19385 | 1866
-| Cermin | MYKM | 70280687 | 19377 | 1959
-| Eternity | Xhaos | 2891087 | 19374 | 2057
-| SupamarioXx | SamMaxx | 47367637 | 19365 | 2263
-| 400 | Oskux | 20762577 | 19363 | 2178
-| cerulean | zmelancholia | 77033036 | 19357 | 1725
-| Upbeat Conquest | Howler | 56222071 | 19347 | 1579
-| Cardiac arrest | BroodingAcorn | 96697546 | 19339 | 1720
-| CyberTech | M1ntJelly | 60291524 | 19325 | 1757
-| revert | JFZDash | 99577878 | 19302 | 1514
-| YOU GOTTA | KMJFIRE | 84355265 | 19277 | 1880
-| YOU GOTTA | KMJFIRE | 84355265 | 19277 | 1880
-| Being Funkier | MaxyLAND | 69785154 | 19275 | 2039
-| HLT | Destriv | 57673096 | 19269 | 1294
-| open flame | Crysticai | 98564960 | 19208 | 1394
-| liebe | Laaseer | 68227803 | 19206 | 1349
-| Color Printer | Shatt3rium | 87186246 | 19205 | 1688
-| Color Printer | Shatt3rium | 87186246 | 19205 | 1688
-| 9001 Strong | RealSoulDash | 5426185 | 19192 | 2627
-| MaffadroN | AlasstorGD | 92800598 | 19124 | 1640
-| Beautiful Years | Aleiz21 | 58143554 | 19120 | 1387
-| Man Behind Slaughter | Vadi | 61184830 | 19115 | 2016
-| Hiroshima Rush | xepheron | 87914875 | 19114 | 1868
-| Incapacitate  | NogZ | 41654396 | 19098 | 2617
-| dont evade taxes | adamvp | 93004278 | 19086 | 1707
-| lovely home | Soluble | 63486364 | 19069 | 1217
-| Lightning Breaker | alfuxGD | 97327852 | 19047 | 1395
-| Rain Full | MrLorenzo | 13798212 | 19008 | 2474
-| Vibrant Dash | Relic686 | 27769661 | 18985 | 2797
-| MawWy | Tomplayg17 | 92751589 | 18975 | 1641
-| Electronic Force | Ranexi | 1916697 | 18968 | 1041
-| Volume | Optation | 55201212 | 18957 | 1489
-| Game over | J0eyOnGD | 66620203 | 18941 | 1409
-| Divinity | Ragnarus | 76304617 | 18926 | 2192
-| Seeker | Ondys25 | 58877012 | 18898 | 774
-| i made tetris lvl | itSko | 92595796 | 18886 | 1369
-| Unleashed | gdapples | 50491043 | 18878 | 2485
-| Customer Service | JaoDay | 41113604 | 18876 | 2268
-| Vex | Zeniux | 88297904 | 18868 | 2280
-| New Memories | BGames | 13872095 | 18863 | 3315
-| Holy Flames | felixitron | 69007741 | 18846 | 1951
-| Unnamed 69 | FadeOff | 76951520 | 18845 | 1579
-| Nock Out | Alex M | 85062933 | 18839 | 985
-| WildLife | Hann | 52794748 | 18836 | 2320
-| Return | Aleiz21 | 60838167 | 18822 | 1308
-| InSaniTy | ImAkKo | 88526890 | 18810 | 1286
-| Electronomia | Texic | 50406118 | 18804 | 2309
-| Ender | bra1k | 46713093 | 18803 | 2289
-| Futuristical | VoPriX | 91983737 | 18794 | 2464
-| Punggol | iRozz | 91336058 | 18790 | 1887
-| NightShine | VrageraGD | 44600088 | 18772 | 2321
-| SaabS | Morce | 43578918 | 18756 | 2507
-| rule the world | 3nzyGD | 77235516 | 18739 | 1347
-| Sidereal Fantasizer | Rotos | 101443735 | 18720 | 2190
-| Raivolt Challenge | Amza | 83267639 | 18713 | 1353
-| Mythical Solstice | realwhata | 59680778 | 18708 | 1556
-| x time | ThisIsPailyn | 291394 | 18657 | 730
-| Iceskimo | IcyWindy | 86496518 | 18652 | 1251
-| Hallow Affair | Suwiwit | 64706783 | 18637 | 1543
-| UnDer | Dxce | 49668286 | 18634 | 1955
-| Trial of Fools | Ardant | 44088157 | 18616 | 1985
-| Chiptunie | votanuu | 61490510 | 18611 | 1430
-| Passionate Comrade | aloom | 94004581 | 18597 | 1721
-| SourCream | AUFrosty | 8246798 | 18568 | 2655
-| Playwolf | WerewolfGD | 54588689 | 18557 | 1791
-| Two of Us | Katas | 101015925 | 18556 | 1239
-| Simplicity II | truongwf | 66133469 | 18555 | 1482
-| Quaysar | PhantomX | 88573413 | 18548 | 1721
-| Quaysar | PhantomX | 88573413 | 18548 | 1721
-| Message To RobTop | ItzApex | 75133531 | 18533 | 1606
-| Diversity | itSko | 69011976 | 18521 | 1213
-| Pulsing haze | ELLVO | 67660208 | 18489 | 2150
-| vibrance | Fury0313 | 96119251 | 18485 | 1349
-| Hey Baby Girl | Sneakyx | 74193440 | 18473 | 1101
-| Atmosphere | issanagay | 75231288 | 18460 | 1665
-| Atmosphere | issanagay | 75231288 | 18460 | 1665
-| Unleashed | Krimp77 | 100763475 | 18449 | 1823
-| Slide | SpKale | 49146860 | 18434 | 1753
-| FunkY | ylliee | 48876941 | 18411 | 2148
-| Crash Arena | loafboi | 73891581 | 18409 | 1399
-| Fire Dimension | Paragon | 11660376 | 18394 | 2451
-| domain boom | Jeikins | 68568906 | 18385 | 1341
-| Dynamix step | ruzted | 874148 | 18380 | 1257
-| w a l k  | Rifky12 | 64401478 | 18361 | 1558
-| amora | Fabianhad | 59988911 | 18357 | 1146
-| Rost Oriental Sky | ruined | 533925 | 18356 | 1377
-| Paradise | Relcet | 49998443 | 18338 | 2083
-| Abyss of Craigslist | SouneX | 103328404 | 18333 | 1445
-| Frostflames | GloryEX | 13954389 | 18331 | 2424
-| electromaniatical | azubh | 92721120 | 18283 | 1461
-| Rotate | DogBan | 64093729 | 18281 | 1358
-|  collateral damage | RXKYOTO | 42266478 | 18266 | 695
-| AntarctiKore | Raivolt | 88641956 | 18256 | 1362
-| my little guide | Fofii | 80311311 | 18239 | 1276
-| ruts | kodex360 | 72821820 | 18236 | 1846
-| dual | rafabirds | 96727021 | 18228 | 1343
-| cotton sharp | 7ak | 79077538 | 18195 | 1254
-| Day Past Days | - | 1890571 | 18189 | 928
-| Rhythmic | Schneider9 | 65570757 | 18158 | 1797
-| Groovy Perspective | danerdogger | 65864279 | 18153 | 1218
-| sudden IDEAESTHESIA | Knots | 41618699 | 18149 | 1592
-| Treading For Treasur | Pyxidus | 58470946 | 18126 | 1612
-| Horse Journey | OliXor | 84229070 | 18118 | 776
-| Cosmic Delusions | Cirtrax | 54376284 | 18115 | 2315
-| Terracotta Overheat | Mantevian | 49993670 | 18112 | 2068
-| thEnd | ImNotNuub | 101629407 | 18111 | 1094
-| chaoz gradium | Xenvill | 90432998 | 18087 | 1721
-| beam | - | 199718 | 18067 | 1399
-| Sky Fortress | Ryder | 24713327 | 18053 | 2063
-| Shifted | crispapple | 26787935 | 18046 | 3073
-| I O X | BridgetTheCroco | 66472718 | 18036 | 1373
-| Chamol | abdula | 62403455 | 18028 | 1619
-| End of the Trip | evanjo | 13609599 | 18020 | 3199
-| Mi Ritmo | Yasa | 99081537 | 18001 | 1738
-| Emergency | Gabriel | 916639 | 17978 | 1323
-| Mayu Mayu | cydoX | 66845085 | 17976 | 1061
-| Theory of Joni | J0Ni | 987685 | 17959 | 1197
-| I Want To Fly | govnostroy | 92951555 | 17957 | 809
-| Hush | ThatKai | 78044813 | 17955 | 1536
-| Change | WinderDG | 46176330 | 17954 | 1018
-| blue level | Whippie37 | 92465955 | 17937 | 1635
-| RIPPLEZ | Memoried | 3801515 | 17928 | 1668
-| Chemistry Lab | icewither | 56722428 | 17920 | 1486
-| Monochrome Theory | DreamEater | 8609590 | 17918 | 2429
-| Dimeo I | ChiN3x | 47813776 | 17879 | 2094
-| Snowflakes | itSko | 76847356 | 17874 | 1721
-| nonary | Zeroniumm | 1184449 | 17850 | 937
-| Tiramisu | DaFinn | 57053242 | 17847 | 1476
-| Frozen Fire | scrumpy | 59439543 | 17843 | 1746
-| Neon Lights | Klafterno | 91147046 | 17826 | 1511
-| Dynamic Duo | Krimp77 | 67003721 | 17795 | 1427
-| centauri | Waddl3 | 87032046 | 17769 | 1475
-| New Direction | Fault | 60617343 | 17768 | 1273
-| Infinity Sounds | XDream | 8818374 | 17751 | 2203
-| Mii Party | RemyRose | 54693120 | 17719 | 2677
-| arc astronomia | Cegexen | 99975611 | 17715 | 953
-| Mechanism Mayhem | scorpsi | 101484785 | 17705 | 997
-| SWITCHBLADE | simvnn | 96504017 | 17705 | 1088
-| i level i 5  | - | 566009 | 17680 | 1130
-| Lodestar | Hakkou | 6271469 | 17677 | 2447
-| Downward Spiral | Umbraleviathan | 88051670 | 17639 | 1336
-| Vigilance | dittoh | 67283846 | 17616 | 1141
-| Combustion Chamber | AEROSTATIK | 13570493 | 17608 | 2809
-| Another Hexagon | CubeDasher | 2091905 | 17604 | 1129
-| I n s a n o  | IJBSI | 64329954 | 17601 | 1129
-| Macapaca | Mineber | 78295149 | 17577 | 1882
-| runaway | Gabbs | 75386496 | 17569 | 1043
-| CosmicBlitz | AUFrosty | 14774146 | 17564 | 2619
-| Tribal X | ZeeToss | 44110087 | 17548 | 2173
-| Gecko Funk | Nwolc | 36140758 | 17547 | 2536
-| Predestination | Sohowastaken | 94405617 | 17541 | 1637
-| oh yeahhhhh | Fofii | 69726374 | 17538 | 1586
-| WeAnN | Dhraw | 61573311 | 17534 | 1703
-| little nightmares | Dingus2 | 92846082 | 17525 | 1607
-| Prestige | Makenzy | 54656436 | 17523 | 1961
-| swift | BALTZ | 85451747 | 17516 | 1166
-| swift | BALTZ | 85451747 | 17516 | 1166
-| Midnight Fall | Nico99 | 60974979 | 17516 | 1403
-| 2 ducks | Lightning78 | 92031519 | 17507 | 1609
-| Luminous | balli | 56469613 | 17504 | 1986
-| Fantastic | CastriX | 28622355 | 17498 | 1675
-| Beff Industries | ItzApex | 77979695 | 17495 | 1644
-| EXTRAVAGANT | LEXISO | 60996115 | 17486 | 1622
-| Wind Walker | nekochan nd | 51111365 | 17475 | 2068
-| Inscape | xdkubi | 48047218 | 17447 | 2294
-| Vibrant | itSko | 71376775 | 17441 | 1569
-| Squaredance | Presta | 67825642 | 17421 | 1502
-| Theory of Frozen | - | 245314 | 17397 | 1282
-| OVERCAST | KMJFIRE | 94841429 | 17389 | 1920
-| Geometrical Rave | SupaCLUCK | 103115277 | 17378 | 837
-| elysia | Falkuma | 45697422 | 17353 | 2330
-| Socketed | Xelaaaaaaa | 98147280 | 17347 | 2108
-| Colorwolf 3 | WerewolfGD | 88702708 | 17330 | 1512
-| Colorwolf 3 | WerewolfGD | 88702708 | 17330 | 1512
-| Stay | Mineber | 48161276 | 17323 | 1878
-| FADE | cometface | 72071818 | 17312 | 2052
-| INVASION  | SpaceMagicGD | 90209765 | 17297 | 1642
-| REGRET | R3XX3R | 9390932 | 17291 | 3119
-| Radioactive | 64x | 76260506 | 17290 | 1385
-| OnE pOiNt IDK  | IJBSI | 62299700 | 17288 | 1347
-| illusive | yakone | 66930620 | 17269 | 1470
-| Ex Quo Verum | Elisione | 30105451 | 17269 | 2707
-| In Awe | SerenoGD | 26904971 | 17269 | 2175
-| Moffes Danker Disco | Ausk | 65585991 | 17257 | 1769
-| TLQKF | Alchery | 59415059 | 17244 | 1196
-| The last day | Swirl | 6946588 | 17222 | 2644
-| Optimism | Yendis | 48655029 | 17208 | 2604
-| Toxic Sewers | PICAAAAAA | 67578636 | 17200 | 1193
-| Til Osiris | SirExcelDJ | 65867302 | 17193 | 1811
-| Evertime | zZoomks | 33627342 | 17188 | 3386
-| Theory of Clutter | - | 219627 | 17171 | 946
-| Jul | OSIRIS GD | 51403324 | 17165 | 1863
-| Dot | IronIngot | 47046199 | 17151 | 1359
-| JarvisTwister | iZeo | 70768610 | 17149 | 1676
-| PauF | SirioBlueX14 | 67193026 | 17149 | 1067
-| ESTRELINHAS | rafabirds | 93556838 | 17143 | 1355
-| RSTL | LeocreatorX | 95569862 | 17138 | 1494
-| Swirl | DangerKat | 73378310 | 17134 | 1602
-| lux mortis | Bruhsberry | 92306091 | 17133 | 1774
-| seozen2 Lv1 Funk | IamXstep | 436501 | 17117 | 1159
-| Ultradrive | Quasar49X | 99368860 | 17114 | 1465
-| Believe | WhaleMage | 60881146 | 17114 | 1418
-| A Ghostly Adventure | DreamTide | 58351666 | 17112 | 1203
-| lOOk aT mE | SrMDK | 61093057 | 17089 | 1285
-| Nightmare Fuel | imapotitoo | 64814299 | 17078 | 929
-| Square funk | BEkID1442 | 930584 | 17046 | 617
-| Indosiar | Reunomi | 42106642 | 17035 | 2078
-| Vestige | Oasis | 58003459 | 17032 | 1527
-| One point nine | ISariaI | 58199036 | 17028 | 1556
-| SNOWBOWL | KMJFIRE | 98070635 | 17011 | 2031
-| bart is a sim son | SatanicGD | 70531981 | 17011 | 1247
-| bugging | Hychie | 89619407 | 16984 | 1026
-| last comet | soda2D | 60858635 | 16978 | 1143
-| baSH | shnitzle | 84198734 | 16971 | 1003
-| baSH | shnitzle | 84198734 | 16971 | 1003
-| Beats n Shapes | SleyGD | 54440289 | 16947 | 1175
-| COLORPULSE | Atzam | 87346905 | 16924 | 1519
-| Gradient | gluewis | 15932246 | 16914 | 2473
-| twerkcrab | Twistaah | 89351819 | 16911 | 1504
-| calypso | Ninjajai | 55714791 | 16866 | 1675
-| dpkdbsass1998r | OpMan360pro | 87862072 | 16864 | 947
-| Decagon | Matobia | 93370364 | 16846 | 1806
-| Lintas Warna | MYKM | 99565106 | 16835 | 1435
-| Skyless | Kaii07 | 56305093 | 16813 | 1538
-| Thousand Foot Crutch | AkyliZz | 519999 | 16803 | 1146
-| ABYSS | Asthae | 97182800 | 16799 | 1588
-| Massive Discharge | Nico99 | 14084204 | 16796 | 2664
-| Atmosphere | DeniPol | 58035513 | 16794 | 1289
-| Immune | DonutTV | 33513184 | 16783 | 2424
-| Festive | Mineber | 55094937 | 16762 | 1981
-| Beautiful days | aiden1204 | 97668813 | 16754 | 1747
-| tempo | sqb | 79272625 | 16720 | 1393
-| tempo | sqb | 79272625 | 16720 | 1393
-| You Died Your Fault | Lyriaki | 71644266 | 16713 | 992
-| Chloroplast | JustL3o | 76789896 | 16703 | 1867
-| Combo Breaker | Evasium622 | 5608423 | 16702 | 2368
-| BeatGame III | XXDalmanskiXX | 59058288 | 16693 | 949
-| Dans Return | RealDJB | 77963842 | 16684 | 1441
-| Dans Return | RealDJB | 77963842 | 16684 | 1441
-| Cosmic System | DaFinn | 13760176 | 16660 | 2318
-| Pixel INFINITY | Exi0n | 62111666 | 16632 | 1009
-| Veldt | Hychie | 79935345 | 16620 | 1993
-| Veldt | Hychie | 79935345 | 16620 | 1993
-| Chaoz Devotion | 123Ev4n | 9186836 | 16617 | 2237
-| GoodBye | ColorsX | 59623694 | 16616 | 1034
-| HYPOTHETICAL | KMJFIRE | 102781083 | 16614 | 1343
-| Impulso | xThomasMP | 60269286 | 16614 | 1409
-| Perpetuate | rustere | 61909109 | 16598 | 1587
-| Chroma Circuit | thebun | 98714917 | 16597 | 1196
-| Place On Fire | sfhRene | 67341855 | 16593 | 990
-| Eternal Desire | kodex360 | 71959126 | 16572 | 1661
-| 64X ADVENTURES | 64x | 80011704 | 16569 | 1044
-| 64X ADVENTURES | 64x | 80011704 | 16569 | 1044
-| Lagoon Language | Onvil | 102713081 | 16563 | 1097
-| Duo | Lax04 | 62595106 | 16563 | 1099
-| Hypernova | mariot3 | 8661688 | 16515 | 2673
-| Crystallize | joojmiguel | 58590113 | 16510 | 1315
-| Sweeping Skies | Mantevian | 68067931 | 16504 | 1262
-| potato salad | Binary666 | 78491575 | 16473 | 1541
-| colorful born | Palinka | 11640836 | 16463 | 2744
-| Dream Factory | C4rpeDiem | 13040080 | 16460 | 2442
-| ELECTRYCITY | azubh | 97620379 | 16446 | 1354
-| SOLAR SYSTEM | Carnitine | 90911676 | 16445 | 1319
-| Style Wave | PixelMini | 54989989 | 16413 | 1249
-| Invasion | syndd | 67234370 | 16412 | 1151
-| Diving | Earthum | 64179450 | 16412 | 1201
-| waterMELONNNNNNNNNNN | robotchief | 69053920 | 16411 | 1018
-| Sacred | Squall7 | 71465516 | 16397 | 1134
-| komodo | Grax | 42938017 | 16390 | 1238
-| ice block | - | 988138 | 16375 | 1061
-| SpectrumatiC BananeN | Belastet | 74117314 | 16371 | 1457
-| weird | LavonAffair | 69148939 | 16340 | 1311
-| Forsaken Blossom | SStartDash | 79159766 | 16328 | 1779
-| Forsaken Blossom | SStartDash | 79159766 | 16328 | 1779
-| Moon Trance | - | 482626 | 16314 | 546
-| Time Hell Machine | - | 535795 | 16308 | 749
-| Prismatic Carol | Alphirox | 76850515 | 16301 | 1525
-| Catalyze | ImPanther | 56880441 | 16301 | 1289
-| abstraction | neigefeu | 37647836 | 16295 | 1802
-| t  i  g  h  t | BrainETR | 69428253 | 16279 | 1873
-| Drink Milo | Numptaloid | 64904355 | 16254 | 1031
-| vibrimania | heatherhayes | 69704519 | 16242 | 1304
-| Work | TavitoGD | 62927062 | 16223 | 1409
-| The Spin Cycle | Shatt3rium | 95190327 | 16173 | 1394
-| Left Yesterday | tenzk | 66544316 | 16167 | 1056
-| BERSERK | thazm | 92475769 | 16163 | 2224
-| AsLongAsIGotU | Anya21 | 70710973 | 16163 | 1619
-| The Graveyard | helito6x3 | 50458459 | 16153 | 931
-| In new Afroeurasia | IpuNneO | 77013568 | 16110 | 1150
-| Icy road | DesTiNy | 606493 | 16096 | 1061
-| Scissor | Waffl3X | 42189477 | 16095 | 1803
-| Arbitrary | zac2605 | 43776318 | 16064 | 2169
-| MENTALLY INSANE | AlvaroRH99 | 90767568 | 16031 | 1762
-| Mythical | Squall7 | 57724933 | 16024 | 1675
-| Another cosmos | Flosia | 64770330 | 16011 | 1333
-| Discovering | MystExiStentia | 26935030 | 16000 | 2335
-| Botswana | Sting871 | 64425890 | 15985 | 897
-| Chains | Cheeseguy | 8578587 | 15976 | 2519
-| agility | Apstrom | 64990286 | 15950 | 1438
-| LightBreak | Galactrix | 71820922 | 15946 | 1542
-| Danse Macabre | SkullyHop | 55028377 | 15917 | 1213
-| Fuego | TheRealWeenside | 55845776 | 15885 | 1385
-| NSGD World Eight 1 | Hevii  | 100217085 | 15882 | 1001
-| super gravitron | zejoant | 57298124 | 15868 | 992
-| FROM THE START | archermeta | 101344141 | 15839 | 973
-| June | BrainETR | 70541703 | 15807 | 2381
-| Catani | iZeo | 80199678 | 15805 | 1465
-| idkwhybutilikethis | FakeHATETAG | 73971273 | 15801 | 1064
-| ANHEM | truongwf | 73823581 | 15799 | 1105
-| Empty Glass | Agils | 57618138 | 15794 | 1247
-| you fortress | ghathiitho | 49179072 | 15787 | 715
-| nereid | Hir0shi | 87889033 | 15785 | 1344
-| nereid | Hir0shi | 87889033 | 15785 | 1344
-| Boaty McBoatface | SirWafel | 89094754 | 15784 | 1460
-| Boaty McBoatface | SirWafel | 89094754 | 15784 | 1460
-| Beyond the earthly  | mishy | 69253038 | 15784 | 885
-| 1up | CubeDaArtist | 90378468 | 15760 | 1995
-| 1up | CubeDaArtist | 90378468 | 15760 | 1995
-| Goodnight | Seokso | 94968295 | 15750 | 1566
-| DS Adventure | DScraig | 89341905 | 15747 | 1035
-| Once Upon 2 Times | Emily419 | 86315350 | 15738 | 1143
-| Tranquility  | SylviaPlath | 13027228 | 15735 | 2440
-| SIRIUS A B | PICAAAAAA | 99592793 | 15734 | 1104
-| Entrance | Dimen | 11951127 | 15719 | 2517
-| Heru | Pettsu | 91156272 | 15715 | 1399
-| ViriZioN | Masterale | 37991988 | 15711 | 2346
-| From Atoms to Pixel | SGLunar | 100459481 | 15706 | 566
-| Carnivore | Verification | 38637977 | 15706 | 1613
-| Adam Sandler | realwhata | 80320478 | 15705 | 1468
-| Adam Sandler | realwhata | 80320478 | 15705 | 1468
-| Adam Sandler | realwhata | 80320478 | 15705 | 1468
-| Marshy Zone | Volkmire289 | 10521141 | 15704 | 1783
-| CALLATE JOSE | JHERALD | 90937525 | 15698 | 1738
-| The Xtra Switch | Aiyamii | 73790936 | 15684 | 1142
-| Dynamik Cluster | RareNytemare | 1015504 | 15669 | 1191
-| The Axis | ZWK | 60899404 | 15668 | 1045
-| Lost In Limbo | Clodsire | 64493657 | 15664 | 1294
-| cocoon | Lyrial | 66081605 | 15660 | 973
-| Exhibition Of Icon | - | 202667 | 15630 | 1200
-| Stella | Arquas | 27196662 | 15608 | 2508
-| Swingin | AmorAltra | 38753679 | 15570 | 858
-| Bonkers Party | ty12345678 | 62968954 | 15535 | 960
-| Void Setup | iMortlex | 62500763 | 15529 | 1451
-| Barothithl | Niji | 49095475 | 15527 | 1957
-| crewmates | iMinAY | 95440335 | 15510 | 1281
-| mawn lower | fr3dmc | 87299552 | 15506 | 1494
-| Police Car | pocke | 56557333 | 15502 | 931
-| Not Over Yet | DubstepFanatic | 90368112 | 15498 | 1608
-| Anybody Else | khelado | 64551970 | 15498 | 1273
-| Fissure | Maboflo | 13058299 | 15468 | 2502
-| Sleek | Wav | 53475021 | 15458 | 1747
-| Pain Engine | syakin | 64637758 | 15457 | 1015
-| Magic Button | OwenEOA | 38129622 | 15454 | 1945
-| wedgestep | bunch | 61103573 | 15428 | 1428
-| RealiTy | Howler | 44960510 | 15402 | 1635
-| Retro Boomin | Raivolt | 93846330 | 15399 | 1230
-| Aria Math | mihaha | 60185690 | 15396 | 1283
-| Rainbow Road | MoxiT93 | 57559970 | 15390 | 1260
-| The Apocalypse | KorpralGurka | 1068187 | 15383 | 826
-| Shockwave | Lixars | 48289449 | 15381 | 1175
-| LeTs FlY | PhysicWave | 61734061 | 15367 | 1041
-| Blue and owangE | Moffer | 75074390 | 15359 | 1175
-| Lv23 The Maglanics  | IamXstep | 206130 | 15356 | 587
-| pseudophobia | Zhiana | 69918337 | 15352 | 1672
-| Skyway  | Twistaah | 101398293 | 15336 | 1041
-| Fuyu | 5ta1ker | 87167051 | 15328 | 1291
-| Tropics | wCookieD | 68219399 | 15316 | 1638
-| trait | LandonGMD | 94186473 | 15313 | 1139
-| AREXZ | Yunsa | 92147539 | 15305 | 1589
-| DeSerticA | Lewny | 36263018 | 15303 | 2045
-| Capacitor | ZillaGong | 26018840 | 15296 | 1946
-| deadras | CrafGD | 48992758 | 15295 | 1826
-| Cosminox | Hann | 57318899 | 15279 | 1596
-| SHIMMER | Renn241 | 74364402 | 15278 | 1876
-| Sense | RayZN | 66165471 | 15271 | 1198
-| the inside | robtobfreak | 68595123 | 15254 | 1155
-| Glitter | xMimoGD | 94078978 | 15252 | 1180
-| ExovernitY | iPandaSwag | 32923902 | 15252 | 2156
-| Iridium | LIEB | 36797410 | 15250 | 2573
-| New Beginning | MystExiStentia | 30643818 | 15250 | 2648
-| Wunderwaffle | Sands | 89052310 | 15238 | 1077
-| The III | Waffl3X | 65857140 | 15222 | 919
-| midnight | iITNCIi | 61285698 | 15211 | 1170
-| RemotuS | CastriX | 42344828 | 15211 | 1994
-| Murdar | ImSamo | 63158713 | 15209 | 1088
-| Ricochet Love | GMDDEEPSPACE | 43646198 | 15200 | 885
-| Devolution | JumpingTheory | 80812735 | 15185 | 1285
-| Devolution | JumpingTheory | 80812735 | 15185 | 1285
-| black spy | iILoBeeIi | 211714 | 15183 | 1385
-| Usurpation | CreatorToile | 82156159 | 15173 | 2535
-| Usurpation | CreatorToile | 82156159 | 15173 | 2535
-| Usurpation | CreatorToile | 82156159 | 15173 | 2535
-| uncle teddy | Carnage37 | 78340735 | 15160 | 1367
-| Reactant | Bizaare | 65332955 | 15158 | 1626
-| Zephyr Breeze | Reunomi | 40778653 | 15130 | 1774
-| hewp me pwease | dkitey | 81655210 | 15095 | 1006
-| hewp me pwease | dkitey | 81655210 | 15095 | 1006
-| Focal epileptic  | DAVIDSHOCK | 59956771 | 15087 | 1158
-| EnergeoN | Vexes7 | 66785601 | 15081 | 1522
-| Lyse | CUBICCC | 69178303 | 15075 | 1358
-| Deltawolf | WerewolfGD | 47114006 | 15066 | 1998
-| Backbeat | Stutes | 80393808 | 15056 | 1759
-| Backbeat | Stutes | 80393808 | 15056 | 1759
-| passage of time | NoLetter | 64697083 | 15044 | 1431
-| Bamboo Berry | FlickGMD | 96178072 | 15040 | 1334
-| EntropY | Renn241 | 90745875 | 15034 | 1322
-| Dream Chamber | Prism | 17454515 | 15034 | 2214
-| Chronos | mikalgd | 67286436 | 15031 | 918
-| Frigid Ice | Bluskys | 58392759 | 15029 | 1378
-| Elysium | PhantomX | 4913711 | 15026 | 1682
-| Super Mario Galaxy | Ii Falco iI | 42039419 | 15017 | 1167
-| Angelic Sonata | kodex360 | 67815022 | 15009 | 1034
-| damage mind  | CatronixGD | 96426037 | 15002 | 1260
-| Ferfette | Lyriaki | 66268977 | 14994 | 1320
-| Visualization | Oskreix | 39648271 | 14981 | 1745
-| Theory of the earth | DONIC | 219800 | 14961 | 1168
-| Shongifo | Mineber | 94869566 | 14938 | 1221
-| Believe In Yourself | Nemsy | 61998209 | 14934 | 1681
-| DISJOINTED | Y0rk | 83241621 | 14927 | 947
-| Rainbow Smash | Sillow | 54771879 | 14926 | 1354
-| Off the Wall | BowtieGD | 67579799 | 14909 | 836
-| Overtime | thazm | 91577001 | 14897 | 1411
-| murker | superblooms | 93490523 | 14895 | 1252
-| unnamed draft | Zidane24 | 95875682 | 14859 | 1173
-| Dub Storms | Baanz | 57213318 | 14854 | 1541
-| defection | polarbearz | 5128889 | 14853 | 1842
-| Scorch shot | Shrip | 81995981 | 14845 | 844
-| the theory of cluter | L3010 | 225234 | 14823 | 1082
-| Transcend | LEXISO | 62696886 | 14819 | 988
-| Dualistic | Vexowy | 68000202 | 14813 | 1103
-| Skewing Dimensions | SpKale | 39656079 | 14806 | 1582
-| Midnight Aurora | MorpheiX | 33359451 | 14792 | 2110
-| Ceiling Fan | Blaake | 89089395 | 14743 | 1682
-| Fanqie | Mineber | 60685538 | 14743 | 1226
-| Pinnacle | gluewis | 47150559 | 14731 | 1937
-| Super PoG | JustL3o | 95289152 | 14730 | 1700
-| Alium | JustJohn | 65896647 | 14702 | 1138
-| Death Drive | eMartCider | 892117 | 14693 | 1145
-| Microwaves | pocke | 58862838 | 14682 | 928
-| Regeneration | Chlorines | 37600527 | 14682 | 2089
-| Karnage | Jasii | 74670904 | 14674 | 1295
-| AN ORBS FLIGHT | PICAAAAAA | 84964917 | 14670 | 1261
-| AN ORBS FLIGHT | PICAAAAAA | 84964917 | 14670 | 1261
-| 5STAGE | EpicLooch | 74306724 | 14669 | 1103
-| Esmerald palace | HeroMoltenGD | 62245527 | 14661 | 981
-| Eternal Youth  | ThePacificTeam | 45717588 | 14612 | 1451
-| Calm Again | Anya21 | 74584328 | 14607 | 1093
-| THE FALLEN | xepheron | 96182592 | 14594 | 1489
-| Colorful Century | ZenthicAxy78 | 65707800 | 14594 | 951
-| Sprinter | diamondstorm | 90314369 | 14585 | 1204
-| Trip Through Time | Zurteh | 87123801 | 14579 | 1341
-| ROMMY | LIEB | 70638981 | 14568 | 1158
-| Blazed Terracotta | Mantevian | 41552339 | 14562 | 1689
-| earlobe | seefourset | 81705661 | 14560 | 902
-| earlobe | seefourset | 81705661 | 14560 | 902
-| earlobe | seefourset | 81705661 | 14560 | 902
-| Coloris Somnia | Elisione | 55181319 | 14560 | 1683
-| Generic wave IV | ShadowIan | 94811444 | 14547 | 1040
-| Akai Tsuki | Carnitine | 93725205 | 14531 | 998
-| Worldwide | LaserSword33 | 58432709 | 14531 | 1019
-| Chrono | DanLom | 66967156 | 14529 | 1154
-| heLvan | Pongix | 69052219 | 14524 | 1178
-| deambulatory navalis | sink | 88238929 | 14519 | 1172
-| Luminous Night | AceVict | 50009243 | 14515 | 1810
-| Frigid | astbun | 36192674 | 14493 | 1974
-| Rainbow | fayzing | 95495337 | 14490 | 1186
-| Nice Landscapes | MAYEROSA | 69521016 | 14490 | 1087
-| METHANE | FakeHATETAG | 90982572 | 14488 | 893
-| Mirum Aestas | CastriX | 58735063 | 14481 | 1426
-| Iocus | CDMusic | 66918711 | 14473 | 1028
-| Iris Platina | Mineber | 70791425 | 14461 | 1640
-| Forgotten World | MagnaciTM | 52849706 | 14459 | 1325
-| think2much | SquidMKW | 94966902 | 14450 | 1110
-| trompeta | SupuGD | 92596879 | 14450 | 1379
-| EverHood | RedlixHD | 61590917 | 14434 | 1223
-| vaguely moonlit | wless | 47725671 | 14434 | 2179
-| Neonic Flash | Xevenfurious | 27335208 | 14418 | 2051
-| Dreaming | YeetDawg | 86169578 | 14395 | 838
-| reincarnation | TKS MelonMan | 2429911 | 14388 | 1218
-| Broken down | TheRealXFuture | 59397371 | 14375 | 1244
-| Exspiravit | helito6x3 | 40910041 | 14365 | 1335
-| SyKoN | nahuel2998 | 47614875 | 14362 | 1713
-| Radial | radaskk | 37169360 | 14338 | 2509
-| Raphtalia | creeperus | 66428881 | 14327 | 1090
-| Forgotten Memories | MeRlO CreatoR | 6127141 | 14322 | 1590
-| BongoCube | Mineber | 49266959 | 14320 | 1564
-| PurSuiT | BrexXes | 90139329 | 14303 | 1731
-| Extrasensory | Zeus9 | 12936636 | 14302 | 2456
-| Gloom Drift | JustBasic | 65529659 | 14290 | 1308
-| Float | Puueds | 94192045 | 14284 | 1246
-| Luminescent | synwave | 71461791 | 14267 | 1455
-| Infinite Light | Shatt3rium | 57937701 | 14267 | 1080
-| Pressure | JustL3o | 55339718 | 14257 | 1211
-| zophial | griffyn87 | 34441028 | 14252 | 1587
-| Ogni | InideuX | 93735328 | 14251 | 1189
-| dozynkiDynamix | jneh | 93967627 | 14244 | 1158
-| Locked n Loaded | denberZ | 79448041 | 14240 | 1223
-| Locked n Loaded | denberZ | 79448041 | 14240 | 1223
-| Dispatch | Dasher3000 | 62052697 | 14240 | 968
-| Steam battle | Elexity | 12320121 | 14228 | 1788
-| Colourful Darkness | Japic | 615205 | 14214 | 572
-| Irruption | xCarbon87 | 10554577 | 14204 | 2138
-| CherrY | ImMasterX | 61369687 | 14191 | 1109
-| Time inception | She3rlucks | 46043832 | 14191 | 1750
-| IGNITION | OliXor | 91710182 | 14184 | 1238
-| Aqua II | 1u49 | 66883906 | 14181 | 1465
-| Time Lapse | Extreme7687 | 99530091 | 14180 | 1022
-| Neon River | DangerKat | 103431055 | 14178 | 1036
-| Asperia | DangerKat | 55945760 | 14163 | 1500
-| vivacious | msm12 | 69143525 | 14155 | 1250
-| Featured level | Darcii | 73072602 | 14147 | 743
-| Whole Lotta Red | Kixgz | 94383642 | 14145 | 1295
-| electro paradise | - | 960181 | 14144 | 1400
-| 1000W Party II | Churrasco | 9523027 | 14129 | 1961
-| Yemf | Hychie | 72619926 | 14104 | 1629
-| Munraitomairu | ValkyrieMaster | 68064415 | 14081 | 1162
-| Josh | Rynoxiouss | 95053012 | 14074 | 1182
-| Das Fire | Myaaaaaa | 95196464 | 14068 | 1248
-| fig28 | awoobroj | 54797281 | 14067 | 1249
-| Night Factory | Krboy369 | 90886863 | 14053 | 1448
-| Rainbow Dash | maximo64 | 80012769 | 14051 | 1202
-| Descend | iPrisy | 57800342 | 14042 | 1167
-| CoLdSwEeTs | CHRAPIVA | 85202702 | 14038 | 1172
-| Dungeon World ii | Astronaut21 | 87013846 | 14034 | 854
-| routine | Eyesw0nker | 91836424 | 14033 | 1379
-| Proximity | Morce | 47238900 | 14024 | 1866
-| Ho My Go | Shaowin | 84059151 | 14009 | 1031
-| Inpacto | 0xNano | 62068786 | 14008 | 1169
-| infiltred sector | herozombie80 | 10555741 | 14003 | 1844
-| Determinations | ValkyrieMaster | 63105653 | 14002 | 1030
-| Dual Chip | Plexa | 65983598 | 13916 | 989
-| Complicato | Riky2610 | 37488193 | 13897 | 2244
-| Spwc | cleangame | 52764591 | 13894 | 1856
-| For River | Tribbles | 74178452 | 13891 | 808
-| Spectrum Velocity | iMist | 65164508 | 13891 | 942
-| SyntFut | AnnieHer | 86740940 | 13889 | 1109
-| SyntFut | AnnieHer | 86740940 | 13889 | 1109
-| Life is Awesome | FeindFighter | 98450316 | 13887 | 1291
-| merite | iZeo | 91360259 | 13874 | 1391
-| TechnoMove | WarningGoat | 81821795 | 13873 | 852
-| TechnoMove | WarningGoat | 81821795 | 13873 | 852
-| i fix you | 3nzyGD | 77152516 | 13861 | 1609
-| Virtual | MYKM | 65888001 | 13856 | 1160
-| NecroManceR | denberZ | 60246436 | 13829 | 1128
-| The Prototype | Z3R3P | 73397979 | 13798 | 1063
-| 9 9 9 | paultam | 91148414 | 13796 | 1076
-| Rising From the Ash | Copypasta | 62625803 | 13796 | 1182
-| The Remnants | DoctorANC | 83102825 | 13768 | 962
-| The Remnants | DoctorANC | 83102825 | 13768 | 962
-| DREAM TIME | LEVR1819 | 11954360 | 13762 | 2099
-| Energize | MaxK | 55176271 | 13761 | 1385
-| Neowise | IlBuzdi | 73251783 | 13718 | 893
-| Marwolaeth | potass | 30927504 | 13705 | 2405
-| Countdown | MoxiT93 | 62826816 | 13687 | 1040
-| ImperFectioN | LordeQuacc | 56512837 | 13667 | 1225
-| Redemption | Peyt0n | 69219616 | 13666 | 823
-| KandyMan | functionxd | 94857983 | 13651 | 1643
-| 3xplosion | gustavov3 | 95346476 | 13634 | 1329
-| nni | SnowEye | 88976179 | 13620 | 783
-| nni | SnowEye | 88976179 | 13620 | 783
-| ypsilon | SubStra | 75419135 | 13620 | 1170
-| Spectacular Vietnam | Magpipe | 73188273 | 13620 | 1092
-| Precursor | SirZeus | 60579212 | 13605 | 1188
-| Colorful Dream  | RealRasberry | 18344890 | 13599 | 1857
-| CYPRESS GROVE | o3k | 79355183 | 13588 | 1352
-| CYPRESS GROVE | o3k | 79355183 | 13588 | 1352
-| Zipline | Texic | 91879696 | 13568 | 1384
-| Let Me Go | Soluble | 56109086 | 13562 | 1141
-| Nostalgic Space | AlexGdGamer | 86586778 | 13529 | 1311
-| Nostalgic Space | AlexGdGamer | 86586778 | 13529 | 1311
-| Lost In A Galaxy | skootys | 64414136 | 13527 | 826
-| Revenant | Optation | 52427047 | 13510 | 1358
-| DUMPSTER FIRE | wetols | 91750494 | 13494 | 1799
-| Boneyard | Pawlogates | 38635235 | 13492 | 1098
-| Radio Rumble | ELLVO | 94196638 | 13490 | 1294
-| ReHype | Hyper314 | 43050319 | 13473 | 1628
-| Hidden Machinery | Df0rDie | 75239971 | 13469 | 1490
-| Extractor | xAct | 13406695 | 13451 | 2296
-| Stray life III | BlueSpaceGDL | 83678453 | 13438 | 939
-| Stray life III | BlueSpaceGDL | 83678453 | 13438 | 939
-| Rapid Relay | Nova4664 | 91459928 | 13428 | 1941
-| What The FGH | FGHJapan | 82742507 | 13426 | 856
-| mirrors edge | griffyn87 | 39965066 | 13425 | 1538
-| Moonstar | ViP3r | 56424349 | 13418 | 1026
-| Ivory palace | twigxcabaret | 92225051 | 13410 | 1123
-| RyD | Stevstyles | 79895724 | 13410 | 1026
-| Vayne | Wistromz | 92761903 | 13403 | 1193
-| EMPRESS | NotCyanide | 82934482 | 13389 | 986
-| im so happy | Fofii | 70362864 | 13384 | 1169
-| D A N I E L I T A | ItsYisusOwO | 85073753 | 13383 | 982
-| Crystal Mines | Alfred PKNess | 37177274 | 13365 | 1472
-| BEZIKI REEF | Carnitine | 102029289 | 13359 | 745
-| Myztica | OutBite | 101004560 | 13359 | 1018
-| Color is Key | PERS1AN | 80910902 | 13350 | 1000
-| Ultrayear | MarkyArchived | 58987974 | 13349 | 1112
-| Bounce Back | Cirtrax | 69257013 | 13345 | 1413
-| Static | 1nfra | 69573723 | 13329 | 1200
-| the edge | Jakedoggd | 11881678 | 13328 | 1772
-| Osimhen | SirDany | 89672337 | 13322 | 1050
-| Osimhen | SirDany | 89672337 | 13322 | 1050
-| AbstractioN | Belastet | 78561332 | 13316 | 1878
-| Space Doom | MarioLTE | 37317283 | 13309 | 1870
-| Realms | Fletzer | 49292086 | 13305 | 979
-| Luminaire | Xiel | 13288438 | 13300 | 1996
-| Under my hopes | Doroku | 77263122 | 13291 | 1270
-| The | vyu74 | 60409146 | 13289 | 1441
-| Future Lovely | LucariusM | 47393786 | 13286 | 1251
-| BRZGMT | robotchief | 77833259 | 13285 | 1323
-| Flashbang | HugusTheNoob | 60966102 | 13268 | 876
-| CenterMega  | RedDragoN1404 | 13879385 | 13257 | 2257
-| Aurora | meromelon | 9717854 | 13253 | 1835
-| Vegas | Darixen | 46840341 | 13241 | 1603
-| Treble Trance | Nezzieverse | 61316684 | 13231 | 894
-| OPAWS | BENtong | 64307711 | 13188 | 839
-| Thaumaturgy | Ross12344 | 45423857 | 13171 | 1566
-| AudieoVisualUniqueCC | Cele5tial | 92992115 | 13166 | 857
-| Heliocentric | R7nTy | 92975585 | 13166 | 1381
-| Stargate S1 | meromelon | 4778576 | 13165 | 1793
-| VoluZ | Zipper01 | 10614562 | 13162 | 1517
-| Lights Out | Dyspex | 88738811 | 13156 | 1398
-| Lights Out | Dyspex | 88738811 | 13156 | 1398
-| Vintage Flux | Alphirox | 69625936 | 13146 | 1700
-| AnDia | DiaGram | 65202228 | 13145 | 1100
-| never | N1mda | 82746762 | 13140 | 1298
-| never | N1mda | 82746762 | 13140 | 1298
-| Technical Riot | BlasterRobotz | 51569762 | 13139 | 1480
-| Shellshock | ty12345678 | 62078902 | 13126 | 1036
-| Rocky Jungle | Jeikins | 103082864 | 13105 | 943
-| HBD Selucentur | Selucentur | 91813031 | 13103 | 1022
-| All | iITNCIi | 57084432 | 13103 | 984
-| ColorFul | Slipiao | 58929588 | 13092 | 1346
-| Descarga | Tommasso | 70990781 | 13086 | 1023
-| ZENIUXHASNOEYEBROWS | KMJFIRE | 90612222 | 13070 | 1871
-| Wired | Alexcont | 64253854 | 13063 | 890
-| Reflex  | Kixgz | 66961737 | 13043 | 955
-| OffBeaT | EvoNuclearGD | 58999911 | 13040 | 1109
-| iBiru | Fairfax | 46792466 | 13028 | 1491
-| Carry me out | twigxcabaret | 80703148 | 13008 | 1045
-| Carry me out | twigxcabaret | 80703148 | 13008 | 1045
-| Carry me out | twigxcabaret | 80703148 | 13008 | 1045
-| Carry me out | twigxcabaret | 80703148 | 13008 | 1045
-| Sinking Feeling | SirZeus | 75208534 | 13008 | 874
-| Kolory | Xatz | 75460706 | 12994 | 1229
-| Inanis Fabula | DeoxLite | 74659822 | 12986 | 1004
-| Unhinged | Joskope | 59556656 | 12985 | 1015
-| CaT | AlasstorGD | 68021852 | 12984 | 964
-| Abyss of Fear | chona026 | 51717653 | 12981 | 818
-| My Perfect Palace | Moffe | 74661079 | 12975 | 1083
-| Monocromatic | maaavry | 69075697 | 12965 | 865
-| convergence | orots | 93692838 | 12953 | 1200
-| Euphoria | Fletzer | 56271727 | 12951 | 1380
-| Diamond Brave | Rdrgz | 100180090 | 12946 | 989
-| Techno Reactor | CarlM50 | 101053487 | 12931 | 1202
-| Erase | Cirtrax | 36911892 | 12931 | 1476
-| Twilight | 8BitFudge | 95971766 | 12903 | 1042
-| Mission Complete | LightWinner | 66605383 | 12898 | 984
-| on tha line | Ego11 | 97465378 | 12897 | 1019
-| Graph Meme | Earthum | 60916856 | 12895 | 1098
-| Techno Dream 2 | ValenQpr | 58398675 | 12893 | 871
-| Blissful Haze | Falkuma | 52602124 | 12892 | 1553
-| new project | Renedi | 91545872 | 12890 | 1067
-| Green Noise | SpotL | 79369525 | 12889 | 1133
-| The Upside Down | FreezeDash | 92376084 | 12870 | 1171
-| Wowie by TotoTie | HarshHere | 85135855 | 12852 | 880
-| Wowie by TotoTie | HarshHere | 85135855 | 12852 | 880
-| Strange Trash | itsqan | 102456526 | 12847 | 663
-| 4OVD | Meekah | 68296873 | 12842 | 1225
-| Flashlight | VagrantXXI | 39553114 | 12813 | 1273
-| Its time | LewinGD | 78529923 | 12807 | 1718
-| Mechanical Overload | Dominus | 48886820 | 12807 | 1352
-| Reminiscence | abdula | 48636960 | 12784 | 1490
-| Path Intense | AnddyVM | 40139690 | 12783 | 1324
-| Eternity | HeniXs | 78225988 | 12777 | 1000
-| New Way | spl1nt | 74899149 | 12774 | 1235
-| Beanable | johdanlop | 91391471 | 12770 | 1215
-| adumreb | Zhiana | 72686539 | 12759 | 929
-| MezXic | RedlixHD | 65458502 | 12747 | 1432
-| breaking silhouette | Knots | 41599952 | 12746 | 1371
-| Mind Vibes | N3moProd | 56056013 | 12721 | 1044
-| Resurrection | InfiniteR88 | 35492259 | 12721 | 2020
-| OcTane | emoR | 67515445 | 12708 | 1125
-| Carolina Reaper | CreatorRiley | 67508682 | 12698 | 1021
-| Howl | V3ntique | 47618856 | 12690 | 820
-| Rublock5 | GDSkele | 67727817 | 12683 | 780
-| Dusky Daze | JustJohn | 70179828 | 12672 | 940
-| Lazer | Rifky12 | 63882408 | 12670 | 806
-| Release | Sebasthian60 | 87479638 | 12669 | 1150
-| Corolla | TempledoX | 63663739 | 12661 | 903
-| Aurum | LemonsodaKitty | 84964095 | 12656 | 1062
-| Aurum | LemonsodaKitty | 84964095 | 12656 | 1062
-| i level i 6 | - | 602748 | 12640 | 1043
-| Calling Megaman | Bluskys | 47402001 | 12598 | 1362
-| Roboboblo | GiggsRH | 59204873 | 12585 | 1453
-| RESILIENCIA | IIAnubisI | 56154476 | 12584 | 1251
-| Essex  | DarkZoneTV | 11477652 | 12569 | 2079
-| myelin | MaxiKD | 36290262 | 12553 | 1906
-| Swift Venery | ItzMezzo | 57399171 | 12536 | 1219
-| Electrified | Tyrannyy | 66274159 | 12526 | 1105
-| DanZfemale | realwhata | 77309039 | 12520 | 1104
-| Redeem Fears | R503Sv | 75291125 | 12519 | 1292
-| The Maitrier | cr3tins | 96403930 | 12511 | 689
-| Serenity | SpKale | 26425905 | 12511 | 882
-| ZaPhiRo | Darkness c | 59440603 | 12508 | 757
-| CastleBreak | red7777 | 79049846 | 12507 | 1039
-| Azure Skies | CreatorMoldy | 70133800 | 12497 | 721
-| ewopmas | Nwolc | 98807951 | 12494 | 1164
-| Qi | Kaii07 | 50543449 | 12487 | 1201
-| TerriaN | crashpancake2 | 51082230 | 12484 | 1127
-| system down | Alexcont | 32220328 | 12484 | 1413
-| Funky Factory | Xiprus | 56662302 | 12460 | 1024
-| Tick Tock Time | helito6x3 | 49605030 | 12447 | 684
-| BOUND 2 | Asthae | 89880087 | 12445 | 1165
-| BOUND 2 | Asthae | 89880087 | 12445 | 1165
-| Odmin In GW 3 | - | 494345 | 12445 | 963
-| Burn It All | PICAAAAAA | 62660548 | 12397 | 1196
-| Bligo | ELITEXD | 67361661 | 12393 | 1326
-| Fright Show | shnitzle | 78814319 | 12385 | 1024
-| Invigorate | Ross12344 | 43731984 | 12381 | 2066
-| Star Lust | Kyre1911 | 63628489 | 12366 | 1624
-| Viscid | TropoGD | 65788454 | 12360 | 1236
-| boosky | Twistaah | 86901176 | 12352 | 1101
-| boosky | Twistaah | 86901176 | 12352 | 1101
-| Checkered | SleyGD | 51343126 | 12352 | 782
-| Sheol | RikiGD | 72200760 | 12345 | 1675
-| libidine | Fz3ro | 80469059 | 12343 | 1377
-| libidine | Fz3ro | 80469059 | 12343 | 1377
-| libidine | Fz3ro | 80469059 | 12343 | 1377
-| Holystone | Suixam | 45532151 | 12322 | 1350
-| ZINOKCORE | simvnn | 94083661 | 12309 | 993
-| Planetary Party | hieugg | 91888613 | 12300 | 1123
-| 71M35 N3W R0M4N | N17R00000000000 | 71562172 | 12294 | 1017
-| Fluorochrome | NnolokK | 63717095 | 12289 | 943
-| Abstract light | IPablinI | 62910689 | 12285 | 1006
-| Energy Laser | VrageraGD | 49139617 | 12284 | 1645
-| Conn | Rekiii | 61475330 | 12279 | 1342
-| NULL | Rullstol | 65835618 | 12232 | 1176
-| The Groves | Flocab | 79933683 | 12230 | 1140
-| Bitter Flash | YunHaSeu14 | 54520628 | 12229 | 1530
-| Crystal lake | twigxcabaret | 81779758 | 12226 | 1035
-| Crystal lake | twigxcabaret | 81779758 | 12226 | 1035
-| Feel the Beat | buttstallionpc | 45451376 | 12222 | 1238
-| STEREOBEAT | votanuu | 59817830 | 12217 | 1015
-| at my lowest | MixUpYT | 89220026 | 12205 | 804
-| PixelateD II | YYew | 64043500 | 12202 | 783
-| give you up | Squidely | 63538050 | 12197 | 928
-| Neo Tokyo  | condabeast | 64027849 | 12192 | 892
-| LightRay | VecToRx GD | 35047544 | 12187 | 1705
-| CRESCENT HILL | SchentZ | 91171353 | 12168 | 1245
-| Weekend | BoneSoup | 54548348 | 12159 | 1012
-| wilted | kreyk29 | 88752724 | 12129 | 1451
-| Magic Illusion | Faun | 62218510 | 12117 | 836
-| Aoi | ValkyrieMaster | 65516960 | 12113 | 1048
-| Azure | Greenyy | 63388764 | 12111 | 843
-| E v A   | MikanNeko | 50581333 | 12102 | 863
-| Redemption | ELITEXD | 66151509 | 12101 | 1329
-| Evolutionized | SoulzGaming | 31494130 | 12080 | 1790
-| From Up Above | PICAAAAAA | 77336089 | 12061 | 926
-| Maelstrom | Krimp77 | 79033674 | 12049 | 1314
-| Sparken Up | FozaeKitty | 57064558 | 12044 | 1064
-| Laughter | chamoylol | 55608719 | 12043 | 1416
-| wonders | wonduu | 70130200 | 12042 | 1104
-| Noc2rne | HarshHere | 95196035 | 12026 | 868
-| New Generation | Gabbs | 61108552 | 12026 | 1048
-| astroborg | aabbdduu | 83020002 | 12024 | 1031
-| Crystallizer | Swirl | 8095205 | 12024 | 1817
-| Dark Tour  | Submy | 70615049 | 12021 | 1292
-| Deadbeat | balli | 26342177 | 11990 | 1109
-| Gyroscope | NogZ | 49980692 | 11984 | 1128
-| final form | soda2D | 58892589 | 11964 | 850
-| Adfroime II | Anya21 | 67153388 | 11948 | 908
-| Alvaro  | BrainOutear | 38289998 | 11942 | 1154
-| Samuha | Aiyamii | 74900768 | 11941 | 912
-| AEROHEAVEN | Rifct | 103320071 | 11936 | 1194
-| Strange Nights | iMortlex | 64801813 | 11933 | 1249
-| Randomania | nielxen | 81408568 | 11932 | 1254
-| Randomania | nielxen | 81408568 | 11932 | 1254
-| Gabbs | Moffer | 64834238 | 11924 | 1181
-| Forlorn | vonic | 72270235 | 11919 | 1156
-| pretty dream | Fabianhad | 61860117 | 11915 | 1049
-| SuperByTe | Klafterno | 84409023 | 11909 | 745
-| SuperByTe | Klafterno | 84409023 | 11909 | 745
-| Villa | truongwf | 94857455 | 11908 | 750
-| Blossom | LuffySan | 63549097 | 11901 | 929
-| I NEED YOU | JesseGDGaming | 103358065 | 11898 | 702
-| Pounce | kylerocket06 | 98178077 | 11898 | 1316
-| Aeonian | Eternalyz | 38267227 | 11880 | 1591
-| Kuchau we | iMortlex | 94109036 | 11870 | 1347
-| CONSUME | CatioGD | 95065980 | 11867 | 986
-| Athletic Aesthetic | Zeniux | 67813533 | 11847 | 1007
-| Coloring Show II | Tenzelo | 61513057 | 11838 | 1119
-| Snowfrost | Anirium | 102214120 | 11825 | 978
-| Mixed Realities | mSeesha | 57022938 | 11824 | 621
-| The BoT | GmDWolde | 3090736 | 11816 | 1252
-| dupstep | Twistaah | 90128649 | 11815 | 1226
-| spale | dawnii | 58919742 | 11806 | 928
-| Japanese Station | lMattz | 66212567 | 11797 | 931
-| Insane Tech | azubh | 91066383 | 11791 | 1008
-| Null | RealZober | 49572962 | 11789 | 1228
-| Revolution Rebirth | Koopazu | 56166606 | 11765 | 1095
-| Retrowave | CreatorLW | 54799004 | 11754 | 1090
-| Outflow | Rys3 | 81832423 | 11753 | 1206
-| Outflow | Rys3 | 81832423 | 11753 | 1206
-| What is Modern | UlbomE | 54791768 | 11753 | 809
-| GMD Terpenie | Aeicotey | 97416878 | 11750 | 566
-| Sweet Dreams | Angelgdlm | 86459514 | 11745 | 756
-| Caesium | DryCryCrxstal | 35538862 | 11742 | 1845
-| meltdown overdrive | AllenRequiem | 102664254 | 11739 | 1678
-| One More Dance | orangeDAS | 81822739 | 11739 | 1072
-| One More Dance | orangeDAS | 81822739 | 11739 | 1072
-| InstincT | De7roit | 24728036 | 11737 | 1304
-| Spectral Velocity | QuantumFlux | 39210266 | 11731 | 1352
-| KawaiiDesuKa | YuiAnitaAnggora | 56924468 | 11723 | 780
-| Thronos | vit12 | 56902230 | 11715 | 780
-| World Rift | spl1nt | 68796866 | 11708 | 984
-| Break Zone  | ZatexDoom | 92367034 | 11683 | 891
-| Planet 2847 | Krimp77 | 90505874 | 11655 | 1172
-| Quentiam | Qventiam | 45466037 | 11643 | 1352
-| Weigth | guerronojas | 40945537 | 11636 | 1562
-| Essence | elianaaa | 87321430 | 11635 | 479
-| Essence | elianaaa | 87321430 | 11635 | 479
-| Pandora | Minimi427 | 41678927 | 11626 | 1518
-| Magic Lilies | Texic | 54362976 | 11618 | 1585
-| Kotori  | YirokoS | 55812542 | 11609 | 1087
-| ThE | ValkyrieMaster | 62063168 | 11601 | 757
-| MoonLight | Zinht | 85069341 | 11594 | 502
-| Motion 52 | Optation | 68532616 | 11581 | 735
-| gradient | Zerbit | 11262128 | 11580 | 1733
-| Bonky Bonkers | PariThePlatypus | 65875416 | 11573 | 1154
-| Bioluminescent | Annon | 53807389 | 11571 | 1470
-| Malveillance max | SushiiGD | 101629345 | 11569 | 1130
-| Exuberant | Syunide | 32370680 | 11544 | 1652
-| careless whisper | spark | 61997435 | 11506 | 805
-| Enigma | MaykollGD | 59142909 | 11506 | 789
-| My Imagination | TheRealWeenside | 63553688 | 11479 | 916
-| GrooVy LITTLE guy | Dongakonga2 | 80558374 | 11455 | 1076
-| GrooVy LITTLE guy | Dongakonga2 | 80558374 | 11455 | 1076
-| THE GAMBLE | aloom | 95841486 | 11451 | 760
-| Cosmic Unity | ZeoxX | 78270673 | 11444 | 1272
-| Destiny | TropoGD | 64228254 | 11444 | 853
-| Fright | Krimp77 | 74361479 | 11442 | 1219
-| Frightened | ValkyrieMaster | 61641929 | 11422 | 999
-| Meta Topology | shnitzle | 74876070 | 11418 | 938
-| Moony Memories | Cypherr | 75122532 | 11415 | 1045
-| Astral Aphelion | Snarlax523 | 41630953 | 11412 | 1462
-| Contemptuous | Lake | 78469110 | 11403 | 1099
-| Tristam | DubstepFanatic | 80802265 | 11383 | 1091
-| Dimension | MYKM | 68342464 | 11381 | 776
-| into the sea | DerKat | 63390899 | 11375 | 1061
-| Roseurple | Cesardavid21GD | 95091830 | 11368 | 1205
-| Evocative light | Inex | 52284488 | 11345 | 1099
-| Hypnagogic | Rifct | 91561737 | 11338 | 1044
-| Fallen System | TerKai | 57930063 | 11332 | 932
-| Awoken | IRBenja | 67790809 | 11326 | 783
-| faded path | Spxrrows | 76452538 | 11314 | 1115
-| outdated | ZecretDash | 92249540 | 11310 | 888
-| Prism | aj04 | 76022380 | 11306 | 1098
-| HyperUpdate | Tippymang0 | 9734244 | 11302 | 2268
-| Happy Now | sergioad | 51785076 | 11286 | 893
-| SimpLexitY | realwhata | 66669735 | 11252 | 921
-| The Dasher | ZWK | 66760492 | 11251 | 733
-| Hipnos | MrHubbington | 92671597 | 11246 | 1070
-| Philosophy | Almondy | 68786930 | 11234 | 1044
-| Power Charge | Nottus | 90243269 | 11191 | 993
-| Retro Romance | AvaKai | 60975815 | 11186 | 953
-| Aquiver | Tropiica | 33050498 | 11181 | 1417
-| Ardent | Silouute | 67944786 | 11178 | 1135
-| OBED | kitenok | 82074221 | 11167 | 928
-| Lightness | Hikex | 91444080 | 11152 | 1248
-| CONVENTIONS | ILRELL | 83147516 | 11149 | 925
-| Crystal Club | Koopazu | 82259317 | 11146 | 1109
-| Glee II | GMDluca | 71124241 | 11137 | 773
-| Brighten Up | Met3o | 58169031 | 11137 | 1007
-| Shula | Veiled | 57602246 | 11121 | 904
-| I know | SirZaiss | 54494642 | 11102 | 1415
-| divergent | Annon | 39227757 | 11094 | 1477
-| Elliptical Velocity | Kaii07 | 55423227 | 11090 | 1098
-| Chromatic Colors | vonic | 65212065 | 11065 | 905
-| delight | hell | 94150269 | 11053 | 1037
-| Vanilla | AlaskaFX | 93616871 | 11042 | 776
-| Europa | cXpium | 95736489 | 11039 | 1158
-| Blast off | GhostGuy707 | 81008077 | 11038 | 1009
-| Gibiji | Amoeba | 56357433 | 11037 | 1021
-| Boulevard | EpicMasta11 | 38620743 | 11034 | 1052
-| Final Destiny | TriPodX | 46331360 | 11025 | 1124
-| Astrea | Zeniux | 80266418 | 11020 | 933
-| blob dance | Deppied | 57560440 | 11020 | 1075
-| Valour | Seafarer | 61423183 | 11018 | 920
-| Avenue | Logman6656 | 88329896 | 11013 | 1488
-| Mechanical Chaos | KoDTIFF | 64635216 | 11010 | 829
-| Astro AI | BurritoGamerX | 63003956 | 11008 | 881
-| I got you | XxdomxX | 96500141 | 10994 | 1226
-| Nostalgia Blast | Squared | 51980248 | 10966 | 913
-| Crystallic Chromium | FloxMi | 62793690 | 10942 | 843
-| Ignisium | xNoire | 60745027 | 10936 | 800
-| Cityscape Sprint | R3aperGMD | 90488338 | 10923 | 1046
-| Chinmoku | Dankx | 67135354 | 10923 | 759
-| Kolorus | Xatz | 59739011 | 10916 | 942
-| The Mayo Clinic | realwhata | 68935324 | 10915 | 1014
-| Qi ii | Kaii07 | 52343579 | 10913 | 657
-| Dreaming Alchemist | Unbihexium | 76162518 | 10894 | 1173
-| Icy Cavern | AnnoyingBaby | 16984179 | 10876 | 1645
-| NiNpHeA | JustL3o | 61768495 | 10875 | 794
-| The resurgenc3 | Balandran GD | 73846947 | 10871 | 970
-| The resurgenc3 | Balandran GD | 73846947 | 10871 | 970
-| Epiphany Mindset | BridgetTheCroco | 66745260 | 10865 | 904
-| Maximum Sampler | Nemsy | 66213178 | 10862 | 1128
-| Statuesque | ValkyrieMaster | 64671508 | 10859 | 1159
-| Nautilus | angel791 | 60556424 | 10857 | 612
-| Elemental | lNitroxin | 9451869 | 10820 | 965
-| Blind Forest | Ladaschi | 88270206 | 10807 | 677
-| Blind Forest | Ladaschi | 88270206 | 10807 | 677
-| Blind Forest | Ladaschi | 88270206 | 10807 | 677
-| METROPOLIS | Xorxis | 102281878 | 10793 | 468
-| SPARKSPARKSPARK | spark | 72457276 | 10788 | 889
-| Confuzzled | pualoGD | 46133907 | 10787 | 948
-| Anthelia | NeonDusk | 75290122 | 10785 | 1129
-| G L O X I N I A | St3no | 90354290 | 10779 | 946
-| G L O X I N I A | St3no | 90354290 | 10779 | 946
-| Arrival Century | Alt3r3d | 42800768 | 10772 | 1075
-| make it | macoh | 68350875 | 10765 | 807
-| Aquila | DarkZoneTV | 6019279 | 10754 | 1773
-| Break the code | DraagonST | 90472894 | 10750 | 884
-| the dark night | - | 469922 | 10749 | 626
-| Powerful | Adriam71 | 90633064 | 10731 | 1257
-| SAIPEN | Gkost | 93228868 | 10720 | 778
-| Explosive | ZeoxX | 95309164 | 10714 | 1029
-| Money Laundering | AudieoVisual | 78101603 | 10713 | 1326
-| Hannibal | Riki Dash | 49443860 | 10705 | 1112
-| VisVis | PICAAAAAA | 67356694 | 10702 | 847
-| Colorlands | Lucoraf | 42674163 | 10700 | 765
-| vecer | jogyz | 95200082 | 10694 | 751
-| Optical | Airill | 57020956 | 10690 | 876
-| next adventure | OsmaGD128 | 84685550 | 10684 | 597
-| next adventure | OsmaGD128 | 84685550 | 10684 | 597
-| next adventure | OsmaGD128 | 84685550 | 10684 | 597
-| Sonne | AnLa | 66027906 | 10684 | 780
-| Scarab | DrCuber | 71097006 | 10673 | 864
-| Glamour | Moonlchan | 82130898 | 10669 | 704
-| Alesda | NewDubsC | 57236727 | 10668 | 1014
-| AlminO VibeS | CTJustSpam | 70398733 | 10660 | 818
-| Night Falls | 8uua | 66773394 | 10648 | 749
-| Thunderstruck | iIsane | 40461080 | 10648 | 714
-| robert topert  | kodex360 | 66377787 | 10640 | 847
-| Ruined Love | RayOriens | 9384060 | 10633 | 1217
-| Scattergun | Dartling | 84016646 | 10632 | 732
-| Scattergun | Dartling | 84016646 | 10632 | 732
-| Electricity | ZelfTix | 60747834 | 10619 | 828
-| Ris Grestar | Digitalzero | 10085391 | 10607 | 2199
-| Pasta Party | Andro3d | 26830135 | 10604 | 960
-| The Neutral Lodge | JaoDay | 39383304 | 10603 | 1707
-| Gas Leak | Hyper314 | 62203281 | 10596 | 1010
-| Into Space | Spycold | 79304790 | 10593 | 754
-| Na2 | Bizaare | 63688637 | 10565 | 951
-| AWHILE | StarsFarm | 96869766 | 10559 | 932
-| SKY SUMMIT | hauxz | 92185195 | 10559 | 941
-| CATAPULT | krenogd | 89833134 | 10559 | 1409
-| simplistic stride | LGgd | 65532145 | 10545 | 518
-| Rebuild the body | twigxcabaret | 87289635 | 10544 | 658
-| Escape Reality | Kazey | 74269285 | 10530 | 941
-| Awoken | CobaltV | 7681466 | 10517 | 1693
-| ugabuga | V9LT | 59409960 | 10487 | 955
-| Lumen | Ph4lip | 66894497 | 10452 | 1114
-| Slow | Abdou01 | 57301250 | 10452 | 774
-| Deadly Factory | NGTofficial | 94081244 | 10442 | 744
-| a trip to Postdfeo | truongwf | 90781764 | 10440 | 1052
-| RPM | realwhata | 90112133 | 10435 | 902
-| TRU LUV | AudieoVisual | 79448789 | 10434 | 1160
-| TRU LUV | AudieoVisual | 79448789 | 10434 | 1160
-| Compulsion | D4mi | 82931520 | 10433 | 1086
-| Any Dream | Jezzel | 39233755 | 10427 | 955
-| Hipogdragons | chamoylol | 66021080 | 10426 | 1192
-| Resilience | HTigerzGD | 50921514 | 10425 | 1584
-| Masive | zJei | 57339940 | 10422 | 975
-| SOMETHINGY | Cypherr | 80769745 | 10418 | 1084
-| SOMETHINGY | Cypherr | 80769745 | 10418 | 1084
-| Refracted | Ghotstav | 49331385 | 10417 | 914
-| delirium | ImMaxX1 | 79006874 | 10411 | 1012
-| delirium | ImMaxX1 | 79006874 | 10411 | 1012
-| Glooming Burg | Szilu | 93659978 | 10407 | 1139
-| slinky | Itzabunny | 74428086 | 10401 | 818
-| Pancakes | LexipGG | 60814194 | 10396 | 809
-| Chromatic | Vexowy | 57959905 | 10396 | 622
-| Aesthetical | EnteiX | 67752636 | 10390 | 910
-| magic glitch | Soluble | 60382887 | 10386 | 970
-| kornbrot | Tostone74 | 82301962 | 10385 | 726
-| Sclerosis | xBonsai | 60586011 | 10366 | 836
-| seperation ANXIETY | Carnitine | 94139646 | 10360 | 1063
-| Flashing Essence | Xspace1 | 96419379 | 10352 | 1070
-| Atlantis | GPZ | 82805687 | 10338 | 653
-| Atlantis | GPZ | 82805687 | 10338 | 653
-| LXSX CXNTRXL | johdanlop | 97341538 | 10331 | 920
-| Azalea | HTigerzGD | 92192017 | 10328 | 828
-| Debek | Senseiik | 87362884 | 10319 | 932
-| Achlys | Yoonsr | 58169903 | 10318 | 948
-| retro adventure | bpdoles | 71883265 | 10312 | 929
-| spunky the magic cat | DSprint | 58331734 | 10282 | 690
-| Cole | cooperishere | 92632171 | 10265 | 846
-| low impact | Jeikins | 78003748 | 10253 | 1115
-| Love Fever | Koishite | 67491471 | 10240 | 802
-| Never again | ninq | 74486153 | 10237 | 998
-| inside the mirror | trashey | 66718212 | 10231 | 572
-| Evho | Dalusa16 | 88769127 | 10225 | 1165
-| snov | krenogd | 66010642 | 10201 | 680
-| Still Vibing | MisterBean | 77625259 | 10195 | 675
-| Still Vibing | MisterBean | 77625259 | 10195 | 675
-| Sugar Rush | Ajedaboss | 51597647 | 10188 | 1239
-| genocide | vrdr | 100517774 | 10177 | 1229
-| Pump It Up | seannnn | 102176953 | 10175 | 919
-| Diva | GDNeoz | 66635782 | 10138 | 931
-| Noises | MistFix | 17412904 | 10136 | 885
-| 8 mile electro | - | 603771 | 10135 | 1204
-| BillyVerse | Billyg1122 | 93361208 | 10103 | 927
-| Synthesizer | CorroX | 48688970 | 10080 | 1492
-| Vexers | Dubayo | 66911380 | 10071 | 1020
-| Ozone | Delts | 40601705 | 10066 | 1103
-| Permutations | ItzMezzo | 85348921 | 10051 | 639
-| The Cosmos | Meldon | 67913310 | 10043 | 574
-| Prominent Passage | Ieann | 62019010 | 10043 | 858
-| Bungelora | RikLymback | 50041597 | 10039 | 1311
-| Plan B | Squared | 44722823 | 10037 | 1085
-| Hakugai | SirExcelDJ | 79038143 | 10032 | 1231
-| spill | jneh | 78393550 | 10022 | 821
-| Captain Disco | Codex | 6460608 | 10014 | 985
-| Megayear | MarkyArchived | 57182691 | 9997 | 716
-| MANIFESTO | Asthae | 78189277 | 9987 | 1301
-| Emerald Eyes | SloudyAlt | 92303428 | 9983 | 611
-| Telluric Shake | LaxHDz | 35267021 | 9983 | 1412
-| The Pain | iZale | 52361117 | 9980 | 1234
-| Specular  | Hyenaedon | 59583952 | 9974 | 816
-| Monster Mash | Antman0426 | 42542933 | 9973 | 635
-| Purplevel | winterbitia | 67924906 | 9966 | 806
-| GW zavod | ZlovboyZaremba | 77590651 | 9944 | 950
-| funhouse | el4n | 82598632 | 9938 | 668
-| Feel Alive | vonic | 74070481 | 9937 | 1123
-| Pixel Rush | TimeRed | 94212467 | 9923 | 947
-| Perennial Marsh  | Carnitine | 90268837 | 9917 | 1097
-| Overgrowth | Yoonsr | 64616667 | 9903 | 978
-| MidNight | LeynarMusic | 72057520 | 9902 | 1034
-| Glamour  | Kaii07 | 64234052 | 9890 | 902
-| Cutter | HighScore47 | 34266337 | 9883 | 1041
-| Void Heart | PICAAAAAA | 65655578 | 9880 | 777
-| onenine | Hadronic | 65025137 | 9878 | 676
-| onenine | Hadronic | 65025137 | 9878 | 676
-| Tenebrae | maks550a | 50591532 | 9867 | 750
-| Gorod Krovi | FlacoGD | 51042073 | 9858 | 879
-| Legacy | Vexexx | 90880678 | 9837 | 810
-| KYU Double U KYU | Katrie | 66081315 | 9837 | 704
-| yonder | ClickSync | 89827766 | 9828 | 810
-| Animals | Arkoon | 29935898 | 9821 | 1041
-| The Diamonds | crazilogan | 37200621 | 9820 | 1193
-| Altered Space | AlexGdGamer | 79511969 | 9819 | 1195
-| Altered Space | AlexGdGamer | 79511969 | 9819 | 1195
-| Call The Colors | Alexanca | 59032045 | 9818 | 1193
-| Outbreak | PugMaster41 | 82980743 | 9797 | 879
-| Outbreak | PugMaster41 | 82980743 | 9797 | 879
-| Doranell | Doranell | 93649233 | 9789 | 998
-| Mythosis | Agils | 54491660 | 9731 | 1435
-| chim | MazZedy | 59149047 | 9728 | 808
-| MEGALEX | Sekya | 94233428 | 9720 | 679
-| DayMay | iMortlex | 57764901 | 9717 | 1132
-| Geheugen | Rexonics | 95302579 | 9713 | 1052
-| White Silhouette | nazerr | 66379553 | 9708 | 633
-| Novella | Twistaah | 93188412 | 9702 | 1234
-| Hamburger Shop | OliXor | 81255142 | 9689 | 902
-| Hamburger Shop | OliXor | 81255142 | 9689 | 902
-| HYD | koukyouki | 96886583 | 9687 | 806
-| Eine seltsame | Neutronic | 50365751 | 9687 | 1149
-| Modern Adventure | Wilast | 79461809 | 9685 | 534
-| CHROMA | Bio21 | 57469807 | 9679 | 805
-| Forced Dreams | SpaceMagicGD | 90227856 | 9674 | 1024
-| TransMedia | Farhan125 | 47557390 | 9674 | 746
-| Distorted | ShadowAxeKid | 64127850 | 9672 | 965
-| HyperiDyumg | Ad0NAY27GD | 68381210 | 9668 | 798
-| Galaxy Nokia | AleXins | 54785802 | 9654 | 993
-| Natander Challenge | antonio130 | 57290244 | 9647 | 610
-| Scarabh | Neutronic | 68522005 | 9644 | 657
-| KontrastruM | Belastet | 78064554 | 9633 | 1620
-| Divinance | LunarSonya | 63092380 | 9632 | 965
-| Storm Catcher | Rifct | 92720140 | 9622 | 937
-| egle | Soluble | 51797216 | 9619 | 1317
-| S T A R | DrayPlay | 65919332 | 9612 | 565
-| Licea | Mineber | 68130761 | 9596 | 682
-| Insentive | Aiyamii | 65792562 | 9595 | 703
-| Adventure Fantasy | TonyStar | 56506586 | 9593 | 668
-| Verge | GrenadeofTacos | 64229582 | 9592 | 622
-| You Cantnt | W0lF3 | 60975632 | 9585 | 588
-| GOTOHAN | nmth14gp | 81387388 | 9562 | 705
-| Hasten | Twistaah | 91765993 | 9558 | 1153
-| Here Comes Grimace | SouneX | 93879998 | 9543 | 766
-| IDEALIFE | DaFinn | 61130261 | 9535 | 720
-| Aquatic Auroras | Xavionn | 88294971 | 9522 | 734
-| DOM | Nixes | 94003218 | 9521 | 806
-| Lightbulb | Arquas | 34989291 | 9521 | 1323
-| Luminous | Twistaah | 83322906 | 9495 | 929
-| Glowing | exotium | 68011991 | 9493 | 565
-| Stellar | theGoT | 84277876 | 9486 | 728
-| Stellar | theGoT | 84277876 | 9486 | 728
-| Arcade | DalarX | 58163319 | 9478 | 721
-| Geometric II | Aleiz21 | 56174759 | 9472 | 706
-| Primrose | Sands | 81706637 | 9470 | 808
-| Path of Affection | realtheo | 56644488 | 9442 | 780
-| flurk | cerufiffy | 58070796 | 9441 | 932
-| Koopa Knockdown | Amukkuna | 94776849 | 9423 | 833
-| Spooky Squad | IWillRoberYou | 75325889 | 9419 | 919
-| Angelic Sphere | Reunomi | 59256632 | 9414 | 941
-| Summertime | KryptGMD | 62923749 | 9413 | 700
-| Cosmic Flash | Jameise | 62150108 | 9410 | 1352
-| Demented | Tabib | 61015224 | 9409 | 703
-| ampiainen suoja | omep06 | 92143047 | 9407 | 1138
-| Aspect Melody | JunjunGD | 83877204 | 9390 | 742
-| them colors | Wolvyy | 94376572 | 9387 | 784
-| deluge | 7ak | 73839780 | 9383 | 654
-| Cosmic Cycle | R3DHeretic66 | 57951687 | 9370 | 870
-| A Rather Fast Carrot | MasterCarrot438 | 67508808 | 9365 | 778
-| and beyond  | DangerZ | 63594978 | 9365 | 744
-| Unnamed Zero | SharksVN | 57473847 | 9365 | 663
-| Radial ii | radaskk | 42824972 | 9361 | 1205
-| Mind | Z00X | 92515336 | 9357 | 916
-| Citora | Diffuse | 61832769 | 9351 | 818
-| Flashback | Numptaloid | 57044003 | 9350 | 766
-| Another battle | midas | 8089568 | 9348 | 743
-| Chips | DrPuppydude | 57144621 | 9341 | 674
-| First Love | Janucha | 57780052 | 9340 | 677
-| Funky | BryelManuGD | 95348260 | 9334 | 576
-| FolciX | iFuriFin | 69563413 | 9334 | 978
-| Crimson | Moffe | 68025909 | 9330 | 857
-| Oh Wow | SebasuGD | 93144100 | 9329 | 1056
-| im so burnt out | kreyk29 | 87171132 | 9311 | 718
-| im so burnt out | kreyk29 | 87171132 | 9311 | 718
-| HELLSCAPE | Stretcho | 89171110 | 9308 | 710
-| Altitude 35000 | Kaii07 | 57283194 | 9306 | 964
-| Basilisk Onslaught | J735 | 60484749 | 9304 | 889
-| Amalgama | Xatz | 66006228 | 9303 | 1120
-| A Good Bye | MeowSgam | 55399325 | 9288 | 667
-| The Kiss Of Venus | MadrazoGD | 71108268 | 9285 | 801
-| GRAYSCALE | Shulkern | 66872611 | 9281 | 799
-| Pixel Dust | MrLumo | 6818781 | 9280 | 870
-| ECSTASY | NukeIIX | 63474333 | 9268 | 769
-| Deceptic Rush | Ramppi | 39858401 | 9266 | 1301
-| Antiquity | Lorserix | 62537732 | 9262 | 777
-| Ascension | Sendent | 78998184 | 9253 | 837
-| JOUNCE | steechy | 96073484 | 9250 | 1065
-| Reinterpretation | Almondy | 65637399 | 9249 | 955
-| iL | BridgetTheCroco | 62364381 | 9238 | 730
-| LIES | GalacTyX17 | 93194850 | 9234 | 758
-| view of the horizon | Mmath | 74645492 | 9221 | 704
-| Antennae | DownStop | 60815772 | 9213 | 782
-| Calabasa | mrjedi | 49906264 | 9192 | 1014
-| cyclamen | Rowanm | 88782505 | 9186 | 686
-| NEWBIRTH | Carnitine | 91094970 | 9182 | 1105
-| critical palette    | sharkdex | 88407791 | 9165 | 718
-| Divertimento | Tchotchke | 65454056 | 9159 | 786
-| Surf | ConMeoXD | 90846330 | 9150 | 805
-| Recovery | Oskux | 9357800 | 9147 | 1408
-| Blame | Eliotis | 63712349 | 9141 | 611
-| The Hyperion | SebasPeru | 65608724 | 9137 | 827
-| SurTic | ItsJustCohen | 57144623 | 9133 | 1116
-| A calm Evening | Akurio64 | 98081154 | 9132 | 761
-| As Seen On TV | ThunderBat | 81867551 | 9119 | 924
-| Beff Summit | ItzApex | 82620817 | 9103 | 531
-| Beff Summit | ItzApex | 82620817 | 9103 | 531
-| calming dreams | AlvaroRH99 | 76903468 | 9099 | 829
-| Leethax | MarkyArchived | 75279453 | 9098 | 769
-| far beyond and lost | PiskovecObecny | 90911079 | 9083 | 847
-| Colorful Burst | DuskerHu | 89302891 | 9081 | 767
-| Colorful Burst | DuskerHu | 89302891 | 9081 | 767
-| BreakDown | Frapai | 65550717 | 9078 | 785
-| pls daily | Eyesw0nker | 92739118 | 9061 | 778
-| Tetrabyte | Rapace | 50652767 | 9052 | 1035
-| Deities | kr1t | 49551032 | 9052 | 1065
-| adapation | jensGD | 68661922 | 9037 | 668
-| Aloof Banish | kepoc | 67620042 | 9037 | 602
-| bw | MisterM | 36396042 | 9034 | 735
-| Styx Helix | Jasii | 44650115 | 9033 | 1156
-| The Noise Crew | XronoM | 20769434 | 9024 | 1022
-| c h r o n o | Flocab | 56917698 | 9017 | 832
-| WhatWhereWhichWhile | QuazeryIceCube | 82957039 | 9016 | 537
-| nila | meromelon | 38892187 | 9016 | 676
-| EH | zBray | 66431872 | 9013 | 579
-| Pulsing Flux | Mojitoz | 57889233 | 9012 | 774
-| Forsaken places | atmospher | 56823434 | 9008 | 1195
-| Harmony of my heart | iMinAY | 58166179 | 9002 | 814
-| TrImEtHyLxAnThInE | Hyper314 | 46567084 | 8980 | 824
-| Ancient Beauty  | Edooox | 71144718 | 8960 | 1367
-| Horrific Killers | MAYEROSA | 64384716 | 8957 | 678
-| Vieille | Alexchi | 67705956 | 8944 | 743
-| At Night | Interstellar Ca | 90784977 | 8934 | 803
-| Reverie | JamesRamirez08 | 63440064 | 8931 | 835
-| Windy Run | MrSupremeGD | 66361526 | 8927 | 685
-| Friends | AIGDmaster | 96935363 | 8926 | 787
-| petrichor | heatherhayes | 55151807 | 8910 | 951
-| Finite Cavern | willy5000 | 5935472 | 8909 | 765
-| TsukI | ImSamo | 58937627 | 8907 | 668
-| Colossal | Whitehead | 44110842 | 8907 | 1008
-| Suisei | realwhata | 61451912 | 8904 | 816
-| Oymyakon | SStartDash | 90165958 | 8901 | 781
-| Pumpkadescent | FastRefleksX | 26041352 | 8894 | 1043
-| Archaic Feeling | chona026 | 48409985 | 8892 | 1054
-| RANCID | LEXISO | 61653746 | 8891 | 724
-| Awakened | Sekya | 59434738 | 8890 | 632
-| gradation | Cinemat | 95840563 | 8885 | 730
-| Parachute | DanyKha | 80385571 | 8881 | 1050
-| Parachute | DanyKha | 80385571 | 8881 | 1050
-| geofuture | John265 | 75810387 | 8878 | 966
-| Light Up | Xxdorian | 79874499 | 8876 | 847
-| Light Up | Xxdorian | 79874499 | 8876 | 847
-| Light Up | Xxdorian | 79874499 | 8876 | 847
-| Scathing | kZed | 52835693 | 8876 | 945
-| Fort Solgales | rZary | 61143996 | 8869 | 749
-| Broken Record | darzn | 90171655 | 8866 | 999
-| Broken Record | darzn | 90171655 | 8866 | 999
-| Broken Record | darzn | 90171655 | 8866 | 999
-| sensitive | TheRokp | 71808936 | 8863 | 631
-| Aelion | Pangea123VZLA | 94665836 | 8861 | 509
-| Vim | PotatoCuber | 76458676 | 8847 | 791
-| Douzo | 0xNano | 57790584 | 8839 | 930
-| Aku No Hana | Emadeus | 66333565 | 8833 | 624
-| Underground Rhythm | Achievess | 57943683 | 8831 | 700
-| Money Laundering | Alphirox | 80360812 | 8828 | 1272
-| Hue Hourglass | klaux | 68881260 | 8828 | 609
-| Hell Naw | ImAkKo | 90541317 | 8825 | 778
-| Hell Naw | ImAkKo | 90541317 | 8825 | 778
-| YeahMin | Lovelty | 66041284 | 8814 | 512
-| Blaze | MovieManiac | 56739752 | 8785 | 701
-| Hot Break | j2402c | 64049556 | 8784 | 785
-| Revision | xdkubi | 39290232 | 8772 | 1199
-| Majestic | Starbooy | 42575786 | 8769 | 715
-| When | imapotitoo | 68291617 | 8767 | 607
-| En Passant | LudiumGD | 90422017 | 8764 | 865
-| En Passant | LudiumGD | 90422017 | 8764 | 865
-| En Passant | LudiumGD | 90422017 | 8764 | 865
-| En Passant | LudiumGD | 90422017 | 8764 | 865
-| Molecular Overdrive | GDSkele | 67575930 | 8755 | 529
-| Edo | TeamUmihotaru | 83252489 | 8731 | 775
-| Another Showdown | vonic | 85820158 | 8724 | 703
-| Strangers | Alex112300 | 82165967 | 8724 | 705
-| Strangers | Alex112300 | 82165967 | 8724 | 705
-| Bentai | zJaeJae | 60800831 | 8721 | 574
-| Fourgon | Gepsoni4 | 77226932 | 8714 | 1192
-| Inglorium | Zynith | 43221684 | 8710 | 793
-| Cosmic Prism | DWShin | 15760397 | 8698 | 1365
-| bright dreams | HelpegasuS | 47215191 | 8681 | 809
-| Perpetual | Pab09 | 76271018 | 8679 | 930
-| RoyaL | Alchery | 38008035 | 8679 | 1335
-| Oneirism | Umylten | 96103969 | 8677 | 786
-| space  light | IZann | 57553122 | 8673 | 682
-| Mechanical | Alex112300 | 47427126 | 8671 | 679
-| Cosmic Skies | geomaniacc | 94542156 | 8662 | 545
-| Leonardo | Zanna83 | 88781980 | 8646 | 703
-| urano metria II | robV3 | 38338236 | 8632 | 1046
-| Despondent | dWdubz | 43841006 | 8606 | 397
-| dreamscape | ActiveDistinct | 88773994 | 8599 | 738
-| mind trip | TyphoonThunder | 48873471 | 8598 | 819
-| Death parade | Looou | 90067137 | 8596 | 605
-| Death parade | Looou | 90067137 | 8596 | 605
-| Explosive Flow | knappygd | 59981091 | 8591 | 640
-| Nampac | Lax04 | 71558695 | 8580 | 799
-| A surprise  | SamyTheBest29 | 101025943 | 8576 | 498
-| Chrono | SaTRiX95 | 55704443 | 8575 | 909
-| little fragments  | Solvable95 | 83971979 | 8560 | 724
-| Dark Star | HeroMoltenGD | 60100687 | 8558 | 581
-| Reflection | SirZaiss | 51607104 | 8547 | 1076
-| Asineunguna | Arkoon | 60150860 | 8529 | 650
-| Astreus | Veya | 66065015 | 8525 | 761
-| Buzzed | JA4Y | 68408304 | 8522 | 682
-| Overdrive | Alkatreize | 95175950 | 8521 | 685
-| The Factory Party | SaraGM | 63450071 | 8504 | 670
-| resistance | M1chiMoki | 49904856 | 8485 | 1096
-| kwasimodo | jneh | 93039355 | 8465 | 757
-| Gtto | mrjedi | 62224797 | 8449 | 610
-| Pixel world | Tinraz | 83882436 | 8445 | 534
-| Pixel world | Tinraz | 83882436 | 8445 | 534
-| Empyreal | DaFinn | 51814100 | 8444 | 972
-| after love | Enboy | 57480354 | 8442 | 718
-| EvilWave | Aprevwaves | 91068652 | 8431 | 912
-| burnt roses | JOENUH | 82520838 | 8429 | 841
-| Surround | Blazer2 | 56991825 | 8423 | 998
-| Causatum | thazm | 57506929 | 8418 | 698
-| Overgrowth | Zeniux | 89838229 | 8415 | 1299
-| BitZ | BitZGD | 57788359 | 8414 | 809
-| Fun race | Alexcont | 82935939 | 8400 | 839
-| Pomme De Terre | Ficelo | 89951109 | 8395 | 1103
-| Pomme De Terre | Ficelo | 89951109 | 8395 | 1103
-| VoltaiC | Earthum | 73055208 | 8390 | 939
-| Ambivalent | Squall7 | 65664955 | 8389 | 747
-| TALAMANCA | quicktimed | 90021784 | 8378 | 764
-| Skittles | elianaaa | 75031781 | 8378 | 957
-| Winter Holidays | Astronaut21 | 87168090 | 8370 | 616
-| Jolie Jam | Dyeo | 96394071 | 8369 | 1115
-| mythic | denis002 | 71377387 | 8369 | 818
-| Road Runner | WoundedGalaxy | 82216115 | 8360 | 649
-| DailYeet | Skullgas125 | 58177119 | 8353 | 626
-| Mechanical Force | M1ntJelly | 56592675 | 8349 | 719
-| Kyva | VoHanxZ | 96483618 | 8347 | 692
-| Izumo | Shulkern | 66145572 | 8343 | 776
-| Ratushan Rush | Krimp77 | 67919949 | 8340 | 969
-| Giwe | Mineber | 66235505 | 8324 | 713
-| Mortadelasinaceituna | AlvaroRH99 | 78480664 | 8306 | 996
-| memorable lapse | MatthewMW | 45648341 | 8282 | 960
-| Aura | Vitol64 | 63484028 | 8278 | 565
-| The Origins | NeyvaShift | 91151027 | 8269 | 670
-| Tangrama | CUBICCC | 56068141 | 8253 | 540
-| Glass | Krawler | 79542413 | 8241 | 629
-| Irrelevance | Azmuth | 68945067 | 8218 | 975
-| Bliss | Dolnerz | 41229701 | 8217 | 940
-| Candlelight Night | Xarus | 67571415 | 8214 | 647
-| No blue glow | Kasu06 | 80747493 | 8197 | 626
-| No blue glow | Kasu06 | 80747493 | 8197 | 626
-| Starburst | KNOEPPEL | 67585070 | 8197 | 680
-| Groovy | BaNaNaSoX24 | 75387957 | 8195 | 926
-| Carrot Factory | CarrotySpice | 90043259 | 8182 | 706
-| superior stride | LGgd | 71295294 | 8173 | 667
-| Z Realm | mrog | 48820999 | 8158 | 815
-| Earthsplitter | GenaMorphosis | 102793986 | 8149 | 861
-| DatsNotLevel | Supris | 59644250 | 8149 | 661
-| Guzzle Juice | Elliptic4l | 95122735 | 8147 | 712
-| DizajnAKosNaZaver | CrafGD | 93467020 | 8147 | 644
-| to nowhere | Notoriko | 72830456 | 8139 | 645
-| DaFinn | DaFinn | 62024319 | 8122 | 710
-| thAng | CubicShadow | 64645984 | 8115 | 583
-| Meltdown | Dom89 | 89114110 | 8105 | 700
-| In The Dark | Tygrysek | 91309880 | 8104 | 527
-| Voltaic | JOENUH | 61525452 | 8103 | 794
-| Artificial Serpent | xepheron | 82077068 | 8101 | 822
-| koraX | Laaloooz | 60630771 | 8084 | 596
-| Authentics | Penttagram | 34046041 | 8082 | 1129
-| Aspect | Ieann | 51430628 | 8079 | 658
-| Chromatic Feathers | NateRavenno | 35281644 | 8072 | 1133
-| Lumiere | junthebad | 58516337 | 8067 | 816
-| GOOD DREAMS | azubh | 90257715 | 8064 | 608
-| YOU choose way | OliXor | 89900460 | 8058 | 539
-| The Nicest | Mirotam | 65914036 | 8053 | 595
-| Astericksing | Shatt3rium | 67913586 | 8044 | 527
-| Recursive Fears | PhysicWave | 68108480 | 8043 | 548
-| Catastrophe | BlastiXGD | 88388437 | 8035 | 653
-| Catastrophe | BlastiXGD | 88388437 | 8035 | 653
-| Crystallisation | DarkenedNova | 59403358 | 8026 | 847
-| Nube | BrayanKJ | 57256240 | 8024 | 484
-| Frosty Flake | ShauxFix | 58765118 | 8004 | 618
-| Renacimiento | Krovolos | 62185360 | 8002 | 788
-| Flare | 7Tash | 66051752 | 7997 | 614
-| Technikum | HiastyHeroXDD | 78338171 | 7988 | 943
-| Bare Witness | navaya | 58887258 | 7984 | 657
-| Gateway | lesuperchef | 47696730 | 7980 | 819
-| poli | PiskovecObecny | 81548392 | 7978 | 669
-| poli | PiskovecObecny | 81548392 | 7978 | 669
-| Sai | Lyriaki | 67687193 | 7971 | 607
-| Iceborn | TheHungerGamer | 66694465 | 7968 | 593
-| DUDE BUSTER | Insidee | 56041366 | 7964 | 597
-| NonStop | Jahirapp | 94547940 | 7962 | 1037
-| Vilo | aloom | 81521124 | 7961 | 809
-| Very Sudden Toaster | SouneX | 78274274 | 7948 | 1047
-| Hyperions NewU | Wentex | 82690506 | 7923 | 701
-| Interpolation | Squared | 55374092 | 7922 | 893
-| Colourful Beat | slayerkirb | 84708092 | 7914 | 701
-| Colourful Beat | slayerkirb | 84708092 | 7914 | 701
-| Carrot Juice II | Kacurroo | 101589157 | 7913 | 434
-| Gold Assent | Stevstyles | 60949177 | 7912 | 522
-| Rock Vibes II | SloudyAlt | 93981280 | 7893 | 442
-| High on sum Felt Tip | tenzk | 65604826 | 7881 | 655
-| Astral Artifice | TeamDeltaStorm | 75017012 | 7880 | 635
-| Astral Artifice | TeamDeltaStorm | 75017012 | 7880 | 635
-| Inspiration | Unnamedboy | 91150256 | 7879 | 655
-| enigma | Ba1tazar | 68692411 | 7871 | 523
-| Lazy | LegoLime | 91075546 | 7868 | 735
-| StormBreaker | RXKYOTO | 56140376 | 7866 | 604
-| HoPeLeSs | Flaashy | 18181642 | 7861 | 1018
-| Winters Crown | LightningSL | 65967262 | 7855 | 663
-| exuberation | krisking | 66852000 | 7849 | 623
-| Arrogant | Shatt3rium | 59878575 | 7849 | 810
-| peace  | Umbrattv | 73904022 | 7843 | 597
-| Psilocybin | Aurora123 | 74134996 | 7828 | 769
-| Immortalize | IsmailDaBest | 58972035 | 7826 | 673
-| CompleX | LeocreatorX | 31456749 | 7813 | 943
-| nostalgic trip | Gresov | 60343966 | 7781 | 572
-| HYPERDYNAMIC | tayoshi | 87463205 | 7776 | 622
-| HYPERDYNAMIC | tayoshi | 87463205 | 7776 | 622
-| Adope II | truongwf | 65122159 | 7773 | 583
-| aver | FerkleN | 93025145 | 7772 | 884
-| TIL FURTHER NOTICE | Wentex | 93654940 | 7751 | 777
-| FERMZ | Laaseer | 69103697 | 7746 | 713
-| Desolation X | TheEvolution2 | 34555558 | 7729 | 820
-| Blue Sky | MadManga | 66328014 | 7716 | 557
-| Hane | Kirlian | 51106442 | 7713 | 870
-| Cheesy Zucchini | cooperishere | 90566259 | 7708 | 645
-| Cheesy Zucchini | cooperishere | 90566259 | 7708 | 645
-| enchanted memories | Xenvill | 87048468 | 7703 | 682
-| Antique memories | nyseoul | 67250174 | 7703 | 634
-| Warpspeed | IsmailDaBest | 56195114 | 7685 | 636
-| Omen Of Havoc | Ieann | 57783735 | 7684 | 644
-| A Town Called Home | artherr | 58970073 | 7678 | 1157
-| Elicit | DrCuber | 65685629 | 7676 | 564
-| grooooooooovy | fenk | 66224263 | 7665 | 913
-| Come Back | Tartofrez | 52572950 | 7651 | 1015
-| From Dust | PAHC | 77786803 | 7642 | 592
-| Saline Questions | Zeptrus | 66698836 | 7642 | 590
-| Rainy evening | Luvery | 69678494 | 7621 | 759
-| Tiles | 8BitFudge | 61897637 | 7611 | 577
-| Heart of Sol | Anya21 | 81247120 | 7604 | 943
-| Heart of Sol | Anya21 | 81247120 | 7604 | 943
-| Colorful space | Excellent567 | 90659590 | 7594 | 641
-| Colorful space | Excellent567 | 90659590 | 7594 | 641
-| Unnamed ci ne | ImSamo | 65659219 | 7592 | 592
-| A S D | Sendent | 73551374 | 7584 | 615
-| Cotton Candy | Kapelli | 89599741 | 7569 | 677
-| Atmospheric night | Xenvill | 90537591 | 7559 | 754
-| Ling | truongwf | 67013208 | 7559 | 539
-| Empyrean | suyre | 36771822 | 7552 | 670
-| Amplitude | Optonix | 39625635 | 7530 | 874
-| departure | j4sonpixelz | 60557126 | 7528 | 530
-| Land of the lost | Spxrrows | 92219919 | 7526 | 569
-| technical overdrive | Cyprix | 33453696 | 7525 | 884
-| CreaTivian | cronibet | 48390984 | 7519 | 793
-| Divance | TheGalaxyCat | 56982360 | 7516 | 474
-| Adrift | xenbez7 | 90250056 | 7482 | 709
-| Cyber Rave | Serpent | 89525054 | 7462 | 1155
-| frostcore | Carnitine | 92176130 | 7453 | 732
-| Around the Clouds | Pejuirange | 69467448 | 7434 | 670
-| Deceitful | Squall7 | 90853166 | 7430 | 760
-| charmeleon | aokuang | 38141062 | 7418 | 556
-| Starlaxian | J4R3D22 | 55200893 | 7413 | 566
-| Avid | Avod | 90313906 | 7403 | 664
-| Divine | WaRiox | 76689139 | 7390 | 1038
-| Sparkle | Elsig2002 | 52948470 | 7385 | 709
-| Weird Anomaly | DrimpGD | 103469613 | 7382 | 488
-| Elation | iNewD | 64713389 | 7374 | 747
-| Western VorteX | Pwohna | 95109514 | 7362 | 918
-| Plukaryotic | Igno | 34118281 | 7342 | 794
-| Reactor Meltdown | TropoGD | 82058289 | 7328 | 828
-| alnother  | VurviousD | 57309574 | 7327 | 514
-| M43LS7R0M | Lorri | 95554457 | 7323 | 609
-| Phlogiston | Kuuwote | 83075459 | 7315 | 603
-| Toxic Substance | emoR | 62185428 | 7315 | 587
-| DiDi | ThaMuffin | 93970665 | 7300 | 588
-| Kayania | LightStyles | 62051568 | 7272 | 678
-| no neon | Zhiana | 66120365 | 7256 | 645
-| Electrified | NGTofficial | 92526595 | 7248 | 672
-| Refraction | RainerOW | 75098955 | 7248 | 651
-| -time attack- | TheDevon | 14977425 | 7246 | 598
-| Magic Trip | Wilz | 56727105 | 7245 | 942
-| Electron | IPablinI | 57289148 | 7239 | 586
-| luminous shift | AcZor | 52144309 | 7233 | 1008
-| Dork Desh | kodex360 | 67103085 | 7193 | 728
-| CZSK | CrafGD | 57792061 | 7191 | 595
-| galaxify silly map | galaxifard | 90117998 | 7190 | 588
-| Viridescent | Farm | 44897974 | 7189 | 520
-| Crystal Clear | jihotv01 | 95022367 | 7187 | 678
-| Lightbringer | Spectr1X | 90187791 | 7181 | 737
-| Brave | HugoLA | 49077997 | 7171 | 760
-| Mermaid | slayerkirb | 88638074 | 7164 | 744
-| Hot adventures | Tinraz | 91335632 | 7159 | 538
-| Derana | yandaf | 67721449 | 7157 | 517
-| Derana | yandaf | 67721449 | 7157 | 517
-| Radio X | Hydronus | 56061752 | 7154 | 725
-| Take me Back | Stutes | 91944138 | 7149 | 528
-| Altered Theory | LaxHDz | 67128596 | 7143 | 429
-| supermode | Daewe | 93958258 | 7132 | 590
-| Mabbog Travel | Earthum | 78721544 | 7124 | 948
-| Sidra Futura | stinkyy | 40515336 | 7118 | 826
-| FEZT | sirDannygd | 101191390 | 7110 | 500
-| in a haze | Opcheeseburger | 65483467 | 7109 | 528
-| mind garden | shrympo | 77925015 | 7103 | 649
-| CarrotLand | Bertifys | 62925249 | 7102 | 755
-| Nyoom | Nezzieverse | 65489895 | 7096 | 600
-| Nyoom | Nezzieverse | 65489895 | 7096 | 600
-| The Almighty brekeke | CorroX | 57123014 | 7094 | 670
-| crimson rush | midas | 4077103 | 7078 | 845
-| the ghost | spitdash | 62489935 | 7071 | 485
-| Rosian | Pounix | 57192062 | 7071 | 682
-| Chromium Steel | TwisterDude161 | 67300940 | 7067 | 637
-| Umbra is Dead | Umbraleviathan | 90490849 | 7063 | 738
-| Umbra is Dead | Umbraleviathan | 90490849 | 7063 | 738
-| Glesgorv | fxrty | 78673872 | 7058 | 591
-| Rainbow Bounce  | Cypherr | 73953889 | 7051 | 611
-| Attain | AlbertoG | 54881759 | 7049 | 719
-| Lithius | agdor | 53856056 | 7044 | 710
-| Stellar black | Shaday | 96965656 | 7043 | 520
-| Cancant | rply | 81742457 | 7031 | 478
-| Bipolar level | ImAkKo | 77911722 | 7006 | 687
-| Time Exists | felixitron | 67019340 | 7006 | 657
-| Atmosphere  | Xavionn | 61817952 | 7004 | 559
-| golf storm | Tostone74 | 88719164 | 6982 | 736
-| Iro | SebiByte | 93907414 | 6964 | 850
-| Nowhere | SirWafel | 71413577 | 6956 | 608
-| Melodic | EliNox  | 65329291 | 6947 | 590
-| Summer Days | Hyenaedon | 34699457 | 6924 | 689
-| Spark les | 01NENE | 84775721 | 6923 | 457
-| Chips Ahoy | IronDofus435 | 32495094 | 6922 | 532
-| Frozen Catacombs | Krimtow | 98843585 | 6901 | 517
-| Optimistic Groove | Hychie | 76072167 | 6900 | 671
-| Achete des Galaxie | ZunEGD | 65718164 | 6897 | 641
-| Tsukasa Dancing | GDSkele | 73051057 | 6894 | 424
-| Galactic Area | SasaLvk | 52736135 | 6875 | 720
-| Porte Aperte | SirDany | 95375310 | 6825 | 883
-| Wish in the Dark | Anya21 | 66852940 | 6822 | 530
-| feelings | Gabewb | 66257715 | 6817 | 582
-| Splivasion | KervyIsGoop | 89061330 | 6815 | 573
-| Ancient District | Edooox | 68304365 | 6806 | 851
-| Barely Holdin On | Vexes7 | 94064374 | 6797 | 774
-| Hope | iDancre | 66883865 | 6783 | 709
-| skialice |  alecast | 29395929 | 6775 | 623
-| dazzling time | pyshoGD | 62528269 | 6767 | 548
-| 11th Elevator Floor | LP44 | 52461162 | 6765 | 544
-| Ghosts N Ghourls | SkullyHop | 95463585 | 6763 | 644
-| Cosmic Solitary | zim | 40972491 | 6761 | 908
-| RNN TMPLE | Interestex | 92746279 | 6748 | 745
-| The Ascension | Carnitine | 85181037 | 6742 | 595
-| DONT SMOKE | Brighty | 79633185 | 6740 | 579
-| Tranquil | Tahsen | 60724706 | 6712 | 657
-| Shibuya Rush | nove00 | 84837652 | 6711 | 603
-| RedOx | Umylten | 91483363 | 6703 | 474
-| Virtual Dream | adelrocky | 60861448 | 6700 | 446
-| Never Left | ImMantaa | 62952328 | 6658 | 425
-| Abyssal Force  | CarterN2000 | 24757851 | 6654 | 557
-| No Exit Orion | Koishite | 90435817 | 6645 | 665
-| Confirmed | Wodka | 61853887 | 6631 | 586
-| Future Town | RoseGolds | 54682215 | 6630 | 644
-| Emadheus | Emadeus | 56793617 | 6622 | 493
-| Splendore | AnLa | 64578286 | 6619 | 642
-| another universe | Mmath | 66837252 | 6600 | 456
-| Depressive | mvngos | 47233420 | 6598 | 648
-| PARADOX DETECTED | Lightning78 | 80285954 | 6588 | 691
-| Omnizm | SpaceyGD | 72206073 | 6587 | 473
-| Inside | AnnieHer | 76712115 | 6582 | 547
-| Antropy | preezee | 69860236 | 6575 | 612
-| Angel | KrazyKako9 | 89587836 | 6573 | 539
-| Angel | KrazyKako9 | 89587836 | 6573 | 539
-| Speculative | llj | 63245274 | 6561 | 596
-| Rebirth | realwhata | 73572293 | 6556 | 705
-| Frisson | Furiga | 90835924 | 6551 | 596
-| Celestial Glare | iZeo | 89923057 | 6548 | 825
-| Beyond | Simwamwi | 90474754 | 6544 | 626
-| Purple Palace | Moffe | 65657644 | 6524 | 454
-| 50 Degrees Hotter | TheLasaga | 70000033 | 6510 | 508
-| Dawn Dusk | xPix3lest | 41882043 | 6500 | 863
-| Cane Swagger | Met3o | 62934446 | 6499 | 470
-| Rockstar | IAndreiVI | 66525410 | 6493 | 452
-| Rockstar | IAndreiVI | 66525410 | 6493 | 452
-| Colorful Love | Lovarii | 22063345 | 6489 | 885
-| The Ballroom Blitz | Serpentus | 90060281 | 6482 | 563
-| The Ballroom Blitz | Serpentus | 90060281 | 6482 | 563
-| Nebula | Megantwoo | 34510955 | 6481 | 532
-| Jamais Vu | MasterKilipot | 88930836 | 6477 | 530
-| Color Intelligence | amixam | 56430424 | 6471 | 669
-| HimZavod | MrMystik | 92765270 | 6465 | 566
-| Mallard | opry | 92345231 | 6465 | 525
-| Radiant | ZiMkIl | 38037910 | 6462 | 843
-| A Good Cappuccino | artherr | 57056738 | 6445 | 675
-| Melting | Vizitek | 77695825 | 6439 | 525
-| Lucid  | VenomY | 73612614 | 6439 | 656
-| DISTRICT | twee | 62202422 | 6439 | 619
-| Endurance | Lake | 49176860 | 6425 | 708
-| Wonder Things | Aleiz21 | 54475646 | 6423 | 634
-| evolution | Cyutee | 93632933 | 6417 | 644
-| Companions Demise | TheNoWeeker | 91406756 | 6403 | 542
-| Boomer Hotline | Hypno74 | 63705062 | 6389 | 586
-| Feature Moment | Krimp77 | 70255765 | 6388 | 687
-| Namalicius | Netligob | 63335551 | 6380 | 709
-| Sirock | Rabochy | 80956337 | 6364 | 662
-| ReFlex | KuraiYonaka | 54430805 | 6342 | 676
-| The Frostbite | realtheo | 49672045 | 6336 | 589
-| DeniPol IV | VadriX | 57620278 | 6335 | 477
-| okay again | AnddyVM | 101876191 | 6331 | 425
-| Ephiphany | Hann | 40305659 | 6317 | 608
-| Aggelos | Mineber | 45557732 | 6288 | 539
-| Flutter | Optation | 50366925 | 6276 | 784
-| InterFALL | WWWWWWMWWWWWWWW | 46671218 | 6258 | 669
-| Atomic Tantrum | gloogobblin | 37199942 | 6244 | 518
-| Technos Space | Relcet | 47117706 | 6241 | 564
-| Neondi Ma | ImSamo | 58427902 | 6209 | 517
-| Everlasting Memories | DaFinn | 66924435 | 6204 | 524
-| Shackles | InsaneJohnson | 49535786 | 6189 | 639
-| Ancient Energy | ArmiGD | 66867032 | 6184 | 524
-| Dysmorphiac | Pitone | 37312221 | 6171 | 951
-| Parloth II | VrageraGD | 61738883 | 6170 | 585
-| GARDEN | Asthae | 90428589 | 6132 | 774
-| Unnamed Ci Hej | ZiTron | 73912340 | 6112 | 696
-| Envision | RayOriens | 27890344 | 6104 | 588
-| The Wall Of Sorrow | LP44 | 59318603 | 6092 | 564
-| Iris Rays | agate | 68567221 | 6077 | 473
-| ColorinY | Itocp | 50706951 | 6068 | 653
-| Deep sea | FlUntGD | 90021057 | 6065 | 541
-| AzuL | HertyGD | 82343600 | 6063 | 681
-| AzuL | HertyGD | 82343600 | 6063 | 681
-| Dreams V | Katrie | 57164211 | 6052 | 621
-| Filtiarn | Arakaki | 55774786 | 6049 | 541
-| secured | R4y4 | 58950198 | 6045 | 403
-| Fusion Bolt | Df0rDie | 50239325 | 6043 | 617
-| Path To Heaven | TheGalaxyCat | 57896991 | 6042 | 485
-| origins | ChristianNOTm | 73574644 | 6033 | 539
-| Rivalsa | IShardI | 68164238 | 6030 | 555
-| Rivalsa | IShardI | 68164238 | 6030 | 555
-| Darada | Melissagmd | 78689861 | 6020 | 881
-| Space Colours | frogyfrogfood | 101898505 | 6004 | 363
-| Mystical Lights | TheUnholyToast | 70318008 | 6001 | 595
-| Goodbye Kotto | ZherGhaL | 91196900 | 5964 | 457
-| Goodbye Kotto | ZherGhaL | 91196900 | 5964 | 457
-| Black and White | NoBann | 91814154 | 5960 | 705
-| Temp0 | GETZUCCED | 40442303 | 5947 | 423
-| dont forget memories | stefanos2004 | 94327408 | 5936 | 529
-| briskly | TinyXD | 89793361 | 5932 | 585
-| Apparatus | iopoe | 90436898 | 5921 | 524
-| Lost in Thoughts | Tygrysek | 77801540 | 5910 | 458
-| ZeeToss | Suwiwit | 60806329 | 5910 | 670
-| Friendless | RobhilL | 35453632 | 5904 | 477
-| Interstellar | Annon | 37637055 | 5898 | 535
-| Drone Invaders | VaLe05 | 92438451 | 5895 | 577
-| Vibrant | Tabib | 63672600 | 5877 | 510
-| Spoooooooky Night | Sebasthian60 | 95818238 | 5874 | 579
-| Moun | RayZ0n | 60720142 | 5866 | 447
-| Fire | SadboylmaO | 91075881 | 5862 | 492
-| Bardor | PytekGD | 57800087 | 5857 | 561
-| Outta Space | TinyGG | 34576713 | 5847 | 695
-| Shuttle IV | Atimistic | 49596405 | 5839 | 516
-| Over | 14Circles | 19063400 | 5821 | 453
-| MazRa  | RavenVN | 62731618 | 5811 | 447
-| PaintScape | Zomore | 94859038 | 5808 | 583
-| Digital Reverie | cyanog3n | 27640487 | 5799 | 814
-| Quiescent | Eridani | 56263079 | 5784 | 557
-| Surge | Taniyaun | 15216118 | 5781 | 523
-| WaaH | Supacruncha | 90494090 | 5780 | 548
-| elbow grease | Twistaah | 82602059 | 5745 | 603
-| Asperio | XanN | 50164651 | 5745 | 597
-| Ancient Dimension | Rishie | 57213641 | 5728 | 651
-| Striker Central | Aurantius | 94619785 | 5725 | 467
-| Spectral | xThomasMP | 45615719 | 5724 | 956
-| Tarragon | MisterBean | 78456966 | 5690 | 441
-| Tarragon | MisterBean | 78456966 | 5690 | 441
-| norbi apartamenty | jneh | 79643543 | 5671 | 583
-| norbi apartamenty | jneh | 79643543 | 5671 | 583
-| Antic | GenepyReinn | 70972180 | 5661 | 711
-| The Enchanted Forest | LewinGD | 69234371 | 5656 | 610
-| Hazmick | EnenzoGD | 90050328 | 5642 | 627
-| Hazmick | EnenzoGD | 90050328 | 5642 | 627
-| LakSana | Zerenity | 61047604 | 5635 | 576
-| Divergence | Cyclepeidia | 66440254 | 5631 | 545
-| Marble | s3tik | 101576849 | 5625 | 322
-| Hallway | imKalium | 72234423 | 5625 | 579
-| powerflame | Zecret | 42349829 | 5620 | 528
-| Polaroid | SES | 63697903 | 5616 | 458
-| Contemporary | llj | 79445314 | 5603 | 642
-| Contemporary | llj | 79445314 | 5603 | 642
-| Factorio | Sl4nixGDD | 97309869 | 5602 | 276
-| Spectrum Rift | AAAAAlex | 65699616 | 5588 | 484
-| simple harmony | iMela | 68892368 | 5578 | 584
-| Acceptance | Nunet | 48678973 | 5577 | 595
-| THE FCTRY | Shrip | 80620501 | 5571 | 498
-| THE FCTRY | Shrip | 80620501 | 5571 | 498
-| THE FCTRY | Shrip | 80620501 | 5571 | 498
-| galaxify goofy map | galaxifard | 89569999 | 5556 | 530
-| Before Alternate | FunnyNeryGD | 76626002 | 5555 | 561
-| HyperBlaster | VeltX74 | 78492763 | 5510 | 493
-| AUGMENT | ZooxerYt | 94931003 | 5501 | 601
-| 191919 | Kaii07 | 52776917 | 5501 | 523
-| luminous | L1X3Y | 60520745 | 5500 | 526
-| Sewayaki | wushyx | 65344487 | 5485 | 726
-| Beyond the Stars | iMaT | 64522479 | 5451 | 441
-| Keep Lovely | DokyG | 58306443 | 5405 | 498
-| Ethereal | BowtieGD | 70516299 | 5404 | 537
-| BrainETR V | Moffer | 103379575 | 5384 | 510
-| v9Lt | DTMaster09 | 57186520 | 5377 | 413
-| Retaliate | R4NGER | 56330677 | 5369 | 524
-| Neutron | GeonoxGD | 57295914 | 5327 | 562
-| delighted | vrdr | 103239852 | 5318 | 532
-| WibuItuDosa | INVU | 78806022 | 5311 | 477
-| WibuItuDosa | INVU | 78806022 | 5311 | 477
-| Tempest Temple | Umbraleviathan | 94067793 | 5297 | 470
-| Alteration | Gtnaon8 | 94808350 | 5289 | 778
-| Saudade II | Krimp77 | 63766776 | 5276 | 532
-| Summit | EpiX07 | 93606444 | 5269 | 480
-| Lepidoptera Night | EnderNile8182 | 62854521 | 5239 | 546
-| Crystallic Ecstasy | OutGuard | 58385507 | 5226 | 467
-| Everithing | NewDubsC | 50817001 | 5221 | 551
-| TheSeal | vened | 88445726 | 5214 | 427
-| Dreams | wushyx | 62997784 | 5189 | 607
-| Cryolite | Jinnans | 66107072 | 5188 | 462
-| Ergosphere | Ieann | 45033623 | 5171 | 430
-| hifinyo | Rullstol | 76761850 | 5111 | 466
-| Eclectic Mashup | Etta | 65962528 | 5090 | 487
-| funky funky wonky | QuazeryIceCube | 86226805 | 5080 | 458
-| Grimorian | Emadeus | 57485159 | 5056 | 455
-| THRONE | dydals000708 | 79552293 | 5037 | 532
-| THRONE | dydals000708 | 79552293 | 5037 | 532
-| Chroma Seraph | Cuneyt | 94528545 | 5015 | 507
-| floxMi | V9LT | 62815842 | 5004 | 422
-| strength | HissY189 | 64891790 | 4993 | 585
-| Sand | twigxcabaret | 77862727 | 4987 | 445
-| Fission | CoolG2007 | 80397224 | 4940 | 374
-| Fission | CoolG2007 | 80397224 | 4940 | 374
-| Fission | CoolG2007 | 80397224 | 4940 | 374
-| revolta | CatioGD | 79580761 | 4937 | 433
-| White Box | Fracta | 93996274 | 4881 | 505
-| Oneiro | DiaGram | 65549836 | 4872 | 492
-| SequencE | MaykollGD | 57655085 | 4745 | 445
-| Aurora light | YukiMasterGD | 89090855 | 4743 | 564
-| recovery | witbyy | 56975717 | 4725 | 512
-| Lucifent | Falldownstairs | 76198807 | 4710 | 443
-| Deltastrike | Awzer  | 49911003 | 4670 | 479
-| Empty Matter | funkopop | 94952835 | 4648 | 507
-| Dear N IV | ShootingCat | 91899690 | 4595 | 507
-| jadhul | Alfian10 | 56842662 | 4586 | 425
-| Break Edge | DarkrozzGD | 57872319 | 4583 | 415
-| Going Up | TerrenceGdPlays | 92527165 | 4538 | 497
-| Energy | Bashfu1 | 43557835 | 4467 | 470
-| voics  | Kspa | 91174298 | 4459 | 588
-| Glow Up | Interferent | 79201271 | 4410 | 427
-| Convenient  | jneh | 57125929 | 4409 | 492
-| Rid Essence | ArmosoS01 | 84339221 | 4401 | 343
-| alixiona | iFuriFin | 74999997 | 4265 | 397
-| Up Straight Down | aiden1204 | 93098066 | 4237 | 565
-| Dream Journey | AzroHet | 91264621 | 4205 | 402
-| Under Delight | ThunderBat | 78701193 | 3945 | 436
-| Molten heart | Cmj05 | 92382936 | 3702 | 368
+| dinosaur | alkali | 29519341 | 33666630 | 1696725
+| Unity | TriAxis | 12057578 | 31472188 | 1843865
+| Ghoul | DesTicY | 44121158 | 31371989 | 1026424
+| FLAPPY BIRD | TheRealDarnoc | 187254 | 21876015 | 887286
+| Tetrix | Insendium | 3010126 | 15606258 | 892326
+| dorabaebasic10 | DORABAE | 10125163 | 13480288 | 796755
+| Robtop Level Mix | Sir Heis | 11698380 | 13377357 | 771259
+| Cant let go v2 | IIINePtunEIII | 79275 | 12706274 | 542892
+| Jumper v2 | IIINePtunEIII | 87960 | 12109748 | 491045
+| Theory Of Theory | Sumsar | 1566116 | 10950042 | 387731
+| OMG ALIENS | Danzmen | 41736289 | 10137618 | 623368
+| ToE 2017 | GD Jose | 31372254 | 8462636 | 455673
+| The Magma Caverns | nasgubb | 11398172 | 6786161 | 428793
+| Clutterfunk Remix | - | 169590 | 6693587 | 334635
+| The Creator | caio2000 | 50007109 | 6649174 | 564384
+| Lunar Abyss | iIFrostIi | 28806662 | 6619707 | 400188
+| Clash | TheRealDarnoc | 269500 | 6001738 | 262754
+| La Campanella | FunnyGame | 3757912 | 5914350 | 397701
+| Time Machine v2 | IIINePtunEIII | 116806 | 5817949 | 289094
+| Cycles v2 R | IIINePtunEIII | 278956 | 5533796 | 288295
+| Cronos Fantasy | FunnyGame | 821459 | 5419561 | 329089
+| Luminoso | ViPriN | 1350389 | 5370489 | 258982
+| Tetris zone | Experience D | 827829 | 5107952 | 241359
+| ElectroGate | ZenthicAlpha | 1100161 | 4886872 | 233485
+| Wave Wave | TheRealDarnoc | 1796207 | 4775660 | 125099
+| nitrosphere | alkali | 34699785 | 4773179 | 308433
+| system out | RealKamijo | 946020 | 4610732 | 217894
+| Very hard CLG | FunnyGame | 49229 | 4604465 | 251004
+| Into the deep | ZenthicAlpha | 1267316 | 4490608 | 238940
+| Time Machine x3 | KriticK | 882417 | 4009917 | 232002
+| Heptagon Force | Sumsar | 1724579 | 3969662 | 214280
+| Electro DarnoX | Baskerville | 1215630 | 3955322 | 211900
+| Electric Freeze | TheRealDarnoc | 461472 | 3925522 | 209290
+| Blast Processing v2 | IIINePtunEIII | 2899139 | 3834350 | 201479
+| Hexagon Adventure | SMBlacktime | 1670283 | 3691918 | 207923
+| ErrorFunk | Lyod | 516810 | 3507007 | 207043
+| Polargeist HD | VENZA | 329929 | 3480563 | 175304
+| Hexagon Force V2 | Findexi | 1799065 | 3429780 | 190205
+| Hahaha Normal Map | RealHaHaHa | 457265 | 3350815 | 203710
+| The Split | Serponge | 28636863 | 3338272 | 250205
+| Nexus | ViPriN | 11360630 | 3321333 | 184076
+| Funky Cave | Gelt | 1728550 | 3225456 | 178960
+| Funky Dice | MrCheeseTigrr | 708901 | 3139233 | 179102
+| Royal Sky | FunnyGame | 664044 | 3112314 | 195756
+| Made in vuosaari | - | 471354 | 3100588 | 234079
+| Encore | ViPriN | 1205277 | 3000002 | 176952
+| Hyper ice Jumper | Lyod | 456675 | 2918851 | 161667
+| meteor force | Bronks | 24820596 | 2867771 | 255828
+| Three Step | ViPriN | 3161712 | 2767625 | 232397
+| Electroman 2017 | GD Jose | 27027024 | 2754935 | 193587
+| Clutterfunk 2017 | GD Jose | 35418030 | 2678067 | 158789
+| flappy bird demons | RealKamijo | 651738 | 2675509 | 120155
+| Checkmate | FunnyGame | 1447246 | 2671615 | 170338
+| Corrupted Kingdom | BlazeJcy | 857195 | 2650229 | 144360
+| Zenith | Jabbagrullo | 1311773 | 2640907 | 164082
+| Final Step | TheRealDarnoc | 340602 | 2635693 | 154270
+| Silhouette  | RealZober | 37634067 | 2625092 | 173174
+| Mystic Jumper | TheRealDarnoc | 745177 | 2587469 | 173858
+| Theory of Relativity | VENZA | 188909 | 2488134 | 131713
+| Mathymbol Alpha | ZenthicAlpha | 692596 | 2472231 | 190712
+| Dream | TheRealDarnoc | 1132530 | 2414946 | 159750
+| Monster Mischief | MrKoolTrix | 42843431 | 2403701 | 216172
+| Speed Blaster | ZenthicAlpha | 8134957 | 2384275 | 169378
+| Breakthrough | ZenthicAlpha | 884256 | 2351581 | 141921
+| FingerDash76 | KaiDashK76 | 29198721 | 2348055 | 91931
+| Anteroom | Nico99 | 41411342 | 2346849 | 165022
+| FingerCrash | Noriega | 28784493 | 2328632 | 128186
+| Scene Machine | TheRealDarnoc | 687938 | 2308926 | 139094
+| Gravity Cycles | Terminus M | 551979 | 2300831 | 133874
+| Bloodbath but no | Texic | 64968478 | 2126858 | 138220
+| Dimensional Shift | Lyod | 1683722 | 2016972 | 144476
+| Tyrian wall | Jabbagrullo | 804313 | 2003423 | 131879
+| UFO Dominator | ZelLink | 12756371 | 1973325 | 69531
+| Shuriken | Ferdefunky | 43923301 | 1930120 | 157664
+| Granite | rafer | 31993928 | 1878433 | 159752
+| phosphenes | piramidka | 36062234 | 1874652 | 125083
+| AlterGame XIV | Serponge | 29812998 | 1870728 | 122341
+| Predator | Samoht | 43537990 | 1828040 | 135065
+| Schiarendo | Usermatt18 | 31432270 | 1819590 | 150543
+| High Life | Migueword | 11849346 | 1810248 | 130266
+| FLAPPY BIRDS | DzRAS | 934438 | 1793288 | 100983
+| Hexagon Force 2016 | GD Jose | 25321905 | 1784472 | 128170
+| Caramel | LeocreatorX | 33115476 | 1768158 | 144094
+| ColorShine | enlex | 31298966 | 1750992 | 135016
+| HellGate Menace | ChaSe | 44131636 | 1681780 | 135491
+| Aglais | enlex | 34962227 | 1634620 | 127865
+| Robotic Nightmares | ViPriN | 2943060 | 1560207 | 106226
+| Mechanism | haoN | 44063088 | 1557510 | 163959
+| AfterForce | ViPriN | 10463007 | 1491577 | 135140
+| dorabaedifficult3 | DORABAE | 1998603 | 1475137 | 69594
+| Thought Process | wlfn | 30315888 | 1412234 | 134907
+| Acceleration | TamaN | 17822925 | 1360154 | 159242
+| Impavido | doritos1 | 73347997 | 1346415 | 79102
+| dorabaedifficult | DORABAE | 584615 | 1313860 | 65455
+| Zwap | Thomartin | 32827297 | 1271015 | 102538
+| The Nightmare v2 | - | 844293 | 1251027 | 53547
+| Nightcore | Tinymanx | 9032320 | 1237501 | 88104
+| Troll After Troll | Defectum | 1380050 | 1234633 | 23053
+| Dastardly | Subwoofer | 97454812 | 1226877 | 123272
+| Slimy | distortt | 41338463 | 1145350 | 66756
+| Cataclysm | CRSR | 28529763 | 1144515 | 62527
+| Final Battle | Findexi | 7511382 | 1138340 | 94090
+| Immersive  | Korita | 37489485 | 1129274 | 78766
+| Ultimate Level Mix | RealSoulDash | 3140440 | 1109060 | 104721
+| monstrum | ZenthicAlpha | 29082822 | 1108612 | 87280
+| SUPER GD GEM HUNT 64 | Colon | 98076904 | 1105197 | 61271
+| Ginseng | TamaN | 12932830 | 1085777 | 120108
+| Rectangle | Knots | 80270709 | 1042877 | 68836
+| Munchy Caverns | JacobROso | 23354184 | 1024312 | 77045
+| 60 Seconds | Sumsar | 21370564 | 1018340 | 65849
+| Press Start V | DepisH16 | 71554572 | 1009808 | 41864
+| ColorFul Game | Hahaha | 3581204 | 985181 | 84297
+| Kirbys Adventure | Jovc | 32676971 | 978243 | 91503
+| Blacklights | TheRealDarnoc | 29165461 | 977321 | 75173
+| Sky Striker | Chlorines | 36413297 | 964601 | 75713
+| dorabae jumping zone | DORABAE | 444823 | 919654 | 47675
+| Infinite Power | Optonix | 13123203 | 893615 | 74396
+| Level Up | ViPriN | 3890675 | 890444 | 79208
+| flappy bird | DzRAS | 1372582 | 890313 | 45410
+| Theory Of Every Mix | SUOMI | 4376468 | 876325 | 84478
+| Anbu | MistFix | 38685580 | 868110 | 73658
+| Blast Processing V2 | Findexi | 3181935 | 861968 | 49939
+| NanoByte | TriAxis | 16662049 | 861489 | 89323
+| Computer Talk | 1374 | 60621991 | 842408 | 80076
+| Work Dash | Jinta22 | 85908474 | 831435 | 61135
+| Work Dash | Jinta22 | 85908474 | 831435 | 61135
+| Fracture | Namtar | 6573748 | 828986 | 53982
+| Star Jumper | ViPriN | 8711878 | 798315 | 63590
+| Crystalized Rebirth | nikiy0 | 80829064 | 784507 | 61796
+| Sad Machine | TamaN | 21927333 | 779226 | 80485
+| UFO Research Park | ZelLink | 4877117 | 773683 | 30206
+| The Nightmare 2019 | BranSilver | 53601704 | 765608 | 44870
+| PLANET X | Arb | 83325083 | 758905 | 63747
+| PLANET X | Arb | 83325083 | 758905 | 63747
+| PLANET X | Arb | 83325083 | 758905 | 63747
+| solar era | alkali | 37154749 | 747666 | 68153
+| Sunshine Shrine | gecko0 | 57010547 | 744826 | 15869
+| Asterose | goose | 44525497 | 737799 | 57962
+| Forever Bound | BobRatchet | 22123698 | 733139 | 83431
+| the nightmare 2019 | alkali | 54746779 | 720476 | 35058
+| Refresh | DesTicY | 38459797 | 718744 | 58910
+| Hexagon force v1 | Chevere | 1653915 | 715418 | 55414
+| Amnesia | ZenthicAlpha | 4872295 | 710797 | 70514
+| Rhythm | 1u49 | 68117911 | 709262 | 48439
+| automation  | AirForce | 13150605 | 698669 | 38960
+| zone pirate ii | Wilz | 95778773 | 694838 | 59903
+| UwU | DHaner | 51547268 | 677094 | 50430
+| PAINt III | stubbypinata | 31269463 | 677054 | 54233
+| ExplorerS | iMinAY | 57577339 | 666642 | 22301
+| Neverending sky | JustPotatoNow | 98747150 | 665248 | 43572
+| New Energy | ViPriN | 8627394 | 664172 | 65585
+| Livewire | Kozu44 | 31320481 | 663310 | 62988
+| xStep v2 rebirth | FunnyGame | 898263 | 660310 | 29203
+| BitterSweet | ChaSe | 15800054 | 659684 | 55723
+| water droplets | goose | 18974467 | 658936 | 67633
+| Catharsis | Gravii | 33564671 | 653201 | 63816
+| Drift | G4lvatron | 17759639 | 651819 | 67034
+| Dash | ItsMeAnxiiety | 13502494 | 640509 | 27853
+| Kiru ra Kiru | TriAxis | 18111424 | 637688 | 68316
+| UNDERWORLD | Presta | 78878411 | 635800 | 50029
+| Seasonal Haven | AbstractDark | 90475597 | 635573 | 66499
+| Insalium | Colxic | 36679587 | 634668 | 38399
+| Plants VS Zombies | GDvesuvius | 72128413 | 634634 | 37689
+| UFO Force | ZelLink | 4128177 | 628479 | 16270
+| Lucid Flashback | X1RON | 71447812 | 626134 | 57654
+| geometrical domi v2 | Iid4sh3riI | 11113225 | 619752 | 45513
+| Pepsi | ValkyrieMaster | 63165412 | 616199 | 51894
+| One day | Jax | 1127183 | 611335 | 25004
+| Press Start IV | DepisH16 | 64199783 | 609224 | 22602
+| Vital | theGoT | 69995845 | 604271 | 28768
+| Technofunk | irsdorkage | 94962842 | 603097 | 44246
+| Storm | Wav | 71260164 | 600874 | 39563
+| Monsters | Nikce | 95536714 | 599589 | 62186
+| Prince of Darkness | Adriam71 | 93234425 | 598422 | 54525
+| Cosmic Brownie | Usermatt18 | 37332957 | 598187 | 51603
+| Hydrux | Nikce | 84330334 | 594945 | 35411
+| Hydrux | Nikce | 84330334 | 594945 | 35411
+| ToE Mix v2 | SUOMI | 13321643 | 591656 | 37699
+| Fast as Lightning | Rabbitical | 4254263 | 589102 | 56259
+| The Gungeon | MattewGame | 100995750 | 577397 | 58884
+| Robotic Night | Debihan | 95490170 | 573464 | 39691
+| BadLand | MrCheeseTigrr | 606179 | 568841 | 12912
+| Despicable XX | VRTGq | 76142451 | 561377 | 40824
+| Viridian | Hyenaedon | 95445613 | 561298 | 24930
+| Crimson Devilworks | SparksOmega | 71150917 | 560089 | 27624
+| Fairy Dreams | shaggy23 | 32218629 | 557644 | 44928
+| Meow Party  | Adiale | 22443093 | 556821 | 62786
+| The Backrooms | TheRealPepsiMan | 101102438 | 556208 | 53731
+| Fugacious | IIAnubisI | 72807604 | 555532 | 43789
+| RUN | Cdpre | 78353144 | 550782 | 54855
+| Eight | Leksitoo | 24522597 | 547076 | 33166
+| Echo | noobas | 7450254 | 545234 | 59544
+| Flappy Bird remix | The Carrot | 601365 | 538878 | -11665
+| AfterProcess | ViPriN | 7185933 | 535708 | 58833
+| Wild Card | Thomartin | 90471222 | 535618 | 51392
+| Ignite | MrLorenzo | 31844856 | 532518 | 49629
+| Moonlight | 1u49 | 64854861 | 529133 | 23508
+| Nostalgia | Jeyzor | 12251114 | 527889 | 60467
+| Wake Up | Mulpan | 29096428 | 527114 | 48834
+| The Catacombs | ItzKiba | 99001776 | 526651 | 26286
+| Power | Small | 48999939 | 519761 | 51994
+| Level Mix | Jeyzor | 1249219 | 510672 | 38765
+| UFOman adventures | ZelLink | 2538350 | 507138 | 17880
+| Broken Calendar | stratos2596 | 55627631 | 504889 | 33951
+| Flappy Cyber | ZelLink | 1699986 | 504339 | 25255
+| Multiverse | Darixen | 86784446 | 503872 | 29114
+| black powder | vrdr | 96609002 | 503463 | 46022
+| Ludicrous Speed | Leksitoo | 11655811 | 503288 | 46026
+| OTHERSIDE | ChrySpy | 101850565 | 499581 | 34920
+| Sciophobia | RealZober | 40569028 | 492289 | 43350
+| mayonnaise cave | noobas | 6511152 | 480243 | 51721
+| 1337 | JerkRat | 96258005 | 477450 | 33770
+| Decent | SylntNyt | 56367479 | 476756 | 49992
+| Awaken | BitZel | 81295683 | 476651 | 36563
+| Mechanical Fury | Noctaliium | 32724645 | 472356 | 48225
+| Intense Adrenaline | ChuchitoDomin | 80485221 | 471937 | 46051
+| Final Boss II | RoyalP | 56483712 | 468823 | 33227
+| Gyrophare | Ellisha | 84494316 | 468486 | 26156
+| Gyrophare | Ellisha | 84494316 | 468486 | 26156
+| Flaklypa | ViPriN | 3811662 | 466665 | 47033
+| Summer Winter | Booglee | 98893353 | 463465 | 39356
+| Dank Pursuit | Adiale | 25336017 | 463173 | 47234
+| Transform | Usermatt18 | 24259998 | 461273 | 48034
+| Dr Pepper | Maroplay | 93182527 | 460657 | 36141
+| Alien Invasion | khenomy | 92370498 | 459958 | 37849
+| Citadel Climb | imbaz | 97627452 | 459768 | 36213
+| New clubstep | Experience D | 5368033 | 456858 | 33642
+| Game | Frama | 92843423 | 455849 | 45816
+| TouchArcade | Acors | 30822982 | 452267 | 41950
+| PixelPath | AwiXan | 98003931 | 452056 | 32983
+| invisible xstep | BlackP2sFull | 450070 | 450548 | 33407
+| Hologram | FunnyGame | 2541506 | 447988 | 36165
+| wandering in space  | doritos1 | 77780116 | 446947 | 33733
+| Chaoz Grandium | Temptati0N | 59130284 | 445787 | 35212
+| Kill la Kill | M3nhHu3 | 20192708 | 445582 | 59327
+| Creator | Turtle2107 | 13000392 | 440165 | 34751
+| Yoinky Sploinky | NukeIIX | 78103113 | 438363 | 29801
+| Balisong | Zeniux | 95762764 | 437631 | 36091
+| Blu | Nicki1202 | 58915395 | 436439 | 32349
+| Easy and Hard | TheRealDarnoc | 63419 | 434686 | 17232
+| Fusion palace | Experience D | 11822091 | 434080 | 45940
+| Dark Paradox | SaabS | 48695322 | 431512 | 39407
+| Great White North | Whirl | 83325036 | 431402 | 57931
+| Great White North | Whirl | 83325036 | 431402 | 57931
+| Troll Out | Defectum | 1291923 | 430671 | 7814
+| Controllable | AndrixGD | 95750592 | 427939 | 28023
+| Burnout | Wav | 67839652 | 425105 | 22529
+| Twoby Level | PAHC | 100271781 | 424664 | 21468
+| Swagger | Puueds | 93358704 | 424400 | 35946
+| BREAKAWAY | KMJFIRE | 91967003 | 423490 | 37894
+| Tumble Jungle | nikroplays | 99103470 | 422649 | 25047
+| Theodore | JCooch | 79343278 | 420321 | 14435
+| Evant | ILRELL | 29536842 | 418888 | 36568
+| Dimensional | Nemsy | 71950911 | 418369 | 33071
+| MattTacc | johdanlop | 95209297 | 417724 | 35159
+| Summary | Danolex | 40604036 | 416540 | 43244
+| Deep Breath | DepisH16 | 75151404 | 413954 | 20946
+| Robot Uprising | Ficelo | 93873604 | 411998 | 26361
+| Fantastic | xVainaja | 84605374 | 411627 | 20895
+| Fantastic | xVainaja | 84605374 | 411627 | 20895
+| ElectroBonkers | TrickyBonkers | 93761830 | 411481 | 37370
+| Funk That | Dragaconic | 93185323 | 407103 | 48254
+| Ronin | Jezzel | 73631611 | 406296 | 30551
+| Monster | Destriv | 50523840 | 405919 | 30182
+| Recalibrate | iZinaD4sh | 22383532 | 405352 | 37268
+| Wyvern | velvetsune | 75781732 | 404693 | 23532
+| Digitalism | doritos1 | 66661777 | 403141 | 33922
+| Innervision | nampac | 50705114 | 401293 | 34446
+| zero angel | bunch | 80153956 | 400925 | 32648
+| IONIC | Bpi | 89659331 | 398460 | 30004
+| Demonfunk | Leksitoo | 17363987 | 398125 | 24694
+| Restart | Markyforce | 91541327 | 397481 | 31270
+| Count to Twenty | Zoroa | 57106915 | 397367 | 38623
+| Finnish Breakfast | BuiltInMacro | 79485177 | 395895 | 33632
+| Finnish Breakfast | BuiltInMacro | 79485177 | 395895 | 33632
+| Variant | Bizaare | 68799704 | 395738 | 22877
+| Trigger Finger | RHYTHMMASTER | 82528566 | 394645 | 50032
+| Trigger Finger | RHYTHMMASTER | 82528566 | 394645 | 50032
+| Glowy Nights | Cesardavid21GD | 87694939 | 394028 | 24494
+| Blast ReProcessing | Codex | 29359391 | 392985 | 30861
+| DILLYBARBASIC | NukeIIX | 85281294 | 392633 | 30554
+| DILLYBARBASIC | NukeIIX | 85281294 | 392633 | 30554
+| D e a d m i X | Joath156 | 80017339 | 390910 | 36228
+| GO MOMENT | SmitN | 80380213 | 388672 | 29369
+| Shadow Rush | Tongii | 34279935 | 388376 | 39665
+| Hallow Dash | Hikex | 85199736 | 386879 | 16142
+| Hallow Dash | Hikex | 85199736 | 386879 | 16142
+| Ghost food | shodai1128 | 93875932 | 386596 | 32413
+| Polarization | Jabbagrullo | 2322673 | 384286 | 23325
+| Comatose Dreamscape | Knots | 61631083 | 383852 | 35954
+| electric dash | isaacpl01 | 63789349 | 383148 | 24599
+| Central Core | Renn241 | 75534380 | 383061 | 24642
+| Mythical Shadow | CastriX | 29721755 | 382461 | 35083
+| DigitalWorld | YahirPoint | 70493980 | 381769 | 36128
+| Ultimate Sound | KoromiGD | 85596448 | 380066 | 24059
+| UFOdynamix | ZelLink | 3802409 | 379954 | 14587
+| supercharge  | sharkdex | 90153026 | 379687 | 26438
+| Hidrece | MarkyArchived | 77809915 | 379268 | 28984
+| To the Top | Cirtrax | 50863505 | 376337 | 27583
+| Caffeine Rush | Chayper | 60059338 | 375343 | 23960
+| Fluctuation | schady | 32916053 | 375315 | 38471
+| IO | spark | 65068071 | 372117 | 21996
+| 8 Bit Jungle | TypicalGMD | 71065128 | 371826 | 21142
+| Clean Slate | Split72 | 96570950 | 369281 | 33476
+| Mystletainn | velvetsune | 96990017 | 369198 | 23482
+| Quality | Apstrom | 85496482 | 368843 | 16579
+| Quality | Apstrom | 85496482 | 368843 | 16579
+| Light House | AMightyDuck | 83845370 | 368437 | 28935
+| Nostalgic Overdrive | aloom | 94686524 | 366161 | 23810
+| Momentum | Lenzelium | 70173057 | 365814 | 29332
+| Jumper v2 | Sumsar | 760332 | 365328 | 12904
+| Sanctus | Xyle | 55611071 | 364690 | 23807
+| EXIT | Knots | 47662601 | 363989 | 33768
+| Neodymium | ValkyrieMaster | 65772902 | 363537 | 11948
+| Outside Time | TypicalGMD | 79450765 | 362141 | 18262
+| Apex | Echonox | 19186885 | 361866 | 44527
+| FireFrost | Minesap | 2877459 | 361766 | 40223
+| Ne | Frama | 94506662 | 361658 | 38977
+| musical journey | yakine | 4518536 | 360378 | 27141
+| Brainshot | Wav | 81719901 | 359763 | 26263
+| Brainshot | Wav | 81719901 | 359763 | 26263
+| A Gentle Stroll | Zoroa | 95292366 | 359498 | 24191
+| Encryptic | DeniPol | 46462501 | 358583 | 31074
+| Unnamed 7 | Etzer | 40037755 | 356525 | 26994
+| neXus  | Schneider9 | 50780745 | 356379 | 31706
+| Factory Level | ssalt | 85623843 | 355538 | 25990
+| 937 | GeraldBrown | 62973709 | 353130 | 20123
+| Parastrike | Tongii | 26822731 | 353128 | 38247
+| Already Gone  | Adriam71 | 92262040 | 352582 | 25462
+| Doomsday | IIINePtunEIII | 510004 | 352056 | 22803
+| i forgor | bunch | 74261758 | 351333 | 27916
+| Dark Halls | Whirl | 95363037 | 349916 | 22335
+| Kinetic | flameur | 82215819 | 348051 | 29383
+| Kinetic | flameur | 82215819 | 348051 | 29383
+| Flappy Bird | Alphalaneous | 66190207 | 347543 | 14718
+| Amber | 1nfra | 80866876 | 347369 | 34571
+| Artificial Love | Erdyuri | 48713988 | 346673 | 31282
+| Adagio | ViPriN | 1150414 | 346476 | 18547
+| Cinniama | mochiiii | 95294169 | 346222 | 24811
+| Palette | oraangee | 75553743 | 345488 | 26063
+| Run to the Hills | Th30ne | 98484695 | 343580 | 26941
+| Toy Thief | NogZ | 50680960 | 342767 | 31630
+| Sonar Manuevers | Zorochase | 7681293 | 341988 | 19586
+| expansion | alkali | 68048356 | 341529 | 21749
+| Arcade  | ValentInsanity | 27373989 | 340876 | 38416
+| Digital Glitch | DangerKat | 88500687 | 340455 | 23218
+| Audio Boulevard | cXpium | 70984171 | 339360 | 26039
+| Free Fall | Fletzer | 52367213 | 339087 | 27974
+| aple kice | bunch | 66958210 | 338236 | 21262
+| Jumping Master | - | 252581 | 337058 | 20342
+| Fast Dry Out | croshz | 885150 | 336883 | 24615
+| Mechanic Upforce | ZenthicAlpha | 4144649 | 336858 | 30598
+| Velocity III | jacr360 | 39268754 | 334018 | 30106
+| Frostburn Peak | AbstractDark | 83302544 | 332415 | 47738
+| Supernova | Glittershroom | 6620290 | 331230 | 32546
+| Surface | SaabS | 31570072 | 331103 | 37097
+| VeE | Fletzer | 55762687 | 330255 | 22449
+| Bass Knight | MaykollGD | 67728429 | 329859 | 23690
+| Archetype | ZenthicAlpha | 4727668 | 329642 | 37130
+| Marte | Edooox | 67984875 | 329125 | 23542
+| Termik | Akvaz | 76509331 | 329119 | 23189
+| Circles | Darwin | 46622813 | 328236 | 22543
+| Bossfight | Niji | 68625168 | 326883 | 10847
+| Instant Reaction | Enterrestrial | 11697387 | 326739 | 40039
+| Retro Caverns | Nemsy | 91297057 | 326118 | 23010
+| Harps | Allex20 | 74567102 | 325931 | 22143
+| Propane Nightmares | rafer | 37925002 | 325901 | 33255
+| Toxic city | Lixars | 54738102 | 325589 | 23709
+| Existential  | CatronixGD | 90037421 | 325515 | 21632
+| Prodigy | Nicki1202 | 31360528 | 323935 | 35044
+| Save | YunHaSeu14 | 75776048 | 323245 | 41550
+| Joshua Vortex | JustJohn | 72498415 | 322868 | 25781
+| Ztay | Mineber | 77002501 | 322298 | 23613
+| Single Light | Danolex | 36504916 | 321407 | 25602
+| Calmness | ArtViper | 74135363 | 321204 | 22513
+| Speed Tricks | GDSkele | 97614990 | 319795 | 23015
+| Crossing | Gelt | 9664324 | 319008 | 29416
+| Paradise World | shaggy23 | 29351710 | 318922 | 30379
+| zone pirate | Wilz | 88321859 | 318145 | 36629
+| marsh potao | bunch | 94731256 | 318088 | 24778
+| Neon Comet | J0eyOnGD | 73360672 | 317328 | 26798
+| NeutroniuM | GiaMmiX | 78968273 | 315829 | 21782
+| Et Cetera | SpKale | 44840313 | 315798 | 27619
+| Space Invasion | Andromeda GMD | 8280649 | 315417 | 31659
+| Enigma | KittyDoge | 61505156 | 314661 | 18294
+| Treasures trial | Dragaconic | 98438984 | 314539 | 28296
+| Iris Dei | Darwin | 31409467 | 313794 | 36122
+| Broken | M3nda | 83533271 | 313793 | 25335
+| CenterForce | ZenthicAlpha | 4482795 | 313601 | 33471
+| Crystallizer | TheTrueEclipse | 14737567 | 313123 | 21988
+| All Night Long | Subwoofer | 63521576 | 310715 | 18885
+| Generations | OnlyTrying | 99578001 | 309694 | 19282
+| hullabaloo here | Buziris | 94353525 | 309437 | 24221
+| PP Drop | theAlias | 61545007 | 309419 | 12688
+| fire n bass | doritos1 | 57473912 | 308234 | 21038
+| Stereophonic Funk | vonic | 79578581 | 308172 | 22969
+| force  | Xenvill | 90755752 | 307813 | 18072
+| POLAR EQUALS | cometface | 77826154 | 307600 | 22364
+| Electrolyte | Minesap | 5196945 | 306883 | 32156
+| Terrifiant | Hydren | 70019126 | 306486 | 27705
+| Disintegrate | vonic | 84380367 | 305335 | 19775
+| SMASH IT | Aleiz21 | 67710299 | 303346 | 17481
+| BubbleBath | Iamlost1337 | 17177503 | 303289 | 28266
+| LA HUIDA | Buziris | 91811777 | 302915 | 22791
+| jarvis silent map | robotchief | 75504757 | 302767 | 22595
+| Burger Dance | SirExcelDJ | 93343006 | 301641 | 28285
+| Twenty On3 | Aleiz21 | 77516716 | 301547 | 22291
+| Ancient Arts II | LucyGMD | 69648515 | 301339 | 15252
+| Mallet | Beljakow | 93758124 | 300243 | 24984
+| Fast Cant Let Go | croshz | 922398 | 300130 | 21112
+| AsyluM | OmegaFalcon | 29394015 | 299068 | 28249
+| Da Dank Site | kodex360 | 68329897 | 298167 | 18792
+| stepping on flowers | vrymer | 100384133 | 297150 | 8954
+| Industrial Society | V3KTXR | 79619064 | 296795 | 24242
+| Industrial Society | V3KTXR | 79619064 | 296795 | 24242
+| silent hill | noobas | 3512376 | 295844 | 25531
+| Pump up the volume | Chayper | 65318273 | 295495 | 16891
+| Code | IIAnubisI | 51115607 | 295436 | 26795
+| Morphine | MistFix | 54530713 | 293712 | 25092
+| Trollgeist | Defectum | 1237456 | 293589 | 5781
+| Anger | Amukkuna | 96682975 | 293576 | 13432
+| Like a Blast | Zinht | 63713595 | 292738 | 20609
+| Just OnE LeveL MorE | SrMDK | 60312003 | 291947 | 20650
+| Deep Space | meeloz | 100586569 | 291586 | 14208
+| Mayday | Insendium | 12149228 | 290848 | 34699
+| Stereophonic Madness | Shatt3rium | 84654573 | 289986 | 21457
+| Showdown | ZenthicAlpha | 25211712 | 289763 | 28349
+| Space Fighters | meromelon | 13804827 | 289020 | 21076
+| Blue Dimensions | Wav | 63240826 | 289011 | 15227
+| control | Nickalopogas | 57487499 | 288755 | 20129
+| CybernistiC | Darwin | 31929275 | 287693 | 31665
+| Glacial | Serponge | 44454630 | 287111 | 26895
+| Game on | Aerid | 87115571 | 286400 | 15891
+| UFO xStep | ZelLink | 2010422 | 286039 | 10008
+| raveyard | LightPotato99 | 80914306 | 285931 | 23103
+| exploding box | SirZaiss | 46032463 | 285729 | 27937
+| Windsweep | Nemsy | 88151136 | 285478 | 23368
+| Daybreak | Zeniux | 91811353 | 285136 | 26454
+| The other side | Jorgem1gue7 | 96447996 | 284276 | 13650
+| Aero Zone | Rawin | 60188291 | 284201 | 16024
+| Bass Kick | Spectex | 7562884 | 283137 | 30158
+| Ridge | JA4Y | 79029376 | 283102 | 20240
+| HardBeat | TheRM22 | 26032106 | 282624 | 19950
+| Marion | zetamewies | 90816624 | 280713 | 21501
+| PAINt II | stubbypinata | 24842672 | 279060 | 27511
+| Toxin Lab | Xaro | 6531884 | 278759 | 33143
+| maeshmolowa | bunch | 64279282 | 278305 | 16866
+| sybaris | noxycraft | 82669576 | 278128 | 20688
+| Reactant | AndrixGD | 92543345 | 278049 | 22045
+| Bonk | Wav | 63148614 | 277546 | 18380
+| Blink Blink Blink | GDTicLos | 97910997 | 276907 | 16812
+| REGAIN CONTROL | Apstrom | 90355268 | 276756 | 23390
+| Harenae | guppy28 | 60513698 | 276398 | 21912
+| Flowers Garden | shaggy23 | 24997050 | 276346 | 30137
+| Inside | Darwin | 49697813 | 275639 | 26444
+| kStep | ZenthicAlpha | 1998197 | 275187 | 20539
+| Planetary Expedition | Maboflo | 17641941 | 274037 | 24217
+| Direction  | Korita | 34526077 | 273706 | 25844
+| VIII | ItsEnigma | 67902743 | 272296 | 16751
+| Immortal Iris | Gusearth | 61063947 | 271907 | 19069
+| A Pretty Easy Level | Codex | 89961490 | 271633 | 27367
+| A Pretty Easy Level | Codex | 89961490 | 271633 | 27367
+| Exploding System | OLEEEEG | 92267072 | 271083 | 20009
+| Ficelopolis | Ficelo | 92217968 | 270507 | 22588
+| Overload | DangerKat | 87053654 | 270315 | 21731
+| Futuristica | Jeyzor | 5763091 | 269413 | 29440
+| EPILEPSY WARNING | ShadowIan | 90707641 | 269339 | 14113
+| EPILEPSY WARNING | ShadowIan | 90707641 | 269339 | 14113
+| SICK AND TWISTED | johdanlop | 103192803 | 268524 | 14543
+| alone | Jezzel | 60148025 | 268504 | 16930
+| Time Stop | Selskiy Kot | 99753499 | 268423 | 21095
+| The Furious | KaiDashK76 | 28697792 | 267946 | 29021
+| Phantom | thebun | 90680237 | 267682 | 20097
+| Phantom | thebun | 90680237 | 267682 | 20097
+| adrenaline | Erxu | 61307385 | 267038 | 21001
+| The AAAAA | Alphirox | 88329895 | 266963 | 28148
+| The AAAAA | Alphirox | 88329895 | 266963 | 28148
+| PLUGIN | fJud | 94265781 | 266793 | 17127
+| Disco Chip | TheRealDarnoc | 6195520 | 266707 | 29406
+| QVYJH | JumpingTheory | 94144575 | 265280 | 21965
+| Final Theory | Minesap | 4822540 | 264960 | 26446
+| PixelGame | Serponge | 27583231 | 264859 | 22570
+| Glow Manic | Vexes7 | 63918780 | 264790 | 15621
+| Thermodynamix | Dambrearon | 76661488 | 264719 | 22754
+| CUBED GALAXY | Wilz | 54525995 | 263701 | 26927
+| Shimmer | Elsig2002 | 75591599 | 263441 | 19399
+| Lets GroovE | Optation | 75671329 | 263384 | 20437
+| New Horizon | ML500 | 98423083 | 262835 | 19073
+| Odyssey | JacobROso | 62901896 | 262642 | 14961
+| Samed | Hydren | 66640781 | 262457 | 26764
+| Diver | RickTz | 64676489 | 262119 | 15310
+| Glare of light | Nexender | 64416619 | 261583 | 14505
+| Reactor | CultriX | 58790213 | 260499 | 15684
+| Pix | ZachLy | 80467319 | 260174 | 24908
+| Dashing Thru Petals | Spidrach | 100457692 | 260098 | 14421
+| Retrospective | Shatt3rium | 79544961 | 259723 | 20541
+| OUR EXTRAVAGANZA | PICAAAAAA | 89140813 | 259228 | 22990
+| Jarvis McFlarvis | BridgetTheCroco | 77801238 | 258905 | 19148
+| KrisMas | HTigerzGD | 76858511 | 258838 | 18383
+| DISK DRIVE | Split72 | 89211484 | 257986 | 21776
+| PSYNAPSE X | BridgetTheCroco | 66542544 | 257609 | 16565
+| Spartan Tower | Raivolt | 97614556 | 257337 | 19563
+| Tricky Industry | Edooox | 75829356 | 257076 | 23526
+| SleepYcAAt II | Moffer | 94576006 | 256824 | 20059
+| SourCream | Rockstr99 | 6890250 | 255466 | 27325
+| Dune Boi | Serponge | 40821087 | 255453 | 23746
+| Shape of the Sun | TpAesuki | 89048483 | 255165 | 17078
+| SPECTRUM SURGE | BrainETR | 73666392 | 254423 | 17566
+| Friendship | AmorAltra | 34177489 | 254415 | 27275
+| Astray | Suixam | 54503216 | 254149 | 25055
+| AnnoZone | Annon | 63292359 | 254109 | 16652
+| level mix | Madman123 | 1513272 | 253929 | 10804
+| Invigorate | RealZober | 32371324 | 253883 | 27837
+| Blockbuster | AgentJo | 94947089 | 252657 | 11900
+| The Depths | Latko | 90971819 | 250865 | 19614
+| Mach X | Nemsy | 65793998 | 250407 | 15512
+| Error | Xypheeeer | 95044315 | 250166 | 11943
+| Holy Milk | Pan | 19288971 | 249651 | 35547
+| More Beats | Yakimaru | 48829531 | 249583 | 24920
+| LockDown | R3XX3R | 54375171 | 249556 | 24495
+| Cool Voyage | shaggy23 | 34989249 | 249238 | 23778
+| FluorLights | ElMatoSWAG | 85582923 | 248754 | 10649
+| Energy Beam | IyuriI | 39809733 | 248739 | 20237
+| CLoNEs | Split72 | 62877097 | 248572 | 16440
+| Sly Shuffle | MrKoolTrix | 38857027 | 248395 | 26998
+| onyeung rings | bunch | 76559456 | 247803 | 20505
+| Triagonal Corundum | Tenzelo | 49166541 | 247395 | 22388
+| Mythical | balli | 58118800 | 247193 | 14535
+| IyuriI BossFight | IyuriI | 29140802 | 246776 | 28011
+| Ricochet Love | ViPriN | 3399616 | 246527 | 30188
+| Scenic Route | nampac | 59027350 | 246183 | 14613
+| Thingy | BridgetTheCroco | 66560970 | 244082 | 14734
+| The True Boss | Caeden117 | 11132905 | 244048 | 31342
+| Sequenctial | Havok | 10198733 | 243807 | 24041
+| The Seven Seas II | Peton | 29418571 | 243589 | 19438
+| Ransom | MrSpaghetti | 89927490 | 243547 | 22293
+| Circvmcenter | MisterBean | 80880443 | 243484 | 17835
+| Circvmcenter | MisterBean | 80880443 | 243484 | 17835
+| Time Battle  | Panfi2 | 11390392 | 243367 | 20551
+| AUDIO VISUAL | AudieoVisual | 96009570 | 243295 | 12498
+| Sometimes You Die | nsheyld | 97954892 | 243267 | 25639
+| Deep Sleep | PixelLolka | 100774827 | 242877 | 18405
+| Shuriken | Serpent | 73694082 | 242298 | 23041
+| Shuriken | Serpent | 73694082 | 242298 | 23041
+| CR4ZY | jneh | 61772172 | 241112 | 15287
+| cybernetic | Wilz | 81610234 | 239977 | 12387
+| ARRAX | YanisDiss | 90443284 | 239561 | 18693
+| Floodfall Caverns | J735 | 91446593 | 238568 | 15515
+| Simbiotic | Zinht | 75070862 | 237661 | 15760
+| Deathrun | AgentJo | 57411692 | 237315 | 14648
+| Joyride | thazm | 78795578 | 237121 | 22482
+| Electrolysis | RealZober | 35933196 | 237110 | 27677
+| Make It | issanagay | 73142901 | 236785 | 13491
+| Salvation | R4nchi | 60141325 | 236272 | 15716
+| The third light | Churrasco | 13051557 | 236202 | 20077
+| Rising Circles | TrigoniX01 | 9803621 | 235751 | 35630
+| Adventure Fantasy | JerkRat | 2979753 | 235746 | 25035
+| Modern Cave | Mazl | 28816779 | 235283 | 27715
+| Theta Tocktail | WerewolfGD | 79480175 | 235204 | 11964
+| Turn To Stone | PAHC | 77419444 | 235005 | 19214
+| Astral Zero | ViPriN | 2353552 | 234946 | 20684
+| Lets Bounce | iIRockyIi | 12337067 | 234757 | 28253
+| again 2 | ImAkKo | 93952431 | 234583 | 24722
+| PAINt | stubbypinata | 23329204 | 234353 | 25412
+| UFO Cycles | ZelLink | 1989096 | 233581 | 9396
+| Dare | Twoots | 11384332 | 233493 | 28144
+| UFO Adventures | ElEcmEtAl | 1590239 | 233277 | 8315
+| 2011 | ValentInsanity | 24748864 | 232912 | 27778
+| Super Cataclysm | GSD | 11925525 | 232079 | 27220
+| Dystopia | PotatoBaby | 59823443 | 231481 | 15179
+| Mangler | Vexes7 | 67114232 | 230246 | 14789
+| crazy bolt easy ver | Experience D | 564455 | 230155 | 7742
+| Destiny Zone | Skitten | 10556202 | 230136 | 25840
+| Strident | Xylph | 54831622 | 229440 | 15566
+| zone pirate iii | Wilz | 102117428 | 229406 | 16336
+| Doritos Nacho Cheese | BrainETR | 77508963 | 229370 | 24634
+| amazing level | AlrexX | 63725478 | 229111 | 14908
+| Square Shock | MoxiT93 | 51139172 | 229044 | 23838
+| AlphA OmegA | Vexes7 | 65143046 | 228498 | 23363
+| Dream Traveller | Inergy | 35606643 | 228135 | 10330
+| Chipperly | Andromeda GMD | 18305057 | 227733 | 22633
+| Master Dominator | ML500 | 14501585 | 227359 | 22038
+| transistor II | xcy7 | 15590591 | 227054 | 22500
+| Gears of a King | Spectex | 38176028 | 226895 | 17175
+| Eclipse | DimaNelis | 48978074 | 226662 | 11337
+| Python | MattMrn | 11691969 | 225980 | 25695
+| The Future | M3llo | 48057975 | 225784 | 14958
+| Garuda Impact | ghostmonkeyb | 97613548 | 225195 | 17581
+| Ninox | GD Jose | 62548661 | 225029 | 16257
+| Crazydylopsious | xQuadrant | 3343998 | 224789 | 13273
+| Kool Trip | DamianosKabanos | 59849490 | 224669 | 15266
+| Dread | YunHaSeu14 | 78727750 | 224337 | 24749
+| Special Essence | ItzMezzo | 47637822 | 223703 | 13698
+| Utopia | mikeymonke | 61865319 | 223548 | 12608
+| Astral Rave | Latko | 89462293 | 222174 | 18272
+| No Limits | Voxicat | 67904356 | 222088 | 13040
+| Gate of war | Experience D | 13906643 | 221905 | 23983
+| ScaleoticA | MiGor07 | 62296864 | 221854 | 11582
+| Regain Control | Akvaz | 91420965 | 221811 | 10927
+| Trouble | iFuse | 63260507 | 221611 | 10879
+| Rocket | MyGoldenChips | 14031694 | 221303 | 18849
+| Sweetland | Darixen | 76842657 | 221227 | 18102
+| Blender | skrillero01 | 90562111 | 220987 | 20638
+| Blender | skrillero01 | 90562111 | 220987 | 20638
+| Transit | KJbeast1000 | 27080271 | 220636 | 28227
+| Memory Lane | BlockinBlocker | 51350208 | 219307 | 15507
+| TrouBle | ItsJustCohen | 63355334 | 219219 | 12557
+| Nostalgic Area | AlexGdGamer | 89268921 | 218846 | 18923
+| Nostalgic Area | AlexGdGamer | 89268921 | 218846 | 18923
+| The Orbital Ring | Markyforce | 95141546 | 218739 | 12984
+| snatcher | Dubayo | 65738425 | 218390 | 14388
+| Fatal Error II | Hinds | 5673129 | 217579 | 18916
+| Mirage Rod | Nemsy | 77452901 | 217380 | 20348
+| Industrialization | Akvaz | 97824850 | 216743 | 13984
+| iII HyperSpeed IIi | Defiant | 4212152 | 216311 | 15607
+| DEEP BLUE | ImMaxX1 | 98154220 | 215920 | 13032
+| It Chases | BrainETR | 98218741 | 215428 | 15154
+| Invert | ShakeoffX | 66142986 | 215073 | 15616
+| Oscillation | Mangosteen | 49094568 | 214913 | 21545
+| The Core | QuadarVerse | 99246000 | 214823 | 16865
+| Unstable | Split72 | 62119263 | 214780 | 17271
+| GGGDDD | someoneiguess23 | 99311196 | 214771 | 16388
+| Stereophonic Sound | MrCheeseTigrr | 12575447 | 214713 | 24872
+| Swingie | Sparktwee | 98619812 | 214692 | 19994
+| Burn | R3XX3R | 91380905 | 213669 | 12232
+| Only One Level | realbikas | 99987431 | 213481 | 13835
+| exquisite | TinyXD | 60357169 | 213313 | 12371
+| Nirvana 2 | Etzer | 6267598 | 213074 | 24324
+| Hype Blaster | iIFrostIi | 11670829 | 212661 | 23124
+| Facade | ScorchVx | 40356239 | 212421 | 18549
+| Downpour | Dyrox | 13050651 | 211946 | 16941
+| Fluctuate II | Accelec | 72421107 | 211244 | 11292
+| New theory | Experience D | 9388962 | 211178 | 18242
+| Neonita | LightWinner | 77152348 | 210616 | 17022
+| Fusion Chamber | iIiKrisDashiIi | 51245238 | 210228 | 14567
+| angelbeats | xcy7 | 14055443 | 210044 | 26790
+| Icons Race II | VegasKoneko | 65816311 | 209664 | 16820
+| New | Akvaz | 76930517 | 209272 | 17178
+| Vector | FunnyGame | 1265701 | 208192 | 13885
+| Wisdom Teeth | PhantomX | 78846245 | 207607 | 17160
+| Xeno Gene | Rockstr99 | 7366575 | 207511 | 22059
+| The ElectroMan | izhar | 27456344 | 206964 | 17144
+| Mime and Dash | johdanlop | 96368989 | 206530 | 12568
+| Fuzzy | TheRealDarnoc | 3554723 | 206415 | 22281
+| Toxic Sector | DamianosKabanos | 90053107 | 206370 | 10634
+| sugar high | Wentex | 77916231 | 205419 | 17361
+| MALWARE | AudieoVisual | 92574507 | 205156 | 15463
+| Wawa | Wav | 70254698 | 204656 | 11310
+| Twenty Four | ZeroSR | 92149907 | 204547 | 12214
+| ONETheLegendOf1000 | JuNiOr202 | 99566839 | 203600 | 11908
+| Sarcasm | ZenThriXGD | 41174374 | 203540 | 15699
+| Power Surge | Optonix | 28128689 | 203443 | 23304
+| Headshot | YunHaSeu14 | 78333488 | 203379 | 19343
+| Spicy Corridor | f3lixsram | 43732736 | 202842 | 24341
+| 3000 | Nico99 | 33827728 | 202391 | 22617
+| robotic nightmare   | xcy7 | 2945650 | 202201 | 12021
+| Overdoze | skrillero01 | 58791220 | 201854 | 15528
+| VoracitY | Antuness | 57213458 | 201715 | 14440
+| Space Invaders | meromelon | 3055651 | 201618 | 7684
+| Fortress | Partition | 22098 | 201370 | 12031
+| Falling Petals | shodai1128 | 99384559 | 200913 | 13713
+| Luster | Mineber | 95288177 | 200904 | 11097
+| 7Step | TheRealDarnoc | 776285 | 200225 | 11174
+| Clutterfunk X | alkali | 27171642 | 199960 | 14180
+| OBSCURED REALITY | VrageraGD | 65597225 | 199933 | 17649
+| Incursio | ViPriN | 2721093 | 199658 | 21819
+| Monochrom | PixelLolka | 97519430 | 198814 | 13834
+| Pulsar | JerkRat | 8302366 | 198434 | 23609
+| Sent | Mulpan | 60872551 | 198090 | 11617
+| Xsea | Radius | 13232368 | 197518 | 14252
+| Carrot Juice | Codex | 15498807 | 197386 | 21407
+| circuit of gray | Experience D | 7247104 | 196950 | 20591
+| Block Steady | JuNiOr202 | 100055039 | 196684 | 12090
+| Melody | sweetdude | 15768640 | 196169 | 22571
+| On The Run | DeeperSpace | 102343042 | 196102 | 14935
+| New Adventures | Picha | 13152766 | 196100 | 26075
+| Nefarious | Lemons | 35159674 | 195904 | 25883
+| Virtual | L1X3Y | 61940285 | 195148 | 13430
+| Whole New Level | NinKaz | 92251385 | 194815 | 16838
+| xFunk | ZenthicAlpha | 1289930 | 194380 | 12463
+| Sound of Infinity | Vermillion | 3043062 | 194316 | 21302
+| Kipster A | Th04 | 19404907 | 194018 | 24665
+| Elevatia | Andro3d | 29846664 | 193757 | 20070
+| Plav | zorlex | 79773642 | 193690 | 18125
+| Piano Slap | Nico99 | 39607173 | 192978 | 17081
+| MECHA GODZILLA | FlacoGD | 75632366 | 192916 | 13114
+| OddShapes | Dastan21 | 55183166 | 191980 | 14807
+| Neverending Travel | Darwin | 30378296 | 191892 | 25970
+| murasaki | Vaddow | 52733698 | 191456 | 10799
+| Geegian | Xatz | 48405958 | 191200 | 11715
+| Chinese Dance  | Etzer | 8298065 | 190798 | 20075
+| PopcorN | FaekI | 37606234 | 190474 | 15646
+| Milky Ways | RealInf3ction | 8285575 | 190462 | 16821
+| camgotbitten | camgotbitten | 58023260 | 189778 | 13714
+| POPE | Whirlaroni | 96790869 | 189289 | 14323
+| Geowise | DesTicY | 12199639 | 189245 | 22915
+| Old Fashioned Brawl | DreamEater | 58468099 | 188984 | 13310
+| the Massive | 1374 | 42951609 | 187682 | 17133
+| RealistikCore | Usermatt18 | 7894853 | 187505 | 24050
+| Flux Capacitor | Jirk | 57988518 | 186969 | 12342
+| PartyTime | Superopi | 5371450 | 186736 | 19799
+| fascinating step | RealKamijo | 758829 | 186275 | 17369
+| Shocked | TheRealDarnoc | 974971 | 186051 | 10580
+| Insane Party II | FillipsMen | 17679732 | 185176 | 16259
+| UwU | TropoGD | 67825729 | 184480 | 6861
+| Arctic | Sting871 | 62784044 | 184437 | 9667
+| electrodynamix v2 | AeonAir | 849886 | 184365 | 7027
+| Extraterrestrial | ValkyrieMaster | 64633794 | 183920 | 9184
+| StarQuake II | MasK463 | 10092077 | 183451 | 16718
+| Quantum Showdown | Tongii | 35648730 | 183063 | 20372
+| N0v4 | FunnyGame | 33881006 | 182690 | 20128
+| Genesis | TheRealSalad | 13920616 | 181513 | 18823
+| Holomadness | Rek3dge | 2763669 | 181401 | 13643
+| Cerberus Boss Fight | Krexon | 11443828 | 180752 | 23762
+| Color Caverns | Bizaare | 70559923 | 180732 | 10820
+| Players   | Fury0313 | 26851979 | 180218 | 15003
+| Castle core | Experience D | 8096517 | 180109 | 17507
+| Authority | Usermatt18 | 39564265 | 179941 | 18908
+| Kunstige | realwhata | 63987245 | 179227 | 11194
+| Hiii | orots | 62040249 | 179162 | 20610
+| Nox | Spu7Nix | 35282689 | 179121 | 17811
+| fp | FunnyGame | 57564910 | 179043 | 10529
+| Visual Vexation | RehanZ | 93314434 | 177557 | 12426
+| Christmas Voyage | shodai1128 | 87018986 | 177436 | 10255
+| Zarks Spire | SpotL | 98815156 | 176643 | 15912
+| Transient | ChuchitoDomin | 57246825 | 176540 | 13550
+| Pinnacle | Optical | 34227786 | 176359 | 22484
+| Electroman Adventur | DzRAS | 1224259 | 176181 | -3113
+| Portal Box | Vertuoz | 65146862 | 175650 | 6556
+| Pandora | BlastiXGD | 25249785 | 175412 | 20882
+| Light Dash | ASonicMen | 2875419 | 175218 | 21387
+| Focus On | Lebi06 | 89852786 | 175204 | 9542
+| Dat Travel | Serponge | 16834794 | 174427 | 22536
+| Unnamed h | R3XX3R | 76421638 | 174217 | 11780
+| Infinitesimal | jacr360 | 29588785 | 173699 | 20844
+| Comet | VRTL | 93369357 | 173660 | 9463
+| Numero 27 Eletoculy | nmth14gp | 82070133 | 173079 | 12786
+| End of the World | Usermatt18 | 23291238 | 172021 | 20582
+| Caverns | CatronixGD | 80760674 | 171991 | 10811
+| Caverns | CatronixGD | 80760674 | 171991 | 10811
+| Hypnotic Trance | Hychie | 54983038 | 171792 | 12270
+| Invasion | Mulpan | 33796924 | 171672 | 20744
+| electro valley | Dubayo | 64102833 | 170322 | 8305
+| Orange | RealSoulDash | 5007493 | 169725 | 18149
+| VINTAGE | dkitey | 100715374 | 169306 | 13613
+| The Hollow | SaabS | 41819814 | 168925 | 13862
+| Dinosaurs | Aleiz21 | 56874646 | 168441 | 7337
+| Torrent | Ficelo | 97787812 | 168434 | 11940
+| Star Platinum | Tinymanx | 27007996 | 167990 | 20457
+| Electronic Speed | MrCheeseTigrr | 984236 | 167376 | 10896
+| Noctus | Destriv | 99719427 | 167214 | 11171
+| Abyss | Findexi | 7685571 | 166726 | 19541
+| Powers of Ten | MoonSpark | 27117091 | 166686 | 14964
+| DEMOLISHED | AlvaroRH99 | 86195674 | 166625 | 6402
+| Daora | Epxa | 58705732 | 166566 | 11303
+| Squad Out | GiggsRH | 72908955 | 166266 | 10226
+| Quantic Theory | Noriega | 2240089 | 166037 | 9574
+| Machinal | tricipital | 74878806 | 165675 | 10106
+| Digital Essence | MAYEROSA | 81198349 | 164555 | 11897
+| Apocalypse | nainteils | 13209510 | 164195 | 18881
+| ClutterFunky | Sumsar | 1172326 | 163692 | 8585
+| FREAKFLASH | AudieoVisual | 86861311 | 163273 | 8309
+| Aelinda | Splinter25 | 70017248 | 162415 | 10482
+| Crispy Fantasy | CrisPy Dash | 8991993 | 161642 | 17326
+| Loophole | loogiah | 36612035 | 161527 | 15259
+| Frenetic | AbstractDark | 16031812 | 161139 | 20421
+| Cloud 9 | nampac | 39348985 | 159769 | 8343
+| night rider | GDmelody | 12822758 | 159651 | 10843
+| Ascendant | Hdow | 18754122 | 159586 | 13161
+| Get high | truongwf | 76522107 | 159240 | 9373
+| Castle of Fury | Deevoo | 11393779 | 159009 | 18047
+| Global Warming | Dorami | 2424381 | 158631 | 9060
+| Jodies Dream | TroxxP1 | 55400930 | 158517 | 8357
+| Full Power | Jinta22 | 75633670 | 158426 | 11419
+| Triangle | Alkatreize | 103205817 | 158381 | 10446
+| Out | Xender Game | 47453581 | 158322 | 13752
+| Predators | Nico99 | 37977638 | 158315 | 16031
+| new level | Jeyzor | 31877340 | 158050 | 17135
+| delusion | Waltertheboss | 72269836 | 158016 | 10971
+| Arcadia | NateRavenno | 72931298 | 157676 | 8864
+| Sword Of Xolan III | Nightlex | 34639105 | 157581 | 20188
+| Lucidation | Polarbeahr | 88964243 | 157141 | 8970
+| Lucidation | Polarbeahr | 88964243 | 157141 | 8970
+| Shattered Landscape | fJud | 88746028 | 156603 | 9814
+| Mind the Gap | TheRealDarnoc | 12568 | 155389 | 9240
+| Conclusion   | Mabby | 6469931 | 154428 | 17837
+| Xstep Special Mode2 | IamXstep | 1760244 | 154318 | 5194
+| Honey Fun | Mulpan | 58774438 | 153176 | 7387
+| Ublut | Skeetawn | 100713173 | 153021 | 10003
+| GeoCosm | SilverSoul | 13417814 | 152905 | 19734
+| Speedballing | Jayuff | 58760050 | 152312 | 15574
+| Dash Away | NeroFX | 12743589 | 152275 | 5614
+| Energy Edge | denberZ | 82513845 | 152215 | 9512
+| Energy Edge | denberZ | 82513845 | 152215 | 9512
+| Vibrant Burst | Split72 | 66707477 | 152097 | 7982
+| colorful depths | potatoplayer | 32039923 | 151748 | 18427
+| Pandemonium | PurpleGuy99 | 13517801 | 151071 | 10174
+| Boo | Whirl | 46803003 | 151060 | 13621
+| The hidden land | BlueLite | 37708359 | 150909 | 15695
+| 511BEE | Wulzy | 74151302 | 150658 | 10332
+| Radiation Mayhem | Alfred PKNess | 45142485 | 150450 | 14932
+| GEOMETRY JUMP | robotchief | 98394571 | 149892 | 15880
+| ChillFunk | TheRealDarnoc | 618347 | 149794 | 7663
+| Posterize | Chayper | 94171332 | 149449 | 7644
+| Inception | MuLhM | 11294445 | 149431 | 18848
+| Disco Party | Balloons | 14995569 | 149382 | 10671
+| cZ | Etzer | 20035843 | 148906 | 17238
+| just shape and milks | gustavov3 | 99115172 | 148490 | 12612
+| Operation Exodus | Xaro | 7640103 | 148298 | 15927
+| Time Machine v2 | Sumsar | 803221 | 148268 | 6354
+| Absolutism | Player Time | 35633247 | 148206 | 15420
+| Nine Circles | Xoroz | 79188336 | 148156 | 10875
+| Lonesome | FunnyGame | 1337871 | 148155 | 9133
+| The Unforgiven | Aleiz21 | 92707522 | 148045 | 7986
+| Abomination | Piseto | 41083032 | 147940 | 13262
+| janity | Apstrom | 67445381 | 147652 | 5499
+| Mystical | FunnyGame | 71997813 | 146565 | 9796
+| Nelis Adventure | PixelLolka | 88314683 | 145591 | 15539
+| grebeworld | grebe | 62868423 | 145440 | 12610
+| Chaotic | Findexi | 2982094 | 145009 | 18240
+| Spicy Noodles | Codex | 37955884 | 144807 | 17043
+| Neon Corruption | Ggb0y | 6047323 | 144356 | 13771
+| Dehydrated | JerkRat | 2310118 | 144209 | 10490
+| Egotism | DavJT | 102609414 | 144096 | 8344
+| Bouncy World | Serponge | 7559388 | 143573 | 18279
+| Time Bomb | J0eyOnGD | 77246359 | 143529 | 9893
+| National theory | Experience D | 7588972 | 143020 | 12320
+| MulPaws | Mulpan | 57864791 | 142302 | 9861
+| I N | Xender Game | 54448827 | 142218 | 14832
+| Vivid escape | Erdyuri | 26861337 | 142162 | 17911
+| Its Raining Men | Spa8 | 36436231 | 142040 | 14656
+| wonk | AudieoVisual | 99862161 | 141883 | 11734
+| Crepuscule | Ficelo | 95034412 | 141868 | 7044
+| New Style | SilverSoul | 17453327 | 141616 | 17369
+| EASY and NORMAL | NAMHO | 86293 | 141566 | -1614
+| Alphabet M | FunnyGame | 496779 | 140817 | 10134
+| Almost Strange | lespainsaucho | 80483398 | 140697 | 12309
+| New Genesis | Swirl | 8966405 | 140635 | 17656
+| pg1004 | Gelt | 5163842 | 140497 | 12909
+| Hyper Intelligence | Toxic GD | 17529929 | 140468 | 16388
+| Wizard Dreams | mishy | 83645070 | 140406 | 7421
+| Wizard Dreams | mishy | 83645070 | 140406 | 7421
+| Paincoal II | spl1nt | 74676221 | 140381 | 9488
+| Speed of sound | haoN | 5451550 | 140317 | 10980
+| Just That Easy | MitKit | 98081864 | 139979 | 6415
+| Blaster | Wav | 71141367 | 139558 | 9965
+| Annihilate | thebun | 99202592 | 139521 | 6784
+| Okiba Crackdown | Evasium622 | 16080023 | 139428 | 13682
+| Raid Shadow Dash | DeniPol | 83324283 | 139343 | 7058
+| Raid Shadow Dash | DeniPol | 83324283 | 139343 | 7058
+| Raid Shadow Dash | DeniPol | 83324283 | 139343 | 7058
+| Inflection | Glittershroom | 8261457 | 139244 | 16847
+| FRENETIC | Apstrom | 84147134 | 139169 | 9512
+| FRENETIC | Apstrom | 84147134 | 139169 | 9512
+| Dawn stadium | Experience D | 7672993 | 138955 | 15351
+| Draw me a Pixel | MarkyArchived | 81260549 | 138948 | 8244
+| Retro Hacker | BlastiXGD | 31508357 | 138930 | 19618
+| NyaDance | ImGabeGD | 92772390 | 138850 | 7572
+| Haywire | ViPriN | 2113651 | 138823 | 13020
+| Fire Power | DemonMKer | 4329523 | 138757 | 16230
+| VTech | Skitten | 15229878 | 138458 | 17719
+| Speedbreaker | iIFrostIi | 10875305 | 138295 | 13432
+| Spectrum Overdrive | AbstractDark | 24318764 | 137257 | 19277
+| Coloring Lightning | Gelt | 6564988 | 137200 | 17954
+| SubZerO LeVeL | SrMDK | 58239703 | 137023 | 4893
+| Spiritual Forces | Zoroa | 55660457 | 136044 | 6965
+| See The Stars | spuddles | 63089636 | 135836 | 8538
+| Dom Disco | Ryder | 70795769 | 135794 | 7642
+| Great Invention | YunHaSeu14 | 93719951 | 135545 | 12850
+| Phantom Realm | ASonicMen | 2390995 | 135308 | 9927
+| Groove Machine | Ghost | 988444 | 135230 | 6920
+| chiptune | JerkRat | 3543749 | 135029 | 16646
+| PLATNET | Alphirox | 96973539 | 134657 | 8506
+| DistorteD | Serponge | 19391175 | 134630 | 18618
+| Fantasy Base | TheRealDarnoc | 826013 | 134503 | 8183
+| Doggo Flusters | ELITEXD | 93134931 | 134276 | 10064
+| aurora | albinomaster | 24936194 | 133928 | 17469
+| Zone Domination | Toxic GD | 11329262 | 133852 | 13217
+| GODMODE | thazm | 87217999 | 133794 | 8257
+| GODMODE | thazm | 87217999 | 133794 | 8257
+| Solar | PotatoBaby | 28976999 | 133224 | 17313
+| Locomotion | Lemons | 60804795 | 133223 | 8656
+| robtop NEVER CLEAR | ItzKiba | 89958857 | 133194 | 6001
+| robtop NEVER CLEAR | ItzKiba | 89958857 | 133194 | 6001
+| Clutterfunk V01 | Mixroid | 177550 | 133194 | 6072
+| Dark Leaper | CreatorFreeze | 28692609 | 132734 | 18942
+| Moral Hazard | YunHaSeu14 | 84105229 | 132481 | 8211
+| Moral Hazard | YunHaSeu14 | 84105229 | 132481 | 8211
+| Moral Hazard | YunHaSeu14 | 84105229 | 132481 | 8211
+| Cosmic Vengeance | Syunide | 32494868 | 132201 | 18700
+| Desultory | Echonox | 16566745 | 132200 | 17353
+| Peer Gynt | XxJ0SHxX | 46095523 | 131971 | 6946
+| Osaka Rush | Ferdefunky | 40865359 | 131918 | 10880
+| bwah | Pettsu | 87568776 | 131707 | 7279
+| bwah | Pettsu | 87568776 | 131707 | 7279
+| You Are Holy | Nova4664 | 80761584 | 131663 | 8680
+| Hexagon Force v2 | Nena Kiwi | 1691025 | 131346 | 5296
+| The DEADLY Tower | MrYer | 98182902 | 131292 | 11672
+| Tritanopia Pulse | Cthulu | 45803164 | 131058 | 11365
+| Raptisoft | MarkyArchived | 70434057 | 131003 | 9351
+| Viper | SMBlacktime | 3027416 | 130938 | 13558
+| Bloodwolf | WerewolfGD | 35066069 | 130827 | 11089
+| TheoryOfRelativity 2 | VENZA | 2820042 | 130817 | 9371
+| Amethystia | Xender Game | 54861984 | 130360 | 10150
+| Theory of Nothing | TheRealDarnoc | 191029 | 130147 | 914
+| Skyway | Gelt | 7177242 | 130034 | 13857
+| Sonanda | Mulpan | 60301139 | 129885 | 7176
+| Headshot | AndrixGD | 91530036 | 129882 | 9417
+| Forever Gone | Superopi | 9561634 | 129789 | 13785
+| time system | izhar | 10954151 | 129548 | 18500
+| endgame | Iid4sh3riI | 8051336 | 129548 | 8893
+| Solar flairdrive | Experience D | 8686698 | 129397 | 12812
+| Shockless | MasK463 | 1530816 | 129253 | 5688
+| Funky Funk | Zidnes | 74776149 | 129234 | 7834
+| Abyss of Darkness | sink | 72772568 | 129160 | 5056
+| spired | Colxic | 21785838 | 129083 | 17230
+| Family | Darwin | 39180479 | 128974 | 13859
+| Oof | BlueRimz | 54818851 | 128944 | 9186
+| Raptura | ChuchitoDomin | 76663751 | 128863 | 8688
+| Star Blossom  | ZelLink | 11204711 | 128700 | 14925
+| Rise | Masterthecube5 | 102184114 | 128566 | 9695
+| Cauldron Party | beptile | 38329234 | 128532 | 14029
+| Malware | eopc | 75925680 | 128130 | 8300
+| time to run II | Wilz | 66982422 | 128063 | 6057
+| Into the Light | Vermillion | 27620163 | 128007 | 12959
+| Efimero | iMortlex | 78549453 | 126980 | 8589
+| Fallen Era | alkali | 25539996 | 126779 | 17483
+| Claustrophobia | Gelt | 2497745 | 126433 | 9230
+| RobTopCity | Apstrom | 73057485 | 126172 | 12414
+| Bossfight | DragonSK | 57252806 | 126091 | 5277
+| Cocktail | CreatorLW | 32940610 | 126030 | 10724
+| Noobtition | WerewolfGD | 57342005 | 125890 | 9039
+| Dizzier Run | TheRealDarnoc | 569882 | 125774 | 7986
+| Arus Madness | TheRealDarnoc | 179170 | 125745 | 7418
+| Citrus | Usermatt18 | 24689588 | 125566 | 16237
+| windfall | Crispinus | 12385896 | 125511 | 11198
+| intercept   | Ruf | 3001269 | 125454 | 14623
+| Retro Runway | thebun | 83623085 | 125416 | 6441
+| Retro Runway | thebun | 83623085 | 125416 | 6441
+| Retro Runway | thebun | 83623085 | 125416 | 6441
+| Breakdown | Star77 | 19547449 | 125260 | 16221
+| DeepSeaTemple | OmgItsLemon | 2901232 | 125217 | 12648
+| Gray pantheon | NASHII | 39080559 | 124665 | 14787
+| We Are Shapes | NogZ | 52999065 | 124517 | 11651
+| Snakeblock Ruins | neoraptor | 97720311 | 124401 | 11314
+| shutdown | alkali | 27435232 | 124291 | 19166
+| Sword Of Xolan II | Nightlex | 34194166 | 124171 | 15114
+| Retina | Thomartin | 51621423 | 124089 | 12088
+| electric robot | Wilz | 77968214 | 123996 | 7771
+| Stereophonic Light | andrew1311X | 96750200 | 123723 | 6048
+| Fly Machine | Noriega | 1628620 | 123694 | 5280
+| Marigold | vortrox | 94656408 | 123684 | 4524
+| Apocalyptic Ruins | TamaN | 15045460 | 123432 | 17778
+| Sound Visualization | Cdpre | 63336521 | 123238 | 7836
+| Life | Skitten | 4234281 | 123022 | 12899
+| Trick Or Treat II | MasterDam | 76186935 | 122962 | 7672
+| Quick Escape | TheRealWeenside | 99414513 | 122419 | 6790
+| Crazy Adventure | Edooox | 70469948 | 122175 | 6110
+| Celestial Storm | RyanAB | 36253994 | 121959 | 12986
+| quake goes brr | KonduktorGMD | 98509079 | 121900 | 8127
+| Rising Madness | CyanBoi | 97948216 | 121835 | 10680
+| Scary Nights | iMortlex | 85130037 | 121816 | 6209
+| Scary Nights | iMortlex | 85130037 | 121816 | 6209
+| Blight Northwest | MarkyArchived | 83494143 | 121529 | 7052
+| Astral Traveler | meromelon | 11621331 | 121445 | 14687
+| Boomerang | Centurie | 18503991 | 121437 | 11399
+| Berserk | rafer | 27148456 | 121235 | 11448
+| Deadly Loops | Se7eN | 3932644 | 121071 | 9681
+| 15Years | MegaVanya123 | 79055110 | 121066 | 7364
+| On | Danzmen | 51252981 | 120925 | 12002
+| monster | Wilz | 60501542 | 120777 | 5627
+| Bird cage | goose | 24693210 | 120599 | 13673
+| Anastasia and Koteev | MCAASJ | 89640947 | 120409 | 12820
+| carnivores | SirZaiss | 35713007 | 120391 | 12426
+| Speedstyling | Dominus | 64931713 | 120373 | 6641
+| Negativity | mikeymonke | 34557239 | 120179 | 18340
+| Bass knight | Elsig2002 | 11955937 | 120117 | 13441
+| Hypercharged | DorSha | 39018482 | 120088 | 15707
+| HeartBreaker | Draykonic | 11958784 | 119939 | 14373
+| ViPriN | Cirtrax | 42506053 | 119584 | 8182
+| Renegade | Ferdefunky | 38193067 | 119501 | 13630
+| Monody | Eluselus | 16177560 | 119341 | 10381
+| Virtual World | Fault | 37207644 | 119265 | 14091
+| Sweet Dreams | Danolex | 26476410 | 119257 | 17108
+| Jupiter Operation | ZelLink | 6606222 | 119252 | 11480
+| Tower Bornay | MeowSgam | 67020887 | 119097 | 3919
+| reborn kingdoms | Enceladus GD | 28920582 | 119079 | 16863
+| mini chaos impact | Rockstr99 | 4638132 | 119022 | 12261
+| Dragon Claws | Piseto | 32737350 | 118895 | 14380
+| Snap | DashDude | 91427162 | 118855 | 7556
+| Axolotl | chamoylol | 72003193 | 118766 | 10715
+| holostar city | xcy7 | 11347335 | 118748 | 15110
+| Electronic Park | ZenthicAlpha | 982533 | 118720 | 12452
+| Scarab | Steekmen | 58121899 | 118478 | 7934
+| CYBERFUNK | Johburger | 90798357 | 118231 | 6871
+| Clink | Split72 | 74711089 | 118087 | 7038
+| Evolution | AeonAir | 2984083 | 117895 | 10206
+| vertigo | ItzMezzo | 65641152 | 117400 | 10143
+| Mission 101 | Arkoon | 73732693 | 117145 | 6207
+| SunSet | Jeyzor | 605437 | 117125 | 11637
+| Dragon Factory | SynthSaturn | 11545264 | 117120 | 15403
+| Osiris | DAPixelhero | 98126704 | 117078 | 13293
+| Weekends | caerbanoc | 98055355 | 116864 | 6385
+| Defection | Dako | 3434802 | 116833 | 12383
+| Infernoplex | EthanLX | 4378323 | 116705 | 10880
+| DISCOMBOBULATE | Spu7Nix | 36833192 | 116588 | 9551
+| Perkz of a Square | TheRealDarnoc | 285442 | 116532 | 6683
+| Crunchy Apple v2 | Superopi | 6941866 | 116456 | 13534
+|  old times  | pineapple | 8282500 | 116422 | 10343
+| Variety | Apstrom | 77300574 | 116310 | 8745
+| Forgotten Vale | BowtieGD | 71606243 | 116272 | 7024
+| Overload | Darwin | 47147285 | 115868 | 11957
+| Crazy Dynamix | Dorami | 2036978 | 115659 | 3319
+| Little big trial | mishy | 72103202 | 115615 | 7199
+| Essence Access | Hikex | 77500519 | 115511 | 9523
+| The Switch Trials | CamZam | 101191227 | 115322 | 7065
+| Ship 45 Frenzy | rhyllus | 102529530 | 115240 | 9628
+| StreetFunk | Hyenaedon | 34175907 | 115236 | 13685
+| Friendly Adventure | AbstractDark | 11349424 | 115157 | 9894
+| Melodic Head | MrLumo | 14386226 | 115074 | 13699
+| Three | 1374 | 64224547 | 115057 | 10781
+| Falcon Punch | Gelt | 3369264 | 114999 | 12256
+| korea park | Experience D | 643365 | 114987 | 3955
+| Inside Finite | willy5000 | 5031423 | 114843 | 13382
+| SkyLine | Tronzeki | 28951789 | 114607 | 14504
+| Stamina | Geox01 | 71325359 | 114558 | 8687
+| lexapro | DivideNick | 94513739 | 114551 | 5996
+| Code Snatcher | stubbypinata | 25746271 | 114240 | 13947
+| Love You | Zoroa | 58311359 | 114039 | 6459
+| sugar rush | Iid4sh3riI | 14366954 | 113840 | 13965
+| NeoN Velocity | SmitN | 74742245 | 113771 | 7040
+| Quinque | YunHaSeu14 | 69265458 | 113651 | 9266
+| Progulka | MaFFaKa | 97109153 | 113536 | 7147
+| Aurandomness | nmth14gp | 78957052 | 113236 | 7301
+| Night Fury | Experience D | 4297429 | 112885 | 11927
+| Retro Adventures | Shatt3rium | 72764123 | 112607 | 6278
+| Force Of Everything | Minesap | 2229230 | 112517 | 7080
+| Deap sea frost | Experience D | 3677189 | 112345 | 11983
+| Spike Dodger | FillipsMen | 26655895 | 112310 | 9617
+| Tim Machine | 8BitFudge | 65189504 | 112206 | 9957
+| Sputnik | Edooox | 76615484 | 111687 | 7939
+| Electroman Episode | Pollapo | 4882608 | 111636 | 7685
+| quadra | distortt | 54959957 | 111434 | 6391
+| tech of tomorrow | xcy7 | 2389984 | 111153 | 10315
+| Zuma Evolved | MarkyArchived | 82370280 | 110686 | 7378
+| Race Round The World | Skitten | 3736586 | 110557 | 10606
+| torn dimension | FunnyGame | 62835942 | 110381 | 6079
+| Speedrun | SpKale | 65768174 | 110369 | 7539
+| The Reactor | Edge | 32835034 | 110061 | 13325
+| Unnamed sequel | CorroX | 67193379 | 109584 | 5501
+| Inevitable | Dubayo | 82105721 | 109459 | 6985
+| AwaY | iriswolfx | 76053628 | 109406 | 7547
+| The Destiny | Waltertheboss | 78850065 | 109265 | 8245
+| Radiance Boosting | ChuchitoDomin | 68181258 | 109210 | 5191
+| ZuM | Wixers | 44656645 | 108774 | 10542
+| Deep Galaxy | TrueNature | 8562531 | 108686 | 11486
+| False Horizon | lumpy | 68363590 | 108584 | 5263
+| SunSet 7 | Jeyzor | 11566634 | 108489 | 12445
+| Knock Out | CatioGD | 96638270 | 108366 | 6681
+| Soundscape | SamMaxx | 50428536 | 108016 | 10317
+| Arcanic spell | Darwin | 34410038 | 107858 | 16201
+| Midnight Moon | ZelLink | 5776293 | 107652 | 13566
+| Striker | Soulsand | 34930075 | 107553 | 8178
+| Nuclear Theory | TamaN | 5406107 | 107542 | 12189
+| crass glippings | fr3dmc | 88171956 | 107431 | 6894
+| crass glippings | fr3dmc | 88171956 | 107431 | 6894
+| Menacing Manor | Whirl | 100389003 | 107098 | 4285
+| redux | jahaziel | 12100897 | 107094 | 14073
+| chaoz nightmare | Etzer | 3448208 | 107075 | 8925
+| Back On Track HARDv | Player | 30058 | 106867 | 3803
+| Chunche | abdula | 61688413 | 106373 | 8551
+| Electroman V2 | DaddePro | 526513 | 106041 | 5908
+| doublefunk | Lyod | 2198197 | 105474 | 7142
+| GalaxyStar | Rublock5 | 3286238 | 105112 | 9944
+| lunar ii | alkali | 52414003 | 104825 | 9238
+| Something Funky | TheRealDarnoc | 226651 | 104749 | 5262
+| Viper | XronoM | 11801889 | 104241 | 11044
+| YT SHORTS | dkitey | 88213276 | 104213 | 8179
+| YT SHORTS | dkitey | 88213276 | 104213 | 8179
+| GalaxyManAdventures | JerkRat | 2208881 | 104091 | 7067
+| Flight Of Space 3 | KFAOpitar | 1942106 | 103946 | 9504
+| above the clouds | pyshoGD | 77241610 | 103851 | 4808
+| above the clouds | pyshoGD | 77241610 | 103851 | 4808
+| This is our Space | Crystiee | 87796182 | 103818 | 5521
+| Atmosphere | Fault | 50309126 | 103616 | 8572
+| Meltdown | AndrixGD | 96498065 | 103534 | 6637
+| Cutter disco | Inergy | 42053765 | 103440 | 9956
+| Enzymic | enlex | 34078964 | 103394 | 12008
+| BaxMix | Hikex | 78108852 | 103353 | 6525
+| Presto | ViPriN | 1524466 | 103330 | 9217
+| Merry Christler | Xyle | 65759635 | 103153 | 5477
+| Come Back to Earth | Wulzy | 59725003 | 103043 | 6976
+| Jackpot | RyanAB | 26632118 | 103001 | 8068
+| Haunted Woods | RealSoulDash | 3038491 | 102799 | 9332
+| Shimmer | Nottus | 101182804 | 102671 | 7355
+| Crystal rush | Digitalzero | 10927673 | 102638 | 11865
+| Ice and curves | TheRealDarnoc | 434107 | 102627 | 5596
+| ExagGeration | skrillero01 | 60357633 | 102545 | 5736
+| Astronaut 13 | Sarynin | 11304531 | 102472 | 9834
+| Just Another Level | TheRealDarnoc | 45827 | 102437 | 5316
+| InterStellar | TrueNature | 2236898 | 102023 | 7023
+| ketchuplust | bunch | 70284005 | 101903 | 10108
+| arc flash  | xcy7 | 8142761 | 101869 | 11549
+| beautifuldynamix | RealKamijo | 891985 | 101522 | 7171
+| Cosmic Nirvana | RadiationV2 | 15256163 | 101474 | 13660
+| Cord Cutter | MaxTwelve | 82092190 | 101432 | 6765
+| i travel sky | RealKamijo | 278514 | 101399 | 11424
+| Bionic Force | Rublock5 | 2328068 | 101336 | 6220
+| Nightmare | Draykonic | 10387528 | 101291 | 6501
+| Electric Forest | TrueNature | 2376766 | 101267 | 7040
+| Astral Dimension | Darixen | 87103535 | 101226 | 6378
+| Astral Dimension | Darixen | 87103535 | 101226 | 6378
+| Chromatic 37 | nehegas | 51785505 | 101218 | 8949
+| Joviality | RealZober | 38244821 | 101151 | 11789
+| Broken Aura | meromelon | 14921280 | 101119 | 12112
+| MindDrop | TheRealDarnoc | 153406 | 100891 | 5176
+| Monster Cave | RoyalP | 41370023 | 100822 | 9282
+| Maestoso | ViPriN | 1639698 | 100709 | 7965
+| pretty much a level | FCMasloPL | 101574620 | 100538 | 11575
+| G A R B A G E | Twoots | 24317650 | 100522 | 12934
+| Vapor | PotatoBaby | 34878135 | 100395 | 13791
+| Empire | ChaSe | 26460011 | 100237 | 12500
+| Joker | BridgetTheCroco | 64924353 | 100200 | 4162
+| Everybody Bounce | Usermatt18 | 17774766 | 99667 | 12906
+| Skyrise | ferrarizo | 11832376 | 99587 | 12730
+| Grim Reaper | Mulpan | 46817283 | 99425 | 9707
+| Pyrodynamix | Vermillion | 7588661 | 99296 | 9901
+| Aether Enterprise | Tongii | 56186095 | 99226 | 5582
+| Save us | YunHaSeu14 | 100420886 | 99035 | 4472
+| Clutterfunk Abduct | Gelt | 326284 | 98984 | 4680
+| Dinosaur Remake | Shatt3rium | 64715446 | 98965 | 5212
+| thingy | alkali | 57102172 | 98862 | 7301
+| ElecTech | distortt | 48087337 | 98666 | 10408
+| Dancing Naked | Xenone | 16657213 | 98631 | 11856
+| On | Spa8 | 27582575 | 98361 | 11775
+| Nuclear | DWShin | 4842371 | 98324 | 9228
+| Calm Before A Storm | TrueChaos | 9901914 | 98171 | 11543
+| Fly To Freedom | CribCrab | 11343368 | 98082 | 6057
+| heaven and hell | stratos2596 | 98657490 | 97986 | 6895
+| Kaihua | X1RON | 69686688 | 97923 | 7896
+| Abstract Atmosphere | Neeki | 95518583 | 97912 | 5083
+| touhou | ZelLink | 62696726 | 97839 | 4580
+| Bliss | Yendis | 52836737 | 97640 | 10701
+| Final Mission | Findexi | 10171935 | 97194 | 12487
+| NOW | YunHaSeu14 | 64653464 | 97111 | 8176
+| Post Processing | Met3o | 70912173 | 96995 | 8293
+| nef | Darwin | 45889713 | 96959 | 10067
+| Up and Down | Illli | 99351044 | 96888 | 10740
+| electrodynamix v3 | iiIneonIii | 1376514 | 96852 | 4354
+| SWAG STRIDE | Lightning78 | 74640206 | 96806 | 6341
+| Decrypte | MrSpaghetti | 90689192 | 96771 | 5390
+| SpoOky | ZubWill | 58261214 | 96745 | 5630
+| the realistik v2 | Irika | 6977311 | 96667 | 9851
+| Global Warming ii | Dorami | 4302350 | 96611 | 9594
+| Colorchaser | jacr360 | 84447851 | 96569 | 4968
+| Colorchaser | jacr360 | 84447851 | 96569 | 4968
+| retical | Gouns | 31924650 | 96454 | 13789
+| Electro Adventures 2 | xQuadrant | 4982137 | 96345 | 9792
+| Frostfire | NukeForceX | 100539622 | 96333 | 6957
+| party time | Iid4sh3riI | 13108300 | 96313 | 10422
+| Downburst | Edooox | 90078680 | 96300 | 6613
+| The Great Gobsmack | Wav | 96341415 | 95905 | 6259
+| Electrodinamix RM | Lixars | 54345662 | 95819 | 6107
+| S L E N D E R | SH3RIFFO | 725563 | 95610 | 6644
+| Emotional Journey | RadiationV2 | 24676724 | 95573 | 11246
+| Color Chase | Jeyzor | 3406038 | 95570 | 10408
+| FlashBack | jaffytaffy | 12686708 | 95558 | 10625
+| Hexagon Madness | SMBlacktime | 1706773 | 95484 | 6929
+| W I T C H B L A D E | Fedistg | 99933525 | 95194 | 7010
+| Star Wars | mrjedi | 46933880 | 95190 | 8143
+| nature trip | pyshoGD | 71767563 | 95126 | 6495
+| Where The Sky Fades | Knots | 45772757 | 94975 | 9508
+| spartan 117 | loogiah | 12035881 | 94844 | 9432
+| Entranced | Defiant | 19980547 | 94728 | 12994
+| Liftoff | Usermatt18 | 21827558 | 94575 | 14078
+| Ghost Alley | Starbooy | 28913982 | 94492 | 13484
+| DOM | kodex360 | 69220154 | 94420 | 4563
+| Warning | DangerKat | 71307107 | 94301 | 6702
+| SkeletroN | 4rcO | 81813524 | 94279 | 7229
+| Thousand | Texic | 65484990 | 94198 | 9930
+| Party House | nehegas | 27576767 | 94177 | 11974
+| gwa gwa | logiking | 65219497 | 94165 | 6287
+| Kawaragi | MittensGD | 73950635 | 94010 | 6529
+| H8 | Megaman9 | 19062070 | 93971 | 11090
+| Radiant Revolution | PyroGix | 103190335 | 93810 | 6019
+| Aura | JustBasic | 55056653 | 93777 | 6489
+| secret laboratory | RealKamijo | 362846 | 93775 | 6056
+| Magico | ViPriN | 1778161 | 93730 | 9843
+| Dragon Force | zara | 1733330 | 93635 | 4817
+| The Killer | Tedesco96 | 26561501 | 93607 | 13410
+| Dear Memories | God Of Music | 58521861 | 93553 | 5704
+| Huh | Lyrial | 68683520 | 93430 | 4050
+| Sky Drive | Rek3dge | 4308967 | 93390 | 9653
+| darkness heaven | Experience D | 1116402 | 93384 | -2653
+| Farben | Xatz | 72997580 | 93374 | 6186
+| X2 easy | Mixroid | 110417 | 93356 | 5360
+| New Genesis | lumpy | 12053144 | 93179 | 11884
+| Revolution Realm | Dorami | 2350276 | 93133 | 5730
+| Burst of Chaos | Usermatt18 | 27149933 | 93095 | 11384
+| Cosmic Dreamer | DemonMKer | 3257384 | 93056 | 8905
+| Disposition | Usermatt18 | 24454672 | 93041 | 12816
+| Star Map | Texic | 94429941 | 92983 | 6805
+| Restart | ChrySpy | 75767917 | 92875 | 6007
+| Glorious Morning | Dorami | 2917343 | 92824 | 9271
+| Revenge | MrSpaghetti | 70146400 | 92784 | 9829
+| Time Memory | TrueNature | 3870544 | 92749 | 7137
+| Breakfast Frenzy | Knots | 56898043 | 92611 | 7431
+| blackout | tunar98 | 86108 | 92535 | 4528
+| In full action | ZelLink | 9346867 | 92468 | 8989
+| velocity | jacr360 | 27874711 | 92465 | 11707
+| Fallen Era II | PSAY | 26154761 | 92279 | 10877
+| GossVandal | Renn241 | 75452858 | 92257 | 6995
+| Virtual Rift | Hinds | 3637514 | 92231 | 10303
+| THE DROP | mbedsun | 81231368 | 92126 | 7344
+| Lightmares | Wav | 60929446 | 92084 | 8053
+| electrohalloween | Wilz | 57950791 | 91855 | 6355
+| Blooming | WOOGI1411 | 3512246 | 91559 | 8234
+| Cityscape | 1u49 | 69979225 | 91343 | 5607
+| BMPmap | 9767 | 99986024 | 91333 | 6646
+| Misterio | FunnyGame | 41453591 | 91220 | 7267
+| The Invasion | MuLhM | 11972868 | 91214 | 11876
+| Modesto | ViPriN | 1702937 | 91101 | 8128
+| OverLand | SkillzAura | 31746958 | 90711 | 12431
+| Waterfall Cave | weoweoteo | 3957370 | 90703 | 10561
+| The Ultimate Show | Etzer | 3188430 | 90594 | 9804
+| Embers | Svyre | 28361950 | 90590 | 7680
+| BrainETR II | Moffer | 97044666 | 90536 | 6360
+| Mystica | Rexone | 41241008 | 90522 | 7085
+| Project utopia 4 | Experience D | 2615814 | 90335 | 6108
+| Altiora Petamus | G4lvatron | 51694267 | 90321 | 8718
+| divine | TheRealWind | 76336526 | 90309 | 6871
+| Moai | realwhata | 65571312 | 90266 | 8291
+| Prescript | flash | 61860688 | 90077 | 6044
+| UMA | Echonox | 15901610 | 90024 | 12122
+| Eliminator | Alderite | 33405447 | 89953 | 12344
+| The Final Round | DiaWord | 20381077 | 89909 | 14099
+| Exitus | LTGS | 16241318 | 89847 | 12846
+| Light Wave | Myinus | 1267676 | 89729 | 5247
+| Poison Valley | Nico99 | 29073556 | 89668 | 12185
+| Dew | Optical | 35287682 | 89645 | 13744
+| Nelis force  | SashleyMyLoved | 87026987 | 89643 | 4905
+| Nelis force  | SashleyMyLoved | 87026987 | 89643 | 4905
+| Aether Catalyst | Toxic GD | 20083166 | 89611 | 12153
+| The Metal Game | Tygrysek | 9448240 | 89546 | 12125
+| End of the world | Superopi | 3637926 | 89511 | 10494
+| Me | AlexEa | 69106677 | 89510 | 5788
+| Apocalypse | Superopi | 10071566 | 89461 | 11563
+| Rise | jaffytaffy | 21814026 | 89425 | 10584
+| Dawns dungeon | Experience D | 9603538 | 89394 | 10349
+| Lift off | haoN | 27316270 | 89297 | 13680
+| Block Cave | MrLumo | 18081418 | 89296 | 9922
+| AraZonA | Bassiegames | 13366076 | 89296 | 11017
+| Full Moon | FrostDragonGD | 57988282 | 89288 | 4953
+| Fexeu | Rifky12 | 73960778 | 89200 | 6237
+| Second Race | Skitten | 6770184 | 89165 | 11079
+| Christmas Sleep | DeniPol | 51797882 | 89101 | 7170
+| ColBreakz | Alex  GD | 25433425 | 88870 | 5630
+| Universe Collapse | NiTro451 | 16526308 | 88635 | 10676
+| AeReal | AyDiePay | 30473338 | 88630 | 13777
+| Space Invaders | HideousToaster | 59181868 | 88619 | 4496
+| Shakedown | Florent | 13924148 | 88159 | 10893
+| Coexistence of star | Experience D | 9729902 | 88155 | 10561
+| Monolithic Rush | BranSilver | 44089512 | 88105 | 9094
+| Chatel | abdula | 61030693 | 87986 | 8593
+| Lego Madness v2 | lNitroxin | 12188908 | 87924 | 6719
+| RAINBOW sense final | ZelLink | 1291078 | 87889 | -2427
+| Radiation Hazard | JerkRat | 1852658 | 87788 | 9
+| Ancient Keeper | Robotic24 | 63090665 | 87655 | 5497
+| Alegria | luisJRgod | 39875856 | 87548 | 6162
+| Dream Team | Surv | 20465958 | 87424 | 11037
+| Dual Fantasy | dhk2725 | 13984469 | 87380 | 7464
+| Normalism | ElEcmEtAl | 610016 | 87350 | 2670
+| The Resistance | TheRealRow | 52244801 | 87291 | 8590
+| Spacial Rend | Angelism | 6456055 | 87178 | 8567
+| Funky Trigger | ZenthicAlpha | 786083 | 87153 | 7366
+| Earth Break | Mulpan | 37589679 | 87050 | 10484
+| Vortex Focus | YunHaSeu14 | 46516835 | 86962 | 8594
+| Perfect Storm | Raszagal | 4957305 | 86908 | 9584
+| Faraway | Picha | 7003842 | 86849 | 11491
+| Runaway v2 | Alaiskai | 6451503 | 86692 | 7411
+| Lightcolours | OpteX | 17688915 | 86662 | 10174
+| Art of Music | BranSilver | 36121059 | 86586 | 10981
+| Believe | Twistaah | 95726237 | 86577 | 7660
+| slopez | ItzMezzo | 98286716 | 86559 | 6627
+| Mr Spike III | FUNKYpersy | 62370077 | 86520 | 4196
+| Friction | Star77 | 26887355 | 86328 | 14446
+| Spacial Rush | Skitten | 35691290 | 86178 | 11322
+| Guardians | AmorAltra | 29716471 | 86137 | 11939
+| V I S I O N | Leinad421 | 14775594 | 86059 | 11154
+| Legends | MrSpaghetti | 81188907 | 85852 | 6090
+| The 3rd Crepuscule | crepuscole | 827470 | 85688 | -1493
+| Toxic Tower | nainteils | 9900676 | 85674 | 8941
+| Hydraulic | Shutter | 32076650 | 85503 | 7785
+| maze house | RealKamijo | 827737 | 85500 | 5696
+| Lune | Cdpre | 59774900 | 85394 | 4199
+| ELECTRONIC STAGE | Ad0NAY27GD | 94479442 | 85358 | 6264
+| NelisileN | OLEEEEG | 88034052 | 85287 | 6973
+| For Skeleton | SMBlacktime | 4536291 | 85185 | 9516
+| DashPot | JM70 | 27393326 | 85158 | 4708
+| Best Track | TrueNature | 1823557 | 84991 | 4346
+| Dashing Muse | RedlixHD | 59545322 | 84962 | 3195
+| The Spire | thejshadow | 97627772 | 84887 | 10306
+| Rainfall | NeyvaShift | 25161168 | 84873 | 11462
+| Popcorn | xXTotoXx | 10966402 | 84864 | 4963
+| Gotcha | DesTicY | 26020477 | 84787 | 9651
+| Candy Land | MrCheeseTigrr | 426785 | 84402 | 5510
+| Glittering Cave | TheAquila | 13166480 | 84381 | 10182
+| Radon | EVAD3 | 24590907 | 84096 | 9918
+| Movistar | FUNKYpersy | 63553145 | 84080 | 6227
+| Outcast | MistFix | 63707301 | 83849 | 3616
+| Hydro Rush | GMD Dominator | 34056925 | 83513 | 11876
+| Lonely Dasher | Rublock5 | 2331040 | 83487 | 416
+| Legato | ViPriN | 1680100 | 83343 | 8158
+| Hyper Destruction | MorpheiX | 8919083 | 83328 | 10437
+| Nautilus | GDFlutter | 76778424 | 83320 | 4662
+| Chipper | Superopi | 29622290 | 83281 | 9172
+| H3H3 | chipzz | 20218985 | 83087 | 10704
+| Vita Nova | LucyGMD | 98358682 | 83043 | 7447
+| End of the World | xRadian | 6741892 | 82860 | 10167
+| Micro Mages | Cleber012 | 91345763 | 82832 | 5292
+| BRAINSLUSH ULTRAMESH | xyuns | 72126073 | 82706 | 5682
+| GreeD | Danzmen | 33594551 | 82700 | 9225
+| Changing | Usermatt18 | 10635193 | 82649 | 10736
+| Chess Maze | Gelt | 1410045 | 82362 | 3308
+| Under Water | sheredX | 98707647 | 82340 | 4556
+| What is This | IIErickGDII | 90511166 | 82327 | 5043
+| thoughts thoughts | cerufiffy | 73962802 | 82258 | 6293
+| Friday Night | Megaman9 | 11918033 | 82253 | 5029
+| ChromaPunk  | DT Mark | 7635942 | 82210 | 10405
+| jumper version2 | LIM | 74360 | 82060 | 2400
+| Kurli Batik | RikLymback | 54795218 | 81892 | 5476
+| Isolated | JacobROso | 19040717 | 81778 | 10732
+| Devoto | ViPriN | 1860434 | 81680 | 8681
+| New Beginning II | SMBlacktime | 11190238 | 81605 | 10638
+| Falcon Punch | Rublock5 | 3190828 | 81589 | 9230
+| Lunar Remains | BridgetTheCroco | 69801989 | 81326 | 5807
+| hue180 | Wulzy | 51322879 | 81187 | 6911
+| Sibilant | xSlendy | 99852563 | 81100 | 7739
+| Chin | NogZ | 56798192 | 81077 | 4570
+| The Reign of Osiris | doritos1 | 52292679 | 80967 | 8458
+| Fluidic World | TrueNature | 1597630 | 80943 | 3612
+| OverWorld | Spawn | 75016 | 80935 | 3792
+| Alien | TroxxP1 | 49942943 | 80861 | 7777
+| Abyssal Paracosm | Haru | 13449388 | 80820 | 15428
+| Hexagonest | Gelt | 1643353 | 80796 | 4627
+| SpeedBounce | Masterale | 37006382 | 80791 | 9644
+| Hall of Gods | StraRQ | 85421294 | 80776 | 3864
+| Hall of Gods | StraRQ | 85421294 | 80776 | 3864
+| Glitterfunk | Glittershroom | 1088582 | 80776 | 5052
+| vStep | TrueNature | 1344761 | 80628 | 3276
+| The Wrath | FreakEd7 | 27648032 | 80558 | 11615
+| SuperSunix | MrSpaghetti | 85510538 | 80523 | 7573
+| SuperSunix | MrSpaghetti | 85510538 | 80523 | 7573
+| Elegy | ViPriN | 1417005 | 80490 | 6969
+| electrodynamix remix | qurnl2012 | 930712 | 80488 | 3994
+| Surge | SirHadoken | 40249367 | 80371 | 7502
+| Funky Bliss | FozaeKitty | 36080060 | 80310 | 9414
+| Rise | Seokso | 52119771 | 80227 | 7837
+| La Citadel | Robotronx | 102486777 | 80185 | 3097
+| Monster City II | SilverSoul | 2436868 | 80081 | 5752
+| HappyBirthdayGormuck | MrSpaghetti | 80489631 | 80056 | 6119
+| Panoramic | ch4rlie03 | 83974292 | 80009 | 4674
+| Panoramic | ch4rlie03 | 83974292 | 80009 | 4674
+| Flare Aura | Nico99 | 45364968 | 79988 | 9093
+| Postscript | gecko0 | 60179265 | 79976 | 6072
+| The Rusty Tower | LinuDi | 98498149 | 79857 | 8088
+| Resurrection | Wav | 61671641 | 79791 | 4535
+| Tech Run | Lugunium | 20029588 | 79756 | 5925
+| chromatic area | SAS07 | 99543842 | 79700 | 6351
+| OuterDimentional | stubbypinata | 26393200 | 79689 | 10893
+| Entity | LandonGMD | 58490994 | 79683 | 4647
+| Ghost house | Experience D | 1165107 | 79338 | -1073
+| Crystal Genesis | izhar | 12138199 | 79291 | 9436
+| Spearmint | Simwamwi | 88414262 | 79164 | 4919
+| Spearmint | Simwamwi | 88414262 | 79164 | 4919
+| Mantroskylo | Myo0 | 32983817 | 78996 | 10999
+| Rivals | Darwin | 34816164 | 78954 | 9670
+| Dolce | ViPriN | 1829155 | 78865 | 7479
+| Dank Egypt | ExtoPlasm | 55128872 | 78864 | 5424
+| EricVanWilderman | Awzer  | 40878233 | 78654 | 9334
+| Dark Waver | Altin | 10250333 | 78429 | 11537
+| CYBERNINJA | JesseGDGaming | 102637473 | 78428 | 5602
+| Triple Gear | Andro3d | 16038130 | 78405 | 9388
+| Time Lapse | joarZ | 7305075 | 78096 | 5868
+| Freezen flight | Experience D | 2167922 | 78023 | 5863
+| day dream | pineapple | 4401283 | 77982 | 7126
+| Worst Drop | BrainETR | 93655958 | 77915 | 7631
+| SewerStep  | TheRealDarnoc | 198694 | 77809 | 4179
+| Fletcher | fin | 18595506 | 77744 | 9985
+| Nemesis | Jabbagrullo | 8692201 | 77535 | 7113
+| Circus of Disaster | heda | 60770289 | 77421 | 4178
+| Your Love Is Gone | IsmailDaBest | 61148925 | 77241 | 4194
+| xMine | TrueNature | 2198513 | 77221 | 4450
+| zenthics birthday | Experience D | 1055455 | 77180 | 5581
+| Realms | Cirtrax | 57023664 | 77163 | 6060
+| Voluto | Findexi | 9957223 | 77043 | 9450
+| Crimson Thoughts | Aprevwaves | 92315050 | 76924 | 6228
+| Tentacle Tackle | Hyenaedon | 48352376 | 76805 | 7578
+| Beerus | abdula | 37792980 | 76748 | 4794
+| We Can Dream | Anya21 | 76453771 | 76719 | 7305
+| AS ABOVE    so below | Umbraleviathan | 103617480 | 76570 | 4245
+| Deep purple | AleXins | 100155462 | 76568 | 4353
+| manifest | epiphani | 69908940 | 76534 | 5399
+| Desolation | Samoht | 33121504 | 76533 | 11129
+| broken | Waddl3 | 75615718 | 76507 | 6237
+| Simplist Disco | JamAttack | 58404289 | 76425 | 6323
+| Rebound | DangerKat | 94246028 | 76334 | 5422
+| Into The Zone | MrRedpandaaa | 103141361 | 76258 | 4979
+| ElectroInevitability | noobas | 4004569 | 76238 | 6869
+| Check Steam | gruzzy | 96241895 | 76179 | 3722
+| Quasar | MasK463 | 154617 | 76165 | 2450
+| Frosty Forest | nehegas | 32751561 | 76146 | 10614
+| Hallows | Cirtrax | 65023248 | 76123 | 3902
+| Power Of Track | NormDanchik | 48414093 | 76119 | 6931
+| Electrical Haze V3 | iIJigSawIi | 13220783 | 76102 | 8282
+| Asterisk | ZenthicAlpha | 702576 | 76066 | 7385
+| Parasite | LeocreatorX | 46048898 | 76001 | 7392
+| SpeedyStep | Sumsar | 966841 | 75904 | 4963
+| envie | ChiN3x | 37382404 | 75850 | 10329
+| colour kamikaze | alkali | 59403326 | 75755 | 5962
+| Blast Rift | DreamEater | 13243563 | 75679 | 7426
+| Shattered Engine | Dudex | 19358412 | 75665 | 12115
+| wobbly tooth | Iid4sh3riI | 5004303 | 75631 | 6693
+| transform | Enceladus GD | 35216845 | 75555 | 10706
+| Okiba Crackdown  | Andro3d | 14953076 | 75537 | 7794
+| SunSet 3 | Jeyzor | 1069020 | 75507 | 6693
+| HOT | Dakotazishere | 96926775 | 74967 | 6600
+| Amalgam | Wav | 77177533 | 74935 | 6586
+| Sucker For Orange | Split72 | 98814860 | 74922 | 5757
+| Carousel | Hychie | 96173957 | 74917 | 4605
+| Running | RunningGMD | 98622241 | 74839 | 5627
+| Sleighfeu | para | 65881638 | 74769 | 4839
+| Orbin | Proact | 101850302 | 74702 | 7774
+| Midnight Tower | BuiltInMacro | 97552065 | 74697 | 4267
+| Reincarnation | GdTheTactiq | 13062542 | 74695 | 9044
+| Celestial Ascent | Df0rDie | 67192024 | 74662 | 3675
+| Aethers | Ashes  | 14807960 | 74529 | 8997
+| Glowing Maze | Florent | 11881544 | 74527 | 9691
+| Zenith | BrexXes | 96285671 | 74519 | 5798
+| Theory of Wildstep | Glittershroom | 920378 | 74389 | 6384
+| Impulse | iIiRulasiIi | 12923025 | 74264 | 8386
+| Pyrocastellum | Vermillion | 12563351 | 74192 | 9973
+| ugh | Waltertheboss | 70754765 | 74184 | 6010
+| cave  escape | Dyone | 100791583 | 74134 | 4462
+| Partition | Leafparfait | 52867460 | 74105 | 5004
+| LUV | Megaman9 | 21979732 | 74066 | 9730
+| Creo | Aconn | 65032457 | 74045 | 6642
+| TimeLapse | TheRealDarnoc | 173410 | 74037 | 3980
+| Chromatic Engines | chona026 | 58471832 | 73984 | 3790
+| P O R T A L | SH3RIFFO | 1327725 | 73815 | 5114
+| Go Flex | MrSpaghetti | 87301459 | 73748 | 5048
+| Go Flex | MrSpaghetti | 87301459 | 73748 | 5048
+| Bop it | SleyGD | 61307713 | 73710 | 4537
+| Frozen Fusion | Rob Buck | 9301350 | 73698 | 7151
+| Be Gone Mr Gawne | Vlacc | 8028457 | 73645 | 7779
+| FIDDLESTICKS | Split72 | 78592018 | 73612 | 6427
+| Flares | Nikce | 56395811 | 73435 | 6472
+| IX | ItsEnigma | 73993098 | 73410 | 5023
+| Change the size | YunHaSeu14 | 163022 | 73267 | 4450
+| XOZGAZ | Pettsu | 92251660 | 73183 | 4852
+| Fun House | - | 1993542 | 73181 | 3790
+| chronological run  | xcy7 | 8918708 | 73099 | 7001
+| Bling | SomeRandomCow | 96130258 | 73032 | 5240
+| The Triggers | SP ValuE | 94397190 | 72972 | 6181
+| bass knight | Iid4sh3riI | 10464681 | 72882 | 7235
+| Glitter Force | Glittershroom | 1664266 | 72828 | 6489
+| Marble Run | Empika | 79926284 | 72823 | 5570
+| Halberd Invasion | ZelLink | 4647018 | 72701 | 8699
+| Radio Cutter | Xenone | 10992269 | 72524 | 9969
+| Altern Future | Pipenachho | 64070742 | 72469 | 3549
+| Delicious | Dafingus | 38614895 | 72388 | 8982
+| Silver Revolution | SilverSoul | 12745453 | 72359 | 7203
+| External Landscape | vonic | 82853019 | 72334 | 4252
+| External Landscape | vonic | 82853019 | 72334 | 4252
+| Robotic Nightmare | BadgerBoy | 3823860 | 72239 | 4563
+| Elysium | SkiesCore | 25081851 | 72203 | 9438
+| ranibow sprimkle | bunch | 63114666 | 72202 | 4465
+| Loogiah theory | loogiah | 3714737 | 72107 | 6205
+| Genocide | Kaito | 15262339 | 72023 | 9831
+| Wizard | DesTicY | 24604796 | 71944 | 8328
+| hyper hexagon | Jo2000 | 2189514 | 71939 | 5306
+| forest of dawn | Experience D | 391989 | 71906 | 5014
+| show no tears | SariaGD | 10884033 | 71892 | 8342
+| Theory of Space | ASonicMen | 2117076 | 71885 | 4197
+| Expulse | GCDarkGGG | 16418522 | 71849 | 8985
+| Time Road | Rabbitical | 116622 | 71836 | 3442
+| Hahaha Hard Map | RealHaHaHa | 564416 | 71779 | 3114
+| Swing Squad | TrueCopa | 14133002 | 71726 | 7614
+| Control | iIiPentagoNiIi | 86746940 | 71692 | 3416
+| GIBSUN | CatronixGD | 67977362 | 71675 | 4465
+| New xStep | TrueNature | 1982393 | 71635 | 4695
+| Col travel | NASHII | 31489120 | 71608 | 9388
+| Fusion | xcy7 | 17422082 | 71603 | 9746
+| Meowter Space | netherdon | 29456899 | 71526 | 7487
+| Toxicant | ValkyrieMaster | 66448095 | 71444 | 3625
+| 9CT | Cdpre | 61092684 | 71444 | 5468
+| Lumen Semitis | ChaSe | 24539953 | 71415 | 8970
+| the deepest depths | studt | 68289526 | 71331 | 4606
+| new clutterfunk | Experience D | 1948117 | 71236 | 4795
+| 3AKAT | Inex | 88852164 | 71215 | 10792
+| Fancy | Lorserix | 65546984 | 71198 | 7573
+| mechanic soldier | Experience D | 1417766 | 71193 | 4163
+| Double Jump | Andro3d | 13895667 | 71179 | 7541
+| The Last Fraction | FreakEd7 | 47737567 | 71014 | 7197
+| Glowing Outrage | DubstepFanatic | 95751851 | 70849 | 5088
+| Zer0 | Mitz | 41483972 | 70773 | 7473
+| Cord Cutter   | LeocreatorX | 33994217 | 70758 | 8547
+| Red 13 | SilverSoul | 4584896 | 70616 | 7951
+| Pc Party | Andro3d | 11486496 | 70614 | 8289
+| Eradication | wlfn | 26607159 | 70550 | 10186
+| In A Decade And Back | JamAttack | 65116315 | 70519 | 4955
+| cyclic | Experience D | 488302 | 70435 | 5582
+| swift dynamic | Rifky12 | 73740527 | 70433 | 4827
+| Frozen Thundershock | MrCheeseTigrr | 552825 | 70272 | 5079
+| Ragnarok | Ragnarus | 36979164 | 70268 | 8541
+| Dehydrated | Sumsar | 1052703 | 70174 | 4720
+| Time Division | MasK463 | 227152 | 70170 | 3521
+| Fatality | - | 242188 | 70132 | -1094
+| Tone | thazm | 81009400 | 70074 | 5363
+| Fairy Tail | hyperfox | 36814557 | 69906 | 7856
+| Cosmos | CreatorRP | 66124694 | 69831 | 1910
+| Flash | Wav | 93970904 | 69777 | 5105
+| electric jungle | Ligh7ningStrik3 | 2394387 | 69673 | 7178
+| Happy Flying | Rabb2t | 100584 | 69642 | -1051
+| Transformed | ghostface | 26088213 | 69456 | 9970
+| cross v3 | 99geometrydash | 469549 | 69433 | 3409
+| Motives Finale | Howler | 49736625 | 69429 | 6428
+| divisi0n | euphria | 88535059 | 69371 | 4373
+| Variety of Thoughts | ChuchitoDomin | 60242867 | 69306 | 3939
+| MRRDRR | N1mda | 78870917 | 69290 | 5887
+| Blanched | Mazl | 24655443 | 69264 | 9846
+| Stomping Beats | Alexanca | 100827866 | 69220 | 4046
+| MonoStep | Hinds | 2829311 | 69193 | 12196
+| The Universe | PixelCat | 13095523 | 69101 | 8291
+| LIE 2 ME | KMJFIRE | 91920373 | 69068 | 5791
+| WindFall  | LazerBlitz | 7462126 | 69062 | 5714
+| teleporting facility | MisterM | 12534341 | 69058 | 8486
+| TRUSTFALL | DavJT | 93200208 | 69040 | 5219
+| RAZORBLADE | AudieoVisual | 94256894 | 68950 | 6895
+| Fast as Lightning | Gamerespawn | 1446681 | 68762 | 3678
+| Flier | Nemsy | 78351187 | 68750 | 6224
+| Magic Marker | Chomik56Exists | 102258000 | 68610 | 3208
+| Space Park | - | 437139 | 68607 | 3343
+| AngelSound | HyDroTek | 12138140 | 68539 | 7525
+| Biodynamix | - | 1530381 | 68473 | 2875
+| Valiant | Codex | 44434398 | 68448 | 7873
+| For Dark Boshy | SMBlacktime | 4381679 | 68442 | 7569
+| Shifting Systems | Haru | 12204803 | 68306 | 10771
+| FuturePast | ZenthicAlpha | 779444 | 68249 | 6426
+| Super mario | Brigno | 455059 | 68216 | 3070
+| space suit | alkali | 19734678 | 68204 | 10978
+| fukuoka rush         | alkali | 46235254 | 68157 | 7478
+| Demon EVO | Rob Buck | 3483898 | 68092 | 4770
+| Devine | iZappeR | 74536363 | 68000 | 4812
+| Luminance | DangerKat | 49582359 | 67995 | 7692
+| luminance | Luddee | 100384238 | 67956 | 4105
+| photonic alloy | TyphoonThunder | 56257489 | 67953 | 4408
+| toxins like nickel | llertt | 94590783 | 67918 | 4902
+| Silence | xAgustin72 | 100527047 | 67859 | 5528
+| CASTLES IN THE SKY | elrorich | 86966128 | 67777 | 7576
+| CASTLES IN THE SKY | elrorich | 86966128 | 67777 | 7576
+| Flashback Tapes | Siyphe | 100462460 | 67735 | 3273
+| Prismarine | Ardolf | 63240011 | 67711 | 3305
+| oddments | orots | 97833731 | 67708 | 5508
+| Yoshis Island | Awzer  | 41728438 | 67695 | 7135
+| StarTale | Altin | 14369261 | 67652 | 8342
+| The depths of Earth | Venillah | 98411615 | 67612 | 8431
+| The Second Gear | AnielChasseur | 62540072 | 67600 | 5222
+| velocity mines | Ggb0y | 5373613 | 67591 | 7339
+| Arcade dominator | GloryEX | 15990105 | 67558 | 6016
+| Volcanic Dungeon | Astronaut21 | 79102065 | 67418 | 5449
+| objective | LandonGMD | 69874098 | 67392 | 4658
+| Idolize | sfhRene | 71560221 | 67386 | 5416
+| Energize | Wav | 72271683 | 67264 | 4466
+| Dawn Interaction | ZenthicAlpha | 732508 | 67234 | 6173
+| Rivv | kr1t | 71098575 | 67213 | 4194
+| Catcher | alkali | 18794732 | 67209 | 8428
+| Solar Eclipse  | Draykonic | 12620029 | 67049 | 9259
+| Gradual | RetroScope | 27301294 | 66991 | 9003
+| YANDL | LudiumGD | 79470942 | 66971 | 4692
+| Baller Factory | Inoculist | 60700412 | 66747 | 2647
+| Timeless Cosmos | iFlame | 12691794 | 66732 | 5359
+| 3 Ft High and Rising | Umbraleviathan | 94270772 | 66707 | 4276
+| Afterlife | studt | 61383614 | 66662 | 4844
+| Just Kidding | DangerKat | 48493005 | 66645 | 6522
+| Ocean Temple | Sharks | 17931155 | 66577 | 5992
+| DeathCore  | MaJackO | 4063391 | 66496 | 6410
+| Megaman Return | Nico99 | 44842833 | 66491 | 6888
+| xLax | Platnuu | 18006526 | 66452 | 6055
+| BANANA FLUX | BaNaNaNaSoX24 | 83942768 | 66390 | 3056
+| BANANA FLUX | BaNaNaNaSoX24 | 83942768 | 66390 | 3056
+| Wild Throw | Split72 | 93792926 | 66384 | 5029
+| popato chisps | BrainETR | 88455136 | 66349 | 4394
+| Unlock | PAHC | 63534588 | 66320 | 3620
+| Eurorave | jaffytaffy | 7837713 | 66270 | 7576
+| Strata | Jayuff | 23205787 | 66197 | 9016
+| BlindSight | MasK463 | 223459 | 66181 | 3096
+| Punchline | Shuffle49 | 36342881 | 66124 | 8722
+| Breakthrough | Superopi | 3747698 | 66105 | 9089
+| Polargeist | 14Circles | 13051502 | 66048 | 4891
+| Digital Love | xToxiKGD | 98505121 | 65996 | 4502
+| All Around | Flukester | 40091034 | 65941 | 7956
+| Fossilis | Ploid | 49923473 | 65939 | 8040
+| Glitch Gremlin | gluewis | 24536952 | 65927 | 7404
+| clutterfunk v4 | SMBlacktime | 738804 | 65852 | 2984
+| Theory OE 2 PART 2 | RareNytemare | 4226271 | 65811 | 8866
+| crasher | - | 2079873 | 65745 | 2352
+| Daft Punk | Mulpan | 49243176 | 65720 | 5034
+| Murder | NateRavenno | 27823961 | 65656 | 6815
+| Ahippinandahoppin | WerewolfGD | 59233763 | 65629 | 3609
+| Psicosis  | abdula | 35327886 | 65554 | 8207
+| Reflection | Zwenty | 29769542 | 65542 | 9719
+| SplasH  | Danzmen | 34186314 | 65363 | 7329
+| Gris II | Davoxt | 102620708 | 65162 | 3312
+| Rainbow Sky | YunHaSeu14 | 111375 | 65129 | 4880
+| SternschaueR | Tfor1 | 102176550 | 65018 | 4189
+| NINE | YunHaSeu14 | 73244272 | 65015 | 5345
+| Terry | Destriv | 88156177 | 64971 | 3844
+| -genesis- | greXxio | 17716977 | 64897 | 10396
+| Demonclub  | Pasiblitz | 3816759 | 64858 | 4860
+| Mayhem | dakiro | 57556923 | 64649 | 4775
+| MOUNT 27 | Sardll27 | 79931779 | 64606 | 4414
+| VisualizE | motleyorc | 27909038 | 64601 | 6078
+| Primal Tear | Minesap | 1342233 | 64442 | 3171
+| Invisivle Cycles | - | 439914 | 64309 | 8677
+| Lockout | Joltic | 26902538 | 64209 | 8211
+| Magic Box Mansion | TemperedShoeGD | 99424014 | 64177 | 5235
+| back on troll | Defectum | 1225197 | 64116 | -1437
+| Dynamic Interaction | ZenthicAlpha | 766269 | 64114 | 5925
+| OreGon DonoR | jifya | 80100355 | 64088 | 6284
+| hyperactive | St1ngray | 1430966 | 64081 | 2454
+| Stargazing | Aquatias | 13289797 | 63735 | 7924
+| Keep in Touch | Zoroa | 57499171 | 63733 | 5430
+| Catastroforce | RealSoulDash | 2381675 | 63535 | 3861
+| Midnight Sun | DemonBestGG | 288141 | 63524 | 3216
+| Mobilization | Brawlboxgaming | 17881185 | 63445 | 8465
+| Misch | Xatz | 69845405 | 63442 | 4969
+| hexagon function | Experience D | 1809811 | 63239 | 3836
+| bichrome | ChiN3x | 55793219 | 63164 | 3756
+| TKM XATZ | JHERALD | 84807612 | 63011 | 4364
+| TKM XATZ | JHERALD | 84807612 | 63011 | 4364
+| i go to bim planet | Bimms | 101860446 | 62910 | 4066
+| Crystal Rush | MattMrn | 9330319 | 62897 | 8206
+| Evedatsia | Doujo | 27579224 | 62831 | 8261
+| Theory of Dawn | Experience D | 2320532 | 62675 | 4805
+| jarvisgreatcollab | robotchief | 87244270 | 62592 | 4969
+| jarvisgreatcollab | robotchief | 87244270 | 62592 | 4969
+| Hex Protocol | Insendium | 1788053 | 62554 | 3968
+| line of dawn | Experience D | 1201611 | 62542 | 3723
+| One Take Wulzy | Wulzy | 94200308 | 62541 | 3632
+| The Intruder | Alex112300 | 56736010 | 62538 | 4802
+| Psychic Interaction | ZenthicAlpha | 795479 | 62497 | 5900
+| Bubblegum | Zeniux | 101282008 | 62494 | 5419
+| Never Again | Mazl | 12081282 | 62461 | 8285
+| Cosmic Station | Rexonics | 79071874 | 62438 | 4773
+| Vector | charky | 51558598 | 62434 | 6160
+| Uplink | Xaro | 12193212 | 62420 | 9152
+| Pure Power | Edooox | 74332871 | 62396 | 4857
+| RIVE | X1RON | 102995937 | 62370 | 4015
+| PhantO | 70UNIK | 57358777 | 62370 | 5968
+| Deja vu | Oskux | 12608780 | 62320 | 6524
+| SIMG Factorial 1 | LunarSimg | 98862 | 62314 | 6116
+| Heaven | BroodingAcorn | 98100704 | 62303 | 4707
+| Speed POP Race | YunHaSeu14 | 317321 | 62240 | 4391
+| Garden of Shapes | Jinnans | 65398705 | 62147 | 4692
+| Slow Mortem | Pipenachho | 22360278 | 62097 | 6451
+| WRONG WAY | spark | 72342790 | 62067 | 4470
+| ILTOG | ThatJack | 79870351 | 62036 | 4691
+| Rotd II | MorpheiX | 32367759 | 61966 | 8745
+| ElectroNova  | CheeseFudge  | 2082646 | 61949 | 2120
+| gravity | xcy7 | 16825624 | 61931 | 8337
+| Electrika | Dorami | 10335448 | 61923 | 8439
+| Damn squad | NASHII | 40116461 | 61922 | 6086
+| 9o | Axrus | 11634242 | 61880 | 5756
+| ikuzo | SpooFy | 57801626 | 61874 | 5455
+| Happiness | FaekI | 41295704 | 61768 | 6282
+| Abandoned Castle | Gvozden | 18053869 | 61735 | 7777
+| Recalibration Row | Nemsy | 74177398 | 61696 | 6402
+| bFs | Cdpre | 58966172 | 61690 | 4102
+| Finality | DriftGMD | 95585136 | 61640 | 4448
+| Laboratory | Jeyzor | 1239805 | 61639 | 3732
+| ampuis | bunch | 63265053 | 61613 | 4137
+| Time Capsule | ASonicMen | 4643530 | 61551 | 7102
+| Firefactory | Rustam | 14582993 | 61268 | 7622
+| The Wastelands | dolphe | 57586194 | 61234 | 4460
+| DELTA | ZubWill | 97251941 | 61210 | 4107
+| Rise of the Dead | Jeyzor | 2821959 | 61117 | 5319
+| Filia Project | TroxxP1 | 61350105 | 61048 | 4288
+| Will II | Non4med | 14298827 | 61029 | 7154
+| Game Master | BlastiXGD | 45627449 | 60987 | 4995
+| Lost Time | Texic | 57893804 | 60877 | 3601
+| SteamPunk Something | Andro3d | 24373571 | 60839 | 7349
+| Lucid | Wav | 76794274 | 60775 | 5599
+| i travel sky 2 | RealKamijo | 480731 | 60734 | -137
+| STARS SO BRIGHT | dkitey | 98466191 | 60723 | 7808
+| AssteroiD | Pwohna | 87307101 | 60620 | 3579
+| AssteroiD | Pwohna | 87307101 | 60620 | 3579
+| AssteroiD | Pwohna | 87307101 | 60620 | 3579
+| Strongest Stage | mkComic | 11040708 | 60608 | 6593
+| Valkyrie | AeonAir | 2203275 | 60506 | 3738
+| Rampant | Chlorines | 26636856 | 60477 | 5721
+| Bonkers | BranSilver | 57154297 | 60468 | 4327
+| Glow n Stuff | spark | 51547514 | 60437 | 5876
+| Sinister Power  | TheRealSquizz | 13042662 | 60424 | 8241
+| One Touch | Hilsh | 94691025 | 60340 | 4670
+| Final Battle  | Andro3d | 13277456 | 60188 | 6819
+| Inference | VoBrAn | 13880478 | 60141 | 7500
+| SuperUltimateCore | Dorami | 3996715 | 60140 | 5801
+| -contemptible- | Iqrar99 | 15085083 | 60125 | 7884
+| Glowy WooWy | DrimpGD | 84919930 | 60026 | 2910
+| SQUARE ONE | Jovc | 80776218 | 59998 | 5038
+| SQUARE ONE | Jovc | 80776218 | 59998 | 5038
+| Snowhy Bells | MeowSgam | 66010605 | 59948 | 3750
+| Breakout | Wav | 87091300 | 59857 | 4630
+| Upside Down | ColinT | 88240918 | 59851 | 3602
+| Upside Down | ColinT | 88240918 | 59851 | 3602
+| DashTea | Mojitoz | 60412613 | 59817 | 2364
+| Crispy | EVAD3 | 17738301 | 59668 | 8923
+| Plasmatic | Jeyzor | 1027392 | 59662 | 4191
+| Forwards | Jeikins | 76575869 | 59628 | 4003
+| Spookay | Alex112300 | 64641398 | 59587 | 3749
+| destroyer | Wilz | 61611365 | 59579 | 3452
+| Inmune Fusion | nehegas | 28060276 | 59579 | 9546
+| Dreamscape | Angelism | 4913812 | 59555 | 7713
+| Razzmatazz | Norcda Childa | 19076528 | 59530 | 8548
+| LAUNCHERRRRRRRRRRRR | PICAAAAAA | 84398056 | 59469 | 3213
+| TimeBreaker | xPix3lest | 26847681 | 59407 | 7648
+| Electro Plasma | MrCheeseTigrr | 459504 | 59346 | 4748
+| FITH | 4rcO | 98231998 | 59190 | 4659
+| Switch | HcreatoR | 93671325 | 59176 | 4566
+| Mitsotakhs | Darite | 71882443 | 59171 | 4194
+| BladePark | TheRealDarnoc | 146873 | 59115 | 2723
+| Triumph | MrSpaghetti | 90297342 | 59093 | 4829
+| Triumph | MrSpaghetti | 90297342 | 59093 | 4829
+| sleepy joe | fr3dmc | 94160507 | 59069 | 4754
+| Gettin Flipped | nmth14gp | 79533496 | 59035 | 2851
+| Heaven X | Pollapo | 4662856 | 59031 | 4436
+| blood of chaos | Experience D | 664255 | 58855 | 3742
+| Spell IHOP | robotchief | 85760643 | 58740 | 3447
+| Pancakes | Pan | 22162476 | 58703 | 8415
+| RoboActive | Polarbeahr | 89216582 | 58701 | 6274
+| ClutterGears | Minesap | 1078706 | 58620 | 3655
+| ronaldinio gauczo | jneh | 75966527 | 58569 | 4452
+| Knock Out | Yakimaru | 48682510 | 58551 | 5988
+| Shinobue | Hyenaedon | 54747724 | 58462 | 3962
+| Crop Duster | Skitten | 5172601 | 58447 | 8463
+| Phi East and Fern | Bizaare | 78342984 | 58437 | 5433
+| W0rk | iArcanGD | 63099070 | 58398 | 3317
+| Clutterfocus  | Andro3d | 32667717 | 58302 | 6952
+| Aight peak enough | truongwf | 103360349 | 58162 | 3058
+| Take a Look | SMBlacktime | 3170195 | 58161 | 7624
+| POWERSOUND | azubh | 84119264 | 58085 | 2958
+| POWERSOUND | azubh | 84119264 | 58085 | 2958
+| 404 | Carnitine | 92880221 | 58068 | 4872
+| level two | AirForce | 14088202 | 58041 | 7123
+| Super Lasaga Winter | AppleM2Chip | 76800080 | 57946 | 3575
+| Herofunk | Mursu | 4850366 | 57887 | 7742
+| touching grass | kr4t | 91248722 | 57826 | 4258
+| Rhythm Buster | DangerKat | 87047223 | 57809 | 4253
+| Opus | Falkuma | 44205936 | 57797 | 5045
+| Concern | AyDiePay | 33835902 | 57796 | 8777
+| Nightloween | Cesardavid21GD | 84060400 | 57702 | 3447
+| PumP It | EchoSpiracy | 32253831 | 57697 | 8091
+| AuroraTheory  | EternaswipVMAX | 9384998 | 57632 | 7488
+| Across | gluewis | 26089760 | 57522 | 9050
+| Hot Air | 64x | 93382584 | 57517 | 3916
+| Minimal Madness | Plygon | 40508974 | 57497 | 6375
+| Spicy | NASHII | 38364372 | 57483 | 6778
+| Dont lose your way | Dashtrict | 26116979 | 57421 | 8682
+| Frenzy | balli | 60478107 | 57361 | 4137
+| Bababarbaque | kodex360 | 69143296 | 57336 | 2381
+| Mixed Emotions | Zircone | 65491112 | 57311 | 3851
+| We Are Stardust | Myaaaaaa | 87323786 | 57192 | 3255
+| Star Gazing | MrLorenzo | 44494992 | 56836 | 6272
+| time nova | Experience D | 2275894 | 56708 | 4837
+| System Reboot | ASonicMen | 8122026 | 56628 | 7377
+| BOOM Blast | AndrixGD | 93590654 | 56601 | 4089
+| Dream Away | Lumicon | 68983316 | 56587 | 3465
+| Clusterfunk | cyaNeon | 2035697 | 56533 | 2537
+| kaCHING | flash | 41699713 | 56371 | 5871
+| Mixtape | vyp | 102474413 | 56357 | 3956
+| Level Two | Serinox | 67596678 | 56313 | 2853
+| bims platformer | Bimms | 97740305 | 56225 | 5951
+| Hidden Identity | Cubix | 16856676 | 56157 | 7317
+| T Rex | PETTER | 62480701 | 56144 | 7125
+| Hopefulness | Tedesco96 | 21990731 | 56114 | 6744
+| Louis XIV | Ficelo | 93831576 | 55964 | 4749
+| Hyper Time | YunHaSeu14 | 93046435 | 55917 | 4431
+| Disgust | iArcanGD | 78936090 | 55915 | 4292
+| Bolt | Hyenaedon | 26632729 | 55871 | 6119
+| Delusion | Zcratch | 30253315 | 55865 | 6997
+| Dark Nebula | Glittershroom | 1831263 | 55840 | 4732
+| Generic wave iii | The Goola | 78743399 | 55820 | 4291
+| Dark Madness | - | 953539 | 55817 | 4240
+| across  | SrToposaurio | 98635067 | 55809 | 3841
+| Le Viking | MrSpaghetti | 78105627 | 55806 | 5478
+| SpeedBreaker | LazerBlitz | 10590863 | 55702 | 5827
+| What if | JumpingTheory | 68901612 | 55610 | 3136
+| Love Life | Pollapo | 4780933 | 55473 | 4439
+| annoying shower | haizenberg | 24724657 | 55449 | 6605
+| DeadBeat | GDAndreZ | 26053134 | 55434 | 7289
+| Dysphoria | Hychie | 70369047 | 55416 | 4085
+| racespeeder | pineapple | 4170615 | 55394 | 4282
+| Lunar Storm | mbedsun | 87491565 | 55365 | 5059
+| Lunar Storm | mbedsun | 87491565 | 55365 | 5059
+| Kake Redux | akinawoo | 94925273 | 55357 | 3520
+| New Truth | Player Time | 18273422 | 55325 | 10090
+| Radiance | PotatoBaby | 47574315 | 55310 | 5982
+| Shiny Vibes | Carminius | 93075138 | 55283 | 4052
+| gray cave grave rave | MIRugene | 98336001 | 55251 | 2807
+| The Monsuta | Ardant | 35308541 | 55227 | 8336
+| spaceman | Rifky12 | 93709386 | 55144 | 4645
+| Retrospect | zetamewies | 62832683 | 55083 | 3996
+| Aestas | f3lixsram | 35233082 | 55081 | 9148
+| What | Subwoofer | 40059678 | 55065 | 2765
+| OutBreaker | Torch121 | 32203939 | 55033 | 6599
+| eucalypt | spark | 78233914 | 55017 | 4067
+| NePtunE DeathMix | AeonAir | 1314462 | 55006 | 3107
+| Synergize | tricipital | 90042088 | 54982 | 4004
+| Dustar | simplox | 80195110 | 54847 | 4518
+| Neo Sector X | DangerKat | 79858150 | 54820 | 3947
+| black nicht | - | 75978 | 54805 | 3081
+| Sound Burst | Zafkiel7 | 38411820 | 54746 | 5392
+| Electro Cycles | - | 863216 | 54721 | 8039
+| Armored Zone | xSmokes | 12302526 | 54719 | 7230
+| Paranormal activity | Jeyzor | 623252 | 54715 | 3786
+| Short Circuit | Extrox | 97119093 | 54661 | 3946
+| Entrance To Hell | XcreatorGoal | 101924517 | 54559 | 3483
+| Falling Ligths | Dragn3el | 26472707 | 54551 | 7327
+| Killowater | VEYZZ | 97087916 | 54523 | 3572
+| Toxic Sorrow | Ashes  | 14570069 | 54454 | 6064
+| Rain full | TGBrockS | 2917293 | 54349 | 6375
+| SkyTech | Rek3dge | 2567710 | 54303 | 4567
+| Armageddon | Mantevian | 54774384 | 54225 | 4170
+| Fractured Rhythm | AlexissX | 83655484 | 54156 | 4282
+| HolicFactory | Dorami | 13047183 | 54124 | 7019
+| Pandoro | Pennutoh | 51358977 | 54102 | 5556
+| Creativity is Key | PERS1AN | 73360899 | 54089 | 3371
+| Golosovanie | Steekmen | 81577839 | 54050 | 3496
+| Derivation | WerewolfGD | 55587141 | 53923 | 3524
+| somnus | xcy7 | 7674776 | 53909 | 6941
+| frozen dream | RealKamijo | 720318 | 53881 | 4205
+| Super Starrcat | DubbyBall | 84682924 | 53826 | 2723
+| Super Starrcat | DubbyBall | 84682924 | 53826 | 2723
+| Balloon Fight | Cleber012 | 62966647 | 53792 | 3546
+| Halcyon | Defiant | 7558643 | 53687 | 6542
+| crystal blood 1 | The Carrot | 666203 | 53659 | -1709
+| Final Battle | Novus | 18106061 | 53622 | 5540
+| Last Tunnel | Experience D | 928802 | 53601 | 3367
+| Magical Madness | Subwoofer | 36906582 | 53596 | 5869
+| Hel | Nemsy | 81400295 | 53552 | 4944
+| game player | 2003devin | 66329153 | 53529 | 3209
+| Neon City | YunHaSeu14 | 263869 | 53529 | 3393
+| Solar Power | Spa8 | 25005047 | 53526 | 6891
+| Whirligigs | Gepsoni4 | 81378434 | 53525 | 4363
+| Ultra Super Deluxe | YunHaSeu14 | 1100354 | 53521 | 3006
+| Firelands | Cookieszs | 18879212 | 53469 | 6256
+| REDlixa | Noxop | 59825518 | 53437 | 3491
+| NoXWyR | Moffer | 68060517 | 53417 | 3227
+| Stunlock | Yendis | 59574225 | 53416 | 4190
+| Static | GD Melk | 85223249 | 53298 | 3575
+| coffin oxygen 119 | robotchief | 77165779 | 53283 | 4458
+| MiNd | MrMeurick | 58711844 | 53220 | 3956
+| Leapfrog | jaffytaffy | 24748890 | 53209 | 7242
+| Inferno | Pakki | 47181765 | 53195 | 3954
+| Monument | Howler | 97582524 | 53179 | 3320
+| Hexagram Bounce | DorSha | 40392875 | 53177 | 5608
+| Deception | NASHII | 36797434 | 53164 | 3529
+| Cane Universe | EDSJustin | 8742496 | 53119 | 6893
+| King Crimson | charky | 56680161 | 53094 | 2818
+| Color Swarm | Split72 | 69778847 | 53091 | 5410
+| supranova | Experience D | 277765 | 52936 | 4105
+| Skystrike | 40elyk | 26244091 | 52908 | 4632
+| Just shapes Y Beats | MeowSgam | 52504380 | 52905 | 3090
+| Ligmatic | mikeymonke | 48716880 | 52877 | 6059
+| GravitY On  | Tutone | 20226527 | 52855 | 6486
+| Backstabber | Cardium | 3751887 | 52817 | 6964
+| RAINBOW RUSH | AlonGD | 100373203 | 52782 | 5322
+| Unnamed 109 | Shaaant | 56546008 | 52728 | 3618
+| Follow The Light | BrotGD | 81347094 | 52656 | 4211
+| Just Enjoy  | Gabriel5700 | 93215605 | 52630 | 4303
+| AppleDynamix | Pennutoh | 6815116 | 52624 | 4986
+| soulstorm | doritos1 | 59745562 | 52513 | 3833
+| Embers | Temptati0N | 52383795 | 52394 | 4251
+| hidden stars | Experience D | 224503 | 52388 | 4335
+| beginning of time | Terminus M | 2896974 | 52354 | 4676
+| Hexagon Let Go | SMBlacktime | 1947653 | 52348 | 3071
+| andromeda  | xcy7 | 3709782 | 52319 | 5690
+| Cirricolossus | cronibet | 59544990 | 52301 | 3370
+| Inspirations | Experience D | 652334 | 52184 | 3564
+| Industrialize | Mursu | 6868569 | 52168 | 7823
+| Aquafire | Exylem | 61181738 | 52146 | 2507
+| pixel rainbow | juanmhtxd | 82334994 | 52105 | 5354
+| pixel rainbow | juanmhtxd | 82334994 | 52105 | 5354
+| Rexistence | spl1nt | 82582847 | 52041 | 3902
+| Rexistence | spl1nt | 82582847 | 52041 | 3902
+| See The Light | Nedyah | 102296290 | 52005 | 3876
+| Rise | PotatoBaby | 32356143 | 51981 | 7803
+| Colorful Tears | Zyzyx | 13023527 | 51950 | 7970
+| Flipswap Galaxy | HyperComet | 98738751 | 51930 | 4321
+| Immortalia | SavageNerd | 87956161 | 51819 | 3416
+| Inflection | Darixen | 80694639 | 51799 | 5176
+| Aimless | Squall7 | 32095659 | 51741 | 7965
+| velocity | Wilz | 60092902 | 51668 | 4258
+| Jambon Beurre | Ficelo | 88352110 | 51630 | 3839
+| Jambon Beurre | Ficelo | 88352110 | 51630 | 3839
+| Rise Of Dragons | OverZero | 12445305 | 51618 | 6978
+| Communist Party | Subwoofer | 38621454 | 51570 | 6557
+| Space Riders | Quiken | 13444144 | 51493 | 7310
+| WOBLEE | Raskali | 99862530 | 51477 | 4063
+| Hexagon Out | SMBlacktime | 1789307 | 51438 | 3017
+| Shvek V | syndd | 80694129 | 51349 | 3433
+| fire valley  | Quarl | 63120823 | 51244 | 2989
+| BeaN | orots | 61030470 | 51226 | 4352
+| Dismember | xXLOCOXx | 44055813 | 51194 | 5659
+| NAVINHAS | rafabirds | 94211421 | 51175 | 3783
+| Frozen Heart | LeocreatorX | 31614251 | 51145 | 6542
+| IQube | Isahung | 99775909 | 51089 | 3592
+| Radio Wave | Surv | 15950015 | 51050 | 6685
+| Kepler | Wav | 82115462 | 50940 | 4128
+| Kepler | Wav | 82115462 | 50940 | 4128
+| Oriens | Pipenachho | 34362272 | 50865 | 7112
+| body jammer | Flocab | 65549598 | 50796 | 4010
+| Tranced | jaffytaffy | 26320596 | 50763 | 7159
+| Reign | Usermatt18 | 9543326 | 50763 | 7729
+| Hydrolysis | RealZober | 26519496 | 50744 | 6464
+| ElectroLux | Rek3dge | 1138878 | 50718 | -835
+| Vivid Hue | iITesseractIi | 59358800 | 50670 | 3179
+| Dungeon Madness | SaudDehan | 11485432 | 50658 | 5754
+| Crimson days | zeSophia | 9941679 | 50631 | 5717
+| Pexizen | Mulpan | 40091457 | 50588 | 5279
+| Sunset World | CreatorJR | 11955734 | 50588 | 6114
+| Electrodynamix v4 | SMBlacktime | 863008 | 50565 | 1341
+| DuckTwober | Bizaare | 75254785 | 50547 | 4233
+| BiggestLetdown | Vesii | 56850761 | 50519 | 3721
+| xGWx | Z3R3P | 94658492 | 50468 | 3859
+| Energy Intolerance | distortt | 44600930 | 50459 | 5546
+| Electroman Adven v3 | ZeroPoint | 1932826 | 50451 | 2184
+| Jamspace | SpKale | 94534964 | 50435 | 4007
+| Shapes N Dash | ZecretDash | 56158794 | 50387 | 5204
+| Cry | LazerBlitz | 9997380 | 50351 | 5570
+| lightbreakers | Splenetic | 14426817 | 50349 | 7063
+| Stroll | Wav | 92860241 | 50348 | 3878
+| Starry Sky | Findexi | 1115926 | 50325 | 3719
+| Symptome | guppy28 | 64097338 | 50306 | 4107
+| Rhythm Striker | TDP9 | 97868211 | 50281 | 5272
+| Samurais Reason | retromanGD | 93370001 | 50242 | 3676
+| Chromophobia | TheRealSquizz | 13487637 | 50143 | 7218
+| IntelCore | Noriega | 5591701 | 49939 | 7624
+| Digital paradise | MuLhM | 9804842 | 49908 | 6641
+| Time Path | TrueNature | 1931715 | 49826 | 2886
+| Tilty Funk | TrueNature | 1729402 | 49793 | 2289
+| M E T R I O N | angelouxD | 90460305 | 49792 | 3039
+| Dark Bullet | EnZore | 31358778 | 49778 | 5416
+| Alive | RennZ | 102957669 | 49741 | 3688
+| Flood Escape | Balloons | 98229716 | 49726 | 3902
+| Fluorine | Unbipentium | 77511936 | 49648 | 3185
+| confusion | - | 297394 | 49633 | 2410
+| Pegasus | xMisery | 44764799 | 49618 | 5201
+| jarvisdifficult | robotchief | 85388604 | 49503 | 3244
+| ZiPiks | kodex360 | 69420633 | 49499 | 3554
+| Dark Galaxy | Noriega | 4509149 | 49426 | 6354
+| Zula | Zhorox | 90651508 | 49282 | 3228
+| Volcanic Fortress | Brawlboxgaming | 17074369 | 49279 | 6393
+| Freyen | AleXins | 64610503 | 49265 | 3890
+| Descend to Earth | SpKale | 70640367 | 49247 | 3918
+| Desertum | DHaner | 57303056 | 49205 | 5971
+| Event Rush | abdula | 27399229 | 49161 | 7145
+| Come una Folgore | MrLorenzo | 62906815 | 49128 | 3883
+| ice cave v3 | - | 438914 | 49109 | 3651
+| Dive | Hann | 57168987 | 49069 | 3683
+| Frozen road | - | 885647 | 49069 | 2753
+| Silent Lunch | Nova4664 | 96738215 | 49047 | 4116
+| chOnk | bunch | 65762800 | 48937 | 4614
+| Elysium | AndrixGD | 97245009 | 48861 | 4106
+| Xoanide | TpAesuki | 69772813 | 48851 | 2748
+| Beginning of time | meromelon | 2853842 | 48790 | 4363
+| Danger District | Toxic GD | 9211138 | 48706 | 5856
+| 90 north | pocke | 70550055 | 48610 | 3586
+| Exodus | Player Time | 26708852 | 48571 | 6464
+| Rattle | PotatoBaby | 41532878 | 48553 | 5688
+| Energy Dash | Lyod | 358226 | 48538 | 3365
+| Zimbabwe | Oasis | 63412305 | 48519 | 4029
+| Jam | NASHII | 35021991 | 48483 | 5599
+|  Warpside Trials | XcreatorGoal | 102335941 | 48418 | 2477
+| Cirrus | Knots | 48441790 | 48378 | 5825
+| Neut | LemonsodaKitty | 91374322 | 48323 | 3288
+| Makarony | Df0rDie | 57326896 | 48319 | 2701
+| Cycles | Eclipsed | 61486727 | 48288 | 2597
+| World Breaker | Gusearth | 81712719 | 48173 | 3839
+| World Breaker | Gusearth | 81712719 | 48173 | 3839
+| tsitrA | N3xuse | 81411036 | 48172 | 3359
+| Desumari | Bluskys | 56758288 | 48167 | 2972
+| Hexagon Theory | SMBlacktime | 1745468 | 48155 | 2681
+| Veni Vidi Vici | Vermillion | 1836715 | 48134 | 3008
+| The Undead | Chlorines | 42415410 | 48117 | 5128
+| bipolar  nightmare | Filaret | 83883792 | 48031 | 3245
+| Adventure Extreme | Dorami | 3895809 | 47952 | 4045
+| Malice | vortrox | 64504643 | 47918 | 2404
+| Cosmic Light | Dragn3el | 33571083 | 47913 | 7529
+| Digital Overdrive  | ch4rlie03 | 98559252 | 47860 | 6147
+| haha effects go brrr | Perars | 64983434 | 47858 | 3172
+| Kostya | DokyG | 61714234 | 47850 | 2836
+| Combination | Azelicee | 84412718 | 47840 | 2440
+| Wake up | willy5000 | 13859636 | 47839 | 5969
+| SECLUDED SKY  | Ad0NAY27GD | 80063527 | 47611 | 3348
+| Mid castle | ZelLink | 1420763 | 47607 | 2656
+| all the way | - | 2056465 | 47606 | 1945
+| Proton Field | Vlacc | 12734407 | 47565 | 4955
+| Comfortable  | Zyplex | 50288184 | 47551 | 4460
+| The Arcology | Priisma | 13002626 | 47418 | 6284
+| The Screamroom | Goodbye GD | 15798818 | 47416 | 4148
+| Electroman Force | Findel | 2082955 | 47384 | 2099
+| Deja Vu | xVainaja | 87620672 | 47329 | 3826
+| Golden Infinity | Iid4sh3riI | 7859570 | 47215 | 5640
+| Bouncin | PERS1AN | 75080144 | 47203 | 3114
+| the last straw | cXpium | 91737498 | 47132 | 4138
+| ablixa | Toxikuu | 58878783 | 47080 | 2493
+| foc | kcool101 | 77049036 | 47066 | 4498
+| Reawaken | Squall7 | 93063209 | 47065 | 3700
+| area nys15 The 2 | nys | 1431395 | 46986 | -1193
+| Krakatoa | Bizaare | 68322043 | 46948 | 4026
+| hacker machine | - | 214942 | 46878 | -358
+| UK pizza delivery | EpicLemon99 | 102766357 | 46827 | 4236
+| Chary | Oskreix | 38269522 | 46816 | 6912
+| Area Tracer | GDvesuvius | 68282118 | 46814 | 2133
+| AA STAP | - | 115825 | 46788 | 2040
+| Bora | YunHaSeu14 | 80474816 | 46756 | 5465
+| Bora | YunHaSeu14 | 80474816 | 46756 | 5465
+| Bora | YunHaSeu14 | 80474816 | 46756 | 5465
+| Entropy | AeonAir | 1860882 | 46725 | 2240
+| different funk | Devilmine | 86415818 | 46703 | 3121
+| different funk | Devilmine | 86415818 | 46703 | 3121
+| Plant World | TrueNature | 979449 | 46695 | 2408
+| NirmitI | CreatorFreeze | 32468834 | 46628 | 4999
+| Chaoz Impact | Arthur | 3396322 | 46600 | 3565
+| Energy Impact | MrCheeseTigrr | 408495 | 46599 | 4517
+| Magnolia | Hakurei Reimu | 12961577 | 46586 | 6924
+| Creamy Butter | Shocksidian | 14037878 | 46565 | 6084
+| NANL | MisterCofla | 100732183 | 46563 | 3418
+| KOZEL | LeynarMusic | 58039259 | 46504 | 2500
+| Phobos | Sir Doge | 49541938 | 46487 | 2131
+| Underneath | Latko | 89336625 | 46481 | 3929
+| Shiny Way | Zwenty | 37029387 | 46401 | 5735
+| Galaxy Garden | Amza | 92867791 | 46382 | 3631
+| Crystal Caves | btotheandrews | 17696589 | 46358 | 7099
+| Dismantle | Carnage37 | 52801034 | 46347 | 5001
+| Flat Chest IV | Twistaah | 94316384 | 46288 | 3614
+| Dragons | IiBlackLL | 11808607 | 46269 | 4544
+| BuFFeR | Rekiii | 36443559 | 46258 | 3294
+| Sky Castle | TimeRed | 102352816 | 46206 | 2972
+| Syrup Cave  | RealZober | 20544783 | 46077 | 6514
+| Adrenaline | xMisery | 57484909 | 46053 | 2796
+| Ahoy Marine II | Jirk | 32993087 | 46034 | 6302
+| Crunchy | Alexanca | 80944548 | 46024 | 3569
+| Evil Inside | Xypheeeer | 80974289 | 45883 | 3584
+| portal | Whirl | 91420752 | 45861 | 3730
+| The Inevitable | jaffytaffy | 24296621 | 45833 | 5007
+| Electric Jungle | creeper1347 | 2491857 | 45821 | 4312
+| MayoMaze | Splenetic | 6455304 | 45749 | 5147
+| Dodecahedron Force | Siri | 1669327 | 45749 | 1656
+| Spectex Impact | Spectex | 2827718 | 45700 | 4591
+| ILLUMINATE | RegentGD | 73306039 | 45658 | 2854
+| Acquiesce | Oasis | 61448723 | 45647 | 4039
+| RPMX | Cheeseguy | 4820315 | 45550 | 5919
+| Gus Funk | SouneX | 101343310 | 45549 | 3407
+| insanis | f3lixsram | 26473786 | 45541 | 7939
+| AntiPixel | Xiodazer | 11811266 | 45533 | 5709
+| Titanium DeCoder | iISpaceDustIi | 50906583 | 45529 | 3139
+| PuMp | Pechuga20 | 57616550 | 45522 | 3187
+| BanderSnatch | supamarioxx | 61320999 | 45520 | 2689
+| Cosmic Chaos | Optation | 56607164 | 45430 | 3510
+| Dusty Dunes | Nezzieverse | 81091173 | 45396 | 3990
+| chaoz fantasy | BroodingAcorn | 102766345 | 45387 | 2990
+| FGH ji | iMonikaa | 82901850 | 45350 | 2666
+| Chelou | Gepsoni4 | 67351115 | 45306 | 3054
+| destroy | sharkdex | 99370365 | 45275 | 5610
+| Cosmic Dreamer | CreativeAlloy | 11278666 | 45275 | 5559
+| Source of hope | BitZGD | 63730412 | 45243 | 2548
+| Gilded Temple | tricipital | 87211340 | 45104 | 2869
+| Gilded Temple | tricipital | 87211340 | 45104 | 2869
+| Sky Serenity | RealZober | 20829037 | 45097 | 6870
+| cosmic dream | carapa22 | 9620652 | 45050 | 5682
+| Glitch Gremlin | Juffin | 6812342 | 45049 | 5714
+| Black and White | - | 1260361 | 45008 | 2602
+| transition | asvezesopa | 28699119 | 44939 | 5451
+| orac | Nemsy | 70827409 | 44927 | 4187
+| AnotherRainbowyLevel | BridgetTheCroco | 68716980 | 44899 | 3334
+| Mega Mash | Wav | 98380937 | 44784 | 3665
+| The number 5  | Adiale | 12809853 | 44745 | 7046
+| TWOpointTWO | Texela | 78320148 | 44703 | 4137
+| Artificial Ambience | Eridani | 60317281 | 44688 | 2543
+| VTX | Zeniux | 88831402 | 44682 | 4848
+| Spectral Chambers | KwoobGD | 100460804 | 44666 | 3199
+| Ink Hell | Alex112300 | 59525361 | 44664 | 3212
+| Flirtatious Jungle  | Dyrox | 8069195 | 44639 | 5710
+| BitBreaker | Xelin | 8931918 | 44630 | 5615
+| Silver Eclipse | Gusearth | 14389330 | 44629 | 5116
+| Vault Of Heaven | Azuvy | 88185691 | 44528 | 2885
+| Wishing Well | MrSpaghetti | 84056414 | 44414 | 3611
+| crystal blood 2 | The Carrot | 808068 | 44404 | -837
+| boneyard | Hychie | 100341594 | 44388 | 3594
+| Funky funky | - | 214882 | 44366 | 3757
+| vista | 99geometrydash | 100125 | 44365 | -179
+| Final Steps | BlastiXGD | 34884344 | 44335 | 7557
+| fast as lightning 2 | wamiq | 12037098 | 44331 | 3828
+| Roma | RealZober | 61046304 | 44256 | 2324
+| Splitstep | Split72 | 88482443 | 44216 | 4722
+| Splitstep | Split72 | 88482443 | 44216 | 4722
+| Splitstep | Split72 | 88482443 | 44216 | 4722
+| Imperial | SkiesCore | 43865773 | 44211 | 5598
+| Aboard Dankness | talia | 28014573 | 44211 | 6667
+| PunchZ | xtobe5 | 11962363 | 44198 | 5467
+| BEATMANIAC | xenoremu | 76215677 | 44189 | 3252
+| Komi | Dioxis | 60635337 | 44098 | 3147
+| CHYCHY | Pettsu | 101254641 | 44096 | 3814
+| theory of harder map | - | 1538887 | 44093 | 1182
+| Purity | Hychie | 62264734 | 43996 | 2816
+| Mithril | MoonSpark | 33309469 | 43971 | 5603
+| Genocide | Syunide | 14982046 | 43961 | 5954
+| Flashing Journey | Jeyzor | 984062 | 43941 | 4531
+| Payback | BridgetTheCroco | 69173046 | 43877 | 2765
+| velocity II | Wilz | 66279612 | 43864 | 3062
+| 53836863 | Xoroz | 53836863 | 43842 | 3343
+| 1UP | Mangosteen | 47227168 | 43814 | 4334
+| Blaster Effect | Tronzeki | 10556973 | 43765 | 4964
+| Pain and Suffering | Oskux | 4224505 | 43755 | 4070
+| Nightmare traveller | Inergy | 37793502 | 43753 | 4811
+| XI Step | dohyen | 72812 | 43732 | 2469
+| Hard Core | - | 67358 | 43692 | 1509
+| Azure heart | notoxic34 | 101232166 | 43669 | 3365
+| Rise Up | Zaphii | 65978994 | 43647 | 2629
+| PanTioN | Iiwosii | 47234639 | 43590 | 5284
+| Cyber Scream | BuiltInMacro | 88835592 | 43581 | 3473
+| lost forest | Experience D | 220297 | 43517 | 1870
+| R U Ready | Lebi06 | 91039842 | 43498 | 2885
+| Closed Beta Test | BridgetTheCroco | 68240392 | 43458 | 3451
+| Tamsario | zZoomks | 62520346 | 43430 | 2658
+| A High Sky | RealZober | 84093702 | 43399 | 3133
+| A High Sky | RealZober | 84093702 | 43399 | 3133
+| Psychotic Lights | Rifct | 93846197 | 43383 | 3522
+| You uoY | Splinter25 | 90434274 | 43313 | 3538
+| You uoY | Splinter25 | 90434274 | 43313 | 3538
+| You uoY | Splinter25 | 90434274 | 43313 | 3538
+| i cried | llertt | 87488379 | 43304 | 2948
+| i cried | llertt | 87488379 | 43304 | 2948
+| Delta | ItzMezzo | 80538836 | 43256 | 3741
+| ORBIT | vegtam | 98114079 | 43219 | 2896
+| thulium | bunch | 60405885 | 43206 | 3694
+| The reign of horus | doritos1 | 86427947 | 43180 | 2805
+| The reign of horus | doritos1 | 86427947 | 43180 | 2805
+| The reign of horus | doritos1 | 86427947 | 43180 | 2805
+| Pangea Software | MarkyArchived | 89771497 | 43174 | 3456
+| Ichor | Nwolc | 11561503 | 43112 | 4363
+| Beyond Time | Mulpan | 26436732 | 43070 | 5801
+| Vibing Moments | Mineber | 91417559 | 43032 | 3086
+| Troublesome | Wav | 57134023 | 43021 | 3369
+| I Love Among US | KNOEPPEL | 67074873 | 42988 | 2935
+| electrodynamix aker | - | 919674 | 42954 | 1342
+| Mystical Reality | xenithvl | 62105821 | 42862 | 2519
+| Ruminant | NogZ | 51090690 | 42861 | 4589
+| Spooky Time | HugusTheNoob | 64860481 | 42819 | 2723
+| La szagal Nu Rave | GrenadeofTacos | 85393053 | 42695 | 2238
+| Massacre  | Carnitine | 61172191 | 42692 | 3168
+| Vaplock | Agils | 61123634 | 42692 | 2621
+| Brawlhalla | WerewolfGD | 46452613 | 42691 | 3984
+| chaoz airflow | Iid4sh3riI | 4595087 | 42665 | 4212
+| Im a Man | akApple | 49911661 | 42631 | 4717
+| SHEOL | potatoplayer | 13451096 | 42572 | 5136
+| Collabz System | AncherStram | 3736167 | 42561 | 3799
+| Technical Showdown | flameur | 72704495 | 42558 | 3937
+| BANSH33  | Carnitine | 92583659 | 42551 | 2956
+| Shockdynamix | DreamEater | 101192849 | 42549 | 2713
+| Dark Step | Devylan | 11831718 | 42447 | 5774
+| Crunch Time | SirZeus | 62512389 | 42433 | 2314
+| Cosmos | Goobfrudla | 91006474 | 42399 | 3175
+| Concept no4 | Presta | 88911215 | 42341 | 3038
+| Concept no4 | Presta | 88911215 | 42341 | 3038
+| Vibrant Trance | Triadic | 4378441 | 42287 | 4350
+| Hexagon Dasher | Dextrose | 1930994 | 42234 | 2154
+| robo run | Iid4sh3riI | 11384248 | 42116 | 4992
+| Digital Zone | YunHaSeu14 | 337585 | 42071 | 3412
+| Time Sequence | Star77 | 25452144 | 42069 | 6617
+| Haunted Moments | ChuchitoDomin | 65015877 | 42020 | 3194
+| Dansa Tropical | LuisGX12 | 17394170 | 41992 | 6804
+| Crusade | AmorAltra | 38975325 | 41979 | 5284
+| Vivid dreams | ItzMezzo | 58864050 | 41912 | 3112
+| Deaths Grave | Nena Kiwi | 1372091 | 41868 | 1611
+| roadkill | pocke | 91313704 | 41848 | 3225
+|   uwu  | ImKumoriGD | 67359581 | 41804 | 1910
+| Incorrectly hell | Experience D | 711796 | 41774 | 0
+| Swirl Realm | TrueNature | 1671258 | 41724 | 2498
+| Lezard Chic | Hydren | 64224149 | 41673 | 6156
+| Twilight | Ad0NAY27GD | 77690584 | 41638 | 3739
+| SuperChaotic Flight | Dorami | 3707934 | 41632 | 4363
+| Generation | Rustle | 13144004 | 41626 | 4638
+| We Are One | AeonAir | 1439512 | 41574 | 2148
+| nauru | Pettsu | 95301651 | 41517 | 3788
+| transistor | xcy7 | 3740578 | 41432 | 4448
+| LIGHT PARTY | penguiinGD | 79811969 | 41407 | 3229
+| LIGHT PARTY | penguiinGD | 79811969 | 41407 | 3229
+| For ZenthicAlpha | SMBlacktime | 2016843 | 41391 | 2694
+| HADES | Echonox | 13384975 | 41390 | 5719
+| Remorse | Squall7 | 37072071 | 41370 | 5941
+| dizzy run | emiliax | 584022 | 41370 | 2610
+| apocalypse realm | Experience D | 406131 | 41352 | 3383
+| boleumdal | K911unA | 84785445 | 41204 | 2681
+| boleumdal | K911unA | 84785445 | 41204 | 2681
+| boleumdal | K911unA | 84785445 | 41204 | 2681
+| Cave Escape | CubeKingGD | 98248028 | 41201 | 3349
+| Fire Nova | Kama2326 | 12092161 | 41162 | 5423
+| Robtop Disco | OssyTheDragon | 42518363 | 41083 | 2284
+| dizzy | iZeo | 70586330 | 41060 | 4088
+| harlequin | ItzMezzo | 64735621 | 41027 | 2661
+| Thumper | Phantomech2 | 8856997 | 40997 | 3868
+| RadioCutter | RealSoulDash | 6059066 | 40989 | 5864
+| Acuario | MrShetoss | 46791031 | 40988 | 2536
+| Cane Swinning | SMBlacktime | 3468103 | 40973 | 4307
+| Automatic Dance | Jezzel | 55000269 | 40914 | 1590
+| Techno Chaos II | Carnage37 | 45440794 | 40890 | 4522
+| Dark Spectrum | Nox | 1476111 | 40883 | 2070
+| Gunmetal Black | AeonAir | 1458259 | 40842 | 1061
+| Electrorampage | Florent | 11881436 | 40836 | 6148
+| Linnaea Borealis | PICAAAAAA | 78117747 | 40828 | 3227
+| heavenly colors  | AirForce | 14586133 | 40824 | 5341
+| Into Open Air | SunBun | 101628718 | 40802 | 1763
+| colosus right v2 | IRock3roI | 12403443 | 40783 | 5827
+| Rum n Bass | J735 | 60874997 | 40671 | 1667
+| Chicken | buoGrOsSo777 | 92171910 | 40515 | 3086
+| Exodus | Non4med | 14107471 | 40507 | 5156
+| Time Collapse | Lyod | 265969 | 40497 | 2583
+| Perception | TheGeoDude | 14262751 | 40447 | 6356
+| Edge of Universe | Oskux | 3539673 | 40429 | 4138
+| Ink Machine II | KittyDoge | 44306956 | 40409 | 4551
+| Hall Of The King | Aleiz21 | 66124444 | 40397 | 2577
+| BARRIER | alkali | 90762612 | 40392 | 3268
+| horizon | Zhiana | 68846058 | 40388 | 2809
+| JungKook Dash | Mineber | 73120239 | 40365 | 3085
+| MeatBawl | TheShadowRealm | 67879622 | 40343 | 1484
+| WickedSick | Quiken | 14596998 | 40316 | 5991
+| Space Time | iI Flow Ii | 3741432 | 40287 | 3219
+| The Milky Road | Uprush | 10970841 | 40281 | 5116
+| MrDynamix | Carnitine | 94075257 | 40227 | 3618
+| Resurrection | HTigerzGD | 55863598 | 40207 | 2979
+| Techplat | Mehdi860 | 98062841 | 40202 | 3979
+| Planet Nine | Split72 | 94227252 | 40185 | 3604
+| Speed Stage | DarXis4 | 17098611 | 40177 | 4923
+| AmoLemoAwzZervWhaBuf | Awzer  | 60569568 | 40156 | 2774
+| Neo | FrostDragonGD | 61208179 | 40148 | 1924
+| Anesthetic Daydream | Hychie | 57028176 | 40094 | 2253
+| 5L | TheLasaga | 65413127 | 40076 | 4098
+| Boo | Shaowin | 79214822 | 40041 | 3798
+| Verdict | LandonGMD | 54418384 | 40018 | 4644
+| Epilepsy Mania | A145 | 65953618 | 39993 | 3029
+| Sacrifice | MrSpaghetti | 90178763 | 39989 | 2941
+| Emergency Lockdown | FrostDragonGD | 60992587 | 39812 | 2775
+| Programmed Rhythm | DubstepFanatic | 92833587 | 39811 | 3875
+| August 2021  | Janucha | 73003131 | 39801 | 2214
+| stardust | kreyk29 | 92724755 | 39791 | 2435
+| robtop dusbtep | 110010110 | 59253052 | 39743 | 1914
+| WildFire | Wav | 54990114 | 39689 | 3916
+| Stardust | fJud | 103252610 | 39679 | 3695
+| Cable | PotatoBaby | 48649610 | 39671 | 4510
+| Turn Off Your Ego | PixelMini | 60075794 | 39604 | 2893
+| FAYRDUST | ZukulentoO | 13433184 | 39603 | 5537
+| vesuve | pineapple | 3472006 | 39600 | 4361
+| somnambulism | cerufiffy | 60139281 | 39591 | 2392
+| Lost souls IV | Digitalzero | 13381757 | 39545 | 5034
+| NextnextNext | Blogde | 97520144 | 39537 | 5270
+| Dawnamix | Experience D | 916245 | 39491 | 3292
+| Firebird Fortress  | fr3dmc | 100733618 | 39474 | 3026
+| Aeterion | Zephal11 | 15387026 | 39443 | 5708
+| Massive Roast Planet | RyanAB | 28894252 | 39380 | 5374
+| Slaughterfunk | jneh | 70706362 | 39341 | 1481
+| 7funk | Jo2000 | 1195293 | 39263 | 2335
+| ShowDown | PuffiTree | 48733434 | 39165 | 4334
+| geometry machine | - | 145998 | 39084 | 173
+| Simple Base | Rublock5 | 1419644 | 39076 | 2295
+| Heart | DHaner | 96658514 | 39066 | 3926
+| Grynn | matt843 | 99327725 | 39049 | 2206
+| SuperDynamix | Evasium622 | 956341 | 39029 | 1927
+| harden than heaven | - | 117855 | 39024 | 229
+| Homesick | Howler | 57276799 | 38998 | 2788
+| Someone | 8BitFudge | 13529751 | 38995 | 5623
+| PhentoM | Iiwosii | 57026126 | 38976 | 2678
+| level demon | - | 145251 | 38965 | 1248
+| The Ancient Ruins | Zelda9912 | 15985098 | 38955 | 3884
+| Imaginaerium | WazE | 3502368 | 38946 | 3522
+| Floppy Bird | kr1t | 79197475 | 38938 | 3391
+| Close Combat | Sobeann | 103041664 | 38929 | 3209
+| Stardust | Coneth  | 18194527 | 38922 | 5032
+| Flip Flap | ruined | 848039 | 38909 | 2515
+| Tnemele | Dafingus | 32938420 | 38902 | 6751
+| Evolution | niremasit | 38862711 | 38895 | 3779
+| Nosebleed Subsidia  | Gtnaon8 | 88887827 | 38842 | 2968
+| Nosebleed Subsidia  | Gtnaon8 | 88887827 | 38842 | 2968
+| Utopia World | Pollapo | 4985741 | 38815 | 4137
+| ColdHeat | TrueNature | 642038 | 38775 | 2034
+| fcka | quickcheck | 81767830 | 38699 | 2817
+| Battle City | Antassma | 64761503 | 38680 | 2061
+| Divinity | NicaDasher667 | 31168747 | 38627 | 5554
+| WORSHIP | erquillo1 | 87058563 | 38614 | 2642
+| Zeniob | MarkyArchived | 59762766 | 38559 | 2338
+| Dazzling | W3ndy | 66842948 | 38554 | 2073
+| Rustic | Exylem | 59411546 | 38517 | 2242
+| urMumLookinKindaNice | BushAvenue | 83465420 | 38512 | 2488
+| New Game | Xfaider | 99110414 | 38497 | 4659
+| Taiko | Steekmen | 93830477 | 38448 | 2232
+| Angled Way | Gamerespawn | 1690571 | 38426 | 1983
+| Uprise | VeXyn | 9073726 | 38414 | 5284
+| Mechanize | Waffl3X | 48438974 | 38412 | 4839
+| VN | ViralDL | 77878856 | 38410 | 3649
+| YoureGonnaLoveMe II | fawksgdd | 80842613 | 38349 | 2802
+| YoureGonnaLoveMe II | fawksgdd | 80842613 | 38349 | 2802
+| Hurricane | ZidDer BGD | 40272277 | 38271 | 7028
+| Jolly good show | T0rnat | 74768326 | 38257 | 2755
+| Lateral | kr1t | 71018428 | 38256 | 1989
+| Weird Anomaly | DrimpGD | 103469613 | 38235 | 2836
+| Double Cheeseburger | Xoroz | 70977586 | 38113 | 4250
+| Next Processing | Syniath | 38833873 | 38087 | 4396
+| Astronomic | Mazl | 24961389 | 38074 | 5093
+| Bubbleland | Nemsy | 94805369 | 38065 | 3410
+| ElectroDynamic | - | 1206223 | 38017 | 1467
+| Downtown Funk | VladAAA | 64370350 | 37993 | 2823
+| Time Temple | BlastiXGD | 36349111 | 37936 | 4695
+| Bionic City | ThatJack | 97710012 | 37903 | 3715
+| Plasma World | LimeGun | 1950278 | 37813 | 1788
+| Shortcut To Space | carlosbmt22 | 68048862 | 37804 | 2325
+| Glowdern | BowtieGD | 68403481 | 37798 | 2743
+| OutBurst | Gouns | 34198563 | 37781 | 6397
+| inside demons | mbedsun | 91297283 | 37765 | 2624
+| Marik | BitZel | 57473037 | 37673 | 3054
+| Steam machine | Inergy | 39964950 | 37657 | 4955
+| WildBorn | sirDannygd | 99637681 | 37538 | 2820
+| Bloom | Slipiao | 74325876 | 37531 | 2570
+| Chapstick | Howler | 51959027 | 37464 | 4101
+| Infiltrage  | Gepsoni4 | 97787052 | 37457 | 6983
+| The Theory | Superopi | 941416 | 37419 | 3019
+| Sword Master | rafer | 21671648 | 37406 | 2705
+| Electronic World | DemonBestGG | 644224 | 37366 | 1993
+| World Race 2 | Spectex | 13069903 | 37266 | 3849
+| Red Observer | ninq | 72733913 | 37226 | 2891
+| rinsed pringles | GDcob | 73844199 | 37213 | 2989
+| Scarlet Fog | Wintter | 98144846 | 37190 | 3129
+| Bonk | ShadowIan | 65129582 | 37190 | 2574
+| beautiful of dawn | Experience D | 239196 | 37167 | 2862
+| Nuetronium | xXNooBZzXx | 90689591 | 37144 | 3153
+| Electric Flow | TrueNature | 785835 | 37067 | 2211
+| wayside | SupuGD | 85063706 | 37044 | 2328
+| Versatility | Gamerespawn | 2170717 | 37038 | 3115
+| SELF AWARE | Nezzieverse | 77569712 | 37037 | 2194
+| Chronic Line | Angelism | 2852066 | 36962 | 3922
+| Belt Is Shift | iKoty | 100019167 | 36948 | 2122
+| Magmatic Ruins | ItsJustCohen | 68500139 | 36947 | 2701
+| Tank Dash | MitKit | 37494939 | 36946 | 2923
+| Gaster | Therealclubin | 16889474 | 36936 | 1632
+| Elevation | Zeidos | 35104379 | 36926 | 4797
+| Turbulence | Edooox | 97769006 | 36894 | 3882
+| Mimpi | Izzul93 | 77597067 | 36864 | 3372
+| Dawn of Ages | Insendium | 2157699 | 36818 | 2973
+| Electroman Remix | qurnl2012 | 522042 | 36745 | 2595
+| BlacktimeDynamix | SMBlacktime | 968882 | 36665 | 2378
+| Crimson Corridors | Copypasta | 69843465 | 36631 | 3288
+| Necropolis | ImSamo | 62943335 | 36623 | 2117
+| Fireball AR | ItsGwMe | 5094361 | 36623 | 4530
+| A New Pledge | ThorMode | 15705498 | 36603 | 5244
+| AbsoLute Dash | Rublock5 | 1510765 | 36586 | 1858
+| Neon River | DangerKat | 103431055 | 36578 | 2514
+| Percussion | Alex084 | 31344612 | 36564 | 5739
+| qver | iZeo | 70048032 | 36523 | 3327
+| Twenty One Pilots | ExequielSoria | 51864783 | 36511 | 4085
+| Crazy Clubstep 2 | Aktimoose | 86196882 | 36421 | 1719
+| Di | Fluore | 33124626 | 36410 | 5277
+| Fuzzy | gluewis | 27797775 | 36406 | 5480
+| Tropical Temple | CreatorMoldy | 95392499 | 36399 | 2495
+| chocolate muffing | bunch | 90571969 | 36349 | 3096
+| Timed | Digitalight | 30124603 | 36339 | 5368
+| Uretre | MorpheiX | 36719922 | 36292 | 4814
+| eliminator | Wilz | 64089732 | 36254 | 2508
+| Endaina | Toughfey | 61208765 | 36241 | 2288
+| 3hrimp | SashleyMyLoved | 89334612 | 36203 | 3145
+| pyramid of giza | pineapple | 3815496 | 36178 | 3300
+| Cane Swinging v2 | Lish | 7562313 | 36175 | 4113
+| Industrial Fallout | loserchik67 | 26212638 | 36151 | 4995
+| Stride Breaker | Nottus | 82417668 | 36140 | 2660
+| Classic | Hann | 57664600 | 36124 | 2024
+| Hot Sauce | BridgetTheCroco | 77408280 | 36117 | 3363
+| NextStep | Evasium622 | 2073847 | 36090 | 1898
+| Summit | ElEcmEtAl | 794738 | 36022 | -400
+| Times sublime | Optonix | 34183862 | 36016 | 5663
+| Paladin | Codex | 17386724 | 35979 | 5851
+| Yuh | VecToRx GD | 100962017 | 35973 | 2574
+| COMPACT | espre | 89365138 | 35955 | 3389
+| Drowning | HexagonDashers | 18450970 | 35889 | 7118
+| AfterDynamix | CubeDasher | 8307845 | 35870 | 4429
+| Stronghold Derelict | nyab | 12849638 | 35858 | 5377
+| One Out Of Millions | Lyriaki | 72639337 | 35838 | 2722
+| Limit Step | TrueNature | 794892 | 35805 | 2577
+| Meeditty |  Ryan | 37372285 | 35776 | 3910
+| Merry Crisis | hashgd | 97524974 | 35767 | 3288
+| lunarerlism | Experience D | 740673 | 35761 | 3354
+| Chromafinale | Jabbagrullo | 1848182 | 35755 | 1429
+| Bastion | Coreybirdo | 13828165 | 35752 | 5630
+| El Jardin de Viprin | melX0exe | 92483637 | 35743 | 3903
+| Protect Your Square | PoIsEn324 | 50514366 | 35730 | 2489
+| LineTheory  | Zelda9912 | 9527434 | 35660 | 4340
+| JalouWyn | Anuarl | 75282525 | 35653 | 3749
+| back talk | BadPurple | 97000623 | 35649 | 2871
+| Burst | DashDude | 74882359 | 35644 | 2935
+| Pulsar | Hydronus | 66375984 | 35644 | 2320
+| Sightreadable GP | BridgetTheCroco | 68573847 | 35500 | 2256
+| Sky Fall | SuprSwiglz18 | 15292513 | 35473 | 4702
+| The Brightside | MrSpaghetti | 62012000 | 35365 | 4320
+| IZOZ | Nicki1202 | 26572019 | 35335 | 4234
+| Slime Inc | Gepsoni4 | 68540220 | 35323 | 2945
+| Assault Undertown | SrToposaurio | 91251985 | 35160 | 2360
+| Forerunner | Havok | 2204352 | 35158 | 2385
+| Singularity | Davidayy | 98986889 | 35089 | 2273
+| Coralux | SirZaiss | 36825859 | 35063 | 4291
+| Abstort | redwn | 49543933 | 35056 | 4360
+| For Pride | MrSupremeGD | 70154728 | 35026 | 2377
+| Drying Out | Matobia | 89086255 | 34996 | 3026
+| Drying Out | Matobia | 89086255 | 34996 | 3026
+| Jupiter | ViP3r | 37394630 | 34982 | 3950
+| Sideral Ruins | MeRlO CreatoR | 11002111 | 34982 | 4179
+| Diamond Rift | xXxShadowxXx | 2846335 | 34964 | 2583
+| Mintspark | Howler | 57304701 | 34959 | 2093
+| Forgotten Fantasy | Matobia | 101402856 | 34939 | 2094
+| an another dawn | atmospher | 55895552 | 34939 | 2849
+| Aguizote | Iiwosii | 64718563 | 34909 | 2335
+| Signals | BridgetTheCroco | 74669514 | 34892 | 2620
+| Crimson Showdown | JustBasic | 36511367 | 34854 | 5250
+| Aeronautics | mirajune | 26768124 | 34837 | 5323
+| Electro Peak | icewither | 51117240 | 34823 | 3842
+| Wrath | xSkylighter | 15365132 | 34797 | 3685
+| Bloody Tears | Lish | 11589101 | 34750 | 3096
+| Fury | NASHII | 41942873 | 34743 | 2589
+| what the THUMP | EnenzoGD | 93273966 | 34731 | 3163
+| Overclock | Pan | 24795078 | 34698 | 5081
+| Vortex Flow | DreamEater | 3586751 | 34681 | 3667
+| bad trip | BridgetTheCroco | 89504482 | 34654 | 2032
+| Energy Cycle | Hakkou | 12487145 | 34566 | 5129
+| Infinite | Serinox | 58476958 | 34512 | 2525
+| Uncommon | Wav | 61406310 | 34484 | 3340
+| Chime | Nemsy | 70240766 | 34482 | 3821
+| Phoenix | DarkZoneTV | 13866332 | 34445 | 4728
+| Clock Tower | WSKKung | 57409868 | 34375 | 2455
+| Electrodrome II | Nico99 | 50175300 | 34373 | 4126
+| Aihoi | Sendent | 73849124 | 34359 | 2873
+| Night Dream | Noriega | 2714524 | 34313 | 2935
+| pushing onwards | goldjojo | 98222467 | 34307 | 2771
+| Adonis | enlex | 47701736 | 34300 | 3733
+| Adrift | Psynapse  | 12380973 | 34291 | 2929
+| wiiiioooo wiiiioooo  | JustL3o | 93938620 | 34212 | 2359
+| Black Oil | BlastiXGD | 26273924 | 34184 | 5451
+| Synthesis X | Happolicious | 13489859 | 34169 | 6189
+| flash | glare7 | 99077470 | 34168 | 2884
+| Come Here | Gepsoni4 | 77515011 | 34152 | 3946
+| Theory Of Iceland | - | 1357705 | 34144 | 1603
+| TACTICAL | PICAAAAAA | 90873009 | 34124 | 2765
+| Urgence | guppy28 | 78145791 | 34109 | 2877
+| Nice | Qubb | 61437853 | 34082 | 2452
+| Toxic Complex | SmitN | 67064257 | 34008 | 1847
+| Robtop Industries | clncrvl | 77129887 | 34006 | 2844
+| Atomic Blast | Desx74 | 27407812 | 33991 | 4862
+| Galruxy | - | 801252 | 33915 | 2043
+| Cowabunga  | iMortlex | 103196533 | 33898 | 2343
+| Starlight Stage | Sylv | 65418059 | 33887 | 3257
+| Nvm | Split72 | 64656956 | 33878 | 3766
+| sky of honor | Experience D | 620942 | 33876 | 2924
+| Vee | Spectex | 8256877 | 33869 | 4973
+| Tegen het Prisma | FadeOff | 93781658 | 33868 | 2839
+| Dem Odyssey | Hyenaedon | 29887437 | 33849 | 5217
+| Contrast | - | 1823655 | 33845 | 2134
+| Relaunch | Markyforce | 92688330 | 33836 | 3499
+| Triforce | Erdyuri | 56597927 | 33806 | 2398
+| LIGHTNING Jumper | TheRealZust | 133350 | 33790 | 1014
+| Theory of Pokey | Angelism | 1922302 | 33764 | -194
+| Interception | DemonMKer | 4294374 | 33748 | 3814
+| HopeFulNess III | snowmage | 37193195 | 33741 | 4642
+| Congruence | toopert | 97594934 | 33667 | 2428
+| Avoidable Cause | Baanz | 67687594 | 33642 | 2176
+| RadioCutter | Andro3d | 6594675 | 33631 | 4679
+| AscenT | GeomTer | 52885502 | 33605 | 3632
+| Hornankoje | catgirlBlitz | 50000004 | 33603 | 2670
+| babaabbas0 funk0 | babaabbas0 | 66869863 | 33552 | 1901
+| zenthic cave | Experience D | 633463 | 33544 | 2882
+| Point Force | - | 1796620 | 33540 | -548
+| infested waters | xcy7 | 12970037 | 33496 | 5632
+| Pizza II | FUNKYpersy | 62089428 | 33475 | 2184
+| Burnt Toast | Split72 | 61000032 | 33463 | 3191
+| Flasky | Mineber | 66896632 | 33425 | 2208
+| the warning | skelox | 3027391 | 33382 | 3230
+| Alterwolf | WerewolfGD | 48426148 | 33370 | 2767
+| magistar | im fernando | 48139023 | 33316 | 2481
+| Saluti Utente | Exi0n | 65081130 | 33250 | 2360
+| Auto Pilot | cometface | 70079937 | 33247 | 1587
+| Underland | SkillzAura | 34923851 | 33182 | 4245
+| Adustrial | Howler | 59661932 | 33168 | 2344
+| FF0000 | LightPotato99 | 79356892 | 33161 | 3215
+| Alphawolf | WerewolfGD | 48118261 | 33123 | 4183
+| Liminal | theGoT | 67628612 | 33104 | 2272
+| purple universe | zekvo | 12416598 | 33098 | 5161
+| Skulls | Akvaz | 84590261 | 33079 | 2261
+| Electrodynamix 2 | G0ldcraft | 92379549 | 33027 | 3197
+| Extreme funk | Galluxi | 1193978 | 33026 | 2170
+| Elliptical | NateRavenno | 48273733 | 33000 | 3799
+| Nyastep | Navoltski | 58742824 | 32971 | 2663
+| ClimatiX | Razorendoe | 15851379 | 32954 | 4634
+| Zaana | GDMazii | 77695213 | 32912 | 3577
+| OWIBLION | Peter | 49435684 | 32903 | 3811
+| Rainbow Factory SP | - | 3316392 | 32881 | 3747
+| Purple Circle | Split72 | 66894372 | 32864 | 3287
+| Aphelion | ILRELL | 42961817 | 32824 | 4151
+| Spectre Probe | ZielXY | 24739136 | 32814 | 4162
+| electroman dynamix | - | 1080659 | 32784 | 1578
+| Violence | Chlorines | 30950152 | 32759 | 2585
+| Magnum | logan4722 | 1439051 | 32715 | 1542
+| Insomnia | Novus | 17207032 | 32655 | 3223
+| Deformed | MikyFC | 35777563 | 32653 | 4780
+| Remember Way | Myinus | 288639 | 32625 | 2464
+| gray world | kastor | 2955009 | 32617 | 3300
+| Naive | MaxyLAND | 56607302 | 32616 | 2190
+| Blossom | Havok | 12583763 | 32612 | 4619
+| Inert | X1RON | 88593019 | 32584 | 2934
+| Hexamans Adventure | Pasiblitz | 2160620 | 32575 | 1784
+| Based DUO | iMortlex | 72969434 | 32569 | 2480
+| Zizibum | Rogue | 9037557 | 32565 | 4405
+| Leverage Science | TrueNature | 665970 | 32543 | 246
+| Xenoblast | TD Epic | 45460106 | 32529 | 2903
+| Copycat | Dominus | 54663514 | 32511 | 1577
+| ShakeN | PaLiX | 3895815 | 32500 | 1944
+| Hamburger | Ajedaboss | 41551990 | 32497 | 3425
+| Switcher | iZeo | 73559095 | 32479 | 2650
+| rEflEx | Awzer  | 30808250 | 32431 | 4944
+| Crystal Dungeon | Jouster228 | 97788519 | 32427 | 2741
+| Desesperate | XcreatorGoal | 45709005 | 32423 | 3199
+| Endpoint Demon | Devilmine | 102737702 | 32387 | 2184
+| The Last Straw | TrueNature | 435390 | 32370 | 1829
+| Virus 0101 1010 | Obnoxi0us | 10623808 | 32353 | 3254
+| Stay inside me | AllenRequiem | 89316906 | 32313 | 1876
+| Malfunction | ARtu | 63970594 | 32293 | 2630
+| hex Flex | Pasiblitz | 2011174 | 32171 | 1868
+| Monsteristic | Elisione | 43209357 | 32139 | 3769
+| diagonal | Alphirox | 60522555 | 32121 | 2646
+| -excelline- | Bio21 | 16080193 | 32119 | 4920
+| ElectroStep | - | 441490 | 32119 | 2161
+| The First Crepuscule | - | 587026 | 32107 | 1742
+| xoroz | Xoroz | 22400723 | 32106 | 1623
+| Topala | NoFlix | 78936145 | 32080 | 2675
+| Everyday | DemonBestGG | 147251 | 32038 | 419
+| Glitch Gremlin | AUFrosty | 12727441 | 31981 | 3976
+| ElectroCode | BGames | 12696291 | 31955 | 3678
+| never gawne | Ludicrous | 10961840 | 31937 | 4407
+| priDEMONth | tricipital | 91677667 | 31846 | 1804
+| Soul of Crying | GdTheTactiq | 16668778 | 31840 | 5355
+| DarkDynamix | TrueNature | 920357 | 31833 | 2147
+| Vincia | RayOriens | 16361083 | 31821 | 4699
+| Blazing | DarkBoshy | 7858058 | 31787 | 4998
+| Windows 7 | DoctorSnake | 65844915 | 31778 | 1453
+| Electric Touch | Gusearth | 97990910 | 31760 | 2291
+| NEONLIGHTS  | Ad0NAY27GD | 101268245 | 31758 | 2268
+| StormFront | Oskux | 8919612 | 31732 | 4529
+| Fast As Light | GuraNuS | 5256546 | 31732 | 2915
+| Space Invaderz | Codex | 7949371 | 31729 | 3645
+| The skull ghost | lmarce1 | 85212082 | 31728 | 2276
+| The skull ghost | lmarce1 | 85212082 | 31728 | 2276
+| The ultimate Matrix | EthanMG | 12881483 | 31713 | 4825
+| Arcus | ILRELL | 59326876 | 31708 | 2414
+| high enough | JustPotatoNow | 59809365 | 31695 | 2102
+| Yeh | Split72 | 64227826 | 31660 | 2685
+| Black of Colony | - | 200635 | 31654 | 3081
+| Flirts | Adiale | 11288857 | 31628 | 4068
+| Jungle Step | Superopi | 2477588 | 31579 | 2618
+| ventilation | fr3dmc | 90565817 | 31578 | 2289
+| Prototype | JustWemo | 43752262 | 31578 | 3470
+| Dark Madness | Tronzeki | 11344770 | 31552 | 4637
+| Deep Sea | ASonicMen | 2033900 | 31537 | 2183
+| BlockDude | zejoant | 76013631 | 31531 | 1666
+| Crystalline | RoXion | 3690643 | 31531 | 4674
+| Cute | dongchi | 59346262 | 31517 | 1676
+| DiscoDrive | GeoMEtryManGD | 11600951 | 31507 | 5077
+| In Reality | JamAttack | 55725904 | 31487 | 3779
+| Family | FloxMi | 63453187 | 31465 | 1800
+| RAINBOW gray RM | ZelLink | 194118 | 31463 | 2792
+| Pentangon Force | CanadianKing | 1946487 | 31453 | 1274
+| Ratio Adventures | NukeIIX | 81074143 | 31440 | 3395
+| Limits | Krawler | 69772154 | 31403 | 2186
+| Lost Legends | 123Ev4n | 16195122 | 31395 | 4072
+| Trickle Treat | Kerbexx | 84804167 | 31387 | 2010
+| Trickle Treat | Kerbexx | 84804167 | 31387 | 2010
+| The Saving | JmanDj | 100526338 | 31365 | 2378
+| Overclocked | Gamerespawn | 1124569 | 31345 | 1586
+| Expedition D | GiggsRH | 92574915 | 31337 | 2519
+| speedlevel | Itzabunny | 67492871 | 31332 | 1651
+| Eleonora | DeniPol | 43898136 | 31321 | 3808
+| Xarostep V2 | Xaro | 3824501 | 31257 | 3675
+| Forbidden Voices | MrLorenzo | 14093681 | 31245 | 5703
+| EGhostmaze | 8uua | 98550284 | 31244 | 3604
+| RetroFunk | fenk | 73216276 | 31226 | 2681
+| Dark Adventures | Dako | 1332664 | 31194 | 1629
+| The Extreme 1 | - | 212951 | 31177 | 1672
+| Mescarade | CastriX | 42159901 | 31166 | 4082
+| Kouseki | SirExcelDJ | 97779285 | 31100 | 2979
+| BACK to the present | ZelLink | 595492 | 31097 | 2356
+| Thunderman Adven RM | AeonAir | 1068017 | 31073 | 1695
+| Geometric Energy | Arysta | 54596879 | 31066 | 2776
+| Fluxx 2 | Hyenaedon | 40072682 | 31060 | 3191
+| Color Processing | GoldenRS | 66585380 | 31030 | 2123
+| HopeFulNess II | snowmage | 29968396 | 31019 | 4765
+| Nitro | AndrixGD | 78800762 | 31003 | 3159
+| Niveau 3 | Ficelo | 91617353 | 30986 | 2701
+| Liquid Containers | TheRaptor999 | 11800867 | 30950 | 3922
+| Wonderstruck | Non4med | 11261813 | 30940 | 3588
+| Vortex | Megantwoo | 27548692 | 30931 | 3781
+| Snowpeak Mines | ZepherGD | 28410478 | 30845 | 4689
+| shutter | 2turntdeezy | 101233721 | 30832 | 2162
+| GIBIJI DAWN | Changeable | 74578859 | 30822 | 2262
+| Buttaduck | ItsXZ | 83092575 | 30809 | 1834
+| disc zone | Experience D | 799489 | 30802 | 2840
+| 2 0 2 3 | kolorbok | 87276020 | 30800 | 1866
+| 2 0 2 3 | kolorbok | 87276020 | 30800 | 1866
+| KillCatStrophe | Arysta | 32403938 | 30795 | 4356
+| MoonFlare | Riky2610 | 45801349 | 30773 | 3440
+| Electroluminescent | Annon | 47241792 | 30769 | 3416
+| Powerux | Agils | 45163298 | 30761 | 3829
+| Essence of Fortune | JaoDay | 45037106 | 30724 | 4391
+| Sky Fortress | Evasium622 | 1926205 | 30699 | 1550
+| BookkooB | DeiKay | 98151652 | 30688 | 2150
+| DARK | GDvesuvius | 62394145 | 30657 | 1738
+| Im meh  | Doroku | 80559119 | 30635 | 3305
+| Lonely Night | Mr kim | 11993757 | 30632 | 4446
+| Ethereum | krisz | 77467098 | 30616 | 2208
+| Iznite | Sylv | 60584385 | 30615 | 1852
+| Bliss and Blazes | GoofyTooty | 99724544 | 30602 | 2800
+| Mystic Lab | KeiAs | 12332305 | 30588 | 4559
+| P0K3R F4C3 | N17R00000000000 | 73610537 | 30565 | 1908
+| dangerous incounter | - | 109117 | 30562 | 390
+| gemstone | Non4med | 14581986 | 30558 | 2042
+| Beam Spectre | Arysta | 40163611 | 30555 | 3386
+| Revision | Optation | 76271372 | 30545 | 3077
+| Ascent of Light | MattySpark | 70125985 | 30494 | 2612
+| Call For The demons | BadgerBoy | 4478305 | 30491 | 3326
+| Pongix AdveNtures | Pongix | 66538981 | 30484 | 1688
+| The Rewinder II | V3KTXR | 81778208 | 30406 | 3413
+| Electroblast | Noriega | 2555105 | 30394 | 2486
+| electro world | - | 841608 | 30380 | 1672
+| Apparent | Annon | 34179063 | 30343 | 4247
+| GeoDominated | IBlitzDashAirI | 12417009 | 30327 | 3254
+| Last words | Glouti | 4463560 | 30291 | 2965
+| Shadow Let Go | Rublock5 | 1187222 | 30257 | 1905
+| Retrospect | Woom | 79799473 | 30242 | 2130
+| POOL | GDCreeper4 | 87794734 | 30214 | 1827
+| POOL | GDCreeper4 | 87794734 | 30214 | 1827
+| Twinker World | Rublock5 | 1649392 | 30202 | 1962
+| 2001 A space odyssey | xcy7 | 10626897 | 30176 | 4796
+| Frozen Time | Gamerespawn | 607599 | 30161 | 1341
+| Bionuclear Anthrax | loogiah | 3623022 | 30111 | 3524
+| Hue II | MasterCarrot438 | 68030400 | 30095 | 2023
+| Hemisphere | RoyalP | 64996837 | 30083 | 2005
+| ADE | dongchi | 63772700 | 30067 | 2400
+| Nada De Nada | itSko | 78482430 | 30063 | 2241
+| Ascension | Fairfax | 49508604 | 30041 | 3751
+| Shadow Jumper | Rublock5 | 1211180 | 30036 | 2193
+| Lychinius | WerewolfGD | 51071895 | 29990 | 3800
+| X V I | azubh | 85791368 | 29961 | 1455
+| X V I | azubh | 85791368 | 29961 | 1455
+| X V I | azubh | 85791368 | 29961 | 1455
+| Adventure Fantasy | Nico99 | 73186334 | 29955 | 2628
+| shining | Rifky12 | 66144939 | 29950 | 1826
+| insane flow | - | 217421 | 29941 | 700
+| Season2 Lv7 Anger | IamXstep | 926936 | 29922 | 1705
+| Chroma Scale | MrLithium | 100873958 | 29872 | 2502
+| 404 | rittee | 92264747 | 29848 | 2744
+| Asphodel | DWShin | 26331160 | 29820 | 4500
+| Season2 Lv5 Heir | IamXstep | 735391 | 29795 | -271
+| electro force | MrLumo | 1719260 | 29793 | 1324
+| Evasion | Extrox | 27177963 | 29765 | 4633
+| Faith | MrYBC | 16010337 | 29765 | 4303
+| Moxie | Cirtrax | 75240885 | 29763 | 1930
+| To Conclude | ZepherGD | 11914321 | 29756 | 4625
+| Cluttertilt | Gamerespawn | 1969035 | 29741 | 1555
+| funk of dawn | Experience D | 792506 | 29707 | 2615
+| Halogan | itSko | 79370692 | 29698 | 2987
+| Spectrum | potatoplayer | 8050003 | 29674 | 4688
+| Jetstream | GDSkele | 82148051 | 29669 | 2207
+| Jetstream | GDSkele | 82148051 | 29669 | 2207
+| Jetstream | GDSkele | 82148051 | 29669 | 2207
+| zero hard 3 | - | 131195 | 29642 | 2341
+| Factorio | Regulus24 | 43579743 | 29641 | 3487
+| A d V e N t U r E | - | 1130069 | 29635 | 2313
+| Neon Spheres | KarikioX7gd | 62073326 | 29603 | 1738
+| factors | VecToRx GD | 21272116 | 29601 | 4824
+| Bowsers Fury | Moffe | 72300264 | 29505 | 2377
+| Overcast | kr1t | 51221141 | 29505 | 2189
+| Captured souls | Digitalzero | 14674047 | 29486 | 4755
+| V E E R | Ad0NAY27GD | 76538121 | 29442 | 2441
+| HiThisIsALevel | Robanana | 90933393 | 29439 | 3596
+| LAST STAGE | AlvaroRH99 | 91901083 | 29433 | 2638
+| Globe Navigation V2 | B u r n | 13464080 | 29432 | 4187
+| big chungus sux lol | cerufiffy | 55362981 | 29420 | 1103
+| Rob never TOP | BrainETR | 91315911 | 29412 | 2468
+| SIMG Factorial EX 2 | LunarSimg | 748530 | 29312 | -398
+| Abandoned mine | Astronaut21 | 92548400 | 29276 | 2841
+| Polychromatica | Wav | 64776008 | 29241 | 2843
+| The Five | Wentex | 83321866 | 29239 | 2542
+| Celestial remnants | Abdou01 | 102529669 | 29212 | 2367
+| Massacre | Bio21 | 58917246 | 29200 | 1849
+| Polar | Motu | 863183 | 29192 | 2170
+| XI | ItsEnigma | 86444971 | 29084 | 1991
+| XI | ItsEnigma | 86444971 | 29084 | 1991
+| I NEED YOU | JesseGDGaming | 103358065 | 29080 | 1744
+| Hero Force | Ranexi | 1668150 | 29079 | 1284
+| GROH | KittyDoge | 45065320 | 29078 | 3974
+| Broken Heart  | snowmage | 26427118 | 29064 | 3856
+| Doggy | IKaira | 68188008 | 29051 | 2044
+| Kuki | Szilu | 60215264 | 29049 | 2092
+| cFunk Factory | Nena Kiwi | 1577404 | 29017 | -121
+| Team C | Zeidos | 26538930 | 28973 | 4244
+| Fuzle | Oskux | 24485601 | 28951 | 4469
+| Solid Flow | Nemsy | 71565034 | 28949 | 3358
+| CoRrosIve | AngeloLP | 40254506 | 28919 | 2431
+| TM72 | Moosh | 69086799 | 28886 | 1781
+| PazzesKo | AlloX | 85938564 | 28834 | 2255
+| PazzesKo | AlloX | 85938564 | 28834 | 2255
+| Octane | Pavyzone | 37519801 | 28824 | 2905
+| Hero Back | MaxyLAND | 59301244 | 28774 | 1879
+| REcode | Alphirox | 67590931 | 28762 | 2411
+| Radiation Zone | ValkyrieMaster | 63510623 | 28720 | 2342
+| inohaveagamergirl | gustavov3 | 95728737 | 28680 | 2862
+| Neowolf | WerewolfGD | 45063264 | 28679 | 3823
+| SuLang | e0ts | 71653963 | 28658 | 2474
+| halcyon | Inspirity | 6188035 | 28649 | 3869
+| Placebos | sheredX | 97087639 | 28601 | 2476
+| demon gear | - | 938784 | 28578 | -219
+| Luminous | NGTofficial | 83391057 | 28565 | 2506
+| Dia castle | - | 356220 | 28562 | 1475
+| Not Dead Yet | Pipenachho | 25316910 | 28561 | 3130
+| Bwatt | Yakimaru | 55056041 | 28455 | 2671
+| Woah Look A Level | DubstepFanatic | 70878101 | 28417 | 2381
+| Club HexX | Nena Kiwi | 1530427 | 28393 | 734
+| Ghost System  | ZeiThex | 27219507 | 28392 | 3863
+| Spark Of The Inferno | Reunomi | 43423579 | 28379 | 3345
+| Chaotic Flow | dhk2725 | 3653659 | 28375 | 2505
+| Vapiric Aura | IZann | 60584338 | 28352 | 1846
+| Warlock | TD Epic | 42720336 | 28285 | 2959
+| Interstellar | Nova4664 | 85109272 | 28272 | 2334
+| Lightspeed | Lebi06 | 63241786 | 28259 | 2103
+| Crack In Time | - | 821794 | 28257 | 1588
+| say less | pocke | 79224369 | 28239 | 1947
+| Perpetual Burn  | Chanel 6 | 58287553 | 28197 | 1604
+| Phantom | 1nfra | 75629621 | 28161 | 2624
+| Andesite | Woosp | 98092068 | 28086 | 3655
+| Andromeda | mikeymonke | 49295528 | 28074 | 3115
+| Carnivores | EncisoGD | 60023563 | 28021 | 2257
+| Dark Star | nainteils | 10569900 | 28002 | 3893
+| Anya | Anya21 | 70153212 | 27952 | 2728
+| polymer | cerufiffy | 68579643 | 27943 | 1598
+| Radioactif | Gepsoni4 | 86438742 | 27925 | 3023
+| Radioactif | Gepsoni4 | 86438742 | 27925 | 3023
+| 2024 | Kixgz | 97919153 | 27895 | 1652
+| Roaring Tides II | RadiationV2 | 13799044 | 27872 | 4015
+| Ukrainian Power | syndd | 70853397 | 27789 | 2480
+| Glow Caverns | Skullgas125 | 59977423 | 27696 | 2204
+| Our Future | D3aThBR1ng3r | 10080986 | 27665 | 4614
+| Mercy  | ALISYdvblhas li | 27034839 | 27663 | 3983
+| Electro Force | Nox | 1708831 | 27641 | 1683
+| Spooky Nemo | Nemsy | 64784335 | 27600 | 2472
+| season2 Lv4 ToyLand | IamXstep | 684980 | 27590 | 1517
+| Hiking Time | JuanE0 | 99392702 | 27583 | 2481
+| Robotic Dance | riader | 79576683 | 27566 | 2990
+| Robotic Dance | riader | 79576683 | 27566 | 2990
+| Robotic Dance | riader | 79576683 | 27566 | 2990
+| Bloombow | scottx1 | 89382848 | 27533 | 2123
+| Course Back | TrueNature | 622146 | 27531 | 2270
+| oco | shnitzle | 77477141 | 27508 | 2350
+| Ocean Core | iMorphix | 18141471 | 27507 | 4017
+| Break The Silence | ItzDemonicDash | 70260948 | 27499 | 1657
+| Timescape | GD Master | 918646 | 27499 | 1974
+| Brutality | skrillero01 | 61209286 | 27496 | 2534
+| Divine Life | LeocreatorX | 34883289 | 27496 | 4007
+| Forceful Hexagon | AntRocks42 | 2847030 | 27493 | 2102
+| Loogiah Force | loogiah | 1897336 | 27452 | 2046
+| H E R E | vrymer | 36423351 | 27424 | 3545
+| Dungeon Run | TheGalaxyCat | 102074035 | 27405 | 1519
+| Water Realm | YaelV5 | 2165642 | 27367 | 1736
+| sp0M0ky | Luddee | 57874594 | 27363 | 2198
+| hexagon dash | IronMaker | 1909330 | 27361 | 1299
+| Making It | Nemsy | 68575091 | 27338 | 2557
+| April | Haminopulus | 55049158 | 27334 | 2383
+| QUANTUM GEOMETRY | LillyVX | 81514725 | 27330 | 1563
+| QUANTUM GEOMETRY | LillyVX | 81514725 | 27330 | 1563
+| Toxic Sky | meromelon | 4292587 | 27317 | 2714
+| Combo Breaker | jaffytaffy | 8874417 | 27306 | 4090
+| the only level | sparkyidk | 99167919 | 27302 | 3095
+| V0 | ManGolu | 66783284 | 27287 | 1469
+| Nukamelon Dominator | realwhata | 93951089 | 27281 | 2377
+| Turcazo | abdula | 57460926 | 27267 | 2622
+| GlowHaze | ItsJustCohen | 66767495 | 27250 | 1803
+| Wonder | IIAnubisI | 46186358 | 27231 | 3672
+| BALTSU | Pettsu | 93095665 | 27228 | 2979
+| RetroCycles | Arrownote | 101582280 | 27205 | 2300
+| SuperDash | Scotty16 | 11786243 | 27201 | 3158
+| ELLVO | Vadi | 75014002 | 27190 | 2332
+| Mechanical Enforcing | BlasterRobotz | 57295910 | 27182 | 2274
+| chip melody  | hyp3rdemente | 9733022 | 27148 | 3272
+| HexStep | - | 1084448 | 27135 | -81
+| Spectrum | Tygrysek | 13133336 | 27109 | 4711
+| Sweet Stars | Zhak | 65249486 | 27101 | 2276
+| intrude | emiheliou | 71739033 | 27098 | 2658
+| Toxic | stillSCXPE | 14786815 | 27009 | 3640
+| Rumination | Shrip | 82664645 | 27001 | 2558
+| living in the light | cometface | 76898771 | 26992 | 2519
+| Digital Identities | NateRavenno | 83213889 | 26970 | 2135
+| Digital Identities | NateRavenno | 83213889 | 26970 | 2135
+| Darnoc is evrything | Oskux | 1019664 | 26956 | 1767
+| drawn | Version20 | 889744 | 26953 | -383
+| C 0 R D | RetXXXX | 92838544 | 26934 | 2304
+| apocalypse | vrdr | 97309271 | 26911 | 2104
+| Colorful Caverns | VeXyn | 12951181 | 26869 | 4338
+| Byte System | MoonBlade2000 | 13341185 | 26860 | 3695
+| darksider | Nova to | 43193892 | 26857 | 1673
+| Super Cute Kitty | DaFinn | 57757495 | 26826 | 1853
+| In The Night | Chances | 65707001 | 26802 | 1965
+| Imagination Nation | squishyj | 59164674 | 26792 | 3072
+| Travellers Diary | TamTixx | 57089265 | 26772 | 1472
+| The Machine | Pipenachho | 46333807 | 26751 | 1811
+| Speed of Warp | Dasher3000 | 69769878 | 26722 | 3420
+| Ice crown | HeroMoltenGD | 61225203 | 26679 | 1776
+| Bababooey | Vioxgaming | 95571375 | 26648 | 2458
+| winner | Dubayo | 66579742 | 26613 | 1945
+| Ages | James | 67294839 | 26600 | 1631
+| After shadow | Rublock5 | 1147511 | 26600 | 2026
+| Vagarious | crashpancake2 | 56690843 | 26580 | 1886
+| Morce Is Mod | PICAAAAAA | 63000773 | 26575 | 1782
+| MyPepinillo | DarkrozzGD | 60138828 | 26575 | 1977
+| Spark | Etzotik | 18674282 | 26514 | 3385
+| FunkyWay | TheElectroGD | 60753138 | 26513 | 2295
+| Nano Love | Valkinator | 67625578 | 26509 | 1741
+| I Love Mike Wheeler | MikeWheelerFan | 82288694 | 26504 | 1656
+| My Space JSP | - | 97632 | 26502 | 1610
+| Black And White | Prinplup | 897938 | 26494 | -237
+| theory of rhythm | Creatorchess | 2211756 | 26485 | 1455
+| Electronix | Jasii | 82842605 | 26483 | 1563
+| hoover | ewop | 66979008 | 26477 | 1689
+| EXERTion | Myaaaaaa | 82663744 | 26437 | 1523
+| OH COLORS | thazm | 91974400 | 26400 | 2713
+| Cosmic | Swirl | 6145410 | 26385 | 3935
+| Sphereal | DangerKat | 57423135 | 26367 | 1711
+| Misty Mires | Latko | 91939361 | 26364 | 2590
+| Youre Gonna Love Me | fawksgdd | 70309116 | 26355 | 1707
+| blue universe | zekvo | 12319625 | 26351 | 3811
+| Uzbekistan | Artifie | 85839680 | 26336 | 1791
+| Kongeriger | SirExcelDJ | 64174033 | 26334 | 1597
+| Bunk | Cheeseguy | 74914123 | 26316 | 1925
+| Vortex | Triadic | 5926519 | 26312 | 3216
+| Promised Neverland | Alvilation | 69478057 | 26311 | 1812
+| In Circles | nekochan nd | 45818283 | 26308 | 1824
+| Funity | Apstrom | 64426020 | 26289 | 1679
+| Space | DamianosKabanos | 66134958 | 26278 | 1871
+| Floward | CastriX | 39645160 | 26278 | 4497
+| SourCreamV2 | AUFrosty | 11520863 | 26275 | 3699
+| Spaceman | - | 199976 | 26256 | 2501
+| CREEPER | Dartling | 82546819 | 26254 | 1599
+| CREEPER | Dartling | 82546819 | 26254 | 1599
+| Chive | SomeRandomCow | 92155246 | 26243 | 2846
+| Gloomy Town | ylliee | 52882767 | 26182 | 3013
+| Scud | YunHaSeu14 | 71552792 | 26140 | 2926
+| HeroHell | TheTrueSanji | 21354428 | 26139 | 3824
+| Raptor | juandeman | 48442538 | 26105 | 2184
+| Fort Stride | ElectroBlaze | 77794176 | 26093 | 2616
+| One Hit Wonder | Numptaloid | 58489598 | 26091 | 1926
+| Anata No SonZai | Glaid | 46158304 | 26017 | 2815
+| Midsommar | Hann | 63713285 | 25987 | 1575
+| Extreme Super SSS | - | 807644 | 25982 | 402
+| Livewire | Hakkou | 6763599 | 25934 | 3742
+| Toxicity | Debihan | 44557537 | 25919 | 2234
+| lost temple  | elect | 100585292 | 25915 | 1594
+| Anfer Pekyrie | icewither | 54882661 | 25914 | 2203
+| Death Factory | raidennn | 1647512 | 25911 | -263
+| Cane Swinging | NitronicFury | 16279869 | 25891 | 2748
+| a separate peace | - | 337079 | 25870 | 1569
+| TheoryStep | - | 199246 | 25866 | 1820
+| field of dreams | mSeesha | 67900824 | 25864 | 1611
+| Peculiar | Olympic | 44120349 | 25810 | 2616
+| The World Race | PhantomX | 70796412 | 25790 | 1576
+| Catformer Level | Aerma | 99230947 | 25787 | 2774
+| Viprin CC2 | Koopazu | 68722888 | 25744 | 1512
+| Chiptune V2 | dudley | 7239303 | 25731 | 4109
+| Gibbage Cat | riader | 83002174 | 25687 | 2534
+| Okay | JustJohn | 66206725 | 25683 | 1398
+| DigitalBurst | f0x3wd | 30809171 | 25673 | 4179
+| ice shocked | St1ngray | 1363589 | 25616 | 1142
+| Desolate Place | ZooxerYt | 89766291 | 25610 | 2382
+| Lightning storm | BlazeJcy | 127774 | 25596 | 417
+| UNrendered | flash | 58923073 | 25540 | 2845
+| Chaos Heart | Amukkuna | 91681571 | 25529 | 2159
+| end of the world | - | 556663 | 25484 | 1942
+| Colorful brain ii  | dakiro | 50914372 | 25479 | 3258
+| D E A D | AlvaroRH99 | 86349503 | 25477 | 1505
+| D E A D | AlvaroRH99 | 86349503 | 25477 | 1505
+| n  zone  | ruined | 800432 | 25458 | 1118
+| Minexyl | DashTY | 61084767 | 25451 | 2222
+| Element 89 Ac | BEkID1442 | 379893 | 25445 | 1688
+| destiny of memory | BurstStar | 702294 | 25444 | 1467
+| Fuchsia Town | EmyX | 60419889 | 25438 | 1034
+| Discotic | EnZore | 33112656 | 25431 | 4072
+| skamtebord | bunch | 73192567 | 25429 | 2595
+| operation gray II | MaxiKD | 20444240 | 25422 | 3981
+| Donner | AnLa | 67821476 | 25406 | 1942
+| You Cant | Annon | 91168684 | 25382 | 2144
+| Purple Twinkle | Soluble | 67190746 | 25382 | 1537
+| Changing Dreams | Twandash | 91461689 | 25380 | 2356
+| Deep Impact | iIsane | 36126515 | 25378 | 2898
+| HOLDING ON | EnenzoGD | 84118909 | 25372 | 1857
+| Walaxy | SokA2832 | 72768079 | 25350 | 2196
+| Volatile | LexipGG | 66913900 | 25342 | 1877
+| Destruction | - | 239072 | 25334 | 306
+| eacker hacker | - | 166084 | 25325 | 835
+| Robtech | Kyuro | 92211941 | 25288 | 2726
+| Spectral Blitz | Ajedaboss | 42044936 | 25283 | 2713
+| TRINITE | Alphirox | 96973494 | 25278 | 3390
+| Lustra  | Galuss | 52595645 | 25269 | 2697
+| RELIC REALMS | Mmath | 74991851 | 25265 | 1684
+| scheol | e3ea | 99405134 | 25259 | 1226
+| Get up | paultam | 96616612 | 25220 | 2400
+| Hangul | TD Epic | 50407991 | 25187 | 3114
+| Current | 1u49 | 67161679 | 25169 | 1756
+| Killshot | Anya21 | 75769179 | 25151 | 2207
+| Dance To The Beat | Snarlax523 | 39914847 | 25150 | 3132
+| Transcendence | Alderite | 35345329 | 25116 | 3524
+| Elect dash | KeiAs | 530431 | 25096 | 1609
+| OverBass | MrSaturnuz | 12188377 | 25071 | 3875
+| Lost in Time | Zeroniumm | 1152608 | 25039 | 1252
+| Convalesce | ZeroSR | 62517184 | 25036 | 2047
+| We Up | Neofar | 94053356 | 24994 | 2130
+| SPAGHETTI BLITZ | sparktwo | 93147570 | 24985 | 2891
+| Alphabet W | Dux | 499265 | 24979 | 1022
+| lightshow | Deciduous | 75005798 | 24904 | 1795
+| Taplika II | JFZDash | 28744554 | 24902 | 2351
+| Ascendency | Cosmicss | 73435457 | 24895 | 1969
+| Hieta Gateway | Skeetawn | 99394698 | 24876 | 1940
+| Fantasy | FUNKYpersy | 64018923 | 24873 | 1979
+| LosS | Debihan | 49547966 | 24838 | 2208
+| Shots Fired | Zajicek | 59459102 | 24832 | 1648
+| Xanis | Aiyamii | 64556213 | 24829 | 1309
+| Starlight | 1u49 | 68975129 | 24796 | 2616
+| Lv22 A War Begins | IamXstep | 163300 | 24771 | 1641
+| Bleep Bloop | xXLOCOXx | 60999140 | 24760 | 2575
+| Trianly | Bizaare | 79977900 | 24753 | 2807
+| Trianly | Bizaare | 79977900 | 24753 | 2807
+| King Go | Arkoon | 88304298 | 24732 | 1858
+| King Go | Arkoon | 88304298 | 24732 | 1858
+| Cristalizado | AxelGMD | 95004355 | 24729 | 2430
+| Paincoal III | spl1nt | 77234474 | 24719 | 2030
+| macaroni salad | Binary666 | 82718389 | 24714 | 2311
+| macaroni salad | Binary666 | 82718389 | 24714 | 2311
+| - shattered ii - | Intrix | 11970596 | 24673 | 3661
+| The living Jungle | EmilJsson | 1082046 | 24670 | 1037
+| Mainframe | Elvii | 60126490 | 24662 | 1964
+| Unlinked Reality | Arysta | 38852235 | 24655 | 2922
+| TetrYs | Mineber | 67449297 | 24636 | 2243
+| Beast Moderator | Th3HungVN | 55390977 | 24601 | 1360
+| Specture | Optation | 64477154 | 24591 | 1712
+| Enigma | buoGrOsSo777 | 62655393 | 24577 | 1784
+| Mellifluous Muse | R3aperGMD | 99333053 | 24570 | 1844
+| Walkman | Flosia | 66325324 | 24566 | 2322
+| Sentimental | Evasium622 | 4050249 | 24508 | 1780
+| Compaction | Ajedaboss | 49434663 | 24487 | 2039
+| Minus 15327 Degrees | RandomiGD | 92903691 | 24482 | 1821
+| Stabilo | - | 203138 | 24460 | -83
+| archimedes | SirZaiss | 34751935 | 24437 | 3229
+| Final Showdown | StarterX | 87595369 | 24410 | 2436
+| Disoriented | krisz | 54488483 | 24375 | 2814
+| Flowage | - | 122180 | 24363 | 1883
+| Star Showdown | Atomic | 59972574 | 24345 | 1528
+| FLY | BrayBrayGD | 89956046 | 24341 | 1694
+| The Revolution Step | ElEcmEtAl | 691885 | 24337 | -134
+| Darnoc Dash | gogBone | 73230158 | 24321 | 1683
+| Unnamed Captain | VexautdYT | 65884262 | 24321 | 1525
+| Body | IZann | 68945171 | 24320 | 1567
+| Gufi Tower | Justusrl | 97913598 | 24284 | 3478
+| DURACELL | vit12 | 67442806 | 24270 | 1294
+| Holystone | skrillero01 | 56821993 | 24259 | 2262
+| Gargantua | Hann | 55028910 | 24245 | 1903
+| Centauri | Team Proxima | 55730900 | 24234 | 2625
+| strands | ashhy | 97730492 | 24224 | 2066
+| Saskatta |  Ryan | 35363099 | 24203 | 2569
+| Combo Breaker | Vlacc | 117857 | 24203 | 1301
+| Resonation | Nico99 | 31542522 | 24185 | 4000
+| Utopie | Nottus | 98547379 | 24172 | 3030
+| unbound energy | Mazl | 13813805 | 24153 | 3335
+| STARTLEBARK | Split72 | 102475623 | 24149 | 2035
+| funny car | chloi | 103254037 | 24145 | 1430
+| TESSERACT | Mmath | 98696597 | 24133 | 1511
+| Once More | Evasium622 | 8068001 | 24113 | 2944
+| the fat | Xoroz | 69000000 | 24112 | 1926
+| Oscillate | ChiN3x | 55312656 | 24105 | 1865
+| Novic | Novic | 91594 | 24102 | 1530
+| Technic | LeynarMusic | 57179728 | 24096 | 1938
+| Cyber Odissey | ZadyCR | 48759165 | 24091 | 2762
+| falcon punch | Terminus M | 3359206 | 24083 | 2133
+| Infected | Goodbye GD | 3393825 | 24078 | 1965
+| Factory rush | MrElectrodude | 98263132 | 24040 | 1896
+| Komodian Flash | GrenAde | 18085079 | 24003 | 3279
+| THE LAST BATTLE | Erickblaster | 43746756 | 23987 | 3498
+| serenity | kenaz | 12795515 | 23957 | 2838
+| Op10n10 | TrueNature | 486484 | 23955 | 1603
+| Standoff | CounterMD | 87972483 | 23919 | 1634
+| Fuzzy | Fletzer | 67158595 | 23904 | 1794
+| Lovely Rush  | Colxic | 51777369 | 23901 | 2788
+| DestinatioN | Viricent | 40865270 | 23882 | 2931
+| FARD MOUNTAIN | EDDIEXSMITH | 65353713 | 23874 | 1789
+| Amok | Pettsu | 81668344 | 23817 | 2783
+| SILLYLAND | Split72 | 90559521 | 23797 | 2472
+| True Fire Souls | BladeonGD | 93584978 | 23795 | 2106
+| Mining Mines | MaxyLAND | 65128642 | 23771 | 1144
+| Way Up | ItzSlash | 38881855 | 23756 | 2598
+| ThunderDynamix | - | 1571048 | 23750 | 1165
+| Cosmic Void | Sruj | 56522939 | 23709 | 1805
+| Lecy | ChrySpy | 66348667 | 23706 | 1568
+| Frigid Speed | Codex | 7526460 | 23706 | 3728
+| CrazyMania | HanStor | 76592544 | 23634 | 2073
+| Semiclassical | charifma | 90142214 | 23632 | 2713
+| Digital Corruption | Shatt3rium | 51370787 | 23610 | 1826
+| destiny of choice | BurstStar | 533926 | 23599 | -138
+| Saw Of Destruction  | InsaneJohnson | 48274648 | 23562 | 2381
+| Icicle Hell | Juhou | 51653753 | 23542 | 2136
+| inspired | Opak | 13489936 | 23511 | 3245
+| Sahara | hashgd | 64142506 | 23507 | 2059
+| immortal dogma | - | 381308 | 23478 | 1255
+| Monsterous Toxic | Ellasio | 13227862 | 23476 | 2615
+| The Art Of The Blade | slayerkirb | 91313018 | 23471 | 1957
+| Watch Your Step | Cdpre | 60339190 | 23461 | 1816
+| PSYCHODRAMA | swwft | 61055252 | 23445 | 2046
+| Sky Runner | Arkoon | 36302072 | 23438 | 3888
+| mystic machine | - | 1229785 | 23431 | 1157
+| Star Dreamer | JustBasic | 90724928 | 23413 | 2157
+| Diaphanous  | IIAnubisI | 48331678 | 23408 | 2915
+| weblewoble | bunch | 90978310 | 23360 | 2296
+| Split | kodex360 | 76260418 | 23344 | 1730
+| Castle Bleck | wBERSw | 15579380 | 23341 | 3375
+| Revolt | Straw | 18393682 | 23326 | 3506
+| Farewell | Olikros | 47517326 | 23307 | 2509
+| Quantum | Bluzze | 78832358 | 23274 | 2406
+| SOUNEX CHALLENGE | ShadowIan | 88030318 | 23263 | 2053
+| Hysteria | ToXxin | 54558663 | 23258 | 1371
+| TimeStream | - | 396800 | 23258 | 2151
+| crystal force | exploreX6 | 4265260 | 23231 | 2882
+| DualitY | CrazyLaurent | 63050499 | 23213 | 1531
+| Focus Blast | Edooox | 67008645 | 23208 | 1790
+| Brighten | Justizz | 102226291 | 23203 | 2052
+| Farewell | Suwiwit | 62747482 | 23194 | 1658
+| The De Leon | syndd | 58280519 | 23185 | 1804
+| that way | pineapple | 4250039 | 23180 | 2764
+| New Shapes | PAHC | 76955218 | 23140 | 1871
+| I Hate Retro | MaxxoRMeN | 82698899 | 23123 | 1979
+| I Hate Retro | MaxxoRMeN | 82698899 | 23123 | 1979
+| Kei | Aiden87 | 44035830 | 23054 | 2838
+| Heaven | Parallax | 6437375 | 23032 | 2614
+| Neon Knight | ML500 | 18235141 | 22989 | 3544
+| EcholandZ | xThomasMP | 42709007 | 22960 | 2960
+| Robot Energy | Shatt3rium | 89936038 | 22930 | 1880
+| Oil Spill | MrLithium | 101555009 | 22885 | 1235
+| HEY | Hedgefox | 63881065 | 22859 | 1323
+| Pulsing Land | Andr1x | 50960825 | 22850 | 1429
+| Slime virus | - | 731234 | 22850 | -40
+| Laser Dash | BrainETR | 66108073 | 22764 | 2423
+| Astral Rush | CrafGD | 57021055 | 22757 | 1846
+| Ice aurum | TrueNature | 452615 | 22754 | 1461
+| Cosmic Delfin | Urge | 98951059 | 22752 | 1107
+| Haven II | ILRELL | 26428882 | 22746 | 3515
+| Shop Savant | CryoChemist | 60737164 | 22735 | 1072
+| Phantom Star | dawnii | 57451079 | 22732 | 1387
+| Shockwave | JamieZz | 40315525 | 22721 | 2288
+| Thermity  | zZoomks | 33404197 | 22717 | 2864
+| Detour | Lyriaki | 69342360 | 22716 | 2126
+| Dota II | GoBubble | 100018513 | 22715 | 1583
+| Solargeist | - | 880197 | 22712 | 1536
+| doggo | Supris | 48857446 | 22696 | 1931
+| SystemFusion | Rlol | 13373030 | 22694 | 3762
+| Hydrogenesis | akinawoo | 92043055 | 22615 | 1920
+| Fortnite Dance 2 | Skullgas125 | 78168445 | 22613 | 1049
+| Fortnite Dance 2 | Skullgas125 | 78168445 | 22613 | 1049
+| Color Endurance | TempledoX | 58380455 | 22612 | 1816
+| Colorful dream | Morce | 42301241 | 22610 | 2972
+| Time Warp | Polarbeahr | 85787200 | 22608 | 1096
+| i   GG world 1   i | GGtime | 727423 | 22602 | 1276
+| flux | V9LT | 54577226 | 22595 | 2303
+| Hazy Hazard | Gusearth | 63087061 | 22569 | 1801
+| Hexagon Highway  | iEloy | 2436710 | 22565 | 1621
+| Nacrift | ToXxin | 61482690 | 22551 | 1578
+| Dante | Ultimxte | 66208641 | 22526 | 2455
+| Eclipse | crashpancake2 | 55468317 | 22520 | 1913
+| Dive | LeynarMusic | 60112789 | 22458 | 1587
+| 6 sided journey | GD DoctorScar | 1754396 | 22446 | -146
+| Reminisce | BlazeJcy | 212207 | 22439 | -72
+| KURO | ILRELL | 56517947 | 22431 | 1725
+| somnu | neigefeu | 53523225 | 22416 | 1756
+| Channel Inferno | KwoobGD | 102413670 | 22380 | 2014
+| Xirism | VirtualCrack | 30102977 | 22325 | 2666
+| volcanic theory | Gouns | 37126739 | 22316 | 3708
+| Trypanosomiasis | ZenThriXGD | 46807902 | 22308 | 2299
+| Retrodynamics | ElectroBlaze | 58395574 | 22298 | 1506
+| Cardiac arrest | BroodingAcorn | 96697546 | 22261 | 1932
+| Circulation | Nemsy | 75116765 | 22261 | 3190
+| QuadraStrike | elianaaa | 56852759 | 22261 | 1377
+| Dynamic Theory | iIFrostIi | 8737924 | 22243 | 3373
+| eternal fall | legitshot | 16813206 | 22233 | 3557
+| Radiocut | NateRavenno | 55169831 | 22215 | 1430
+| OVERHEAVEN | Zidnes | 87556563 | 22200 | 1748
+| OVERHEAVEN | Zidnes | 87556563 | 22200 | 1748
+| Hyperion | iZappeR | 45771733 | 22194 | 2886
+| Surface Distraction | Darixen | 52416191 | 22189 | 2086
+| SploOsh | TheShadowRealm | 67680295 | 22154 | 1034
+| Uprising | Vrock24 | 11870638 | 22148 | 3137
+| Inside my head | AleXins | 56837612 | 22125 | 2437
+| Sery | Serinox | 63926161 | 22117 | 1768
+| The Swag | Rawin | 67163897 | 22106 | 1904
+| micron | XCYNICX | 66751135 | 22106 | 1492
+| UP and DOWN | - | 97770 | 22103 | 1295
+| Help Yourself | ColinT | 79165115 | 22096 | 1607
+| Island Hop | Prometheus | 44091759 | 22057 | 2580
+| neofade | pepjin | 84906505 | 22038 | 1421
+| CybericFunk | - | 1588408 | 22037 | 980
+| seconds away | LightningBass | 513896 | 22009 | 2495
+| turbo dynamix | - | 837582 | 21991 | 1040
+| Lets Watch The Stars | Plushiest | 85868129 | 21981 | 1529
+| Lets Watch The Stars | Plushiest | 85868129 | 21981 | 1529
+| Elevate | RyanAB | 29979366 | 21973 | 3251
+| Blue Duck Adventures | Terron | 6849850 | 21955 | 2141
+| kodez | kodex360 | 72379445 | 21935 | 2043
+| TeratoGenic | CreatorDiana | 48304195 | 21928 | 2724
+| Bandit | SomeRandomCow | 100533774 | 21915 | 2243
+| Success | Milos482 | 44310598 | 21912 | 2581
+| funk land | - | 216471 | 21902 | 1308
+| Light Diagram | KineticFrost | 83523295 | 21892 | 1765
+| Grygorovych | Kohtpojiep | 47140019 | 21852 | 2520
+| Bitwise | stardust1971 | 3901644 | 21851 | 1853
+| HighCharge  | AlasstorGD | 95376353 | 21849 | 2447
+| POP FACTOR | johdanlop | 98947301 | 21847 | 1506
+| Holy Views | theGoT | 81242035 | 21819 | 2006
+| Holy Views | theGoT | 81242035 | 21819 | 2006
+| Holy Views | theGoT | 81242035 | 21819 | 2006
+| Ecriptic | xCaptain | 45563742 | 21810 | 2701
+| Level Up | NotKaizer | 95044242 | 21774 | 1601
+| FeverActive | TrueNature | 775893 | 21767 | 1582
+| Crunchy | EVAD3 | 10735358 | 21750 | 3713
+| Crystallics | vonic | 85133678 | 21666 | 968
+| Phosphorescent | Jaasim | 73228801 | 21610 | 1754
+| have fun | DamianosKabanos | 95175085 | 21556 | 1976
+| The Krisz | Jaxz3764 | 75768061 | 21553 | 2561
+| Glare | ThorMode | 15843041 | 21548 | 3594
+| Geometric Night | KorpralGurka | 573645 | 21544 | 1416
+| LATI           LONGI | velvetsune | 80559892 | 21530 | 2306
+| Hychie | wRubix | 96010502 | 21506 | 2406
+| Numazu | RoyalP | 40589681 | 21505 | 2548
+| Jump N Splash | Rawin | 61809417 | 21466 | 1684
+| the edge  | AirForce | 13262853 | 21464 | 3502
+| Dark Lunar   | - | 513613 | 21422 | 1339
+| OxYDoP | Moffer | 96261871 | 21385 | 2321
+| Flux | AndrixGD | 93178296 | 21380 | 2096
+| Blast | XerazoX | 56626919 | 21374 | 1659
+| Energy Ascent | creeperus | 61334689 | 21373 | 1687
+| HyperNova | Swirl | 8490481 | 21353 | 3186
+| Natural Reborn | DreamTide | 65204192 | 21350 | 1372
+| ClutterDash | Evasium622 | 860651 | 21349 | 1343
+| Neko Party | Kingoo | 76237507 | 21319 | 1660
+| WestNote | Lemons | 17289787 | 21310 | 2112
+| Effectum Deducendi | DjDayyy | 35306113 | 21304 | 2875
+| Infected | juandeman | 42754966 | 21272 | 2172
+| Fuzzy | XerXer | 95918040 | 21252 | 1793
+| Pandora Palace | NukeIIX | 75613803 | 21248 | 2645
+| me gusta | Goobfrudla | 70473492 | 21239 | 1792
+| CommaDynamix | - | 928153 | 21239 | 1000
+| Supposition | AxolotlCamellia | 54452203 | 21195 | 2652
+| Legacy | Zak Senpai | 59824964 | 21189 | 1640
+| storage room 1 | Oskux | 1207218 | 21157 | 1208
+| Heavy Fate | Rustle | 11574924 | 21155 | 3052
+| Intense Power | AleXins | 59091227 | 21127 | 1878
+| NightclubStep | Awzer  | 45094025 | 21120 | 2311
+| Overcome | YunHaSeu14 | 27688395 | 21114 | 3552
+| Hexagon power | - | 1766320 | 21113 | 1089
+| Reducto | Nico99 | 12391685 | 21112 | 3502
+| Nitrodynamix | JumpingTheory | 65901410 | 21098 | 1505
+| Haunted | TheTrueEclipse | 64907416 | 21087 | 1675
+| Blast Highway | Nico99 | 43208525 | 21084 | 2418
+| BEAT STOMPER | SkynixGD | 101153539 | 21081 | 2388
+| Kazinu Alsariqa | yarikchaynik | 44740940 | 21078 | 2268
+| Lost In the light | Serinox | 58134625 | 21076 | 1663
+| Fresh | 1u49 | 67500443 | 21066 | 1993
+| Salitter | iMinAY | 64982388 | 21037 | 1398
+| The Pillars | 8BitFudge | 13776296 | 21023 | 3409
+| Spectral Nebula | Tenu | 85979871 | 21019 | 2054
+| Illusions | Dynasteel | 72705646 | 20998 | 1631
+| CP1 Theory | - | 989656 | 20977 | 912
+| coexistence | - | 587160 | 20973 | 1465
+| Ice Age | Goobfrudla | 68695913 | 20963 | 1407
+| Abyss of Craigslist | SouneX | 103328404 | 20955 | 1632
+| Suburban | oatmealine | 98269917 | 20952 | 2007
+| Ricochet | ThatJack | 64171492 | 20950 | 1341
+| THE GD EXPERIENCE | PICAAAAAA | 82742817 | 20933 | 1623
+| THE GD EXPERIENCE | PICAAAAAA | 82742817 | 20933 | 1623
+| HyperFlux | ValkyrieMaster | 62627851 | 20912 | 1698
+| Fake documentary | - | 149648 | 20911 | 849
+| Deluge | Staps | 58448097 | 20903 | 1609
+| k s u a | gustavov3 | 97812399 | 20899 | 1282
+| Radioactive Factory | Mazl | 6517255 | 20884 | 2660
+| Catalyze | TheHuevon | 50057816 | 20854 | 1526
+| run way  | CatronixGD | 78496739 | 20848 | 1852
+| Spooky Darkness | syndd | 65026200 | 20785 | 1253
+| Lilium Light | Unbihexium | 71807316 | 20779 | 1524
+| Neptune Deathmix 2 | Menegoth2 | 1322835 | 20760 | 1182
+| Cheerful Rush | Amidon | 45595678 | 20751 | 2519
+| Flex | MadPilot | 35185989 | 20749 | 2252
+| Irrational isle | twigxcabaret | 74268353 | 20741 | 1981
+| everything is near | Zhiana | 77204281 | 20713 | 1921
+| Evolve | Prism | 16405785 | 20697 | 2665
+| WE BE GOIN TO BRAZIL | BrainETR | 77959116 | 20682 | 2676
+| Bass Island | Xenvill | 91489195 | 20669 | 1844
+| Gracious | adafka | 77748716 | 20642 | 2155
+| Plasma Reactor V2 | RealSoulDash | 2858470 | 20614 | 1678
+| Money Laundering | Wentex | 80137597 | 20565 | 1624
+| Current Mood | SirZaiss | 55607748 | 20565 | 1976
+| Rhythm Paradise | Mazl | 5725915 | 20544 | 2615
+| Brightest Night | SStartDash | 80403689 | 20527 | 2253
+| Brightest Night | SStartDash | 80403689 | 20527 | 2253
+| will | Non4med | 13570907 | 20493 | 2525
+| red wood | iILoBeeIi | 322849 | 20489 | 617
+| Kimera | Toxic GD | 36995264 | 20472 | 3045
+| Outlast | Exylem | 56842105 | 20455 | 1450
+| Dead Noises | IHogartI | 12555293 | 20451 | 3019
+| Floor of Gluttony | Zenovia | 67428122 | 20424 | 1129
+| Pumpkin Night | OTSOSAL | 85212348 | 20390 | 1590
+| Pumpkin Night | OTSOSAL | 85212348 | 20390 | 1590
+| vaulted skies | JA4Y | 75387933 | 20361 | 1888
+| Right Here Waiting | zaRIKU | 795382 | 20359 | 611
+| Interest | AlbertoG | 66145999 | 20351 | 1559
+| F R E S H | DaFinn | 41303623 | 20348 | 2146
+| Aeon Contrivance | gluewis | 33789399 | 20346 | 2791
+| Penumbra | AutoNick | 38735844 | 20328 | 2413
+| Hazardous | Dysphemism | 3253947 | 20317 | 2334
+| Pharaons Curse  | NotKaizer | 99455139 | 20315 | 2532
+| 7Kromer | SirDany | 91080067 | 20279 | 1380
+| DYNAMIC DUNES | BrainETR | 78892626 | 20276 | 3020
+| A dance of light | zMurray | 83353602 | 20264 | 1431
+| passage | Kingoo | 79209934 | 20260 | 2046
+| The Electronic | OcoOz | 57334600 | 20243 | 1474
+| infestation | hexary | 69057986 | 20225 | 1429
+| Clasics | ByBoy 11 | 47294199 | 20206 | 2636
+| ISAAAAAC | Df0rDie | 59067557 | 20196 | 1603
+| -unnamed- | Non4med | 15871672 | 20185 | 2932
+| Adrenaline | Adriam71 | 93072744 | 20164 | 2086
+| doideira | rafabirds | 91794156 | 20156 | 1801
+| Tricipital Adventure | SouneX | 86167298 | 20146 | 1063
+| Factor | wiktord | 51571401 | 20121 | 1841
+| Pneumonic | EpicMasta11 | 41856946 | 20043 | 2520
+| HEXED | NateRavenno | 79661920 | 20017 | 1478
+| Lightyear | khelado | 65829254 | 20013 | 1448
+| EnvyDia | Tygore | 99858473 | 20004 | 2191
+| groob city | camgotbitten | 94994942 | 19973 | 1905
+| Prestasia | GDMazii | 75647971 | 19925 | 1759
+| Lockout | DreamEater | 27431278 | 19923 | 2505
+| Le Atlantique | RealZober | 30382561 | 19910 | 3213
+| cung manh | truongwf | 82834569 | 19894 | 1472
+| Equallix | LazerBlitz | 10409653 | 19894 | 2565
+| Abyss  | doritos1 | 49019489 | 19874 | 2275
+| The Hell Cave | jiseop | 98395916 | 19864 | 1852
+| PEEB FACTORY | robotchief | 90601741 | 19852 | 2404
+| soaring skies | Binary666 | 82815411 | 19842 | 1841
+| Timer On Time | nielxen | 32204488 | 19838 | 2439
+| Wenomechainsama | OpMan360pro | 81452157 | 19791 | 1592
+| Wenomechainsama | OpMan360pro | 81452157 | 19791 | 1592
+| Just one more night | RealSoulDash | 10089478 | 19786 | 2701
+| Velocity Boost | BlackHat5 | 87357897 | 19772 | 1279
+| Velocity Boost | BlackHat5 | 87357897 | 19772 | 1279
+| Him | Bluskys | 59615104 | 19768 | 1279
+| Adamantium | meeloz | 37941762 | 19757 | 2793
+| Watch Your Step | Comically | 65188191 | 19749 | 2060
+| Dissimilitude | Spectex | 55686109 | 19745 | 2148
+| EVO | PICAAAAAA | 94717313 | 19741 | 1551
+| nu temple | cerufiffy | 87420395 | 19736 | 1160
+| Mu Cephei | Anya21 | 76776320 | 19726 | 2139
+| Club Heckler | YunHaSeu14 | 36751733 | 19710 | 2111
+| Time Distorter | JustJrockGMD | 89851442 | 19624 | 2075
+| bbq burger | adamvp | 88777932 | 19595 | 1662
+| bbq burger | adamvp | 88777932 | 19595 | 1662
+| CryoCore | catgirlBlitz | 77694048 | 19583 | 1894
+| Fast As Lightning Z | AceVict | 62934476 | 19561 | 1131
+| Q5 | Cirtrax | 66509543 | 19555 | 1452
+| roses | pocke | 78083759 | 19546 | 2480
+|  Phynko | Pettsu | 80466822 | 19525 | 1485
+|  Phynko | Pettsu | 80466822 | 19525 | 1485
+| YOU GOTTA | KMJFIRE | 84355265 | 19503 | 1907
+| YOU GOTTA | KMJFIRE | 84355265 | 19503 | 1907
+| FF00FF | SUKEGAME | 69589467 | 19497 | 1599
+| Extraction | PheyrOx | 35631803 | 19446 | 1985
+| Ultradrive | Quasar49X | 99368860 | 19434 | 1649
+| lying flowers | sharkdex | 94187709 | 19409 | 1871
+| very very simple lvl | NixinityFeralRF | 76847211 | 19408 | 2099
+| revert | JFZDash | 99577878 | 19398 | 1518
+| SupamarioXx | SamMaxx | 47367637 | 19387 | 2267
+| Eternity | Xhaos | 2891087 | 19387 | 2057
+| Cermin | MYKM | 70280687 | 19385 | 1960
+| 400 | Oskux | 20762577 | 19369 | 2179
+| cerulean | zmelancholia | 77033036 | 19366 | 1728
+| Upbeat Conquest | Howler | 56222071 | 19358 | 1582
+| CyberTech | M1ntJelly | 60291524 | 19336 | 1757
+| Being Funkier | MaxyLAND | 69785154 | 19316 | 2041
+| HLT | Destriv | 57673096 | 19290 | 1295
+| open flame | Crysticai | 98564960 | 19287 | 1397
+| liebe | Laaseer | 68227803 | 19222 | 1349
+| Color Printer | Shatt3rium | 87186246 | 19213 | 1688
+| Color Printer | Shatt3rium | 87186246 | 19213 | 1688
+| 9001 Strong | RealSoulDash | 5426185 | 19206 | 2627
+| MaffadroN | AlasstorGD | 92800598 | 19156 | 1643
+| Man Behind Slaughter | Vadi | 61184830 | 19144 | 2019
+| Beautiful Years | Aleiz21 | 58143554 | 19135 | 1389
+| dont evade taxes | adamvp | 93004278 | 19114 | 1711
+| Incapacitate  | NogZ | 41654396 | 19114 | 2618
+| Lightning Breaker | alfuxGD | 97327852 | 19095 | 1397
+| lovely home | Soluble | 63486364 | 19087 | 1218
+| Rain Full | MrLorenzo | 13798212 | 19026 | 2474
+| Game over | J0eyOnGD | 66620203 | 19016 | 1414
+| Seeker | Ondys25 | 58877012 | 19000 | 779
+| Vibrant Dash | Relic686 | 27769661 | 18997 | 2797
+| Electronic Force | Ranexi | 1916697 | 18994 | 1043
+| MawWy | Tomplayg17 | 92751589 | 18988 | 1641
+| Volume | Optation | 55201212 | 18976 | 1489
+| Vex | Zeniux | 88297904 | 18946 | 2291
+| Vex | Zeniux | 88297904 | 18946 | 2291
+| Divinity | Ragnarus | 76304617 | 18940 | 2197
+| Customer Service | JaoDay | 41113604 | 18935 | 2274
+| Socketed | Xelaaaaaaa | 98147280 | 18915 | 2273
+| i made tetris lvl | itSko | 92595796 | 18915 | 1373
+| Unleashed | gdapples | 50491043 | 18910 | 2485
+| rule the world | 3nzyGD | 77235516 | 18900 | 1350
+| Unnamed 69 | FadeOff | 76951520 | 18895 | 1587
+| New Memories | BGames | 13872095 | 18877 | 3316
+| Holy Flames | felixitron | 69007741 | 18856 | 1952
+| WildLife | Hann | 52794748 | 18847 | 2321
+| Return | Aleiz21 | 60838167 | 18833 | 1308
+| Ender | bra1k | 46713093 | 18827 | 2296
+| Electronomia | Texic | 50406118 | 18820 | 2313
+| Sidereal Fantasizer | Rotos | 101443735 | 18819 | 2199
+| Futuristical | VoPriX | 91983737 | 18815 | 2469
+| Punggol | iRozz | 91336058 | 18808 | 1887
+| NightShine | VrageraGD | 44600088 | 18794 | 2323
+| SaabS | Morce | 43578918 | 18774 | 2508
+| Raivolt Challenge | Amza | 83267639 | 18772 | 1359
+| Mythical Solstice | realwhata | 59680778 | 18716 | 1557
+| x time | ThisIsPailyn | 291394 | 18685 | 732
+| Trial of Fools | Ardant | 44088157 | 18673 | 1988
+| Hallow Affair | Suwiwit | 64706783 | 18649 | 1544
+| UnDer | Dxce | 49668286 | 18647 | 1958
+| Two of Us | Katas | 101015925 | 18641 | 1246
+| Descent into Exyl | cXpium | 103284203 | 18625 | 1836
+| Passionate Comrade | aloom | 94004581 | 18623 | 1723
+| Chiptunie | votanuu | 61490510 | 18617 | 1431
+| SourCream | AUFrosty | 8246798 | 18593 | 2656
+| Rhythmic Virus | MauGa | 88003069 | 18585 | 1836
+| Rhythmic Virus | MauGa | 88003069 | 18585 | 1836
+| Playwolf | WerewolfGD | 54588689 | 18574 | 1794
+| Simplicity II | truongwf | 66133469 | 18573 | 1485
+| Quaysar | PhantomX | 88573413 | 18571 | 1721
+| Message To RobTop | ItzApex | 75133531 | 18569 | 1610
+| Unleashed | Carminius | 100763475 | 18559 | 1842
+| Pulsing haze | ELLVO | 67660208 | 18537 | 2157
+| Diversity | itSko | 69011976 | 18530 | 1214
+| dual | rafabirds | 96727021 | 18528 | 1364
+| Geometrical Rave | SupaCLUCK | 103115277 | 18523 | 916
+| vibrance | Fury0313 | 96119251 | 18517 | 1354
+| Hey Baby Girl | Sneakyx | 74193440 | 18508 | 1103
+| Slide | SpKale | 49146860 | 18479 | 1761
+| Fresh and Funky | Matobia | 86837001 | 18458 | 1726
+| Fresh and Funky | Matobia | 86837001 | 18458 | 1726
+| Crash Arena | loafboi | 73891581 | 18439 | 1402
+| Dynamix step | ruzted | 874148 | 18438 | 1259
+| FunkY | ylliee | 48876941 | 18431 | 2150
+| Fire Dimension | Paragon | 11660376 | 18422 | 2452
+| Burnout | vonic | 78780014 | 18418 | 1774
+| domain boom | Jeikins | 68568906 | 18398 | 1342
+| amora | Fabianhad | 59988911 | 18395 | 1149
+| Rost Oriental Sky | ruined | 533925 | 18392 | 1379
+| w a l k  | Rifky12 | 64401478 | 18372 | 1559
+| Frostflames | GloryEX | 13954389 | 18357 | 2425
+| Paradise | Relcet | 49998443 | 18348 | 2084
+| blue level | Whippie37 | 92465955 | 18326 | 1672
+|  collateral damage | RXKYOTO | 42266478 | 18325 | 695
+| Rotate | DogBan | 64093729 | 18320 | 1359
+| electromaniatical | azubh | 92721120 | 18319 | 1465
+| thEnd | ImNotNuub | 101629407 | 18310 | 1104
+| ruts | kodex360 | 72821820 | 18267 | 1850
+| Day Past Days | - | 1890571 | 18265 | 930
+| my little guide | Fofii | 80311311 | 18260 | 1276
+| Treading For Treasur | Pyxidus | 58470946 | 18260 | 1633
+| Mi Ritmo | Yasa | 99081537 | 18238 | 1761
+| cotton sharp | 7ak | 79077538 | 18236 | 1253
+| Groovy Perspective | danerdogger | 65864279 | 18208 | 1222
+| Rhythmic | Schneider9 | 65570757 | 18183 | 1799
+| sudden IDEAESTHESIA | Knots | 41618699 | 18169 | 1591
+| Cosmic Delusions | Cirtrax | 54376284 | 18134 | 2321
+| Terracotta Overheat | Mantevian | 49993670 | 18131 | 2070
+| beam | - | 199718 | 18100 | 1397
+| chaoz gradium | Xenvill | 90432998 | 18099 | 1723
+| Sky Fortress | Ryder | 24713327 | 18088 | 2065
+| I O X | BridgetTheCroco | 66472718 | 18060 | 1375
+| Shifted | crispapple | 26787935 | 18059 | 3074
+| Change | WinderDG | 46176330 | 18051 | 1022
+| Chamol | abdula | 62403455 | 18048 | 1620
+| End of the Trip | evanjo | 13609599 | 18031 | 3200
+| Emergency | Gabriel | 916639 | 18006 | 1324
+| Theory of Joni | J0Ni | 987685 | 17999 | 1200
+| Hush | ThatKai | 78044813 | 17997 | 1537
+| Monochrome Theory | DreamEater | 8609590 | 17994 | 2434
+| I Want To Fly | govnostroy | 92951555 | 17985 | 810
+| Mayu Mayu | cydoX | 66845085 | 17982 | 1061
+| Chemistry Lab | icewither | 56722428 | 17946 | 1488
+| RIPPLEZ | Memoried | 3801515 | 17937 | 1667
+| Snowflakes | itSko | 76847356 | 17904 | 1725
+| arc astronomia | Cegexen | 99975611 | 17899 | 960
+| Dimeo I | ChiN3x | 47813776 | 17894 | 2095
+| nonary | Zeroniumm | 1184449 | 17881 | 941
+| Tiramisu | DaFinn | 57053242 | 17872 | 1479
+| Neon Lights | Klafterno | 91147046 | 17851 | 1515
+| Frozen Fire | scrumpy | 59439543 | 17851 | 1748
+| Dynamic Duo | Carminius | 67003721 | 17818 | 1432
+| New Direction | Fault | 60617343 | 17814 | 1273
+| Mechanism Mayhem | scorpsi | 101484785 | 17803 | 1005
+| centauri | Waddl3 | 87032046 | 17780 | 1475
+| Infinity Sounds | XDream | 8818374 | 17769 | 2204
+| Mii Party | RemyRose | 54693120 | 17742 | 2677
+| SWITCHBLADE | simvnn | 96504017 | 17738 | 1092
+| i level i 5  | - | 566009 | 17706 | 1134
+| FADE | cometface | 72071818 | 17692 | 2102
+| Lodestar | Hakkou | 6271469 | 17684 | 2447
+| Another Hexagon | CubeDasher | 2091905 | 17641 | 1131
+| Combustion Chamber | AEROSTATIK | 13570493 | 17625 | 2809
+| Vigilance | dittoh | 67283846 | 17624 | 1142
+| runaway | Gabbs | 75386496 | 17622 | 1044
+| little nightmares | Dingus2 | 92846082 | 17619 | 1617
+| I n s a n o  | IJBSI | 64329954 | 17618 | 1129
+| oh yeahhhhh | Fofii | 69726374 | 17606 | 1588
+| Squaredance | Presta | 67825642 | 17606 | 1514
+| Macapaca | Mineber | 78295149 | 17604 | 1884
+| Tribal X | ZeeToss | 44110087 | 17571 | 2175
+| CosmicBlitz | AUFrosty | 14774146 | 17569 | 2618
+| Gecko Funk | Nwolc | 36140758 | 17566 | 2536
+| Predestination | Sohowastaken | 94405617 | 17564 | 1642
+| WeAnN | Dhraw | 61573311 | 17552 | 1705
+| Prestige | Makenzy | 54656436 | 17546 | 1965
+| swift | BALTZ | 85451747 | 17540 | 1167
+| Midnight Fall | Nico99 | 60974979 | 17539 | 1404
+| Luminous | balli | 56469613 | 17529 | 1989
+| 2 ducks | Lightning78 | 92031519 | 17525 | 1611
+| Fantastic | CastriX | 28622355 | 17522 | 1678
+| Radioactive | 64x | 76260506 | 17503 | 1395
+| Beff Industries | ItzApex | 77979695 | 17499 | 1644
+| EXTRAVAGANT | LEXISO | 60996115 | 17490 | 1624
+| Wind Walker | nekochan nd | 51111365 | 17488 | 2070
+| Let It Go | JustJrockGMD | 84864604 | 17480 | 1256
+| Let It Go | JustJrockGMD | 84864604 | 17480 | 1256
+| Let It Go | JustJrockGMD | 84864604 | 17480 | 1256
+| Vibrant | itSko | 71376775 | 17460 | 1574
+| Inscape | xdkubi | 48047218 | 17460 | 2298
+| Theory of Frozen | - | 245314 | 17437 | 1284
+| OVERCAST | KMJFIRE | 94841429 | 17434 | 1926
+| FROM THE START | archermeta | 101344141 | 17419 | 1114
+| Art of Impact | Knocturnall | 103687189 | 17414 | 891
+| Colorwolf 3 | WerewolfGD | 88702708 | 17388 | 1516
+| elysia | Falkuma | 45697422 | 17366 | 2332
+| Stay | Mineber | 48161276 | 17337 | 1879
+| INVASION  | SpaceMagicGD | 90209765 | 17336 | 1644
+| INVASION  | SpaceMagicGD | 90209765 | 17336 | 1644
+| INVASION  | SpaceMagicGD | 90209765 | 17336 | 1644
+| ESTRELINHAS | rafabirds | 93556838 | 17307 | 1365
+| REGRET | R3XX3R | 9390932 | 17305 | 3118
+| OnE pOiNt IDK  | IJBSI | 62299700 | 17296 | 1349
+| TLQKF | Alchery | 59415059 | 17280 | 1195
+| Ex Quo Verum | Elisione | 30105451 | 17278 | 2709
+| illusive | yakone | 66930620 | 17277 | 1471
+| In Awe | SerenoGD | 26904971 | 17274 | 2176
+| HYPOTHETICAL | KMJFIRE | 102781083 | 17267 | 1408
+| Moffes Danker Disco | Ausk | 65585991 | 17263 | 1771
+| The last day | Swirl | 6946588 | 17237 | 2644
+| NSGD World Eight 1 | Hevii  | 100217085 | 17229 | 1073
+| Theory of Clutter | - | 219627 | 17226 | 949
+| Optimism | Yendis | 48655029 | 17222 | 2605
+| Toxic Sewers | PICAAAAAA | 67578636 | 17219 | 1194
+| Til Osiris | SirExcelDJ | 65867302 | 17202 | 1813
+| Evertime | zZoomks | 33627342 | 17197 | 3388
+| Nightmare Fuel | imapotitoo | 64814299 | 17193 | 932
+| Dot | IronIngot | 47046199 | 17179 | 1364
+| Jul | OSIRIS GD | 51403324 | 17178 | 1863
+| Swirl | DangerKat | 73378310 | 17170 | 1607
+| JarvisTwister | iZeo | 70768610 | 17169 | 1681
+| RSTL | LeocreatorX | 95569862 | 17166 | 1498
+| PauF | SirioBlueX14 | 67193026 | 17163 | 1069
+| SNOWBOWL | KMJFIRE | 98070635 | 17153 | 2048
+| lux mortis | Bruhsberry | 92306091 | 17143 | 1775
+| seozen2 Lv1 Funk | IamXstep | 436501 | 17137 | 1162
+| lOOk aT mE | SrMDK | 61093057 | 17131 | 1290
+| Believe | WhaleMage | 60881146 | 17131 | 1420
+| A Ghostly Adventure | DreamTide | 58351666 | 17127 | 1203
+| Square funk | BEkID1442 | 930584 | 17069 | 620
+| Indosiar | Reunomi | 42106642 | 17049 | 2079
+| One point nine | ISariaI | 58199036 | 17046 | 1557
+| Vestige | Oasis | 58003459 | 17043 | 1528
+| baSH | shnitzle | 84198734 | 17033 | 1004
+| baSH | shnitzle | 84198734 | 17033 | 1004
+| Cold Mountain  | Zenreeio13 | 79774918 | 17025 | 1603
+| Cold Mountain  | Zenreeio13 | 79774918 | 17025 | 1603
+| bart is a sim son | SatanicGD | 70531981 | 17024 | 1248
+| Siksaan Kamu | MYKM | 87079462 | 17015 | 1137
+| Beats n Shapes | SleyGD | 54440289 | 17002 | 1179
+| last comet | soda2D | 60858635 | 16986 | 1142
+| GeoBurst | cronibet | 78891728 | 16981 | 1323
+| Lintas Warna | MYKM | 99565106 | 16979 | 1444
+| ABYSS | Asthae | 97182800 | 16961 | 1603
+| COLORPULSE | Atzam | 87346905 | 16937 | 1520
+| COLORPULSE | Atzam | 87346905 | 16937 | 1520
+| Lagoon Language | Onvil | 102713081 | 16932 | 1123
+| Gradient | gluewis | 15932246 | 16930 | 2473
+| calypso | Ninjajai | 55714791 | 16891 | 1678
+| Decagon | Matobia | 93370364 | 16878 | 1807
+| Thousand Foot Crutch | AkyliZz | 519999 | 16864 | 1152
+| You Died Your Fault | Lyriaki | 71644266 | 16832 | 1002
+| Skyless | Kaii07 | 56305093 | 16826 | 1540
+| Atmosphere | DeniPol | 58035513 | 16823 | 1290
+| Massive Discharge | Nico99 | 14084204 | 16811 | 2667
+| Immune | DonutTV | 33513184 | 16808 | 2425
+| Beautiful days | aiden1204 | 97668813 | 16804 | 1754
+| Festive | Mineber | 55094937 | 16784 | 1985
+| Hypernova | mariot3 | 8661688 | 16743 | 2692
+| tempo | sqb | 79272625 | 16732 | 1394
+| BeatGame III | XXDalmanskiXX | 59058288 | 16731 | 953
+| Combo Breaker | Evasium622 | 5608423 | 16716 | 2370
+| Chloroplast | JustL3o | 76789896 | 16713 | 1867
+| 64X ADVENTURES | 64x | 80011704 | 16708 | 1050
+| 64X ADVENTURES | 64x | 80011704 | 16708 | 1050
+| Cosmic System | DaFinn | 13760176 | 16671 | 2321
+| Chroma Circuit | thebun | 98714917 | 16658 | 1201
+| GoodBye | ColorsX | 59623694 | 16651 | 1036
+| Pixel INFINITY | Exi0n | 62111666 | 16647 | 1010
+| Chaoz Devotion | 123Ev4n | 9186836 | 16636 | 2237
+| Helvetican | 3ligH | 69773289 | 16625 | 1292
+| Impulso | xThomasMP | 60269286 | 16619 | 1409
+| Place On Fire | sfhRene | 67341855 | 16617 | 992
+| Duo | Lax04 | 62595106 | 16609 | 1100
+| Perpetuate | rustere | 61909109 | 16601 | 1588
+| The Four Winds | zJosiz | 101763458 | 16590 | 1594
+| Eternal Desire | kodex360 | 71959126 | 16579 | 1661
+| GO LEFT NO GO RIGHT | IcyWindy | 86754606 | 16566 | 766
+| GO LEFT NO GO RIGHT | IcyWindy | 86754606 | 16566 | 766
+| potato salad | Binary666 | 78491575 | 16551 | 1543
+| Crystallize | joojmiguel | 58590113 | 16547 | 1316
+| ELECTRYCITY | azubh | 97620379 | 16546 | 1357
+| SOLAR SYSTEM | Carnitine | 90911676 | 16533 | 1324
+| Sweeping Skies | Mantevian | 68067931 | 16511 | 1262
+| colorful born | Palinka | 11640836 | 16470 | 2742
+| Dream Factory | C4rpeDiem | 13040080 | 16468 | 2443
+| waterMELONNNNNNNNNNN | robotchief | 69053920 | 16461 | 1021
+| Style Wave | PixelMini | 54989989 | 16442 | 1251
+| Invasion | syndd | 67234370 | 16430 | 1152
+| komodo | Grax | 42938017 | 16427 | 1239
+| ice block | - | 988138 | 16424 | 1062
+| Diving | Earthum | 64179450 | 16420 | 1201
+| Sacred | Squall7 | 71465516 | 16405 | 1135
+| t  i  g  h  t | BrainETR | 69428253 | 16398 | 1899
+| SpectrumatiC BananeN | Belastet | 74117314 | 16388 | 1460
+| Shamir Loza | Graded | 86910106 | 16376 | 1217
+| weird | LavonAffair | 69148939 | 16375 | 1314
+| Catalyze | ImPanther | 56880441 | 16361 | 1296
+| Moon Trance | - | 482626 | 16346 | 549
+| Forsaken Blossom | SStartDash | 79159766 | 16340 | 1779
+| Time Hell Machine | - | 535795 | 16338 | 753
+| Embed Failure | IcyWindy | 86754609 | 16336 | 1096
+| Prismatic Carol | Alphirox | 76850515 | 16314 | 1526
+| abstraction | neigefeu | 37647836 | 16311 | 1803
+| Drink Milo | Numptaloid | 64904355 | 16305 | 1033
+| vibrimania | heatherhayes | 69704519 | 16271 | 1304
+| Work | TavitoGD | 62927062 | 16258 | 1411
+| BERSERK | thazm | 92475769 | 16240 | 2237
+| The Graveyard | helito6x3 | 50458459 | 16221 | 935
+| The Spin Cycle | Shatt3rium | 95190327 | 16203 | 1397
+| Left Yesterday | tenzk | 66544316 | 16183 | 1057
+| AsLongAsIGotU | Anya21 | 70710973 | 16173 | 1620
+| In new Afroeurasia | IpuNneO | 77013568 | 16149 | 1151
+| Imperial Astra | Nemsy | 80617222 | 16139 | 1545
+| Icy road | DesTiNy | 606493 | 16125 | 1061
+| Scissor | Waffl3X | 42189477 | 16111 | 1806
+| MENTALLY INSANE | AlvaroRH99 | 90767568 | 16092 | 1772
+| HARDSMALTA | IpuNneO | 90780692 | 16084 | 1456
+| HARDSMALTA | IpuNneO | 90780692 | 16084 | 1456
+| Arbitrary | zac2605 | 43776318 | 16076 | 2171
+| SIRIUS A B | PICAAAAAA | 99592793 | 16064 | 1125
+| Mythical | Squall7 | 57724933 | 16046 | 1675
+| golf | iNubble | 96046562 | 16035 | 859
+| Another cosmos | Flosia | 64770330 | 16017 | 1334
+| Botswana | Sting871 | 64425890 | 16011 | 899
+| Discovering | MystExiStentia | 26935030 | 16011 | 2335
+| Chains | Cheeseguy | 8578587 | 16000 | 2519
+| From Atoms to Pixel | SGLunar | 100459481 | 15974 | 586
+| agility | Apstrom | 64990286 | 15971 | 1443
+| LightBreak | Galactrix | 71820922 | 15966 | 1542
+| 1up | CubeDaArtist | 90378468 | 15959 | 2020
+| 1up | CubeDaArtist | 90378468 | 15959 | 2020
+| Danse Macabre | SkullyHop | 55028377 | 15940 | 1214
+| June | BrainETR | 70541703 | 15934 | 2413
+| Fuego | TheRealWeenside | 55845776 | 15928 | 1386
+| super gravitron | zejoant | 57298124 | 15911 | 994
+| idkwhybutilikethis | FakeHATETAG | 73971273 | 15883 | 1064
+| Catani | iZeo | 80199678 | 15830 | 1470
+| Boaty McBoatface | SirWafel | 89094754 | 15819 | 1462
+| Boaty McBoatface | SirWafel | 89094754 | 15819 | 1462
+| you fortress | ghathiitho | 49179072 | 15813 | 714
+| Goodnight | Seokso | 94968295 | 15811 | 1579
+| ANHEM | truongwf | 73823581 | 15811 | 1107
+| Beyond the earthly  | mishy | 69253038 | 15807 | 885
+| Empty Glass | Agils | 57618138 | 15804 | 1248
+| Once Upon 2 Times | Emily419 | 86315350 | 15801 | 1143
+| nereid | Hir0shi | 87889033 | 15796 | 1346
+| nereid | Hir0shi | 87889033 | 15796 | 1346
+| Adam Sandler | realwhata | 80320478 | 15781 | 1474
+| Heru | Pettsu | 91156272 | 15752 | 1400
+| Entrance | Dimen | 11951127 | 15740 | 2520
+| Tranquility  | SylviaPlath | 13027228 | 15739 | 2440
+| Carnivore | Verification | 38637977 | 15734 | 1614
+| CALLATE JOSE | JHERALD | 90937525 | 15722 | 1741
+| ViriZioN | Masterale | 37991988 | 15721 | 2348
+| Marshy Zone | Volkmire289 | 10521141 | 15713 | 1783
+| The Xtra Switch | Aiyamii | 73790936 | 15700 | 1143
+| Dynamik Cluster | RareNytemare | 1015504 | 15690 | 1194
+| Lost In Limbo | Clodsire | 64493657 | 15686 | 1294
+| cocoon | Lyrial | 66081605 | 15681 | 973
+| The Axis | ZWK | 60899404 | 15680 | 1044
+| Swingin | AmorAltra | 38753679 | 15662 | 861
+| Exhibition Of Icon | - | 202667 | 15650 | 1200
+| Stella | Arquas | 27196662 | 15617 | 2509
+| Aria Math | mihaha | 60185690 | 15593 | 1300
+| Police Car | pocke | 56557333 | 15573 | 934
+| Not Over Yet | DubstepFanatic | 90368112 | 15554 | 1613
+| crewmates | iMinAY | 95440335 | 15550 | 1285
+| Anybody Else | khelado | 64551970 | 15549 | 1277
+| Bonkers Party | ty12345678 | 62968954 | 15548 | 960
+| Fissure | Maboflo | 13058299 | 15546 | 2504
+| Barothithl | Niji | 49095475 | 15543 | 1958
+| Void Setup | iMortlex | 62500763 | 15542 | 1451
+| mawn lower | fr3dmc | 87299552 | 15517 | 1497
+| mawn lower | fr3dmc | 87299552 | 15517 | 1497
+| Sleek | Wav | 53475021 | 15477 | 1747
+| Pain Engine | syakin | 64637758 | 15475 | 1016
+| Magic Button | OwenEOA | 38129622 | 15464 | 1946
+| Skyway  | Twistaah | 101398293 | 15454 | 1051
+| trait | LandonGMD | 94186473 | 15454 | 1142
+| wedgestep | bunch | 61103573 | 15447 | 1433
+| Retro Boomin | Raivolt | 93846330 | 15443 | 1232
+| Rainbow Road | MoxiT93 | 57559970 | 15437 | 1260
+| RealiTy | Howler | 44960510 | 15412 | 1636
+| The Apocalypse | KorpralGurka | 1068187 | 15402 | 828
+| Shockwave | Lixars | 48289449 | 15400 | 1176
+| LeTs FlY | PhysicWave | 61734061 | 15390 | 1042
+| Blue and owangE | Moffer | 75074390 | 15379 | 1179
+| Lv23 The Maglanics  | IamXstep | 206130 | 15373 | 588
+| pseudophobia | Zhiana | 69918337 | 15371 | 1674
+| Fuyu | 5ta1ker | 87167051 | 15355 | 1294
+| Fuyu | 5ta1ker | 87167051 | 15355 | 1294
+| Tropics | wCookieD | 68219399 | 15328 | 1641
+| AREXZ | Yunsa | 92147539 | 15324 | 1592
+| deadras | CrafGD | 48992758 | 15316 | 1828
+| DeSerticA | Lewny | 36263018 | 15311 | 2046
+| Capacitor | ZillaGong | 26018840 | 15311 | 1948
+| SHIMMER | Renn241 | 74364402 | 15305 | 1881
+| Cosminox | Hann | 57318899 | 15290 | 1600
+| Ricochet Love | GMDDEEPSPACE | 43646198 | 15284 | 889
+| Glitter | xMimoGD | 94078978 | 15282 | 1183
+| Sense | RayZN | 66165471 | 15281 | 1199
+| the inside | robtobfreak | 68595123 | 15265 | 1155
+| Iridium | LIEB | 36797410 | 15265 | 2575
+| New Beginning | MystExiStentia | 30643818 | 15261 | 2649
+| ExovernitY | iPandaSwag | 32923902 | 15260 | 2157
+| Wunderwaffle | Sands | 89052310 | 15255 | 1078
+| The III | Waffl3X | 65857140 | 15250 | 924
+| Usurpation | CreatorToile | 82156159 | 15230 | 2538
+| Usurpation | CreatorToile | 82156159 | 15230 | 2538
+| midnight | iITNCIi | 61285698 | 15224 | 1172
+| RemotuS | CastriX | 42344828 | 15219 | 1994
+| Murdar | ImSamo | 63158713 | 15216 | 1089
+| Devolution | JumpingTheory | 80812735 | 15210 | 1286
+| black spy | iILoBeeIi | 211714 | 15209 | 1385
+| Reactant | Bizaare | 65332955 | 15187 | 1632
+| uncle teddy | Carnage37 | 78340735 | 15181 | 1369
+| Space Colours | frogyfrogfood | 101898505 | 15163 | 1363
+| Zephyr Breeze | Reunomi | 40778653 | 15140 | 1774
+| Elysium | PhantomX | 4913711 | 15136 | 1699
+| hewp me pwease | dkitey | 81655210 | 15118 | 1008
+| Focal epileptic  | DAVIDSHOCK | 59956771 | 15116 | 1161
+| EnergeoN | Vexes7 | 66785601 | 15111 | 1533
+| Bamboo Berry | FlickGMD | 96178072 | 15099 | 1337
+| Super Mario Galaxy | Ii Falco iI | 42039419 | 15093 | 1168
+| EntropY | Renn241 | 90745875 | 15087 | 1328
+| Lyse | CUBICCC | 69178303 | 15081 | 1359
+| Deltawolf | WerewolfGD | 47114006 | 15077 | 2001
+| Chronos | mikalgd | 67286436 | 15066 | 920
+| Angelic Sonata | kodex360 | 67815022 | 15056 | 1036
+| passage of time | NoLetter | 64697083 | 15055 | 1432
+| Dream Chamber | Prism | 17454515 | 15048 | 2217
+| damage mind  | CatronixGD | 96426037 | 15046 | 1264
+| Frigid Ice | Bluskys | 58392759 | 15041 | 1378
+| Ferfette | Lyriaki | 66268977 | 15014 | 1320
+| Visualization | Oskreix | 39648271 | 14985 | 1745
+| Theory of the earth | DONIC | 219800 | 14984 | 1167
+| murker | superblooms | 93490523 | 14969 | 1260
+| Shongifo | Mineber | 94869566 | 14963 | 1226
+| Rainbow Smash | Sillow | 54771879 | 14953 | 1356
+| Believe In Yourself | Nemsy | 61998209 | 14947 | 1685
+| Off the Wall | BowtieGD | 67579799 | 14931 | 839
+| Overtime | thazm | 91577001 | 14927 | 1418
+| unnamed draft | Zidane24 | 95875682 | 14895 | 1176
+| Dub Storms | Baanz | 57213318 | 14873 | 1543
+| Scorch shot | Shrip | 81995981 | 14869 | 843
+| the theory of cluter | L3010 | 225234 | 14865 | 1084
+| defection | polarbearz | 5128889 | 14861 | 1842
+| Dualistic | Vexowy | 68000202 | 14839 | 1104
+| Skewing Dimensions | SpKale | 39656079 | 14827 | 1589
+| Transcend | LEXISO | 62696886 | 14824 | 988
+| Midnight Aurora | MorpheiX | 33359451 | 14803 | 2110
+| Rocky Jungle | Jeikins | 103082864 | 14777 | 1046
+| Super PoG | JustL3o | 95289152 | 14761 | 1703
+| Microwaves | pocke | 58862838 | 14757 | 927
+| Ceiling Fan | Blaake | 89089395 | 14756 | 1684
+| Ceiling Fan | Blaake | 89089395 | 14756 | 1684
+| Fanqie | Mineber | 60685538 | 14752 | 1227
+| Pinnacle | gluewis | 47150559 | 14752 | 1941
+| Death Drive | eMartCider | 892117 | 14713 | 1147
+| Alium | JustJohn | 65896647 | 14709 | 1140
+| Regeneration | Chlorines | 37600527 | 14693 | 2090
+| Karnage | Jasii | 74670904 | 14691 | 1296
+| Esmerald palace | HeroMoltenGD | 62245527 | 14691 | 982
+| THE FALLEN | xepheron | 96182592 | 14688 | 1497
+| A collab rewind | MarkyArchived | 81296198 | 14682 | 1172
+| 5STAGE | EpicLooch | 74306724 | 14679 | 1103
+| Eternal Youth  | ThePacificTeam | 45717588 | 14624 | 1452
+| Calm Again | Anya21 | 74584328 | 14616 | 1094
+| earlobe | seefourset | 81705661 | 14614 | 906
+| Colorful Century | ZenthicAxy78 | 65707800 | 14610 | 949
+| Trip Through Time | Zurteh | 87123801 | 14599 | 1342
+| Generic wave IV | ShadowIan | 94811444 | 14593 | 1042
+| ROMMY | LIEB | 70638981 | 14584 | 1160
+| Blazed Terracotta | Mantevian | 41552339 | 14574 | 1689
+| deambulatory navalis | sink | 88238929 | 14572 | 1174
+| Coloris Somnia | Elisione | 55181319 | 14566 | 1683
+| Akai Tsuki | Carnitine | 93725205 | 14564 | 1003
+| Worldwide | LaserSword33 | 58432709 | 14553 | 1019
+| Capgras syndrome | shodai1128 | 88497103 | 14547 | 1886
+| Capgras syndrome | shodai1128 | 88497103 | 14547 | 1886
+| Rainbow | fayzing | 95495337 | 14545 | 1190
+| heLvan | Pongix | 69052219 | 14536 | 1178
+| Mirum Aestas | CastriX | 58735063 | 14534 | 1428
+| Luminous Night | AceVict | 50009243 | 14534 | 1814
+| Chrono | DanLom | 66967156 | 14533 | 1154
+| METHANE | FakeHATETAG | 90982572 | 14531 | 895
+| think2much | SquidMKW | 94966902 | 14526 | 1116
+| Nice Landscapes | MAYEROSA | 69521016 | 14514 | 1088
+| Iocus | CDMusic | 66918711 | 14511 | 1032
+| Stardusty | BaNaNaNaSoX24 | 84920383 | 14507 | 1202
+| Stardusty | BaNaNaNaSoX24 | 84920383 | 14507 | 1202
+| Frigid | astbun | 36192674 | 14504 | 1976
+| THE WRENCHER | Cegexen | 103600308 | 14503 | 952
+| Forgotten World | MagnaciTM | 52849706 | 14481 | 1326
+| Iris Platina | Mineber | 70791425 | 14478 | 1642
+| trompeta | SupuGD | 92596879 | 14469 | 1378
+| EverHood | RedlixHD | 61590917 | 14467 | 1229
+| Ogni | InideuX | 93735328 | 14457 | 1201
+| vaguely moonlit | wless | 47725671 | 14441 | 2181
+| Neonic Flash | Xevenfurious | 27335208 | 14429 | 2052
+| Broken down | TheRealXFuture | 59397371 | 14427 | 1247
+| Dreaming | YeetDawg | 86169578 | 14423 | 840
+| reincarnation | TKS MelonMan | 2429911 | 14408 | 1219
+| SyKoN | nahuel2998 | 47614875 | 14388 | 1714
+| Luminescent | synwave | 71461791 | 14385 | 1456
+| Exspiravit | helito6x3 | 40910041 | 14383 | 1335
+| Radial | radaskk | 37169360 | 14346 | 2508
+| Float | Puueds | 94192045 | 14338 | 1248
+| Forgotten Memories | MeRlO CreatoR | 6127141 | 14337 | 1591
+| BongoCube | Mineber | 49266959 | 14334 | 1564
+| PurSuiT | BrexXes | 90139329 | 14331 | 1735
+| Raphtalia | creeperus | 66428881 | 14331 | 1090
+| Extrasensory | Zeus9 | 12936636 | 14313 | 2458
+| Gloom Drift | JustBasic | 65529659 | 14302 | 1311
+| Time Lapse | Extreme7687 | 99530091 | 14284 | 1028
+| Pressure | JustL3o | 55339718 | 14284 | 1214
+| Infinite Light | Shatt3rium | 57937701 | 14280 | 1080
+| Locked n Loaded | denberZ | 79448041 | 14270 | 1223
+| dozynkiDynamix | jneh | 93967627 | 14264 | 1158
+| zophial | griffyn87 | 34441028 | 14262 | 1587
+| Life is Awesome | FeindFighter | 98450316 | 14250 | 1312
+| Dispatch | Dasher3000 | 62052697 | 14248 | 969
+| Steam battle | Elexity | 12320121 | 14246 | 1789
+| Colourful Darkness | Japic | 615205 | 14235 | 575
+| Featured level | Darcii | 73072602 | 14233 | 745
+| Irruption | xCarbon87 | 10554577 | 14219 | 2137
+| IGNITION | OliXor | 91710182 | 14209 | 1239
+| CherrY | ImMasterX | 61369687 | 14208 | 1113
+| Time inception | She3rlucks | 46043832 | 14200 | 1750
+| Brain Damage | Spectr1X | 84828322 | 14196 | 1128
+| Brain Damage | Spectr1X | 84828322 | 14196 | 1128
+| Aqua II | 1u49 | 66883906 | 14194 | 1468
+| Asperia | DangerKat | 55945760 | 14194 | 1504
+| meltdown overdrive | AllenRequiem | 102664254 | 14191 | 2102
+| Whole Lotta Red | Kixgz | 94383642 | 14170 | 1298
+| electro paradise | - | 960181 | 14169 | 1402
+| vivacious | msm12 | 69143525 | 14167 | 1251
+| 1000W Party II | Churrasco | 9523027 | 14139 | 1963
+| Yemf | Hychie | 72619926 | 14138 | 1639
+| UxU | Hareru | 79020425 | 14124 | 1635
+| Das Fire | Myaaaaaa | 95196464 | 14113 | 1250
+| Josh | Rynoxiouss | 95053012 | 14112 | 1186
+| Dungeon World ii | Astronaut21 | 87013846 | 14105 | 858
+| Munraitomairu | ValkyrieMaster | 68064415 | 14096 | 1162
+| Rainbow Dash | maximo64 | 80012769 | 14087 | 1203
+| Malveillance max | SushiiGD | 101629345 | 14084 | 1351
+| fig28 | awoobroj | 54797281 | 14076 | 1249
+| Night Factory | Krboy369 | 90886863 | 14074 | 1451
+| routine | Eyesw0nker | 91836424 | 14057 | 1380
+| CoLdSwEeTs | CHRAPIVA | 85202702 | 14056 | 1176
+| CoLdSwEeTs | CHRAPIVA | 85202702 | 14056 | 1176
+| Descend | iPrisy | 57800342 | 14047 | 1167
+| Proximity | Morce | 47238900 | 14036 | 1866
+| Inpacto | 0xNano | 62068786 | 14027 | 1170
+| infiltred sector | herozombie80 | 10555741 | 14024 | 1846
+| Determinations | ValkyrieMaster | 63105653 | 14013 | 1030
+| Dual Chip | Plexa | 65983598 | 13963 | 990
+| AEROHEAVEN | Rifct | 103320071 | 13951 | 1355
+| For River | Tribbles | 74178452 | 13913 | 810
+| Spectrum Velocity | iMist | 65164508 | 13907 | 943
+| Fire In The Hole | R7nTy | 103784059 | 13906 | 973
+| Spwc | cleangame | 52764591 | 13903 | 1857
+| Complicato | Riky2610 | 37488193 | 13902 | 2244
+| merite | iZeo | 91360259 | 13895 | 1394
+| i fix you | 3nzyGD | 77152516 | 13892 | 1612
+| TechnoMove | WarningGoat | 81821795 | 13881 | 851
+| Virtual | MYKM | 65888001 | 13864 | 1161
+| Spectacular Vietnam | Magpipe | 73188273 | 13862 | 1107
+| NecroManceR | denberZ | 60246436 | 13845 | 1128
+| The Prototype | Z3R3P | 73397979 | 13827 | 1065
+| 9 9 9 | paultam | 91148414 | 13823 | 1076
+| Rising From the Ash | Copypasta | 62625803 | 13803 | 1183
+| The Remnants | DoctorANC | 83102825 | 13775 | 963
+| DREAM TIME | LEVR1819 | 11954360 | 13772 | 2101
+| Energize | MaxK | 55176271 | 13770 | 1386
+| Neowise | IlBuzdi | 73251783 | 13727 | 892
+| Strange Trash | itsqan | 102456526 | 13722 | 704
+| Marwolaeth | potass | 30927504 | 13716 | 2407
+| Countdown | MoxiT93 | 62826816 | 13693 | 1040
+| KandyMan | functionxd | 94857983 | 13685 | 1647
+| Redemption | Peyt0n | 69219616 | 13682 | 823
+| 3xplosion | gustavov3 | 95346476 | 13679 | 1332
+| ImperFectioN | LordeQuacc | 56512837 | 13678 | 1225
+| nni | SnowEye | 88976179 | 13655 | 784
+| ypsilon | SubStra | 75419135 | 13650 | 1173
+| Zipline | Texic | 91879696 | 13630 | 1392
+| Precursor | SirZeus | 60579212 | 13611 | 1188
+| Colorful Dream  | RealRasberry | 18344890 | 13610 | 1858
+| DUMPSTER FIRE | wetols | 91750494 | 13603 | 1808
+| CYPRESS GROVE | o3k | 79355183 | 13601 | 1353
+| BEZIKI REEF | Carnitine | 102029289 | 13594 | 760
+| Let Me Go | Soluble | 56109086 | 13578 | 1142
+| AudieoVisualUniqueCC | Cele5tial | 92992115 | 13574 | 887
+| Revenant | Optation | 52427047 | 13534 | 1359
+| Lost In A Galaxy | skootys | 64414136 | 13532 | 827
+| Radio Rumble | ELLVO | 94196638 | 13522 | 1296
+| Boneyard | Pawlogates | 38635235 | 13507 | 1098
+| Hidden Machinery | Df0rDie | 75239971 | 13493 | 1496
+| Rapid Relay | Nova4664 | 91459928 | 13489 | 1948
+| Myztica | OutBite | 101004560 | 13487 | 1028
+| What The FGH | FGHJapan | 82742507 | 13481 | 857
+| What The FGH | FGHJapan | 82742507 | 13481 | 857
+| ReHype | Hyper314 | 43050319 | 13479 | 1628
+| Stray life III | BlueSpaceGDL | 83678453 | 13472 | 941
+| Extractor | xAct | 13406695 | 13463 | 2299
+| EMPRESS | NotCyanide | 82934482 | 13459 | 992
+| EMPRESS | NotCyanide | 82934482 | 13459 | 992
+| Moonstar | ViP3r | 56424349 | 13438 | 1027
+| mirrors edge | griffyn87 | 39965066 | 13437 | 1539
+| Ivory palace | twigxcabaret | 92225051 | 13432 | 1124
+| RyD | Stevstyles | 79895724 | 13428 | 1027
+| Vayne | Wistromz | 92761903 | 13420 | 1194
+| Crystal Mines | Alfred PKNess | 37177274 | 13410 | 1474
+| im so happy | Fofii | 70362864 | 13398 | 1169
+| Bounce Back | Cirtrax | 69257013 | 13378 | 1415
+| Luminaire | Xiel | 13288438 | 13369 | 2002
+| Ultrayear | MarkyArchived | 58987974 | 13362 | 1112
+| Color is Key | PERS1AN | 80910902 | 13361 | 999
+| Realms | Fletzer | 49292086 | 13337 | 980
+| AbstractioN | Belastet | 78561332 | 13335 | 1880
+| Static | 1nfra | 69573723 | 13335 | 1200
+| The | vyu74 | 60409146 | 13334 | 1448
+| the edge | Jakedoggd | 11881678 | 13334 | 1772
+| Space Doom | MarioLTE | 37317283 | 13317 | 1871
+| Future Lovely | LucariusM | 47393786 | 13309 | 1250
+| Under my hopes | Doroku | 77263122 | 13301 | 1271
+| BRZGMT | robotchief | 77833259 | 13298 | 1325
+| Flashbang | HugusTheNoob | 60966102 | 13297 | 878
+| CenterMega  | RedDragoN1404 | 13879385 | 13268 | 2259
+| Vegas | Darixen | 46840341 | 13264 | 1604
+| Aurora | meromelon | 9717854 | 13262 | 1835
+| Treble Trance | Nezzieverse | 61316684 | 13237 | 897
+| OPAWS | BENtong | 64307711 | 13205 | 840
+| Heliocentric | R7nTy | 92975585 | 13202 | 1384
+| never | N1mda | 82746762 | 13198 | 1302
+| never | N1mda | 82746762 | 13198 | 1302
+| Cybernetic | NGTofficial | 79063164 | 13188 | 1609
+| Thaumaturgy | Ross12344 | 45423857 | 13182 | 1567
+| HBD Selucentur | Selucentur | 91813031 | 13177 | 1026
+| VoluZ | Zipper01 | 10614562 | 13177 | 1518
+| Lights Out | Dyspex | 88738811 | 13175 | 1398
+| Lights Out | Dyspex | 88738811 | 13175 | 1398
+| Lights Out | Dyspex | 88738811 | 13175 | 1398
+| Stargate S1 | meromelon | 4778576 | 13171 | 1792
+| Vintage Flux | Alphirox | 69625936 | 13154 | 1702
+| AnDia | DiaGram | 65202228 | 13152 | 1101
+| Technical Riot | BlasterRobotz | 51569762 | 13150 | 1481
+| ZENIUXHASNOEYEBROWS | KMJFIRE | 90612222 | 13140 | 1878
+| ZENIUXHASNOEYEBROWS | KMJFIRE | 90612222 | 13140 | 1878
+| Shellshock | ty12345678 | 62078902 | 13134 | 1036
+| All | iITNCIi | 57084432 | 13117 | 985
+| ColorFul | Slipiao | 58929588 | 13098 | 1347
+| Descarga | Tommasso | 70990781 | 13094 | 1024
+| Wired | Alexcont | 64253854 | 13072 | 890
+| Reflex  | Kixgz | 66961737 | 13057 | 956
+| OffBeaT | EvoNuclearGD | 58999911 | 13051 | 1110
+| Diamond Brave | Rdrgz | 100180090 | 13049 | 995
+| iBiru | Fairfax | 46792466 | 13043 | 1492
+| Techno Reactor | CarlM50 | 101053487 | 13039 | 1210
+| Sinking Feeling | SirZeus | 75208534 | 13036 | 876
+| Carry me out | twigxcabaret | 80703148 | 13026 | 1045
+| Unhinged | Joskope | 59556656 | 13025 | 1017
+| CaT | AlasstorGD | 68021852 | 13001 | 965
+| Inanis Fabula | DeoxLite | 74659822 | 12996 | 1006
+| Abyss of Fear | chona026 | 51717653 | 12995 | 820
+| My Perfect Palace | Moffe | 74661079 | 12979 | 1086
+| Euphoria | Fletzer | 56271727 | 12974 | 1380
+| convergence | orots | 93692838 | 12971 | 1200
+| Monocromatic | maaavry | 69075697 | 12970 | 865
+| Erase | Cirtrax | 36911892 | 12952 | 1483
+| on tha line | Ego11 | 97465378 | 12947 | 1025
+| new project | Renedi | 91545872 | 12946 | 1067
+| Green Noise | SpotL | 79369525 | 12923 | 1137
+| Twilight | 8BitFudge | 95971766 | 12919 | 1042
+| Techno Dream 2 | ValenQpr | 58398675 | 12908 | 872
+| Mission Complete | LightWinner | 66605383 | 12906 | 985
+| Graph Meme | Earthum | 60916856 | 12905 | 1100
+| Blissful Haze | Falkuma | 52602124 | 12901 | 1553
+| The Upside Down | FreezeDash | 92376084 | 12894 | 1175
+| 4OVD | Meekah | 68296873 | 12865 | 1227
+| Its time | LewinGD | 78529923 | 12850 | 1725
+| Flashlight | VagrantXXI | 39553114 | 12836 | 1272
+| Beanable | johdanlop | 91391471 | 12821 | 1217
+| Reminiscence | abdula | 48636960 | 12817 | 1492
+| Mechanical Overload | Dominus | 48886820 | 12816 | 1352
+| adumreb | Zhiana | 72686539 | 12799 | 928
+| Eternity | HeniXs | 78225988 | 12796 | 999
+| Path Intense | AnddyVM | 40139690 | 12796 | 1323
+| MezXic | RedlixHD | 65458502 | 12787 | 1438
+| New Way | spl1nt | 74899149 | 12785 | 1236
+| breaking silhouette | Knots | 41599952 | 12764 | 1371
+| OcTane | emoR | 67515445 | 12754 | 1127
+| Resurrection | InfiniteR88 | 35492259 | 12731 | 2021
+| Mind Vibes | N3moProd | 56056013 | 12726 | 1044
+| Carolina Reaper | CreatorRiley | 67508682 | 12720 | 1022
+| Howl | V3ntique | 47618856 | 12705 | 821
+| Dusky Daze | JustJohn | 70179828 | 12690 | 944
+| Lazer | Rifky12 | 63882408 | 12688 | 807
+| Rublock5 | GDSkele | 67727817 | 12686 | 780
+| Release | Sebasthian60 | 87479638 | 12678 | 1151
+| i level i 6 | - | 602748 | 12673 | 1053
+| Corolla | TempledoX | 63663739 | 12665 | 903
+| Calling Megaman | Bluskys | 47402001 | 12623 | 1364
+| Roboboblo | GiggsRH | 59204873 | 12604 | 1460
+| Static Bound | AlvaroRH99 | 89630413 | 12601 | 1275
+| Static Bound | AlvaroRH99 | 89630413 | 12601 | 1275
+| Electrified | Tyrannyy | 66274159 | 12601 | 1112
+| 100 likes | GWeoGD | 103306654 | 12598 | 1257
+| RESILIENCIA | IIAnubisI | 56154476 | 12594 | 1251
+| Essex  | DarkZoneTV | 11477652 | 12576 | 2078
+| The Maitrier | cr3tins | 96403930 | 12569 | 694
+| myelin | MaxiKD | 36290262 | 12561 | 1905
+| ewopmas | Nwolc | 98807951 | 12548 | 1167
+| CastleBreak | red7777 | 79049846 | 12544 | 1044
+| Swift Venery | ItzMezzo | 57399171 | 12543 | 1220
+| Redeem Fears | R503Sv | 75291125 | 12540 | 1294
+| Azure Skies | CreatorMoldy | 70133800 | 12539 | 721
+| Serenity | SpKale | 26425905 | 12532 | 885
+| DanZfemale | realwhata | 77309039 | 12528 | 1104
+| ZaPhiRo | Darkness c | 59440603 | 12514 | 757
+| Qi | Kaii07 | 50543449 | 12510 | 1201
+| TerriaN | crashpancake2 | 51082230 | 12508 | 1127
+| system down | Alexcont | 32220328 | 12498 | 1416
+| BOUND 2 | Asthae | 89880087 | 12488 | 1167
+| Tick Tock Time | helito6x3 | 49605030 | 12482 | 687
+| Funky Factory | Xiprus | 56662302 | 12470 | 1024
+| Odmin In GW 3 | - | 494345 | 12466 | 962
+| Spelunkers tabu | Df0rDie | 80900487 | 12447 | 1403
+| Spelunkers tabu | Df0rDie | 80900487 | 12447 | 1403
+| Bligo | ELITEXD | 67361661 | 12408 | 1327
+| boosky | Twistaah | 86901176 | 12406 | 1102
+| Burn It All | PICAAAAAA | 62660548 | 12405 | 1196
+| Fright Show | shnitzle | 78814319 | 12399 | 1025
+| ZINOKCORE | simvnn | 94083661 | 12394 | 1000
+| Invigorate | Ross12344 | 43731984 | 12393 | 2068
+| Sheol | RikiGD | 72200760 | 12383 | 1679
+| Star Lust | Kyre1911 | 63628489 | 12381 | 1628
+| Checkered | SleyGD | 51343126 | 12380 | 783
+| libidine | Fz3ro | 80469059 | 12369 | 1379
+| libidine | Fz3ro | 80469059 | 12369 | 1379
+| Viscid | TropoGD | 65788454 | 12367 | 1236
+| give you up | Squidely | 63538050 | 12357 | 934
+| Holystone | Suixam | 45532151 | 12341 | 1351
+| Planetary Party | hieugg | 91888613 | 12331 | 1124
+| 71M35 N3W R0M4N | N17R00000000000 | 71562172 | 12309 | 1020
+| Fluorochrome | NnolokK | 63717095 | 12296 | 945
+| Energy Laser | VrageraGD | 49139617 | 12294 | 1645
+| Abstract light | IPablinI | 62910689 | 12292 | 1007
+| Conn | Rekiii | 61475330 | 12290 | 1344
+| Infinity Edge | DepisH16 | 72146764 | 12286 | 916
+| Bitter Flash | YunHaSeu14 | 54520628 | 12257 | 1535
+| The Groves | Flocab | 79933683 | 12253 | 1143
+| The Groves | Flocab | 79933683 | 12253 | 1143
+| NULL | Rullstol | 65835618 | 12246 | 1178
+| STEREOBEAT | votanuu | 59817830 | 12244 | 1015
+| Feel the Beat | buttstallionpc | 45451376 | 12235 | 1239
+| CRESCENT HILL | SchentZ | 91171353 | 12229 | 1251
+| PixelateD II | YYew | 64043500 | 12224 | 783
+| at my lowest | MixUpYT | 89220026 | 12214 | 805
+| wilted | kreyk29 | 88752724 | 12210 | 1458
+| Neo Tokyo  | condabeast | 64027849 | 12206 | 895
+| Weekend | BoneSoup | 54548348 | 12192 | 1016
+| LightRay | VecToRx GD | 35047544 | 12192 | 1707
+| Noc2rne | HarshHere | 95196035 | 12173 | 878
+| Aoi | ValkyrieMaster | 65516960 | 12139 | 1050
+| Magic Illusion | Faun | 62218510 | 12125 | 836
+| E v A   | MikanNeko | 50581333 | 12119 | 867
+| Redemption | ELITEXD | 66151509 | 12118 | 1332
+| Azure | Greenyy | 63388764 | 12117 | 842
+| Evolutionized | SoulzGaming | 31494130 | 12090 | 1790
+| Laughter | chamoylol | 55608719 | 12089 | 1418
+| astroborg | aabbdduu | 83020002 | 12081 | 1034
+| Maelstrom | Carminius | 79033674 | 12081 | 1317
+| From Up Above | PICAAAAAA | 77336089 | 12073 | 928
+| Sparken Up | FozaeKitty | 57064558 | 12050 | 1064
+| wonders | wonduu | 70130200 | 12049 | 1106
+| New Generation | Gabbs | 61108552 | 12041 | 1050
+| Crystallizer | Swirl | 8095205 | 12027 | 1816
+| Dark Tour  | Submy | 70615049 | 12024 | 1292
+| Snowfrost | Anirium | 102214120 | 12010 | 995
+| Gyroscope | NogZ | 49980692 | 12001 | 1129
+| Deadbeat | balli | 26342177 | 12001 | 1110
+| Pounce | kylerocket06 | 98178077 | 11997 | 1320
+| final form | soda2D | 58892589 | 11991 | 850
+| GMD Terpenie | Aeicotey | 97416878 | 11987 | 573
+| spale | dawnii | 58919742 | 11979 | 934
+| Blossom | LuffySan | 63549097 | 11972 | 934
+| pretty dream | Fabianhad | 61860117 | 11967 | 1051
+| Alvaro  | BrainOutear | 38289998 | 11965 | 1155
+| Samuha | Aiyamii | 74900768 | 11962 | 913
+| Adfroime II | Anya21 | 67153388 | 11952 | 908
+| Strange Nights | iMortlex | 64801813 | 11951 | 1250
+| Villa | truongwf | 94857455 | 11949 | 755
+| Gabbs | Moffer | 64834238 | 11945 | 1186
+| CONSUME | CatioGD | 95065980 | 11933 | 995
+| Kuchau we | iMortlex | 94109036 | 11933 | 1351
+| Forlorn | vonic | 72270235 | 11925 | 1157
+| SuperByTe | Klafterno | 84409023 | 11919 | 746
+| Aeonian | Eternalyz | 38267227 | 11888 | 1589
+| BrainETR V | Moffer | 103379575 | 11887 | 1165
+| dupstep | Twistaah | 90128649 | 11862 | 1227
+| Athletic Aesthetic | Zeniux | 67813533 | 11860 | 1008
+| Japanese Station | lMattz | 66212567 | 11857 | 935
+| Insane Tech | azubh | 91066383 | 11849 | 1009
+| Coloring Show II | Tenzelo | 61513057 | 11847 | 1120
+| Mixed Realities | mSeesha | 57022938 | 11844 | 622
+| The BoT | GmDWolde | 3090736 | 11836 | 1252
+| Thronos | vit12 | 56902230 | 11825 | 783
+| Revolution Rebirth | Koopazu | 56166606 | 11805 | 1100
+| Null | RealZober | 49572962 | 11801 | 1227
+| Retrowave | CreatorLW | 54799004 | 11775 | 1092
+| What is Modern | UlbomE | 54791768 | 11774 | 810
+| Caesium | DryCryCrxstal | 35538862 | 11759 | 1846
+| Outflow | Rys3 | 81832423 | 11758 | 1206
+| Outflow | Rys3 | 81832423 | 11758 | 1206
+| Sorcery | harmfulBE | 79020979 | 11757 | 1408
+| Sweet Dreams | Angelgdlm | 86459514 | 11753 | 756
+| One More Dance | orangeDAS | 81822739 | 11753 | 1072
+| One More Dance | orangeDAS | 81822739 | 11753 | 1072
+| InstincT | De7roit | 24728036 | 11749 | 1305
+| Spectral Velocity | QuantumFlux | 39210266 | 11746 | 1354
+| World Rift | spl1nt | 68796866 | 11743 | 984
+| KawaiiDesuKa | YuiAnitaAnggora | 56924468 | 11735 | 780
+| Break Zone  | ZatexDoom | 92367034 | 11703 | 891
+| Planet 2847 | Carminius | 90505874 | 11689 | 1178
+| Quentiam | Qventiam | 45466037 | 11653 | 1353
+| Essence | elianaaa | 87321430 | 11649 | 481
+| cursedOS | Kazey | 85792956 | 11646 | 831
+| cursedOS | Kazey | 85792956 | 11646 | 831
+| Kotori  | YirokoS | 55812542 | 11646 | 1090
+| Weigth | guerronojas | 40945537 | 11643 | 1562
+| Pandora | Minimi427 | 41678927 | 11639 | 1521
+| Magic Lilies | Texic | 54362976 | 11626 | 1587
+| ThE | ValkyrieMaster | 62063168 | 11609 | 757
+| Motion 52 | Optation | 68532616 | 11595 | 736
+| gradient | Zerbit | 11262128 | 11592 | 1733
+| Bonky Bonkers | PariThePlatypus | 65875416 | 11584 | 1157
+| THE GAMBLE | aloom | 95841486 | 11579 | 762
+| Bioluminescent | Annon | 53807389 | 11579 | 1470
+| Exuberant | Syunide | 32370680 | 11552 | 1652
+| careless whisper | spark | 61997435 | 11544 | 805
+| Enigma | MaykollGD | 59142909 | 11514 | 791
+| My Imagination | TheRealWeenside | 63553688 | 11500 | 919
+| Cosmic Unity | ZeoxX | 78270673 | 11483 | 1275
+| GrooVy LITTLE guy | Dongakonga2 | 80558374 | 11479 | 1079
+| Fright | Carminius | 74361479 | 11460 | 1223
+| Destiny | TropoGD | 64228254 | 11445 | 853
+| Meta Topology | shnitzle | 74876070 | 11432 | 938
+| Frightened | ValkyrieMaster | 61641929 | 11432 | 999
+| Moony Memories | Cypherr | 75122532 | 11429 | 1047
+| Contemptuous | Lake | 78469110 | 11427 | 1100
+| Astral Aphelion | Snarlax523 | 41630953 | 11422 | 1465
+| Tristam | DubstepFanatic | 80802265 | 11416 | 1096
+| outdated | ZecretDash | 92249540 | 11404 | 897
+| Roseurple | Cesardavid21GD | 95091830 | 11389 | 1208
+| Dimension | MYKM | 68342464 | 11388 | 776
+| into the sea | DerKat | 63390899 | 11384 | 1062
+| Fallen System | TerKai | 57930063 | 11375 | 934
+| Evocative light | Inex | 52284488 | 11360 | 1100
+| Hypnagogic | Rifct | 91561737 | 11353 | 1045
+| Prism | aj04 | 76022380 | 11353 | 1101
+| Awoken | IRBenja | 67790809 | 11332 | 783
+| faded path | Spxrrows | 76452538 | 11329 | 1116
+| HyperUpdate | Tippymang0 | 9734244 | 11309 | 2268
+| Happy Now | sergioad | 51785076 | 11305 | 894
+| Hipnos | MrHubbington | 92671597 | 11272 | 1073
+| OBED | kitenok | 82074221 | 11271 | 934
+| The Dasher | ZWK | 66760492 | 11269 | 734
+| The Dasher | ZWK | 66760492 | 11269 | 734
+| SimpLexitY | realwhata | 66669735 | 11262 | 922
+| CONVENTIONS | ILRELL | 83147516 | 11259 | 933
+| Philosophy | Almondy | 68786930 | 11244 | 1048
+| METROPOLIS | Xorxis | 102281878 | 11228 | 501
+| shimmer | epiphani | 88484483 | 11228 | 784
+| shimmer | epiphani | 88484483 | 11228 | 784
+| Power Charge | Nottus | 90243269 | 11216 | 996
+| Power Charge | Nottus | 90243269 | 11216 | 996
+| Retro Romance | AvaKai | 60975815 | 11212 | 954
+| Ardent | Silouute | 67944786 | 11192 | 1138
+| Aquiver | Tropiica | 33050498 | 11191 | 1418
+| Crystal Club | Koopazu | 82259317 | 11188 | 1116
+| Lightness | Hikex | 91444080 | 11178 | 1250
+| Europa | cXpium | 95736489 | 11157 | 1176
+| Brighten Up | Met3o | 58169031 | 11142 | 1007
+| Glee II | GMDluca | 71124241 | 11140 | 774
+| Shula | Veiled | 57602246 | 11134 | 905
+| I know | SirZaiss | 54494642 | 11115 | 1415
+| delight | hell | 94150269 | 11107 | 1038
+| divergent | Annon | 39227757 | 11105 | 1480
+| Elliptical Velocity | Kaii07 | 55423227 | 11096 | 1098
+| Vanilla | AlaskaFX | 93616871 | 11071 | 777
+| Chromatic Colors | vonic | 65212065 | 11071 | 906
+| Final Destiny | TriPodX | 46331360 | 11058 | 1127
+| Gibiji | Amoeba | 56357433 | 11057 | 1020
+| I got you | XxdomxX | 96500141 | 11045 | 1232
+| Boulevard | EpicMasta11 | 38620743 | 11044 | 1054
+| blob dance | Deppied | 57560440 | 11043 | 1076
+| Avenue | Logman6656 | 88329896 | 11032 | 1495
+| Avenue | Logman6656 | 88329896 | 11032 | 1495
+| Valour | Seafarer | 61423183 | 11032 | 925
+| LUMINOUS ROAD | diamondstorm | 86367167 | 11028 | 764
+| Mechanical Chaos | KoDTIFF | 64635216 | 11017 | 830
+| Astro AI | BurritoGamerX | 63003956 | 11010 | 881
+| final aurora | derenetix | 80714968 | 10989 | 1094
+| Nostalgia Blast | Squared | 51980248 | 10985 | 915
+| Dreaming Alchemist | Unbihexium | 76162518 | 10984 | 1181
+| Cityscape Sprint | R3aperGMD | 90488338 | 10979 | 1050
+| Qi ii | Kaii07 | 52343579 | 10944 | 657
+| Crystallic Chromium | FloxMi | 62793690 | 10943 | 843
+| Ignisium | xNoire | 60745027 | 10942 | 799
+| Kolorus | Xatz | 59739011 | 10930 | 942
+| Chinmoku | Dankx | 67135354 | 10928 | 760
+| The Mayo Clinic | realwhata | 68935324 | 10921 | 1014
+| Nautilus | angel791 | 60556424 | 10905 | 613
+| Maximum Sampler | Nemsy | 66213178 | 10894 | 1132
+| Icy Cavern | AnnoyingBaby | 16984179 | 10888 | 1645
+| The resurgenc3 | Balandran GD | 73846947 | 10879 | 970
+| NiNpHeA | JustL3o | 61768495 | 10878 | 795
+| Statuesque | ValkyrieMaster | 64671508 | 10872 | 1161
+| Epiphany Mindset | BridgetTheCroco | 66745260 | 10871 | 904
+| Anthelia | NeonDusk | 75290122 | 10848 | 1136
+| Elemental | lNitroxin | 9451869 | 10838 | 965
+| Blind Forest | Ladaschi | 88270206 | 10825 | 677
+| SPARKSPARKSPARK | spark | 72457276 | 10804 | 891
+| Confuzzled | pualoGD | 46133907 | 10799 | 949
+| vecer | jogyz | 95200082 | 10795 | 756
+| Arrival Century | Alt3r3d | 42800768 | 10780 | 1074
+| make it | macoh | 68350875 | 10773 | 808
+| the dark night | - | 469922 | 10768 | 627
+| Money Laundering | AudieoVisual | 78101603 | 10767 | 1329
+| Powerful | Adriam71 | 90633064 | 10764 | 1260
+| Break the code | DraagonST | 90472894 | 10761 | 886
+| Break the code | DraagonST | 90472894 | 10761 | 886
+| Break the code | DraagonST | 90472894 | 10761 | 886
+| Aquila | DarkZoneTV | 6019279 | 10758 | 1772
+| Explosive | ZeoxX | 95309164 | 10757 | 1031
+| SAIPEN | Gkost | 93228868 | 10756 | 780
+| Summertime | amixam | 63105106 | 10720 | 945
+| ghost facility | Altin | 27765502 | 10714 | 1135
+| Hannibal | Riki Dash | 49443860 | 10710 | 1115
+| Colorlands | Lucoraf | 42674163 | 10710 | 766
+| Optical | Airill | 57020956 | 10706 | 880
+| VisVis | PICAAAAAA | 67356694 | 10703 | 847
+| robert topert  | kodex360 | 66377787 | 10703 | 855
+| Sonne | AnLa | 66027906 | 10694 | 780
+| Thunderstruck | iIsane | 40461080 | 10694 | 717
+| Pump It Up | seannnn | 102176953 | 10691 | 956
+| Alesda | NewDubsC | 57236727 | 10691 | 1016
+| Scarab | DrCuber | 71097006 | 10684 | 866
+| Glamour | Moonlchan | 82130898 | 10683 | 705
+| Glamour | Moonlchan | 82130898 | 10683 | 705
+| Night Falls | 8uua | 66773394 | 10672 | 752
+| AlminO VibeS | CTJustSpam | 70398733 | 10670 | 818
+| Scattergun | Dartling | 84016646 | 10643 | 733
+| Scattergun | Dartling | 84016646 | 10643 | 733
+| Ruined Love | RayOriens | 9384060 | 10642 | 1217
+| AWHILE | StarsFarm | 96869766 | 10627 | 941
+| Electricity | ZelfTix | 60747834 | 10622 | 829
+| SKY SUMMIT | hauxz | 92185195 | 10621 | 943
+| Ris Grestar | Digitalzero | 10085391 | 10618 | 2199
+| Into Space | Spycold | 79304790 | 10617 | 755
+| Pasta Party | Andro3d | 26830135 | 10617 | 960
+| Gas Leak | Hyper314 | 62203281 | 10616 | 1009
+| The Neutral Lodge | JaoDay | 39383304 | 10610 | 1709
+| CATAPULT | krenogd | 89833134 | 10588 | 1410
+| CATAPULT | krenogd | 89833134 | 10588 | 1410
+| Na2 | Bizaare | 63688637 | 10582 | 951
+| Rebuild the body | twigxcabaret | 87289635 | 10578 | 659
+| Prismatic Dreamscape | SamDieGurke | 91169083 | 10565 | 687
+| Escape Reality | Kazey | 74269285 | 10561 | 939
+| Energy | thazm | 80927638 | 10552 | 1372
+| Energy | thazm | 80927638 | 10552 | 1372
+| simplistic stride | LGgd | 65532145 | 10552 | 518
+| Awoken | CobaltV | 7681466 | 10535 | 1691
+| Semita | RefriAC | 84025950 | 10533 | 702
+| Lumen | Ph4lip | 66894497 | 10507 | 1120
+| ugabuga | V9LT | 59409960 | 10497 | 956
+| retro adventure | bpdoles | 71883265 | 10486 | 933
+| TRU LUV | AudieoVisual | 79448789 | 10484 | 1161
+| Compulsion | D4mi | 82931520 | 10480 | 1090
+| Compulsion | D4mi | 82931520 | 10480 | 1090
+| Deadly Factory | NGTofficial | 94081244 | 10472 | 749
+| Slow | Abdou01 | 57301250 | 10465 | 775
+| a trip to Postdfeo | truongwf | 90781764 | 10464 | 1056
+| Hipogdragons | chamoylol | 66021080 | 10456 | 1195
+| RPM | realwhata | 90112133 | 10449 | 903
+| Resilience | HTigerzGD | 50921514 | 10447 | 1592
+| Masive | zJei | 57339940 | 10442 | 975
+| Any Dream | Jezzel | 39233755 | 10435 | 959
+| kornbrot | Tostone74 | 82301962 | 10431 | 726
+| kornbrot | Tostone74 | 82301962 | 10431 | 726
+| Refracted | Ghotstav | 49331385 | 10429 | 915
+| Glooming Burg | Szilu | 93659978 | 10428 | 1141
+| Pancakes | LexipGG | 60814194 | 10410 | 810
+| Chromatic | Vexowy | 57959905 | 10407 | 622
+| Vivid Voyage | Matobia | 88877150 | 10406 | 1475
+| Vivid Voyage | Matobia | 88877150 | 10406 | 1475
+| slinky | Itzabunny | 74428086 | 10405 | 819
+| LXSX CXNTRXL | johdanlop | 97341538 | 10399 | 927
+| Aesthetical | EnteiX | 67752636 | 10396 | 911
+| Flashing Essence | Xspace1 | 96419379 | 10391 | 1075
+| magic glitch | Soluble | 60382887 | 10391 | 970
+| Limelight | Lyriaki | 82900006 | 10390 | 1027
+| Debek | Senseiik | 87362884 | 10383 | 934
+| Debek | Senseiik | 87362884 | 10383 | 934
+| seperation ANXIETY | Carnitine | 94139646 | 10381 | 1064
+| Sclerosis | xBonsai | 60586011 | 10371 | 837
+| Azalea | HTigerzGD | 92192017 | 10359 | 829
+| Achlys | Yoonsr | 58169903 | 10338 | 951
+| spunky the magic cat | DSprint | 58331734 | 10315 | 692
+| BillyVerse | Billyg1122 | 93361208 | 10284 | 933
+| Cole | cooperishere | 92632171 | 10282 | 847
+| genocide | vrdr | 100517774 | 10266 | 1237
+| low impact | Jeikins | 78003748 | 10261 | 1114
+| Never again | ninq | 74486153 | 10254 | 999
+| Love Fever | Koishite | 67491471 | 10251 | 802
+| Evho | Dalusa16 | 88769127 | 10248 | 1167
+| inside the mirror | trashey | 66718212 | 10239 | 573
+| snov | krenogd | 66010642 | 10217 | 683
+| Sugar Rush | Ajedaboss | 51597647 | 10211 | 1247
+| Diva | GDNeoz | 66635782 | 10187 | 935
+| 8 mile electro | - | 603771 | 10158 | 1205
+| Noises | MistFix | 17412904 | 10143 | 885
+| Synthesizer | CorroX | 48688970 | 10093 | 1494
+| Vexers | Dubayo | 66911380 | 10080 | 1021
+| Ozone | Delts | 40601705 | 10080 | 1104
+| Bungelora | RikLymback | 50041597 | 10067 | 1314
+| Permutations | ItzMezzo | 85348921 | 10060 | 642
+| Permutations | ItzMezzo | 85348921 | 10060 | 642
+| The Cosmos | Meldon | 67913310 | 10059 | 574
+| Captain Disco | Codex | 6460608 | 10059 | 989
+| Plan B | Squared | 44722823 | 10054 | 1085
+| Hakugai | SirExcelDJ | 79038143 | 10047 | 1232
+| Prominent Passage | Ieann | 62019010 | 10047 | 857
+| spill | jneh | 78393550 | 10034 | 822
+| Megayear | MarkyArchived | 57182691 | 10009 | 718
+| MANIFESTO | Asthae | 78189277 | 10004 | 1300
+| Emerald Eyes | iCooki3 | 92303428 | 10001 | 612
+| Monster Mash | Antman0426 | 42542933 | 9997 | 637
+| Telluric Shake | LaxHDz | 35267021 | 9993 | 1412
+| The Pain | iZale | 52361117 | 9989 | 1234
+| Purplevel | winterbitia | 67924906 | 9979 | 806
+| Specular  | Hyenaedon | 59583952 | 9978 | 817
+| Pixel Rush | TimeRed | 94212467 | 9962 | 949
+| funhouse | el4n | 82598632 | 9962 | 670
+| funhouse | el4n | 82598632 | 9962 | 670
+| GW zavod | ZlovboyZaremba | 77590651 | 9962 | 951
+| Legacy | Vexexx | 90880678 | 9958 | 813
+| Feel Alive | vonic | 74070481 | 9947 | 1126
+| Perennial Marsh  | Carnitine | 90268837 | 9939 | 1102
+| Modern Burn | greXxio | 78145965 | 9922 | 714
+| Overgrowth | Yoonsr | 64616667 | 9910 | 979
+| MidNight | LeynarMusic | 72057520 | 9907 | 1035
+| Cutter | HighScore47 | 34266337 | 9906 | 1045
+| onenine | Hadronic | 65025137 | 9896 | 678
+| onenine | Hadronic | 65025137 | 9896 | 678
+| Glamour  | Kaii07 | 64234052 | 9893 | 903
+| Void Heart | PICAAAAAA | 65655578 | 9888 | 778
+| Gorod Krovi | FlacoGD | 51042073 | 9878 | 879
+| Tenebrae | maks550a | 50591532 | 9872 | 750
+| yonder | ClickSync | 89827766 | 9850 | 810
+| yonder | ClickSync | 89827766 | 9850 | 810
+| Altered Space | AlexGdGamer | 79511969 | 9842 | 1198
+| Altered Space | AlexGdGamer | 79511969 | 9842 | 1198
+| KYU Double U KYU | Katrie | 66081315 | 9841 | 704
+| Animals | Arkoon | 29935898 | 9841 | 1041
+| The Diamonds | crazilogan | 37200621 | 9836 | 1193
+| Doranell | Doranell | 93649233 | 9830 | 1000
+| Call The Colors | Alexanca | 59032045 | 9828 | 1193
+| DayMay | iMortlex | 57764901 | 9827 | 1142
+| HYD | koukyouki | 96886583 | 9797 | 810
+| Forced Dreams | SpaceMagicGD | 90227856 | 9751 | 1034
+| Forced Dreams | SpaceMagicGD | 90227856 | 9751 | 1034
+| Forced Dreams | SpaceMagicGD | 90227856 | 9751 | 1034
+| Mythosis | Agils | 54491660 | 9743 | 1437
+| MEGALEX | Sekya | 94233428 | 9734 | 678
+| chim | MazZedy | 59149047 | 9734 | 809
+| Geheugen | Rexonics | 95302579 | 9733 | 1055
+| Hamburger Shop | OliXor | 81255142 | 9727 | 905
+| Hamburger Shop | OliXor | 81255142 | 9727 | 905
+| White Silhouette | nazerr | 66379553 | 9723 | 634
+| Novella | Twistaah | 93188412 | 9721 | 1235
+| Lovely Day | Arkoon | 81308028 | 9719 | 1029
+| Modern Adventure | Wilast | 79461809 | 9710 | 536
+| Modern Adventure | Wilast | 79461809 | 9710 | 536
+| Divinance | LunarSonya | 63092380 | 9694 | 981
+| Eine seltsame | Neutronic | 50365751 | 9692 | 1149
+| CHROMA | Bio21 | 57469807 | 9686 | 807
+| TransMedia | Farhan125 | 47557390 | 9679 | 747
+| Distorted | ShadowAxeKid | 64127850 | 9677 | 966
+| HyperiDyumg | Ad0NAY27GD | 68381210 | 9676 | 798
+| Galaxy Nokia | AleXins | 54785802 | 9674 | 995
+| Natander Challenge | antonio130 | 57290244 | 9665 | 611
+| Scarabh | Neutronic | 68522005 | 9654 | 656
+| KontrastruM | Belastet | 78064554 | 9650 | 1623
+| Storm Catcher | Rifct | 92720140 | 9638 | 938
+| Earthsplitter | GenaMorphosis | 102793986 | 9635 | 1003
+| egle | Soluble | 51797216 | 9630 | 1318
+| S T A R | DrayPlay | 65919332 | 9618 | 565
+| You Cantnt | W0lF3 | 60975632 | 9610 | 588
+| Luminous | Twistaah | 83322906 | 9602 | 934
+| Licea | Mineber | 68130761 | 9602 | 683
+| Verge | GrenadeofTacos | 64229582 | 9602 | 625
+| Adventure Fantasy | TonyStar | 56506586 | 9602 | 669
+| Insentive | Aiyamii | 65792562 | 9598 | 703
+| Initialize | M1chiMoki | 82511926 | 9594 | 832
+| Initialize | M1chiMoki | 82511926 | 9594 | 832
+| GOTOHAN | nmth14gp | 81387388 | 9593 | 706
+| Here Comes Grimace | SouneX | 93879998 | 9592 | 771
+| Hasten | Twistaah | 91765993 | 9586 | 1154
+| Effectional | AhriRin | 76205706 | 9586 | 538
+| Effectional | AhriRin | 76205706 | 9586 | 538
+| Effectional | AhriRin | 76205706 | 9586 | 538
+| IDEALIFE | DaFinn | 61130261 | 9550 | 723
+| The Last | AIGDmaster | 81318750 | 9546 | 908
+| DOM | Nixes | 94003218 | 9542 | 808
+| Lightbulb | Arquas | 34989291 | 9531 | 1322
+| flurk | cerufiffy | 58070796 | 9519 | 934
+| Stellar | theGoT | 84277876 | 9508 | 730
+| Stellar | theGoT | 84277876 | 9508 | 730
+| Arcade | DalarX | 58163319 | 9499 | 723
+| Glowing | exotium | 68011991 | 9498 | 565
+| Primrose | Sands | 81706637 | 9492 | 809
+| Geometric II | Aleiz21 | 56174759 | 9478 | 706
+| Path of Affection | realtheo | 56644488 | 9452 | 780
+| Climax | LucyGMD | 80721201 | 9451 | 749
+| ampiainen suoja | omep06 | 92143047 | 9449 | 1143
+| Spooky Squad | IWillRoberYou | 75325889 | 9448 | 923
+| Koopa Knockdown | Amukkuna | 94776849 | 9445 | 837
+| Angelic Sphere | Reunomi | 59256632 | 9434 | 941
+| them colors | Wolvyy | 94376572 | 9431 | 788
+| Demented | Tabib | 61015224 | 9423 | 704
+| Summertime | KryptGMD | 62923749 | 9419 | 700
+| Cosmic Flash | Jameise | 62150108 | 9416 | 1352
+| Aspect Melody | JunjunGD | 83877204 | 9399 | 742
+| deluge | 7ak | 73839780 | 9392 | 654
+| Oh Wow | SebasuGD | 93144100 | 9383 | 1061
+| Unnamed Zero | SharksVN | 57473847 | 9383 | 665
+| Mind | Z00X | 92515336 | 9382 | 920
+| Flashback | Numptaloid | 57044003 | 9380 | 767
+| Cosmic Cycle | R3DHeretic66 | 57951687 | 9378 | 870
+| Funky | BryelManuGD | 95348260 | 9377 | 578
+| and beyond  | DangerZ | 63594978 | 9375 | 744
+| A Rather Fast Carrot | MasterCarrot438 | 67508808 | 9373 | 779
+| Radial ii | radaskk | 42824972 | 9370 | 1204
+| Chips | DrPuppydude | 57144621 | 9367 | 676
+| Citora | Diffuse | 61832769 | 9365 | 820
+| Another battle | midas | 8089568 | 9357 | 744
+| Crimson | Moffe | 68025909 | 9352 | 864
+| First Love | Janucha | 57780052 | 9351 | 677
+| FolciX | iFuriFin | 69563413 | 9344 | 979
+| im so burnt out | kreyk29 | 87171132 | 9340 | 720
+| Amalgama | Xatz | 66006228 | 9340 | 1122
+| HELLSCAPE | Stretcho | 89171110 | 9336 | 711
+| Basilisk Onslaught | J735 | 60484749 | 9324 | 892
+| Altitude 35000 | Kaii07 | 57283194 | 9321 | 966
+| GRAYSCALE | Shulkern | 66872611 | 9300 | 800
+| Pixel Dust | MrLumo | 6818781 | 9297 | 869
+| A Good Bye | MeowSgam | 55399325 | 9294 | 667
+| The Kiss Of Venus | MadrazoGD | 71108268 | 9293 | 802
+| ECSTASY | NukeIIX | 63474333 | 9280 | 770
+| Antiquity | Lorserix | 62537732 | 9279 | 779
+| JOUNCE | steechy | 96073484 | 9274 | 1069
+| Ascension | Sendent | 78998184 | 9273 | 837
+| Deceptic Rush | Ramppi | 39858401 | 9273 | 1302
+| LIES | GalacTyX17 | 93194850 | 9256 | 759
+| Reinterpretation | Almondy | 65637399 | 9256 | 957
+| iL | BridgetTheCroco | 62364381 | 9249 | 730
+| Crash N Burn | DiamondKing169 | 97382116 | 9231 | 759
+| view of the horizon | Mmath | 74645492 | 9226 | 705
+| Antennae | DownStop | 60815772 | 9224 | 784
+| cyclamen | Rowanm | 88782505 | 9202 | 687
+| Calabasa | mrjedi | 49906264 | 9202 | 1014
+| NEWBIRTH | Carnitine | 91094970 | 9196 | 1107
+| A calm Evening | Akurio64 | 98081154 | 9195 | 765
+| delighted | vrdr | 103239852 | 9185 | 935
+| Divertimento | Tchotchke | 65454056 | 9166 | 788
+| Surf | ConMeoXD | 90846330 | 9164 | 806
+| Recovery | Oskux | 9357800 | 9155 | 1409
+| Aelion | Pangea123VZLA | 94665836 | 9154 | 529
+| Blame | Eliotis | 63712349 | 9151 | 612
+| The Hyperion | SebasPeru | 65608724 | 9146 | 825
+| SurTic | ItsJustCohen | 57144623 | 9146 | 1117
+| As Seen On TV | ThunderBat | 81867551 | 9131 | 925
+| Metaverse | Sambatgas | 85718465 | 9119 | 562
+| Leethax | MarkyArchived | 75279453 | 9119 | 770
+| calming dreams | AlvaroRH99 | 76903468 | 9110 | 830
+| far beyond and lost | PiskovecObecny | 90911079 | 9106 | 848
+| far beyond and lost | PiskovecObecny | 90911079 | 9106 | 848
+| BreakDown | Frapai | 65550717 | 9094 | 785
+| Colorful Burst | DuskerHu | 89302891 | 9091 | 769
+| pls daily | Eyesw0nker | 92739118 | 9087 | 779
+| Starfall | Zelto | 82900541 | 9077 | 833
+| Tetrabyte | Rapace | 50652767 | 9063 | 1035
+| Deities | kr1t | 49551032 | 9063 | 1066
+| Styx Helix | Jasii | 44650115 | 9053 | 1159
+| Aloof Banish | kepoc | 67620042 | 9046 | 604
+| The Noise Crew | XronoM | 20769434 | 9046 | 1022
+| adapation | jensGD | 68661922 | 9043 | 669
+| bw | MisterM | 36396042 | 9043 | 737
+| EH | zBray | 66431872 | 9038 | 581
+| c h r o n o | Flocab | 56917698 | 9023 | 832
+| Forsaken places | atmospher | 56823434 | 9023 | 1199
+| nila | meromelon | 38892187 | 9022 | 676
+| Pulsing Flux | Mojitoz | 57889233 | 9019 | 774
+| Harmony of my heart | iMinAY | 58166179 | 9013 | 814
+| TrImEtHyLxAnThInE | Hyper314 | 46567084 | 8983 | 824
+| At Night | Interstellar Ca | 90784977 | 8980 | 805
+| Ancient Beauty  | Edooox | 71144718 | 8976 | 1369
+| Horrific Killers | MAYEROSA | 64384716 | 8969 | 678
+| Friends | AIGDmaster | 96935363 | 8965 | 791
+| Vieille | Alexchi | 67705956 | 8962 | 745
+| Reverie | JamesRamirez08 | 63440064 | 8955 | 835
+| Windy Run | MrSupremeGD | 66361526 | 8949 | 686
+| Douzo | 0xNano | 57790584 | 8939 | 934
+| petrichor | heatherhayes | 55151807 | 8934 | 953
+| Oymyakon | SStartDash | 90165958 | 8931 | 782
+| Oymyakon | SStartDash | 90165958 | 8931 | 782
+| Colossal | Whitehead | 44110842 | 8929 | 1010
+| gradation | Cinemat | 95840563 | 8928 | 738
+| bouncered | Wentex | 81131561 | 8920 | 985
+| bouncered | Wentex | 81131561 | 8920 | 985
+| Perpetual | Pab09 | 76271018 | 8919 | 937
+| Finite Cavern | willy5000 | 5935472 | 8917 | 764
+| Suisei | realwhata | 61451912 | 8914 | 817
+| TsukI | ImSamo | 58937627 | 8913 | 668
+| Puerto la cruz | Waltertheboss | 76039857 | 8906 | 751
+| Puerto la cruz | Waltertheboss | 76039857 | 8906 | 751
+| Archaic Feeling | chona026 | 48409985 | 8903 | 1055
+| Pumpkadescent | FastRefleksX | 26041352 | 8901 | 1043
+| RANCID | LEXISO | 61653746 | 8899 | 724
+| Awakened | Sekya | 59434738 | 8899 | 632
+| Parachute | DanyKha | 80385571 | 8894 | 1052
+| Parachute | DanyKha | 80385571 | 8894 | 1052
+| Light Up | Xxdorian | 79874499 | 8892 | 849
+| geofuture | John265 | 75810387 | 8889 | 968
+| Scathing | kZed | 52835693 | 8886 | 946
+| Fort Solgales | rZary | 61143996 | 8881 | 753
+| sensitive | TheRokp | 71808936 | 8875 | 631
+| Hell Naw | ImAkKo | 90541317 | 8859 | 783
+| Vim | PotatoCuber | 76458676 | 8856 | 792
+| Aku No Hana | Emadeus | 66333565 | 8852 | 625
+| Underground Rhythm | Achievess | 57943683 | 8838 | 701
+| YeahMin | Lovelty | 66041284 | 8836 | 514
+| Hue Hourglass | klaux | 68881260 | 8834 | 609
+| En Passant | LudiumGD | 90422017 | 8826 | 866
+| En Passant | LudiumGD | 90422017 | 8826 | 866
+| Hot Break | j2402c | 64049556 | 8795 | 786
+| Blaze | MovieManiac | 56739752 | 8792 | 700
+| Majestic | Starbooy | 42575786 | 8779 | 716
+| Revision | xdkubi | 39290232 | 8776 | 1200
+| When | imapotitoo | 68291617 | 8774 | 608
+| Edo | TeamUmihotaru | 83252489 | 8767 | 776
+| Molecular Overdrive | GDSkele | 67575930 | 8762 | 529
+| Action | thebun | 88770868 | 8757 | 838
+| Fourgon | Gepsoni4 | 77226932 | 8743 | 1197
+| Another Showdown | vonic | 85820158 | 8734 | 706
+| Another Showdown | vonic | 85820158 | 8734 | 706
+| Inglorium | Zynith | 43221684 | 8730 | 796
+| Bentai | zJaeJae | 60800831 | 8729 | 576
+| A surprise  | SamyTheBest29 | 101025943 | 8719 | 515
+| Leonardo | Zanna83 | 88781980 | 8717 | 706
+| Cosmic Prism | DWShin | 15760397 | 8704 | 1366
+| Cosmic Skies | geomaniacc | 94542156 | 8696 | 549
+| Oneirism | Umylten | 96103969 | 8692 | 787
+| RoyaL | Alchery | 38008035 | 8690 | 1336
+| bright dreams | HelpegasuS | 47215191 | 8689 | 808
+| Mechanical | Alex112300 | 47427126 | 8688 | 680
+| space  light | IZann | 57553122 | 8682 | 682
+| delight  | dydals000708 | 79061434 | 8663 | 421
+| urano metria II | robV3 | 38338236 | 8640 | 1046
+| Death parade | Looou | 90067137 | 8621 | 605
+| Despondent | dWdubz | 43841006 | 8619 | 397
+| dreamscape | ActiveDistinct | 88773994 | 8612 | 739
+| dreamscape | ActiveDistinct | 88773994 | 8612 | 739
+| mind trip | TyphoonThunder | 48873471 | 8606 | 820
+| Explosive Flow | knappygd | 59981091 | 8604 | 641
+| Nampac | Lax04 | 71558695 | 8593 | 803
+| Chrono | SaTRiX95 | 55704443 | 8581 | 909
+| little fragments  | Solvable95 | 83971979 | 8579 | 725
+| Dark Star | HeroMoltenGD | 60100687 | 8577 | 583
+| Overdrive | Alkatreize | 95175950 | 8563 | 690
+| Reflection | SirZaiss | 51607104 | 8553 | 1078
+| Astreus | Uzuh | 66065015 | 8536 | 764
+| Asineunguna | Arkoon | 60150860 | 8535 | 650
+| Buzzed | JA4Y | 68408304 | 8529 | 682
+| The Factory Party | SaraGM | 63450071 | 8517 | 669
+| resistance | M1chiMoki | 49904856 | 8490 | 1096
+| kwasimodo | jneh | 93039355 | 8487 | 756
+| Gtto | mrjedi | 62224797 | 8482 | 612
+| Surround | Blazer2 | 56991825 | 8462 | 1006
+| Overgrowth | Zeniux | 89838229 | 8461 | 1306
+| Overgrowth | Zeniux | 89838229 | 8461 | 1306
+| Empyreal | DaFinn | 51814100 | 8455 | 972
+| EvilWave | Aprevwaves | 91068652 | 8452 | 915
+| after love | Enboy | 57480354 | 8451 | 719
+| burnt roses | JOENUH | 82520838 | 8440 | 842
+| burnt roses | JOENUH | 82520838 | 8440 | 842
+| Causatum | thazm | 57506929 | 8432 | 699
+| Fun race | Alexcont | 82935939 | 8431 | 842
+| Fun race | Alexcont | 82935939 | 8431 | 842
+| BitZ | BitZGD | 57788359 | 8422 | 809
+| Pomme De Terre | Ficelo | 89951109 | 8420 | 1106
+| VoltaiC | Earthum | 73055208 | 8413 | 944
+| Skittles | elianaaa | 75031781 | 8411 | 962
+| Jolie Jam | Dyeo | 96394071 | 8403 | 1118
+| Ambivalent | Squall7 | 65664955 | 8395 | 747
+| TALAMANCA | quicktimed | 90021784 | 8394 | 765
+| Winter Holidays | Astronaut21 | 87168090 | 8393 | 614
+| Winter Holidays | Astronaut21 | 87168090 | 8393 | 614
+| Road Runner | WoundedGalaxy | 82216115 | 8388 | 650
+| mythic | denis002 | 71377387 | 8386 | 820
+| Kyva | VoHanxZ | 96483618 | 8384 | 697
+| Izumo | Shulkern | 66145572 | 8374 | 782
+| DailYeet | Skullgas125 | 58177119 | 8374 | 627
+| Mechanical Force | M1ntJelly | 56592675 | 8361 | 721
+| Ratushan Rush | Carminius | 67919949 | 8356 | 973
+| Mortadelasinaceituna | AlvaroRH99 | 78480664 | 8334 | 996
+| Giwe | Mineber | 66235505 | 8332 | 714
+| Groovy | BaNaNaSoX24 | 75387957 | 8312 | 935
+| Aura | Vitol64 | 63484028 | 8296 | 564
+| memorable lapse | MatthewMW | 45648341 | 8289 | 959
+| The Origins | NeyvaShift | 91151027 | 8285 | 670
+| Glass | Krawler | 79542413 | 8267 | 629
+| Tangrama | CUBICCC | 56068141 | 8266 | 541
+| Carrot Factory | CarrotySpice | 90043259 | 8230 | 713
+| Bliss | Dolnerz | 41229701 | 8230 | 940
+| Irrelevance | Azmuth | 68945067 | 8225 | 976
+| Candlelight Night | Xarus | 67571415 | 8224 | 647
+| Starburst | KNOEPPEL | 67585070 | 8209 | 680
+| superior stride | LGgd | 71295294 | 8182 | 667
+| Guzzle Juice | Elliptic4l | 95122735 | 8170 | 714
+| Z Realm | mrog | 48820999 | 8168 | 816
+| DizajnAKosNaZaver | CrafGD | 93467020 | 8161 | 645
+| DatsNotLevel | Supris | 59644250 | 8156 | 661
+| Meltdown | Dom89 | 89114110 | 8146 | 700
+| to nowhere | Notoriko | 72830456 | 8145 | 645
+| In The Dark | Tygrysek | 91309880 | 8141 | 529
+| In The Dark | Tygrysek | 91309880 | 8141 | 529
+| thAng | CubicShadow | 64645984 | 8138 | 584
+| DaFinn | DaFinn | 62024319 | 8129 | 710
+| Artificial Serpent | xepheron | 82077068 | 8116 | 823
+| Voltaic | JOENUH | 61525452 | 8113 | 795
+| Carrot Juice II | Kacurroo | 101589157 | 8099 | 452
+| koraX | Laaloooz | 60630771 | 8097 | 595
+| Lumiere | junthebad | 58516337 | 8096 | 816
+| Authentics | Penttagram | 34046041 | 8092 | 1129
+| Aspect | Ieann | 51430628 | 8086 | 659
+| GOOD DREAMS | azubh | 90257715 | 8082 | 608
+| Chromatic Feathers | NateRavenno | 35281644 | 8080 | 1134
+| Squad Up | NitSel | 89511496 | 8075 | 766
+| The Nicest | Mirotam | 65914036 | 8067 | 596
+| Recursive Fears | PhysicWave | 68108480 | 8055 | 549
+| Astericksing | Shatt3rium | 67913586 | 8051 | 528
+| Catastrophe | BlastiXGD | 88388437 | 8047 | 653
+| Catastrophe | BlastiXGD | 88388437 | 8047 | 653
+| Nube | BrayanKJ | 57256240 | 8041 | 483
+| Crystallisation | DarkenedNova | 59403358 | 8040 | 848
+| Frosty Flake | ShauxFix | 58765118 | 8038 | 620
+| Technikum | HiastyHeroXDD | 78338171 | 8037 | 948
+| Technikum | HiastyHeroXDD | 78338171 | 8037 | 948
+| NonStop | Jahirapp | 94547940 | 8031 | 1049
+| Renacimiento | Krovolos | 62185360 | 8008 | 789
+| Gateway | lesuperchef | 47696730 | 8006 | 822
+| Flare | 7Tash | 66051752 | 8005 | 614
+| poli | PiskovecObecny | 81548392 | 7997 | 668
+| poli | PiskovecObecny | 81548392 | 7997 | 668
+| poli | PiskovecObecny | 81548392 | 7997 | 668
+| poli | PiskovecObecny | 81548392 | 7997 | 668
+| Bare Witness | navaya | 58887258 | 7992 | 658
+| Sai | Lyriaki | 67687193 | 7984 | 610
+| DUDE BUSTER | Insidee | 56041366 | 7981 | 597
+| Vilo | aloom | 81521124 | 7977 | 812
+| Iceborn | TheHungerGamer | 66694465 | 7974 | 593
+| Very Sudden Toaster | SouneX | 78274274 | 7967 | 1052
+| Rock Vibes II | iCooki3 | 93981280 | 7938 | 442
+| Hyperions NewU | Wentex | 82690506 | 7930 | 701
+| Interpolation | Squared | 55374092 | 7929 | 895
+| Gold Assent | Stevstyles | 60949177 | 7923 | 522
+| Inspiration | Unnamedboy | 91150256 | 7891 | 655
+| High on sum Felt Tip | tenzk | 65604826 | 7891 | 655
+| Astral Artifice | TeamDeltaStorm | 75017012 | 7888 | 636
+| Lazy | LegoLime | 91075546 | 7885 | 735
+| peace  | Umbrattv | 73904022 | 7883 | 599
+| enigma | Ba1tazar | 68692411 | 7879 | 522
+| StormBreaker | RXKYOTO | 56140376 | 7879 | 606
+| HoPeLeSs | Flaashy | 18181642 | 7870 | 1017
+| Winters Crown | LightningSL | 65967262 | 7864 | 664
+| exuberation | krisking | 66852000 | 7861 | 624
+| Arrogant | Shatt3rium | 59878575 | 7856 | 810
+| Psilocybin | Aurora123 | 74134996 | 7841 | 768
+| Immortalize | IsmailDaBest | 58972035 | 7831 | 672
+| CompleX | LeocreatorX | 31456749 | 7822 | 944
+| nostalgic trip | Gresov | 60343966 | 7795 | 573
+| aver | FerkleN | 93025145 | 7794 | 886
+| Adope II | truongwf | 65122159 | 7787 | 586
+| TIL FURTHER NOTICE | Wentex | 93654940 | 7780 | 780
+| FERMZ | Laaseer | 69103697 | 7761 | 714
+| Desolation X | TheEvolution2 | 34555558 | 7734 | 821
+| Cheesy Zucchini | cooperishere | 90566259 | 7727 | 647
+| Cheesy Zucchini | cooperishere | 90566259 | 7727 | 647
+| Blue Sky | MadManga | 66328014 | 7724 | 556
+| ElectroX | KuraiYonaka | 67520643 | 7718 | 809
+| Hane | Kirlian | 51106442 | 7715 | 870
+| enchanted memories | Xenvill | 87048468 | 7714 | 683
+| Antique memories | nyseoul | 67250174 | 7708 | 634
+| Warpspeed | IsmailDaBest | 56195114 | 7699 | 637
+| Omen Of Havoc | Ieann | 57783735 | 7692 | 644
+| Elicit | DrCuber | 65685629 | 7687 | 565
+| A Town Called Home | artherr | 58970073 | 7685 | 1157
+| grooooooooovy | fenk | 66224263 | 7670 | 913
+| Come Back | Tartofrez | 52572950 | 7663 | 1015
+| From Dust | PAHC | 77786803 | 7660 | 592
+| Saline Questions | Zeptrus | 66698836 | 7648 | 591
+| Rainy evening | Luvery | 69678494 | 7628 | 760
+| Heart of Sol | Anya21 | 81247120 | 7626 | 945
+| Heart of Sol | Anya21 | 81247120 | 7626 | 945
+| Heart of Sol | Anya21 | 81247120 | 7626 | 945
+| Tiles | 8BitFudge | 61897637 | 7622 | 579
+| Colorful space | Excellent567 | 90659590 | 7609 | 642
+| Colorful space | Excellent567 | 90659590 | 7609 | 642
+| Colorful space | Excellent567 | 90659590 | 7609 | 642
+| Empyrean | suyre | 36771822 | 7604 | 671
+| Unnamed ci ne | ImSamo | 65659219 | 7600 | 593
+| A S D | Sendent | 73551374 | 7591 | 615
+| Cotton Candy | Kapelli | 89599741 | 7589 | 677
+| Atmospheric night | Xenvill | 90537591 | 7574 | 757
+| Atmospheric night | Xenvill | 90537591 | 7574 | 757
+| Atmospheric night | Xenvill | 90537591 | 7574 | 757
+| Ling | truongwf | 67013208 | 7562 | 539
+| departure | j4sonpixelz | 60557126 | 7557 | 530
+| Amplitude | Optonix | 39625635 | 7537 | 874
+| Land of the lost | Spxrrows | 92219919 | 7536 | 570
+| Divance | TheGalaxyCat | 56982360 | 7532 | 474
+| technical overdrive | Cyprix | 33453696 | 7531 | 883
+| CreaTivian | cronibet | 48390984 | 7529 | 793
+| Adrift | xenbez7 | 90250056 | 7506 | 710
+| Cyber Rave | Serpent | 89525054 | 7491 | 1158
+| frostcore | Carnitine | 92176130 | 7471 | 736
+| Deceitful | Squall7 | 90853166 | 7447 | 760
+| Deceitful | Squall7 | 90853166 | 7447 | 760
+| Around the Clouds | Pejuirange | 69467448 | 7441 | 669
+| charmeleon | aokuang | 38141062 | 7440 | 555
+| Phlogiston | Kuuwote | 83075459 | 7435 | 609
+| Avid | Avod | 90313906 | 7429 | 666
+| Starlaxian | J4R3D22 | 55200893 | 7418 | 566
+| Divine | WaRiox | 76689139 | 7414 | 1041
+| Western VorteX | Pwohna | 95109514 | 7403 | 922
+| Sparkle | Elsig2002 | 52948470 | 7398 | 709
+| Stellar black | Shaday | 96965656 | 7396 | 552
+| Elation | iNewD | 64713389 | 7384 | 748
+| Plukaryotic | Igno | 34118281 | 7348 | 794
+| M43LS7R0M | Lorri | 95554457 | 7347 | 610
+| alnother  | VurviousD | 57309574 | 7341 | 513
+| DiDi | ThaMuffin | 93970665 | 7340 | 589
+| Toxic Substance | emoR | 62185428 | 7330 | 588
+| Electrified | NGTofficial | 92526595 | 7285 | 674
+| Kayania | LightStyles | 62051568 | 7279 | 678
+| Refraction | RainerOW | 75098955 | 7270 | 653
+| Magic Trip | Wilz | 56727105 | 7269 | 945
+| -time attack- | TheDevon | 14977425 | 7266 | 600
+| no neon | Zhiana | 66120365 | 7265 | 647
+| Crystal Clear | jihotv01 | 95022367 | 7247 | 688
+| Electron | IPablinI | 57289148 | 7247 | 585
+| luminous shift | AcZor | 52144309 | 7241 | 1008
+| FEZT | sirDannygd | 101191390 | 7229 | 509
+| Dork Desh | kodex360 | 67103085 | 7214 | 729
+| CZSK | CrafGD | 57792061 | 7209 | 596
+| galaxify silly map | galaxifard | 90117998 | 7204 | 589
+| Viridescent | Farm | 44897974 | 7204 | 520
+| Lightbringer | Spectr1X | 90187791 | 7197 | 737
+| Lightbringer | Spectr1X | 90187791 | 7197 | 737
+| Lightbringer | Spectr1X | 90187791 | 7197 | 737
+| Frozen Catacombs | Krimtow | 98843585 | 7191 | 542
+| Hot adventures | Tinraz | 91335632 | 7186 | 539
+| Lithius | agdor | 53856056 | 7179 | 735
+| Brave | HugoLA | 49077997 | 7178 | 761
+| Take me Back | Stutes | 91944138 | 7174 | 530
+| Radio X | Hydronus | 56061752 | 7170 | 727
+| Mabbog Travel | Earthum | 78721544 | 7161 | 953
+| supermode | Daewe | 93958258 | 7159 | 591
+| Altered Theory | LaxHDz | 67128596 | 7151 | 429
+| Uncolored Colors | KoharuIo | 85719189 | 7132 | 661
+| Uncolored Colors | KoharuIo | 85719189 | 7132 | 661
+| Sidra Futura | stinkyy | 40515336 | 7126 | 824
+| CarrotLand | Bertifys | 62925249 | 7123 | 761
+| in a haze | Opcheeseburger | 65483467 | 7114 | 528
+| Nyoom | Nezzieverse | 65489895 | 7113 | 599
+| Nyoom | Nezzieverse | 65489895 | 7113 | 599
+| Nyoom | Nezzieverse | 65489895 | 7113 | 599
+| mind garden | shrympo | 77925015 | 7112 | 649
+| Umbra is Dead | Umbraleviathan | 90490849 | 7107 | 742
+| The Almighty brekeke | CorroX | 57123014 | 7099 | 672
+| Chromium Steel | TwisterDude161 | 67300940 | 7093 | 638
+| Dubby wave | CloverPhoenix | 80725458 | 7088 | 722
+| crimson rush | midas | 4077103 | 7088 | 847
+| the ghost | spitdash | 62489935 | 7081 | 485
+| Rosian | Pounix | 57192062 | 7078 | 681
+| Glesgorv | fxrty | 78673872 | 7077 | 591
+| Attain | AlbertoG | 54881759 | 7070 | 721
+| Rainbow Bounce  | Cypherr | 73953889 | 7068 | 612
+| Cancant | rply | 81742457 | 7054 | 478
+| golf storm | Tostone74 | 88719164 | 7023 | 738
+| Bipolar level | ImAkKo | 77911722 | 7020 | 689
+| Time Exists | felixitron | 67019340 | 7019 | 657
+| Atmosphere  | Xavionn | 61817952 | 7016 | 561
+| Iro | SebiByte | 93907414 | 7005 | 855
+| Upsilon | Kazey | 81565410 | 6967 | 580
+| Nowhere | SirWafel | 71413577 | 6966 | 608
+| Melodic | EliNox  | 65329291 | 6952 | 590
+| Spark les | 01NENE | 84775721 | 6950 | 458
+| Spark les | 01NENE | 84775721 | 6950 | 458
+| Chips Ahoy | IronDofus435 | 32495094 | 6943 | 534
+| Summer Days | Hyenaedon | 34699457 | 6935 | 689
+| Barely Holdin On | Vexes7 | 94064374 | 6930 | 792
+| Optimistic Groove | Hychie | 76072167 | 6910 | 672
+| Colorful Splash | Stepex | 80691490 | 6907 | 685
+| Tsukasa Dancing | GDSkele | 73051057 | 6905 | 425
+| Achete des Galaxie | ZunEGD | 65718164 | 6905 | 642
+| Galactic Area | SasaLvk | 52736135 | 6891 | 721
+| Porte Aperte | SirDany | 95375310 | 6850 | 889
+| Ghosts N Ghourls | SkullyHop | 95463585 | 6834 | 652
+| Wish in the Dark | Anya21 | 66852940 | 6826 | 529
+| feelings | Gabewb | 66257715 | 6822 | 582
+| Ancient District | Edooox | 68304365 | 6814 | 851
+| Flowers Fantasy | Hareku | 85922026 | 6813 | 537
+| Flowers Fantasy | Hareku | 85922026 | 6813 | 537
+| RNN TMPLE | Interestex | 92746279 | 6790 | 752
+| skialice |  alecast | 29395929 | 6789 | 622
+| Hope | iDancre | 66883865 | 6788 | 709
+| 11th Elevator Floor | LP44 | 52461162 | 6775 | 544
+| dazzling time | pyshoGD | 62528269 | 6772 | 548
+| Cosmic Solitary | zim | 40972491 | 6766 | 909
+| DONT SMOKE | Brighty | 79633185 | 6755 | 579
+| Inside | AnnieHer | 76712115 | 6751 | 556
+| The Ascension | Carnitine | 85181037 | 6750 | 597
+| The Ascension | Carnitine | 85181037 | 6750 | 597
+| Shibuya Rush | nove00 | 84837652 | 6731 | 604
+| Shibuya Rush | nove00 | 84837652 | 6731 | 604
+| RedOx | Umylten | 91483363 | 6724 | 476
+| Tranquil | Tahsen | 60724706 | 6722 | 658
+| Virtual Dream | adelrocky | 60861448 | 6708 | 447
+| No Exit Orion | Koishite | 90435817 | 6669 | 669
+| No Exit Orion | Koishite | 90435817 | 6669 | 669
+| No Exit Orion | Koishite | 90435817 | 6669 | 669
+| Never Left | ImMantaa | 62952328 | 6667 | 426
+| Abyssal Force  | CarterN2000 | 24757851 | 6662 | 557
+| Depressive | mvngos | 47233420 | 6654 | 653
+| Future Town | RoseGolds | 54682215 | 6645 | 644
+| Confirmed | Wodka | 61853887 | 6643 | 589
+| okay again | AnddyVM | 101876191 | 6639 | 451
+| Emadheus | Emadeus | 56793617 | 6633 | 494
+| Splendore | AnLa | 64578286 | 6624 | 643
+| another universe | Mmath | 66837252 | 6608 | 456
+| PARADOX DETECTED | Lightning78 | 80285954 | 6603 | 693
+| Angel | KrazyKako9 | 89587836 | 6599 | 540
+| Angel | KrazyKako9 | 89587836 | 6599 | 540
+| Omnizm | SpaceyGD | 72206073 | 6599 | 473
+| Antropy | preezee | 69860236 | 6580 | 612
+| Celestial Glare | iZeo | 89923057 | 6577 | 830
+| Speculative | llj | 63245274 | 6569 | 596
+| Beyond | Simwamwi | 90474754 | 6568 | 629
+| Frisson | Furiga | 90835924 | 6566 | 595
+| Rebirth | realwhata | 73572293 | 6564 | 706
+| Purple Palace | Moffe | 65657644 | 6533 | 455
+| 50 Degrees Hotter | TheLasaga | 70000033 | 6516 | 508
+| Rockstar | IAndreiVI | 66525410 | 6516 | 452
+| Dawn Dusk | xPix3lest | 41882043 | 6511 | 864
+| Cane Swagger | Met3o | 62934446 | 6508 | 472
+| Nebula | Megantwoo | 34510955 | 6495 | 533
+| Colorful Love | Lovarii | 22063345 | 6494 | 885
+| Jamais Vu | MasterKilipot | 88930836 | 6490 | 534
+| HimZavod | MrMystik | 92765270 | 6480 | 567
+| Mallard | opry | 92345231 | 6476 | 525
+| Color Intelligence | amixam | 56430424 | 6476 | 669
+| Radiant | ZiMkIl | 38037910 | 6467 | 844
+| evolution | Cyutee | 93632933 | 6463 | 650
+| Melting | Vizitek | 77695825 | 6453 | 525
+| Melting | Vizitek | 77695825 | 6453 | 525
+| A Good Cappuccino | artherr | 57056738 | 6452 | 676
+| DISTRICT | twee | 62202422 | 6450 | 619
+| Lucid  | VenomY | 73612614 | 6449 | 657
+| Endurance | Lake | 49176860 | 6442 | 709
+| Wonder Things | Aleiz21 | 54475646 | 6431 | 636
+| Companions Demise | TheNoWeeker | 91406756 | 6417 | 544
+| Feature Moment | Carminius | 70255765 | 6401 | 688
+| Boomer Hotline | Hypno74 | 63705062 | 6401 | 588
+| Namalicius | Netligob | 63335551 | 6393 | 711
+| Sirock | Rabochy | 80956337 | 6371 | 663
+| DeniPol IV | VadriX | 57620278 | 6351 | 477
+| ReFlex | KuraiYonaka | 54430805 | 6350 | 677
+| The Frostbite | realtheo | 49672045 | 6341 | 590
+| Ephiphany | Hann | 40305659 | 6324 | 608
+| Aggelos | Mineber | 45557732 | 6295 | 540
+| Flutter | Optation | 50366925 | 6281 | 786
+| InterFALL | WWWWWWMWWWWWWWW | 46671218 | 6267 | 669
+| Atomic Tantrum | gloogobblin | 37199942 | 6260 | 518
+| Technos Space | Relcet | 47117706 | 6244 | 564
+| Neondi Ma | ImSamo | 58427902 | 6222 | 516
+| Everlasting Memories | DaFinn | 66924435 | 6210 | 524
+| Shackles | InsaneJohnson | 49535786 | 6205 | 639
+| Dysmorphiac | Pitone | 37312221 | 6183 | 952
+| Parloth II | VrageraGD | 61738883 | 6179 | 586
+| GARDEN | Asthae | 90428589 | 6140 | 775
+| Unnamed Ci Hej | ZiTron | 73912340 | 6123 | 697
+| Envision | RayOriens | 27890344 | 6111 | 588
+| The Wall Of Sorrow | LP44 | 59318603 | 6108 | 563
+| Deep sea | FlUntGD | 90021057 | 6100 | 543
+| Iris Rays | agate | 68567221 | 6085 | 473
+| AzuL | HertyGD | 82343600 | 6082 | 684
+| ColorinY | Itocp | 50706951 | 6074 | 652
+| secured | R4y4 | 58950198 | 6064 | 404
+| Dreams V | Katrie | 57164211 | 6060 | 621
+| Filtiarn | Arakaki | 55774786 | 6060 | 542
+| Path To Heaven | TheGalaxyCat | 57896991 | 6056 | 485
+| Fusion Bolt | Df0rDie | 50239325 | 6051 | 617
+| origins | ChristianNOTm | 73574644 | 6045 | 539
+| Rivalsa | IShardI | 68164238 | 6042 | 557
+| Rivalsa | IShardI | 68164238 | 6042 | 557
+| Darada | Melissagmd | 78689861 | 6035 | 884
+| Mystical Lights | TheUnholyToast | 70318008 | 6003 | 595
+| Striker Central | Aurantius | 94619785 | 5997 | 480
+| Goodbye Kotto | ZherGhaL | 91196900 | 5992 | 458
+| Goodbye Kotto | ZherGhaL | 91196900 | 5992 | 458
+| Goodbye Kotto | ZherGhaL | 91196900 | 5992 | 458
+| dont forget memories | stefanos2004 | 94327408 | 5988 | 530
+| Black and White | NoBann | 91814154 | 5985 | 708
+| Temp0 | GETZUCCED | 40442303 | 5956 | 425
+| Apparatus | iopoe | 90436898 | 5937 | 524
+| Lost in Thoughts | Tygrysek | 77801540 | 5930 | 459
+| Drone Invaders | VaLe05 | 92438451 | 5922 | 579
+| Friendless | RobhilL | 35453632 | 5919 | 479
+| ZeeToss | Suwiwit | 60806329 | 5916 | 671
+| Interstellar | Annon | 37637055 | 5909 | 535
+| Spoooooooky Night | Sebasthian60 | 95818238 | 5900 | 582
+| Vibrant | Tabib | 63672600 | 5887 | 511
+| Fire | SadboylmaO | 91075881 | 5877 | 495
+| Moun | RayZ0n | 60720142 | 5876 | 447
+| Bardor | PytekGD | 57800087 | 5871 | 562
+| Shuttle IV | Atimistic | 49596405 | 5855 | 516
+| PaintScape | Zomore | 94859038 | 5853 | 586
+| PARALYSIS | Asthae | 81132324 | 5852 | 524
+| Outta Space | TinyGG | 34576713 | 5850 | 696
+| Marble | s3tik | 101576849 | 5839 | 338
+| Over | 14Circles | 19063400 | 5831 | 453
+| Hazmick | EnenzoGD | 90050328 | 5819 | 663
+| MazRa  | RavenVN | 62731618 | 5814 | 447
+| Digital Reverie | cyanog3n | 27640487 | 5806 | 817
+| Surge | Taniyaun | 15216118 | 5800 | 525
+| WaaH | Supacruncha | 90494090 | 5791 | 549
+| Quiescent | Eridani | 56263079 | 5789 | 557
+| Factorio | Sl4nixGDD | 97309869 | 5775 | 283
+| elbow grease | Twistaah | 82602059 | 5762 | 603
+| elbow grease | Twistaah | 82602059 | 5762 | 603
+| Asperio | XanN | 50164651 | 5747 | 597
+| Ancient Dimension | Rishie | 57213641 | 5740 | 652
+| Spectral | xThomasMP | 45615719 | 5730 | 956
+| Tarragon | MisterBean | 78456966 | 5718 | 444
+| norbi apartamenty | jneh | 79643543 | 5685 | 583
+| Antic | GenepyReinn | 70972180 | 5674 | 711
+| The Enchanted Forest | LewinGD | 69234371 | 5659 | 610
+| LakSana | Zerenity | 61047604 | 5640 | 577
+| Divergence | Cyclepeidia | 66440254 | 5635 | 545
+| powerflame | Zecret | 42349829 | 5634 | 532
+| Hallway | imKalium | 72234423 | 5631 | 579
+| Polaroid | SES | 63697903 | 5628 | 459
+| Contemporary | llj | 79445314 | 5621 | 642
+| Spectrum Rift | AAAAAlex | 65699616 | 5591 | 484
+| simple harmony | iMela | 68892368 | 5588 | 585
+| Under | ZooxerYt | 88436105 | 5587 | 500
+| Under | ZooxerYt | 88436105 | 5587 | 500
+| Acceptance | Nunet | 48678973 | 5584 | 595
+| THE FCTRY | Shrip | 80620501 | 5583 | 497
+| THE FCTRY | Shrip | 80620501 | 5583 | 497
+| galaxify goofy map | galaxifard | 89569999 | 5580 | 531
+| Before Alternate | FunnyNeryGD | 76626002 | 5562 | 561
+| HyperBlaster | VeltXx | 78492763 | 5528 | 494
+| AUGMENT | ZooxerYt | 94931003 | 5519 | 605
+| 191919 | Kaii07 | 52776917 | 5509 | 525
+| luminous | L1X3Y | 60520745 | 5504 | 526
+| Sewayaki | wushyx | 65344487 | 5500 | 729
+| Beyond the Stars | iMaT | 64522479 | 5456 | 441
+| Little Flame | Hotdog71 | 81452163 | 5422 | 534
+| Little Flame | Hotdog71 | 81452163 | 5422 | 534
+| Ethereal | BowtieGD | 70516299 | 5419 | 537
+| Keep Lovely | DokyG | 58306443 | 5417 | 499
+| SACRIFICE | PICAAAAAA | 81794469 | 5397 | 562
+| v9Lt | DTMaster09 | 57186520 | 5385 | 415
+| Retaliate | R4NGER | 56330677 | 5375 | 524
+| Tempest Temple | Umbraleviathan | 94067793 | 5356 | 473
+| Neutron | GeonoxGD | 57295914 | 5339 | 562
+| WibuItuDosa | INVU | 78806022 | 5327 | 479
+| Alteration | Gtnaon8 | 94808350 | 5305 | 781
+| Summit | EpiX07 | 93606444 | 5294 | 482
+| Saudade II | Carminius | 63766776 | 5288 | 534
+| Lepidoptera Night | EnderNile8182 | 62854521 | 5244 | 546
+| Crystallic Ecstasy | OutGuard | 58385507 | 5242 | 468
+| TheSeal | vened | 88445726 | 5225 | 427
+| Everithing | NewDubsC | 50817001 | 5224 | 551
+| Dreams | wushyx | 62997784 | 5196 | 608
+| hifinyo | Rullstol | 76761850 | 5194 | 469
+| Cryolite | Jinnans | 66107072 | 5194 | 462
+| Ergosphere | Ieann | 45033623 | 5185 | 430
+| funky funky wonky | QuazeryIceCube | 86226805 | 5109 | 460
+| ReborN | ParzivalGames | 68362068 | 5106 | 379
+| ReborN | ParzivalGames | 68362068 | 5106 | 379
+| ReborN | ParzivalGames | 68362068 | 5106 | 379
+| Eclectic Mashup | Etta | 65962528 | 5098 | 489
+| Grimorian | Emadeus | 57485159 | 5067 | 456
+| THRONE | dydals000708 | 79552293 | 5054 | 533
+| THRONE | dydals000708 | 79552293 | 5054 | 533
+| THRONE | dydals000708 | 79552293 | 5054 | 533
+| THRONE | dydals000708 | 79552293 | 5054 | 533
+| Chroma Seraph | Cuneyt | 94528545 | 5034 | 511
+| Sand | twigxcabaret | 77862727 | 5007 | 447
+| Sand | twigxcabaret | 77862727 | 5007 | 447
+| floxMi | V9LT | 62815842 | 5007 | 422
+| strength | HissY189 | 64891790 | 5000 | 585
+| revolta | CatioGD | 79580761 | 4973 | 434
+| Fission | CoolG2007 | 80397224 | 4964 | 375
+| Fission | CoolG2007 | 80397224 | 4964 | 375
+| Fission | CoolG2007 | 80397224 | 4964 | 375
+| Fission | CoolG2007 | 80397224 | 4964 | 375
+| mind blowing garden | sharkdex | 89968316 | 4926 | 558
+| mind blowing garden | sharkdex | 89968316 | 4926 | 558
+| White Box | Fracta | 93996274 | 4924 | 509
+| Oneiro | DiaGram | 65549836 | 4882 | 495
+| Lucifent | Falldownstairs | 76198807 | 4767 | 449
+| Aurora light | YukiMasterGD | 89090855 | 4763 | 565
+| SequencE | MaykollGD | 57655085 | 4750 | 443
+| recovery | witbyy | 56975717 | 4734 | 514
+| Empty Matter | funkopop | 94952835 | 4676 | 514
+| Deltastrike | Awzer  | 49911003 | 4676 | 479
+| Dear N IV | ShootingCat | 91899690 | 4639 | 508
+| jadhul | Alfian10 | 56842662 | 4594 | 425
+| Break Edge | DarkrozzGD | 57872319 | 4591 | 415
+| Going Up | TerrenceGdPlays | 92527165 | 4569 | 503
+| voics  | Kspa | 91174298 | 4475 | 589
+| Energy | Bashfu1 | 43557835 | 4474 | 470
+| Glow Up | Interferent | 79201271 | 4427 | 428
+| Convenient  | jneh | 57125929 | 4415 | 492
+| alixiona | iFuriFin | 74999997 | 4280 | 399
+| Up Straight Down | aiden1204 | 93098066 | 4268 | 568
+| Dream Journey | AzroHet | 91264621 | 4219 | 403
+| Project Volt | Altin | 103817308 | 3965 | 263
+| Under Delight | ThunderBat | 78701193 | 3953 | 436
+| Molten heart | Cmj05 | 92382936 | 3724 | 369
+| Candy Painted Nails | Xukkus | 99490905 | 1185 | 60
