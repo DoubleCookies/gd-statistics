@@ -1,48 +1,42 @@
-#### Total: 44 levels
+#### Total: 38 levels
 
 | Name | Creator | ID | Downloads | Likes |
 |:---:|:---:|:---:|:---:|:---:|
-| pinball | pocke | 105318320 | 337679 | 18758
-| the travel | iriswolfx | 102835949 | 394142 | 19527
-| Holders Heaven | Liisp | 100483182 | 137075 | 11071
-| Fairy Land | GirlyAle02 | 91973370 | 898414 | 83576
-| Nacimiento | 16lord | 91174245 | 1106473 | 92481
-| Nacimiento | 16lord | 91174245 | 1106473 | 92481
-| Spacestation | Splinter25 | 90752263 | 1786725 | 131350
-| interlude | wiktord | 88982532 | 1315213 | 99104
-| GRAII | Swarmok | 87236826 | 391523 | 23808
-| GRAII | Swarmok | 87236826 | 391523 | 23808
-| Snowind | DangerKat | 87066655 | 902561 | 81927
-| Snowind | DangerKat | 87066655 | 902561 | 81927
-| Neferu | iIBonIi | 85882715 | 796598 | 60718
-| Neferu | iIBonIi | 85882715 | 796598 | 60718
-| Phasing Puller | zejoant | 84490909 | 552279 | 26417
-| Phasing Puller | zejoant | 84490909 | 552279 | 26417
-| Phasing Puller | zejoant | 84490909 | 552279 | 26417
-| Geo Kart | Incidius | 82115090 | 758936 | 40765
-| Fuel | bli | 81257107 | 1135547 | 123398
-| Cloudy | DHaner | 78743788 | 2596775 | 245776
-| Glimpse | iIBonIi | 76326298 | 545482 | 37134
-| Abandoned Windmill | Lake | 75449766 | 797340 | 50423
-| Coeur Lambeaux | DYZEX | 69582529 | 1527877 | 94646
-| At Archdragon Peak | MattewGame | 69314264 | 486833 | 40477
-| Distant Horizon | Waffl3X | 68263042 | 1241883 | 101016
-| Geometry Dash | GDvesuvius | 67661363 | 4704743 | 264686
-| Swag City | Xoroz | 66539851 | 1195779 | 103628
-| Nice | Danolex | 65109444 | 2706159 | 248475
-| Sneaky Snake | MaxyLAND | 64803948 | 1439811 | 63492
-| Anna | iISpaceDustIi | 63553770 | 902892 | 55297
-| Split Path | Jayuff | 62743002 | 772344 | 32448
-| little soul | vrymer | 62374745 | 574744 | 46491
-| Anymore | oc3andark | 60087537 | 628294 | 42471
-| Less than three | Danzmen | 59760047 | 1817412 | 157023
-| TranquillitY | BryanC2 | 59177605 | 390410 | 24088
-| Ayu | Retropt | 57551137 | 1780583 | 145263
-| Aulta | By7on | 55976208 | 864639 | 56223
-| Aer | neigefeu | 55215779 | 678719 | 49216
-| Serponge Look At Me | iISpaceDustIi | 55037478 | 2490198 | 165955
-|  TIA | BryanC2 | 54664621 | 1557466 | 98273
-| weird | OSIRIS GD | 51173274 | 1437223 | 93365
-| Candescent | CastriX | 34749502 | 7017180 | 572557
-| Wishless | Pawlogates | 34224737 | 3450982 | 296081
-| IZnite | izhar | 32400752 | 8187973 | 636600
+| pinball | pocke | 105318320 | 354153 | 19397
+| the travel | iriswolfx | 102835949 | 405928 | 19960
+| Holders Heaven | Liisp | 100483182 | 140728 | 11240
+| Nacimiento | 16lord | 91174245 | 1113065 | 92854
+| Nacimiento | 16lord | 91174245 | 1113065 | 92854
+| Spacestation | Splinter25 | 90752263 | 1808777 | 132136
+| interlude | wiktord | 88982532 | 1323719 | 99523
+| GRAII | Swarmok | 87236826 | 392093 | 23848
+| GRAII | Swarmok | 87236826 | 392093 | 23848
+| Neferu | iIBonIi | 85882715 | 797998 | 60806
+| Phasing Puller | zejoant | 84490909 | 554708 | 26501
+| Geo Kart | Incidius | 82115090 | 762912 | 40942
+| Fuel | bli | 81257107 | 1143012 | 123890
+| Cloudy | DHaner | 78743788 | 2618388 | 246832
+| Glimpse | iIBonIi | 76326298 | 546371 | 37172
+| Abandoned Windmill | Lake | 75449766 | 799411 | 50485
+| Coeur Lambeaux | DYZEX | 69582529 | 1531128 | 94784
+| At Archdragon Peak | MattewGame | 69314264 | 487800 | 40526
+| Distant Horizon | Waffl3X | 68263042 | 1247348 | 101528
+| Geometry Dash | GDvesuvius | 67661363 | 4739471 | 265730
+| Swag City | Xoroz | 66539851 | 1201907 | 104203
+| Nice | Danolex | 65109444 | 2722188 | 249578
+| Sneaky Snake | MaxyLAND | 64803948 | 1444167 | 63589
+| Anna | iISpaceDustIi | 63553770 | 907119 | 55493
+| Split Path | Jayuff | 62743002 | 773954 | 32500
+| little soul | vrymer | 62374745 | 575695 | 46586
+| Anymore | oc3andark | 60087537 | 629214 | 42562
+| Less than three | Danzmen | 59760047 | 1829715 | 157631
+| TranquillitY | BryanC2 | 59177605 | 390843 | 24120
+| Ayu | Retropt | 57551137 | 1789041 | 145656
+| Aulta | By7on | 55976208 | 866355 | 56349
+| Aer | neigefeu | 55215779 | 679578 | 49271
+| Serponge Look At Me | iISpaceDustIi | 55037478 | 2503555 | 166547
+|  TIA | BryanC2 | 54664621 | 1560961 | 98447
+| weird | OSIRIS GD | 51173274 | 1438986 | 93432
+| Candescent | CastriX | 34749502 | 7057153 | 574695
+| Wishless | Pawlogates | 34224737 | 3461916 | 296416
+| IZnite | izhar | 32400752 | 8223658 | 637465
