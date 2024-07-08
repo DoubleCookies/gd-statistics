@@ -1,7 +1,7 @@
 {{#arraydefine:levels|TEST_VALUE_FOR_SHIFT,
 OuterSpace,
-Sonar,
 The Nightmare,
+Sonar,
 ReTraY,
 Bloodbath,
 Level Easy,
