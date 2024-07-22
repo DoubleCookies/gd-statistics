@@ -18,9 +18,9 @@ Chambers,
 Flappy Hexagon,
 Dorabaebasic4,
 Speed Racer,
-Back on Track RM,
-Spooky Light,
 Cataclysm,
+Spooky Light,
+Back on Track RM,
 X,
 Xstep v2,
 Platinum Adventure,
@@ -48,5 +48,5 @@ Crescendo,
 Adrift,
 Polargeist v01,
 Highscore,
-Space Travel
+Mind Control
 }}{{#vardefineecho:number|{{#expr:{{#arraysearch:levels|{{{1}}}}}}}}}<noinclude>{{doc}}[[Категория:Информационные шаблоны]]</noinclude>
