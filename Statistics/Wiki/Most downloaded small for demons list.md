@@ -46,7 +46,7 @@ The Ultimate Phase,
 Sky Realm,
 Invisible clubstep,
 FREEDOM,
-Hextec Flow,
 CraZy III,
-Clutterfunk v2 (Neptune)
+Hextec Flow,
+Nantendo
 }}{{#vardefineecho:number|{{#expr:{{#arraysearch:levels|{{{1}}}}}}}}}<noinclude>{{doc}}[[Категория:Информационные шаблоны]]</noinclude>
