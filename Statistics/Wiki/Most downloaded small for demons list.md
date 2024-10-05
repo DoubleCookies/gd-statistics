@@ -26,8 +26,8 @@ Theory of every v2,
 Problematic,
 Theory of Skrillex,
 Demon mixed,
-Slaughterhouse,
 ISpyWithMyLittleEye,
+Slaughterhouse,
 Super Cycles,
 Sakupen Hell,
 Moon Adventure,
@@ -47,6 +47,6 @@ Sky Realm,
 Invisible clubstep,
 CraZy III,
 FREEDOM,
-Hextec Flow,
-Nantendo
+Nantendo,
+Hextec Flow
 }}{{#vardefineecho:number|{{#expr:{{#arraysearch:levels|{{{1}}}}}}}}}<noinclude>{{doc}}[[Категория:Информационные шаблоны]]</noinclude>
