@@ -47,6 +47,6 @@ Crescendo,
 Easy,
 Adrift,
 Polargeist v01,
-Highscore,
-Mind Control
+Mind Control,
+Highscore
 }}{{#vardefineecho:number|{{#expr:{{#arraysearch:levels|{{{1}}}}}}}}}<noinclude>{{doc}}[[Категория:Информационные шаблоны]]</noinclude>
