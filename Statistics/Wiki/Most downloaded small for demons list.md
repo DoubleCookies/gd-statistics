@@ -48,5 +48,5 @@ CraZy III,
 Sky Realm,
 Nantendo,
 FREEDOM,
-Hextec Flow
+Windy Landscape
 }}{{#vardefineecho:number|{{#expr:{{#arraysearch:levels|{{{1}}}}}}}}}<noinclude>{{doc}}[[Категория:Информационные шаблоны]]</noinclude>
