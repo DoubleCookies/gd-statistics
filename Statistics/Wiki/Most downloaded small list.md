@@ -16,8 +16,8 @@ End Of Line,
 Auto play area,
 Chambers,
 Flappy Hexagon,
-Dorabaebasic4,
 Speed Racer,
+Dorabaebasic4,
 Cataclysm,
 X,
 Spooky Light,
@@ -47,6 +47,6 @@ Crescendo,
 Easy,
 Adrift,
 Mind Control,
-Polargeist v01,
-Sonic Wave
+Sonic Wave,
+Polargeist v01
 }}{{#vardefineecho:number|{{#expr:{{#arraysearch:levels|{{{1}}}}}}}}}<noinclude>{{doc}}[[Категория:Информационные шаблоны]]</noinclude>
