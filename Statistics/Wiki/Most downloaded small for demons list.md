@@ -31,8 +31,8 @@ Theory of Skrillex,
 Sakupen Hell,
 Phobos,
 Super Cycles,
-Moon Adventure,
 Future Funk,
+Moon Adventure,
 Demon jumper,
 Speed of Light,
 Impulse,
@@ -48,5 +48,5 @@ The Ultimate Phase,
 Invisible clubstep,
 FREEDOM,
 Windy Landscape,
-Sky Realm
+B
 }}{{#vardefineecho:number|{{#expr:{{#arraysearch:levels|{{{1}}}}}}}}}<noinclude>{{doc}}[[Категория:Информационные шаблоны]]</noinclude>
