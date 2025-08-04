@@ -47,6 +47,6 @@ Crescendo,
 Mind Control,
 Endless (FlappySheepy),
 Overture,
-Easy,
-Almighty
+Dear Nostalgists,
+Easy
 }}{{#vardefineecho:number|{{#expr:{{#arraysearch:levels|{{{1}}}}}}}}}<noinclude>{{doc}}[[Категория:Информационные шаблоны]]</noinclude>
