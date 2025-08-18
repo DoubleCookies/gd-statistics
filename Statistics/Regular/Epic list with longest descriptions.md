@@ -1,4 +1,4 @@
-#### Total: 5111 levels
+#### Total: 5135 levels
 
 | Name | Creator | ID | Length | Description |
 |:---:|:---:|:---:|:---:|:---:|
@@ -11,6 +11,7 @@
 | The Only One | DienID | 69353268 | 186 | Only one has survived. Be careful. Layout made only with slopes. 125k obj. Many thanks to para and notlsa for support. 60 hz. Level made by DienID. Best Effect Level 2021!!! Updated 2025
 | boi dis AMAZING | Msapps | 86771711 | 183 | Made in one week! I really worked hard at this level , I hope its get a rate! Dedicated to my friends. /!\ UPDATED /!\ Because no one liked the GP i removed it , its now auto , enjoy.
 | Super Cute Kitty | DaFinn | 57757495 | 183 | A fluffy & adorable MC by DaFinn (me) & more, and also a sequel of previous MC named "Fluffy Cats" is finally done after 5 months :3 155,1k objects :D Hope ya like it and enjoy it ^w^
+| Ode to Yord | YoReid | 121492007 | 182 | Worth noting that I know about the crashing on mobile, no clue how to fix it. If I did it would take hours of reworking a checkpoint system which I just can't bother for a joke level
 | Stasis | MannyHeffley | 119137644 | 182 | Made for Zeronium CC2. Song, level, and verification by me. Official Stasis SP is on Zirkitri's account. Please use that one ONLY, as there are many bugs that come from placing SP's.
 | Super Ultra | SwitchStepGDYT | 108848837 | 182 | You're in search of the third piece of the elemental map. Dumbledalf said that a beast has it in the lost caves from the Jungle. Will you find it? - Third level in the Odyssey Series
 | Azalea | Elivyne | 107950066 | 182 | This might be just a walk in the woods for some, but for me, it's a whole world. A world of green and gold, of sunshine and secrets. And for a little while, it's all mine to explore.
@@ -24,6 +25,7 @@
 | FORWARD | TopMaksim | 90119030 | 180 | Hey everyone! Its my new solo level for Viprin Discord cc after 6 months! I hope you enjoy this level as I spent 999 groups, 31k objects and many hours of work on it! Good luck! :3
 | PABRIK | R4NGER | 83256789 | 180 | Unfold secrets beneath massive factory and fight your way out against "The Prototypes" attempt to exterminating humanity &#124; WGC entry from Indonesia &#124; 4th level in Universe Gauntlet
 | Midflight Skysprite | Vicolor | 78775751 | 180 | He takes a moment to relish in the thrill of his skybound travels, soaring through the blustering winds as his momentum is reflected in the rushing waters of "Midflight Skysprite."
+| Forced Spam Area | forchar | 124159361 | 179 | my biggest and best work &#124; solo XXL project &#124; 409h in creating &#124; a puzzle level introduces a brand new mechanic &#124; check the editor for more &#124; medium demon I guess &#124; video on my yt
 | Warp Crate | elysain | 119030135 | 179 | the moongrinders are starving the moongrinders are starving the moongrinders are starving the moongrinders are starving the moongrinders are starving the moongrinders are starving
 | Jumping Demons | Smarted | 117061407 | 179 | !READ ME! No practice mode on 1st attempt or you'll get stuck in the settings. Exit map if stuck. 1st att will always result in a death, after which the level will actually start.
 | RetroVision | BadTheHated | 116792507 | 179 | My Biggest and Best Project in GD ever! Retro styled level, you can guess from the name lol, took me 6 months, idk if it's epic worthy but i tried my best, special thx to GuigaGD!
@@ -41,7 +43,7 @@
 | GPhone Dash | MrElectrons001 | 103610406 | 179 | GPHONE DASH is what can be considered the first functional operating system, made with over 8336 triggers, 34212 objects, and 1441 collision blocks. Thank you all for supporting:)
 | Out of Time | Yoonsr | 121469308 | 178 | Have you ever wished that you could go back in time and do things better? Just some more time? If I had all the time in the world I could do so many things, and one day, succeed.
 | The hole II | boobly | 115873769 | 178 | Collect data of the singularity, and upload it to your ship in the parrellel universe (B) while your parrellel self does the same. Finally, return to your original dimension (A).
-| entropy | playeruan | 104092062 | 178 | After over 2 months of work, I proudly present one of my best projects so far. Thanks to everyone who helped and gave me feedback. Special thanks to DreamEater, Viprin and Giggs.
+| entropy | uan | 104092062 | 178 | After over 2 months of work, I proudly present one of my best projects so far. Thanks to everyone who helped and gave me feedback. Special thanks to DreamEater, Viprin and Giggs.
 | Aetheris | MAYEROSA | 116280396 | 177 | "Looking at the sky makes me humble and grateful for our existence. We live on a pale blue dot floating in the vastness of the cosmos." Quote by Carl Sagan in "A Pale Blue Dot".
 | Comfort Food | SwitchStepGDYT | 113542043 | 177 | The 8th level in the Odyssey level series. After leaving Funk Mountain, you have been sucked into the gravity of an asteroid, the Wubbles have arrived! Created by Switch & Mathi
 | Junk Realm | HelpegasuS | 112309508 | 177 | The Junk Realm is a realm full of rusty metal, wrecking balls, crushers and electromagnetic cranes, beware because your path may not be the same each try! Verified by Xander556 
@@ -58,6 +60,7 @@
 | REMORSE | PICAAAAAA | 108342815 | 175 | My remake/take of Morse by Jayuff! its flashy so please be warned (LDM makes things more clearer but i tried to make it as clear as possible), enjoy. (font by jayuff endevvor)
 | The Garden Tower | 16lord | 107224663 | 175 | Towerverse spin-off level 1, at some point in the past before the time loop... (There are 2 endings) Triple Project Release (3/3) / Reinterpretation of Nightwalk - Jon Tiburzi
 | It Chases | BrainETR | 98218741 | 175 | Fighting is futile, all you can do to escape the angel is run away through the claustrophobic halls of the castle... My first 2.2 level and first platformer, hope you enjoy :)
+| Ocellios | dolphe | 92891999 | 175 | HHyper's elites, The Eidolons, took over and reprogrammed Ocellios Lab. You play as Dolphe, and must prevent NF, Broskm, and Duko from transporting Stubby's Project Novaform. 
 | World World | JamAttack | 79926286 | 175 | Here's a lil effect level I made! :) I'm really proud of how it turned out. Tried a lot of new stuff in this. Dedicated to Jayuff and Serponge. Also play Marble Run by Empika!
 | Super Wubtendo | RuebeXPX | 114678316 | 174 | After escaping from Dashplorers, A player has been trapped into the pocket dimensions called "Super Wubtendo". Run from the Supervirus Bugtendo and back to the Outside World!
 | The Project II | BrothersFTW | 107186272 | 174 | 5 months and hundreds of hours later, I present Part 2 of the Project series! Explore different islands, characters, endings, secrets, and much more!! Inspired by Telltale :)
@@ -87,8 +90,11 @@
 | kiener | Lytra | 109868648 | 168 | Thx to Pilzsuppe for the level name (his real name is kiener what a stupid name). Expanding circle effect half way through the lvl breaks with 60 fps for some reason :(
 | Robot Uprising | Ficelo | 93873604 | 168 | Megacollab by Kcool, Tricipital, Kassi1202, Sounex, JustSpam, ZhenAxel, Gepsoni4, Ficelo, Tygore, Therealbillly, Arrownote, ImAkko, Colin, MrSpaghetti, ELLVO & xVainaja
 | Explorers | MathisCreator | 104138684 | 167 | After escaping from the skull temple. Explorah, the queen of machines will chase you and prevent you from leaving this dimension. Level created by SwitchStepGD - MATHI
+| Glacier 15 | dolphe | 96226630 | 167 | After narrowly escaping the crumbling Lab during Destruction Eruption, [PLAYER] wanders the abandoned city of Glacier 15.  Can [PLAYER] survive the unrelenting frost? 
 | Ineffable | Joath156 | 95167498 | 167 | Saying goodbye to 2.1 with friends - Here's a new level! I  hope you like it (Special thanks to ChuchitoDomn for allowing me to upload this project) #MexicanCreator <3
 | The Sulphur Sea | YoReid | 81548163 | 167 | A festering shore, where waves hiss upon lapping the crumbling stone of the beach. This is the Sulphur Sea, where the air stings your eyes, and each breath is a labor.
+| ROBBER | 3FanTom3 | 124218371 | 166 |                     You are robber! and you must rob this house!  >:)                                                                                         [RobRob]
+| GDTV4 | Raguno | 123977858 | 166 | Welcome to our simulation called GDTV4! Where you can seE F0ur CO0l C4ea1or"s LEV3Is 0n eV3r7 sH0-$!"; !$((*@;#;(_!$)H0st$ed b7 Aud/3c^-&##-(?$&&&&&&&&&&&&&&&&&&&&&&&
 | Cosmic Madness | KiziBro7 | 116188095 | 166 | Allow me to guide your imagination on a journey through the cosmos. Here you can learn, that beauty can be found in even the emptiest of places... [please rate 6* :D]
 | stellar station | Wilz | 115505040 | 166 | I present to you stellar station&#124;With the participation of SrJC2.3Tech&#124;Level created for the space gauntlet contest&#124;Have fun&#124;Level on my youtube&#124;Bugs 56%-98% fixed :)
 | Hellfire | SwitchStepGDYT | 113541681 | 165 | The 5th level in the Odyssey level series. You have the map and the first element. Find the fire in the jungle. Created by Switch, Mathi, GenaMorphosis & StudioBois.
@@ -110,6 +116,7 @@
 | BLOCKTOBER | Neeki | 113545777 | 162 | All of my blocks that I have created as a part of my YouTube shorts series which ran throughout the month of October! Check it out through the link in my profile!
 | Cryptofunk | Jinta22 | 113541536 | 162 | The 4th level in the Odyssey level series. After escaping from the cave, an evil AI captured your friends. Rescue them! Created by Jinta22, Mathi, Switch & Reyben
 | The Retro Tower | 16lord | 112369288 | 162 | Towerverse spin-off level 2, you found Torres gameboy in your bedroom in The Tower of Time, and started playing one of his games, but things starts to go wrong...
+| FabilAs | ChuchitoDomin | 123568993 | 161 | Inspiration comes when the feeling is real &#124; My first NCS level, created in a week! I hope you like it a lot :D [Level dedicated to "Gonzalez Fabila" (08/03/25)]
 | The Last Wish | Halapeenyo | 107985486 | 161 | The most effort I have ever put into a platformer level BY FAR, thank you so much to all my supporters and my amazing playtesters, you guys made this possible :)
 | The Infection | Darkanah | 98502873 | 161 | WORKING LASER GUNS! A bit later than everyone else, but here's my first 2.2 Level!, Really proud of how this turned out, Hope you all enjoy. Vid on my YT also :)
 | STUDIOPOLIS ZONE | Sergeisonic95 | 115483815 | 160 | [2025] -Lights, Camera.. Action!- Enjoy the ultimate celebration of the past and the future at the EGGMAN TV central!  ^o^ )/    [LDM is recommended for mobile]
@@ -171,6 +178,7 @@
 | Sleepover | farstove | 113818676 | 149 | This is NOT a 1:1 recreation. This is a level inspired by "Five nights at Freddy's". If you don't like jumpscares, don't worry, you can disable them!
 | The Towerverse | 16lord | 102814497 | 149 | An attempt for making an open world level in GD! This is the sequel of my level "The Tower". Have fun exploring! :) ldm=no dark screen bug at the end
 | Spamy | Mangosteen | 57543800 | 149 | Here's my new solo! This time i tried with some older textures and make the design more simple. It turns out quite well idk why xD Hope you enjoy it!
+| Whats The Problem | Dahzen | 124699094 | 148 | Here's another level for the collection. This time, I tried a style I don't usually go for. Hope you like the result, thanks so much for playing! :3
 | Anathema | nikroplays | 112313819 | 148 | After 9 long years, The Dedication Series finally comes to a close. Dedicated to everyone who has supported me along the way. Verified by Whizkid05.
 | Hollow Earth | FileExplorerExe | 110754744 | 148 | (NCS Gauntlet Contest Entry) Important: You can skip the cutscene at the start ASAP, It is a 1-second window, if you miss it just restart the level.
 | Osiris | MelonSyndicate | 110701210 | 148 | our debut level and NCS GCC submission! huge thanks to 3velyn06, MrAlLind, CovidGD, and CornbreadGD for their help! hosted by watrmel1 and thxndered
@@ -190,10 +198,12 @@
 | Ancient Complex | tricipital | 97985564 | 147 | This temple laid unexplored for centuries before you arrived and took a leap of faith into the dark chasm below. The Ancients have guarded it well.
 | Tectonic Tempo | Jambees | 96943971 | 147 | These subwoofers can produce sonic energy with such a force that the largest models can simulate up to a category 8 earthquake on the richter scale
 | Sensual Dance | DepisH16 | 51053748 | 147 | A new level in terms of hell arena. Briefly, the last part seems to me very bad, because of this boss and his complex animations, but still like :v
+| WHEEL INSUFFERABLE | SpotL | 124205224 | 146 | Spin the wheel of despair & agony and complete 10 of its insufferable punishments... you signed up for this. Inspired by Dude Perfect's "Overtime"
 | HyperloaD | Joath156 | 108328003 | 146 | New level in the company of friends after a long time! I hope you like this project, thank you for playing and greetings to all <3 #MexicanCreator
 | the destroyer | Wilz | 107128450 | 146 | A boss who destroys what he sees in his path&#124; Can you complete the level without being destroyed?&#124; Good luck ^-*&#124;Full level on my YouTube channel.
 | Quarion | zejoant | 106866157 | 146 | Inspired mainly by You Have to Win the Game but also VVVVVV and other metroidvanias :) If you think you got softlocked, you are probably mistaken.
 | Eros | HanStor | 100671815 | 146 | Nivel que Hice en stream con mis fieles espectadores que me apoyan y animan siempre, les invito a seguirme en twich para ver mas de mi creacion ^^
+| Black N White | JamAttack | 124135571 | 145 | A remake of Black and White by GD Colon that I started in 2019. I've been working on this on and off. The level gets a LOT better as it goes lmao
 | Break your Ball | robotnipper | 118271345 | 145 | 10-20 minutes of ball breaking action! (inspiration from 'my balls are fragile' by AbstractMight) thanks to SorkoPiko and Avixel for playtesting!
 | Adrenaline Rush | Gonixel | 116591597 | 145 | Dropping off another fast-paced classic Hard-Easy Demon level! (4x Speed Madness!!) . Probably the only level i'll be uploading this year. Enjoy!
 | Starlight Glimmer | KoromiGD | 110510653 | 145 | La esencia de MLP y de mi personaje favorita [NCS Gauntlet Contest] con la cancion de "Lost Sky ft. She Is Jules - Vision Pt.2" &#124; (NCS Entry 2/2)
@@ -222,6 +232,7 @@
 | scarlet odyssey | LiterallyMaciek | 105910470 | 142 | The spiritual successor to my other level "Rune Journey". The coins are rewarded according to how many blue coins you picked up along the way.
 | ATOMIC CANNON Mk III | LIEB | 104672501 | 142 | The third installment in the ATOMIC CANNON tetralogy! Verified by Zeronium, as always! The final level, ATOMIC CANNON PRIME, is coming soon...
 | Blast | CatronixGD | 91149784 | 142 | A level quite forgotten almost 3 years without knowing what to do with it. Thanks to my friends, we decided to finish it. My last level of 2.1
+| The Pixelverse | seannnn | 124748859 | 141 | My final level pixel level for a bit. This level marks the start of Entium and my request and chat server. Thank you GDmaslo for playtesting!
 | GGEZ | wetols | 122299385 | 141 | "GGEZ", the sequel to my weekly demon "GLHF". In this level, you have to survive a brutal police chase... after you?! Good Luck & Have Fun ;D
 | Midnight Thoughts | IShardI | 115129319 | 141 | &#124;&#124;don't let your thoughts take over you&#124;&#124; inspired by Nightning and Twenty One Pilots (ldm updated! hopefully more ppl can enjoy this now <3)
 | Chromaton | HTigerzGD | 113250510 | 141 | Playtesters: Suixam, Oasis, Gusearth, and Akinawoo. Probably my last level for a while. Put a lot of effort into this one. Hope you enjoy! :)
@@ -234,7 +245,6 @@
 | VICIOUS | Maroplay | 121545064 | 140 | /!\ EPILEPSY WARNING /!\  A level themed & inspired by a book "Vicious"(& its sequel "Vengeful") written by V.E. Schwab (Verifed by Seba555)
 | Jeremy Madness | StudioBois | 120073467 | 140 | A Jeremy level by Studiobois made for the TAP challenge from Tap / TapWaterYT, only had 2 weeks to finish, ngl turned out amazing Enjoy! ;) 
 | Haphazard Design | NotXak | 115599205 | 140 | I made what I wanted when I wanted to. Obvious inspiration from Grax. Made for a friends birthday :) &#124; 54608 Objects, 738 Groups. {Ver 1.04}
-| Glacier 15 | dolphe | 96226630 | 140 | After narrowly escaping death, PLAYER wanders the ruined city of Glacier 15. Can PLAYER survive the unrelenting frost? Team Cascade emerges.
 | Comet | VRTL | 93369357 | 140 | I present my final level of 2.1, in collaboration with my friend somerandomcow. Thank you all for your support, lets get an epic to end 2.1!
 | chacha | Pettsu | 92527233 | 140 | Hugely Inspired by Rush by Dhaner <3.. Sequel to chichi, Donovan Mayo is our lord, he is our savior, all hail Donovon Mayo HALLELUJAH! SLAY!
 | Ode to Eunger | Paintingorange | 92096673 | 140 | Oh Eunger arise, the sun has come again to hold you. Sailing out the doldrums of the week. The polyphonic prayer is here. It's all around u.
@@ -471,7 +481,6 @@
 | The Rogue Attractor | AdrianArtistry | 114375123 | 137 | "<cg>LUZALA Project:</c> <cy>The Rogue Attractor</c>" (CODE:TRA) /// Space Gauntlet Contest <cp>SOLO</c> Entry /// Made on <cb>mobile</c>
 | Para Bellum | Reunomi | 110774229 | 137 | NCS GD contest // Wasted many potential on this but exams are priority. [Playtester: AnuarGamingGD &#124; Special thanks: PeterNG & Reventory]
 | Mid Voyage | galofuf | 107222812 | 137 | The long awaited sequel to Mid Travel. Probably not as mid but I tried not to try so I hope that helps :D // Project Triple Release (2/3)
-| Ocellios | dolphe | 92891999 | 137 | HHypers elites, The Eidolons, took control and rebuilt the ruined Ocellios Lab. You must prevent the transport of a deadly [superweapon].
 | ON AND ON | AudieoVisual | 90181712 | 137 | You're a tiny star navigating your way through the S.S. DISCOVERY, a giant spaceship, trying to find your way back home. (fonts by rayzn)
 | The Tower | 16lord | 88090137 | 137 | Welcome to a story level that takes place in the 2.2 update. Can you get to the top of The Tower? [Made for the Discord Gauntlet Contest]
 | Wizard Dreams | mishy | 83645070 | 137 | Even reluctantly I have been progressing little by little with this level until I finished it. I hope you like it and thanks for playing.
@@ -783,7 +792,7 @@
 | WIPEOUT | JustPotatoNow | 102724302 | 129 | A NEW COMPETITOR HAS ENTERED THE ARENA! 8K objs! Did this proyect purely out of fun! Hope you enjoy it :) Dedicated to JamAttack!
 | Project Roulette | ElNahuGD | 102649360 | 129 | Inspired by Buckshot Roulette by Mike Klubnika. You will have to take decisions against an AI to win a deadly game based on luck.
 | Unlock the New World | chunlv1 | 95091079 | 129 | Unlock the New World. - Solo level by me. Spent 4.5 years to create.    (also the update 2.207 broke basically all my levels wtf)
-| IV | playeruan | 93148010 | 129 | A remake of my first level "Four", dedicated to all my friends who supported me through this journey. Enjoy my best work yet: IV.
+| IV | uan | 93148010 | 129 | A remake of my first level "Four", dedicated to all my friends who supported me through this journey. Enjoy my best work yet: IV.
 | SCENIC ROUTE | fJud | 93001310 | 129 | BEEP BEEP &#124; sequel to detour &#124; my best work!!! thanks to cubic, audieo, and vyp for playtesting :) &#124; 51h in editor, 51.8k objects
 | LASA II | BALTZ | 90895428 | 129 | Remake of my first ever featured level which was exactly 1 year ago. Im quite proud of my progress in creating within the 1 year.
 | kr1tmas | SpKale | 87078347 | 129 | tonight, my friends, we're taking a trip to penjamin city. need i say more? huge thanks to jambees and mbed for the extra help :)
@@ -1162,6 +1171,7 @@
 | Candescent | CastriX | 34749502 | 118 | New easy level! Thanks to Squall for the layout! <3 Hope you like :) RobTop,you are awesome.Thx for epic and daily! <3
 | Farewell | Underings | 30173579 | 118 | This Should be my last 2.0 lvl.But 2.1 came out,so i've to done it!.Big Thanks To RealZober for helping me.Easy Demon?
 | Arcade Rush | Fury0313 | 28715739 | 118 | Was gonna be a level for GDW but 2.1 came out. Tongii was busy so he only made 1 part. Thanks for 1st place feature 8)
+| Laced up | Wkgoated | 124698878 | 117 | Collab with N3thaan entry for Audieo's CC thank you everyone for the support my best work yet (17/8/25 First epic!!!)
 | Mixel | HanStor | 118092578 | 117 | Thanks to my LaBasic family for encouraging me to finish this project, this one is for you, I hope you all like it :D
 | Shattering skies | wallywalrus | 114245272 | 117 | First time spending more than 50 hours on a level, this is definitely my best work! Hoping to get my first epic rate!
 | Retrospective | Nikce | 112428194 | 117 | Made for NCS x GD The Album single 4. A huge honor to have participated in this event. Enjoy the level and the music!
@@ -1271,6 +1281,7 @@
 | Saturn V | nasgubb | 34907693 | 114 | it's ya boi back at it again with another demon level, big thanks to alkali for making me some gameplay at the end
 | The Reactor | Edge | 32835034 | 114 | Finally, first 2.1 level. Collab with Thomartin, for Viprin's CC8. Took long enough but I think it was worth it :)
 | Silentium | f3lixsram | 30373175 | 114 | Took me quite long to build,I hope its enjoyable :) Pass and video on my youtube channel :3 Panda eyes is dope btw
+| Decaying Gateway | Twandash | 124680552 | 113 | The fear of being alone in an abandon city... But are you really alone?  - Duo with MiraCatsy [MatMart Horror CC]
 | Own Display | ElMatoSWAG | 110724639 | 113 | There's so many screens that u could look. Which one will u choose?... Welcome to my World. &#124; [NCS Contest Entry]
 | Dungeon Antics | seannnn | 110713461 | 113 | Entry for the NCS Contest! :) Probably my best pixel level. Thanks to those who helped give feedback, and enjoy! 
 | eorock | classic10 | 110535854 | 113 | eh o rockeeee! turu turu tutu turututu turu tutu I GONNA TAKE WHAT I CAME FOR! turu tutu I GONNA TAKE WHAT I WANT
@@ -1381,8 +1392,8 @@
 | Empower | BranSilver | 36526211 | 111 | For optical's creator contest! :) WOW! so suprised this actually got epic! O: thanks everyone for the support! 
 | Magnum | f3lixsram | 30997779 | 111 | A sexy collab with bloodstorm ! Pass and vid on my channel :) Thanks rob for first place O:  (nerfed wave part)
 | reborn kingdoms | Enceladus GD | 28920582 | 111 | FIRST 2.1 LEVEL! My best level Iever made I guess, 30k objects used. Insane 8-9*? Anyways, I hope you enjoy ^-^
+| GD12 | Xyle | 124594674 | 110 | For Geometry Dash's 12th birthday; 13/8/25 &#124; Join my level requests server here: https://discord.gg/YCE8Y6aYBJ
 |  Crystal Space  | Syncroned | 124287037 | 110 | Reupload because after 21 consecutive sends I honestly lost hope. Old send list: https://pastebin.com/xaKeQjGe
-| Ode to Yord | YoReid | 121492007 | 110 | Like a year and a half ago I played a game of Gartic Phone and that somehow spiraled into me making this level
 | Corrupt cityscapes | Po1ar1ty | 116581248 | 110 | You come across the big city. Everyone has heard about it. You walk its streets.. but something is wrong here.
 | The SMR Collection | gr8ness | 114333632 | 110 | Collect our slop! A platformer demon made as a collaboration between 25 members from SMR & co. Hosted by whlt.
 | Material Meeting | woolypig | 108828015 | 110 | Hold P2 up and move around to warp the level. Special thanks to btwmag, startester, YoStarYeahya and paga2000.
@@ -1599,6 +1610,7 @@
 | Carnage | RadiationV2 | 30797525 | 104 | Some might think that its too simplistic, but I like it that way! Dedicated to RobTop, for Voop's CC8 :D
 | The Split | Serponge | 28636863 | 104 | I would say my best non AlterGame/Demon level, put a lot of work into this, and tried different stuff :)
 | Dark Destiny | Zoroa | 26802561 | 104 | Get ready to face the darkness! Dedicated to Serponge...boss fight was a bit rushed. Hope you like it :)
+| Peter the Alien | FroxyPlay | 123388403 | 103 | Peter took over this level and he does whatever he wants. Peter and his friends dont like intruders !!!
 | Endless | ErrorIGd | 122008164 | 103 | Final level in 3 part series with Boundless and Dauntless, with some help from Shenor in a couple parts
 | STELLARNOVA | QuadarVerse | 116186682 | 103 | Space... is mysterious. There are still many things you don't know about it. // SPACE GAUNTLET entry ;)
 | Magic Fungus | iriswolfx | 100149240 | 103 | note: if u dont have the latest version of the game, the visuals will be bugged, practice recomended :)
@@ -1678,6 +1690,7 @@
 | Aqua | AbstractDark | 35427356 | 101 | Simple collab with Pipenashho! Sorry for too many collabs, but expect more solo levels from now on :)
 | Oriens | Pipenachho | 34362272 | 101 | My First level with "bossfight". Maybe a bit simple, I hope you like it, Enjoy!! [Verified by Allan] 
 | Shine | KFAOpitar | 30225532 | 101 | My best level ever! Also my first in 2.1, but I don't think I could top this :P Relax and have fun :)
+| Neptunes Path | Nicki1202 | 124595188 | 100 | Welcome aboard, captain. Explore the depths in this underwater adventure. Can you reach the surface?
 | COPYCAT  | vegtam | 123446731 | 100 | A computer virus is sent to take down cat.gmd's generative AI servers &#124; For Audieovisual Sampling CC
 | Menace | MannyHeffley | 107805281 | 100 | "The only truth in this world is that there is no truth." Verified by Whizkid. Level and song by me.
 | Shades of Autumn | FadeOff | 97263452 | 100 | Because 2.2 got delayed I still got time to make a new level. Focused on depth in this one, Enjoy :)
@@ -1716,6 +1729,7 @@
 | LETs GO | izhar | 30468868 | 100 | Sequel of Lets Start! (easy - normal level) Dedicated to SkartGD and JerkRat (pass on my YT channel)
 | Payload | TheRM22 | 29394058 | 100 | My first 2.1 level :) Thank you Rubrub for Epic Feature, Gauntlets and Daily! 07/02/17. Pass:805532.
 | Blacklights | TheRealDarnoc | 29165461 | 100 | I have returned. Remember, you can turn off shake in the settings if it bothers you too much. Enjoy!
+| Dino Daydreams | Glubfuberz | 124469014 | 99 | The wild past is so full of mystery and intrigue, isnt it? Makes you want to uncover its secrets...
 | Rustic Refuge | Glubfuberz | 109874196 | 99 | A level to drink hot cocoa to... Took little over a week to make. Smells like the furniture store..
 | Mixed Memories | NGTofficial | 104322912 | 99 | COLLAB #24 of New Generations Team [Layout: XanderGDC]. [Deco: XanderGDC, Dassfy, Moffer]. 8-9*? ;)
 | Hearth | vegtam | 101746243 | 99 | #1 place in GDCS cc! &#124; My most emotional level yet &#124; Verified by dashy042 &#124; Playtested by xRiver007
@@ -1741,6 +1755,7 @@
 | Hestia | Mulpan | 34536066 | 99 | Here is my new generic level, focused on gameplay. Have Fun! :) &#124; 24.01.31 - More readable gameplay
 | Pastel | beptile | 32402517 | 99 | ;) Thanks for Epic Rob! And thanks to Squall, Pauze, Bucc, and RyanAB for sending :D (Added LDM :D)
 | Drift | Superopi | 30102666 | 99 | Quite hard in my opinion! Made in 2.0 but it's now a bit longer and I fixed some stuff! Have fun :)
+| Schming Summit | Aimbotter | 124396116 | 98 | Get ready to hit the slopes! Thanks to the Schming Summit safety director Bram4Real for verifying!
 | BUSSIN | connot | 110715909 | 98 | When the grok tuah making you [&#124;&#124;]=("'}===={'")=[&#124;&#124;] crashout but you lowkey a sigma \  \[*0*]/  /
 | Heat | TeeeJify | 108144625 | 98 | Collab with SYDORF (who made all the good parts hehe). 5 months of work! Can you handle the heat? 
 | UNKNOWN VOID | AlvaroRH99 | 107654138 | 98 | After the perpetual insanity, an unknown void comes in, with maybe more insanity in it !NCS ENTRY!
@@ -1979,6 +1994,7 @@
 | Seismic Toss | Berkoo | 31198704 | 92 | Have fun with this colorful and intense level. '-')/ Thanks for epic and daily once again <3
 | TOE III | Manix648 | 29443338 | 92 | Third and non-official installment in the TOE series. For Viprin CC #8. EPIC? thinking emoji
 | Monsterfest | rafer | 29074072 | 92 | My first 2.1 level! Just a experimental demon so my next levels will be better! Pass: 310117
+| Basic Lemon | PepeTheGod | 124697875 | 91 | When life gives you lemons, make lemonade. Built by LaBasic, gameplay by me and Dangerkat. 
 | Terminal Space  | JBRedux | 122623019 | 91 | A level featuring green jump pads, a terminal, and space. I spent way too long making this 
 | RUINS | Grax | 112809245 | 91 | Made for NCS x GD The Album single 5. Didn't expect to find alien Wifi out in the jungle...
 | Northstar | Novaach | 112799855 | 91 | Man I rly hope this gets easy demon lmao. Anyways thanks for playing my very short level <3
@@ -2091,6 +2107,7 @@
 | Monochromatic | Mazl | 31713463 | 89 | I finally got some motivation. And this awesome level came from it. Have fun and enjoy :)
 | Vooper | Serponge | 29089716 | 89 | Worked hard on this one! I kept extending it xD Updated : second coin is now more fair :)
 | Impact X | NiTro451 | 28461869 | 89 | My first 2.1 level. I hope you enjoy it. Free copy. Please check my new level ToXiCiTy ;D
+| LeFave Planetarium | DanGP | 122941412 | 88 | A megacollab between 15 creators dedicated to DJ LeFave. Made over 1 year in 400+ hours.
 | Winter Blitz | FVIII | 113452754 | 88 | Make sure to check out the 12 Creations of Christmas series on Youtube! Merry Christmas!
 | Playlist | LightPotatoDev | 110340739 | 88 | when you can't choose a song to use, just choose everything [NCS gauntlet contest entry]
 | Children of the Sun | ZooxerYt | 108248407 | 88 | Probably my best level so far &#124; Tysm Tro5, FVIII, and TheRealPepsiMan for playtesting <3
@@ -2124,6 +2141,7 @@
 | Decorus | f3lixsram | 31234058 | 88 | A spicy collab with killua282 ! Video and pass on my youtube channel, have a good day :D
 | Amarillo | Jayuff | 28577725 | 88 | My first 2.1 level! Still so much to figure out in the editor, but I hope you enjoy! :))
 | HyperParadox | ChaSe | 21920664 | 88 | Amazing collab with Borgen!!! Big thanks to him for this level! Hope you like it! Enjoy!
+| FunKrypted | CDJeremy | 124476352 | 87 | Inspired by Tricipital, Geomaniac & Colon one of my best levels so far, hope u enjoy ;)
 | GalatikuS | denberZ | 116020934 | 87 | A ravaged ship crashes down with returning coordinates to an unknown origin &#124; SGC entry
 | The Depths Above | Bram4Real | 112371654 | 87 | Liftoff awaits! Based on Outer Wilds, a game you can only play once. No major spoilers.
 | Kashup | Kasu06 | 103454353 | 87 | live in a Space with incoherent worlds and places, but where everything is beautiful...
@@ -2218,6 +2236,7 @@
 | Citrus | Extrox | 36847362 | 85 | a million downloads! thank you all! (update 2: added some pulses and buffed gameplay)
 | DreamTrack | RhakY | 35834655 | 85 | finally a new level! thanks to Axils, Jozhe52 and SirZaiss for this amazing collab :D
 | Trumpet Slap | Nico99 | 35050229 | 85 | Finally done! My best yet... Enjoy :D Entry to Enlex CC2... Name suggestion by Terron
+| Neural Network | pocke | 124585007 | 84 | git commit -m "Chill Design/Effect level made for SirHadoken & more's GD Spirit Day"
 | Overthinker | iriswolfx | 116781395 | 84 | Experimental level, made in 1 day, exactly in 16 hours,                     enjoy :)
 | Unknown Area | j4c0bluna | 116225566 | 84 | ABANDON SHIP AGAIN!!!! Astrocube sequel, 144 hours of work (space gauntlet contest).
 | Freakshow | XxdomxX | 110715606 | 84 | NCS Entry (Collab created in a week) Playtesting by: xVicoGD,BitzGD and DuolingoYidi
@@ -2372,6 +2391,7 @@
 | Novalis | Gryllex | 33748382 | 80 | The hardest solo level I've created so far, Extreme demon difficulty, Good Luck.
 | Thought Process | wlfn | 30315888 | 80 | this level took me a couple of weeks to make, enjoy :thinking: (easiest 8* ever)
 | AlterGame XIV | Serponge | 29812998 | 80 | My best AlterGame for sure, hope you like it :) Oh also, obstacles are random 8)
+| Finders Keepers | ItsLuminousYT | 124760438 | 79 |          MONKEY SEE, MONKEY LIKE, MONKEY TAKE             (For AudieoVisual CC)
 | Pyromane | T3xxt | 117477675 | 79 | Collaboration with my friend after 5 years &#124; Enjoy and thanks for playing! &#124; :)
 | EveryDay | iDrack | 112290775 | 79 | My first attempt to have an epic rated level, created on a 2017 phone. Enjoy <3
 | Shimmer | vyp | 109254638 | 79 | Sparkle and shine! &#124; Shimmer is a palette based megacollab by Team Zero. Enjoy!
@@ -2635,7 +2655,7 @@
 | Axiom Asterism | Filqh | 114340057 | 71 | Conquer the cosmos &#124; Sequel to Infinite Inversion Verified by fusion425
 | Skyline Pt II | pocke | 114222375 | 71 | Made for NCS x GD The Album single 10. I hope you all enjoy this level!
 | AMELANCHIER | surveyor23 | 107028394 | 71 | amelanchier // check ldm box to open ldm menu at the start of the level
-| NEWER horizons | Aimbotter2123 | 106975884 | 71 | Made in 2 weeks. Dedicated to Geode for deleting all my created levels.
+| NEWER horizons | Aimbotter | 106975884 | 71 | Made in 2 weeks. Dedicated to Geode for deleting all my created levels.
 | Holders Heaven | Liisp | 100483182 | 71 | By me, Typ, Enci, Zale, Waffl3x, and Birj. Enjoy until the end of time!
 | hullabaloo here | Buziris | 94353525 | 71 | Amo hacer niveles, no pude evitar hacer otro. Ahora si, hasta la 2.2 <3
 | La Llorona | cherryteam | 92362284 | 71 | Borrada del nivel, la dama se hundio. Inmersa en misterio, su nombre se
@@ -2690,6 +2710,7 @@
 | Invidious | R3XX3R | 37138256 | 70 | Dedicated to my first GD friends: Skidel, xXLEOELXx and TheOutLowLP <3
 | ARANEO | Darwin | 30944062 | 70 | Big, Black, Hairy and Scary.... Be carefull.... they are everywhere...
 | Synthetic | greXxio | 25669647 | 70 | awesome synthetic collab with verticallity! 8) 7 stars? pass on yt! ;)
+| JRJRJR | ImMaxX1 | 115169829 | 69 | Collab with MaxxoRMeN !! Song file is in my YT showcase's description
 | Outdepths | Zhak | 113775028 | 69 | Have you ever been in the depths? does it scare you? don't be afraid.
 | NEXUS | Peyt0n | 112065452 | 69 | Another experimental level. (Use low detail mode to reduce flashing.)
 | The Diablo | Pipenachho | 110679874 | 69 | Can you defeat The Diablo?, Good luck!!. [NCS Gauntlet Contest entry]
@@ -2779,10 +2800,9 @@
 | Colored Dimension | f3lixsram | 34536501 | 67 | Video/pass on my youtube ;) Collab with star117 go check him out ;3
 | Clutterfocus  | Andro3d | 32667717 | 67 | Awesome collab with JaffyTaffy!  Video and Pass on Youtube- Andro3d
 | Ad Honorem | Echonox | 31777902 | 67 | My first demon level wooh! Video on my channel. Hope you all enjoy!
-| 53 Frost bIh | krenogd | 120278613 | 66 | you have to be the walrus of the ocean, not the shark of the ocean
+| 53 Frost bIh | kreno | 120278613 | 66 | you have to be the walrus of the ocean, not the shark of the ocean
 | Natural | GDGrazy | 119964852 | 66 | And here we are, in a world where nature shines with its beauty...
 | Dead Device | IMOXI | 117912123 | 66 | My best Level for Creator Contest;) Thank you Waboo! >w< Enjoy! ;D
-| JRJRJR | ImMaxX1 | 115169829 | 66 | Collab with MaxxoRMeN !! Song file in my YT showcase's description
 | Meka Dynamism | xVicoGD | 112871686 | 66 | Electrodynamix is being updated, the project meka is in process...
 | The lightning road | KingEggplant987 | 112355225 | 66 | This name seems oddly familiar... (Tricipital CC build jam Entry) 
 | Anonymous | Havok | 112292073 | 66 | Knowledge is free. We do not forgive. We do not forget. Expect us.
@@ -2960,7 +2980,7 @@
 | Cave World | cometface | 114989264 | 60 | sw patched if you used it i hope you stub your toe on a lego
 | LineN | Eefy | 111589612 | 60 | This is in fact a puzzle level {3 stages with 8 levels each}
 | Rage Quit | bli | 110044659 | 60 | Stereo Madness remake made for Waboo's $1000 contest. Enjoy!
-| arctic alpine | ShadowIan | 106496150 | 60 | With over 200+ hours worth of work I proudly present this :)
+| arctic alpine | Asterna | 106496150 | 60 | With over 200+ hours worth of work I proudly present this :)
 | OTHERSIDE | ChrySpy | 101850565 | 60 | A boy finds himself drawn into the center of a dark project.
 | Sports  | CUBERRY | 75059381 | 60 | And remember guys , do exercises :)) &#124;&#124; Sports themed level 
 | Spectrum Rave | Ryder | 72308725 | 60 | Party Rockers in the house tonight! [Balance update is live]
@@ -3477,7 +3497,7 @@
 | Next Planet Soon | Protein15 | 116279290 | 43 | Our amazing SG entry, took 3 weeks to make.
 | Spaceeee | OcoOz | 116230518 | 43 | Just for fun &#124; Made in 7-8 days &#124; Enjoyy ^^
 | Anthelia | Debihan | 106907502 | 43 | Not just a level here, my heart and my mind
-| carz processing | Aimbotter2123 | 94869320 | 43 | Carz's very own level. How did that happen?
+| carz processing | Aimbotter | 94869320 | 43 | Carz's very own level. How did that happen?
 | Till Late | MinAY | 87953075 | 43 | its time to go home cuz its getting late...
 | sistem byte | Jeikins | 87641686 | 43 | And then I told myself that it can go wrong
 | Neferu | iIBonIi | 85882715 | 43 | He didn't expect that he would face this...
@@ -3514,7 +3534,7 @@
 | Myths | DHaner | 116279144 | 42 | Space Gauntlet Entry &#124; DHaner x Splinter25
 | the twilight | spark | 113950360 | 42 | A journey under the mesmerizing night sky.
 | minute | SmoopInc | 113708044 | 42 | Maybe we can just wait here for a minute..
-| GRIDLOCK MACHINE | btwmag | 113572545 | 42 | Collab with KingEggplant987! Easy Demon :)
+| GRIDLOCK MACHINE | mag | 113572545 | 42 | Collab with KingEggplant987! Easy Demon :)
 | Bizzare Autumn | Vizitek | 112248586 | 42 | It was supposed to be a walk, not a travel
 | The Sun | Frama | 110660403 | 42 | 2 months; 2nd thematic level and NCS entry
 | Kalangitan | YukiMasterGD | 109655960 | 42 | Thanks to SHII and Galofuf for the help :)
@@ -3576,6 +3596,7 @@
 | Mystical Vibrant | Olympic | 31674537 | 41 | Thank you. password in my YouTube Channel
 | Simple Travel | Danolex | 30689427 | 41 | Thanks for playing..Hope you like Guys :)
 | Emotional Journey | RadiationV2 | 24676724 | 41 | My 2.0 masterpiece, rate demon please! :D
+| Final Journey | Pb207 | 123358937 | 40 | A departure from earth, a final journey.
 | charafine | kreeper360 | 121482616 | 40 | A futile attempt at escaping repetition.
 | WORLD WIDE PANIC | johdanlop | 119678334 | 40 | THE OISE HAS ARRIVED AT HIS DESTINATION.
 | Skeletal Shenanigans | YoReid | 118509879 | 40 | TRAVELLER BEWARE, YOU'RE IN FOR A SCARE!
@@ -3812,6 +3833,7 @@
 | mirage | vonsse | 123940513 | 34 | a lonely traveler roams the desert
 | Imbue | LandonGMD | 123409007 | 34 | you see, the sides were like glass
 | HIGHLIFE HIGHLIGHTS | nabbbbbb | 122995517 | 34 | love might bring us back together,
+| SOLEIL | luhlamar | 122934061 | 34 | REALIZE SUNRISE APPEALS TO MY EYES
 | Aperture | chunlv1 | 116284799 | 34 | Picture taken at April 25th - 1990
 | COSMOSIS | hauxz | 116217418 | 34 | we going exploring &#124; ft. shadowian
 | Cosmic Journey | iriswolfx | 116146513 | 34 | My entry fot the Space Gauntlet :)
@@ -3997,7 +4019,7 @@
 | Sparks | meeloz | 40785607 | 30 | My best design level, enjoy :3
 | Breaking Skies | CrostX325 | 122477505 | 29 | My own little dreamy world :D
 | Avant Sola | Zion83 | 116112860 | 29 | space gauntlet contest entry.
-| Air Fryer | Aimbotter2123 | 112468252 | 29 | You CLEARLY own an air fryer.
+| Air Fryer | Aimbotter | 112468252 | 29 | You CLEARLY own an air fryer.
 | Sky Conflux | Ghotstav | 111372142 | 29 | Dance into this cloudy swirl!
 | Phantasia | azhir | 110757494 | 29 | NCS ENTRY &#124; Made by legends !
 | Lights Out | POLARnt | 105231248 | 29 | How do I spend 1 year in this
@@ -4106,7 +4128,7 @@
 | ADEUS | Epxa | 92578034 | 26 | traveling beyond dreams...
 | Excursions | Yendis | 91056895 | 26 | Enjoy and rate Easy Demon!
 | SHUTDOWN | RadiationV2 | 88940164 | 26 | Absolutely metal. Rate 10*
-| Wind Storm | Aimbotter2123 | 88940074 | 26 | perfect day to fly a kite.
+| Wind Storm | Aimbotter | 88940074 | 26 | perfect day to fly a kite.
 | Snowind | DangerKat | 87066655 | 26 | Merry Christmas everyone !
 | TRANSTELLAR | Grax | 86589947 | 26 | What's going on in there!?
 | THE LIMIT | skywalker14 | 86356350 | 26 | nong: darkside - the limit
@@ -4306,6 +4328,7 @@
 | Psicosis  | abdula | 35327886 | 22 | Thanks For Playing! ^^
 | Break with Silence | tigeo | 119036426 | 21 | Lets make some noise.
 | Kami | Corbuzzy | 116284483 | 21 | Dari Kami untuk Kita.
+| Desperation | kiragdmj2 | 116275252 | 21 | ios fix done probably
 | Nautical Nightmare | EnoOr4Real | 108861000 | 21 | My NCS entry ! Enjoy 
 | SANCTITY | XCYNICX | 107179776 | 21 | 1.5 years to made it.
 | never alone | EnoOr4Real | 106277566 | 21 | made this level alone
@@ -4351,7 +4374,7 @@
 | Two Steps Back | X1RON | 115950637 | 20 | parataxic distortion
 | feel human | dieg0x024 | 113983740 | 20 | el echador de broma.
 | The Vermin Queen | YoReid | 113710225 | 20 | Under 40k objects :]
-| SEASIDE SHUFFLE | ShadowIan | 113352688 | 20 | Collect my treasure.
+| SEASIDE SHUFFLE | Asterna | 113352688 | 20 | Collect my treasure.
 | Unknowless | ShinrIV | 106502187 | 20 | Chapter 1 the erebus
 | EYEBIT | Akvaz | 101866722 | 20 | they're watching you
 | Psychedelic Circles | spuddles | 94547076 | 20 | Don't do drugs, kid.
@@ -4514,6 +4537,7 @@
 | Exordium | DesTicY | 40555200 | 17 | happy new year <3
 | Out of the Dark | wlfn | 33438569 | 17 | experimental deco
 | Aurora | Sharks | 33218690 | 17 | Quick nerf update
+| Lumen | Arb | 124596657 | 16 | #GDSpiritDay2025
 | ily | ZeroSR | 115277352 | 16 | now say it back.
 | Planispheres | flash | 114997319 | 16 | you are Star map
 | PEAK OF THE SUN | arplight | 113953500 | 16 | touch the sky :)
@@ -4556,7 +4580,7 @@
 | Double Helix | Viot | 123911049 | 15 | krmal contest 3
 | ROW | ewop | 117907680 | 15 | COMEBACK SEASON
 | Ultra Astra | Woxius | 113188254 | 15 | Space Gauntlet 
-| NRG | btwmag | 112344749 | 15 | build jam entry
+| NRG | mag | 112344749 | 15 | build jam entry
 | NEONITE | Ad0NAY27GD | 112055245 | 15 | - C O L O R S -
 | Exotic soul   | Kiriia | 110773161 | 15 | My entry ncs :)
 | Hot Level | LightPotatoDev | 104765483 | 15 | Hot Description
@@ -4633,6 +4657,7 @@
 | I Cant Fix You | IronIngot | 38005686 | 14 | I Cant Fix You
 | Amplification | bugpesto | 37722417 | 14 | Not the 5* one
 | Ghost House | Kiwi30 | 33523059 | 14 | Sexy Ghost 7w7
+| Dasoni | An Gyung | 123987283 | 13 | For my Dasoni
 | EON 0 | XHYDRIE | 114153900 | 13 | am I eternal?
 | AESTHETIC | dkitey | 114069249 | 13 | can't take it
 | Go Beyond | AlilNM | 113940953 | 13 | - the space -
@@ -4663,7 +4688,6 @@
 | Weekend | Fault | 35408211 | 13 | 2 coins again
 | Phantom | TheRealSalad | 29424929 | 13 | 2.1 editor <3
 | Mechanical Showdown | Tongii | 27786218 | 13 | extreme demon
-| FabilAs | ChuchitoDomin | 123568993 | 12 | **08/03/25**
 | AFTER DARK | ewop | 121942086 | 12 | dorkdorkdork
 | Yuju | NukeForceX | 117628342 | 12 | Enjoy it! :D
 | Ponci | Arclia | 115210770 | 12 | Beats by Dre
@@ -4702,7 +4726,7 @@
 | Charcoal | OliSW | 94610603 | 11 | What a mess
 | CALYPSO BLITZ | Danke | 92971865 | 11 | its minging
 | Rush | DHaner | 91791295 | 11 | Run and Go!
-| EPILEPSY WARNING | ShadowIan | 90707641 | 11 | Don't Stare
+| EPILEPSY WARNING | Asterna | 90707641 | 11 | Don't Stare
 | FAKE | Gepsoni4 | 89951932 | 11 | ALL'YA FAKE
 | f0rager | euphria | 87619171 | 11 | have fun :)
 | New Civilization | Texic | 86720675 | 11 | Where am I?
@@ -4750,6 +4774,7 @@
 | Cosmic Chaos | Optation | 56607164 | 10 | my best :)
 | Ebullient | balli | 51746931 | 10 | very level
 | Saao | ZecretDash | 47959278 | 10 | ULDM added
+| Showcase | Tinraz | 124732401 | 9 | sigmaface
 | Above The Clouds | Optation | 122467425 | 9 | 2 the sky
 | Alien Dream Emulator | kira9999 | 116285912 | 9 | have fun.
 | Sunshine | OzzeL2 | 116249335 | 9 | warm rays
@@ -4999,7 +5024,6 @@
 | Liquated | Ghotstav | 118242034 | 0 | 
 | Meadow | BloomOcean | 117265082 | 0 | 
 | Globular Cluster | Buziris | 116286273 | 0 | 
-| Desperation | kiragdmj2 | 116275252 | 0 | 
 | WubbSplosion | Zaxvort | 115230702 | 0 | 
 | Bastion | Xender Game | 115003421 | 0 | 
 | Sharpshooter | ZoanBeta | 114750107 | 0 | 
