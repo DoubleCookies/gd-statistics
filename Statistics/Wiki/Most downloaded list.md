@@ -10,349 +10,349 @@
 | [[OuterSpace]]
 | Nicki1202
 | <center>{{Featured сложный}}</center>
-| 123 311 749
-| 5 729 406
+| 123 595 633
+| 5 737 274
 |-
 ! 2
 | [[The Nightmare]]
 | [[Jax]]
 | <center>{{Featured лёгкий демон}}</center>
-| 116 926 769
-| 5 685 735
+| 117 257 866
+| 5 693 925
 |-
 ! 3
 | [[Sonar]]
 | [[JerkRat]]
 | <center>{{Featured лёгкий}}</center>
-| 111 701 842
-| 6 441 141
+| 111 926 145
+| 6 447 890
 |-
 ! 4
 | [[Bloodbath]]
 | [[Riot]]
 | <center>{{Featured экстремальный демон}}</center>
-| 109 494 126
-| 4 863 155
+| 109 914 068
+| 4 875 139
 |-
 ! 5
 | [[ReTraY]]
 | [[DimaVikulov26]]
 | <center>{{Featured лёгкий}}</center>
-| 105 584 769
-| 8 460 152
+| 105 841 647
+| 8 471 118
 |-
 ! 6
 | [[Level Easy]]
 | —
 | <center>{{Featured нормальный}}</center>
-| 93 193 729
-| 4 388 974
+| 93 356 998
+| 4 391 593
 |-
 ! 7
 | [[Dark Paradise]]
 | [[Rolipso|Roli GD]]
 | <center>{{Featured лёгкий}}</center>
-| 82 012 767
-| 5 277 812
+| 82 177 687
+| 5 283 012
 |-
 ! 8
 | [[Acid Factory]]
 | UsernameDefault
 | <center>{{Featured сложный}}</center>
-| 80 756 963
-| 3 403 365
+| 80 931 398
+| 3 407 312
 |-
 ! 9
 | [[Amplification]]
 | [[Berkoo]]
 | <center>{{Featured сложный}}</center>
-| 73 075 536
-| 2 907 662
+| 73 243 198
+| 2 911 480
 |-
 ! 10
 | [[The Lightning Road]]
 | [[Timeless real]]
 | <center>{{Featured лёгкий демон}}</center>
-| 72 743 194
-| 3 132 107
+| 72 954 096
+| 3 135 732
 |-
 ! 11
 | [[Dreamland (Scanbrux)]]
 | [[Scanbrux]]
 | <center>{{Featured сложный}}</center>
-| 71 900 105
-| 2 646 795
+| 72 023 208
+| 2 648 054
 |-
 ! 12
 | [[Nine Circles]]
 | [[Zobros]]
 | <center>{{Featured демон}}</center>
-| 70 744 771
-| 3 469 212
+| 71 026 645
+| 3 476 256
 |-
 ! 13
 | [[End Of Line]]
 | PMK
 | <center>{{Featured нормальный}}</center>
-| 64 576 890
-| 3 504 690
+| 64 688 900
+| 3 506 732
 |-
 ! 14
 | [[Promises (Adiale)]]
 | [[Adiale]]
 | <center>{{Featured лёгкий}}</center>
-| 64 203 790
-| 4 433 470
+| 64 287 585
+| 4 436 121
 |-
 ! 15
 | [[Chambers]]
 | [[SirHadoken]]
 | <center>{{Featured нормальный}}</center>
-| 54 718 305
-| 2 988 428
+| 54 833 206
+| 2 991 593
 |-
 ! 16
 | [[Auto play area]]
 | [[Jax]]
 | <center>{{Featured авто}}</center>
-| 53 438 935
-| 3 191 802
+| 53 516 927
+| 3 193 416
 |-
 ! 17
 | [[Speed Racer]]
 | [[ZenthicAlpha]]
 | <center>{{Featured лёгкий демон}}</center>
-| 53 110 306
-| 2 500 364
+| 53 275 233
+| 2 503 964
 |-
 ! 18
 | [[Cataclysm]]
 | [[Ggb0y]]
 | <center>{{Featured экстремальный демон}}</center>
-| 51 753 446
-| 1 464 590
+| 51 954 191
+| 1 467 327
 |-
 ! 19
 | [[Platinum Adventure]]
 | Jerry4
 | <center>{{Featured лёгкий демон}}</center>
-| 50 943 434
-| 2 914 554
+| 51 161 255
+| 2 920 975
 |-
 ! 20
 | [[X]]
 | [[TriAxis]]
 | <center>{{Featured лёгкий демон}}</center>
-| 50 529 313
-| 2 325 520
+| 50 688 979
+| 2 328 855
 |-
 ! 21
 | [[Flappy Hexagon]]
 | [[Creator Cloud]]
 | <center>{{Featured сложный}}</center>
-| 49 835 710
-| 2 554 782
+| 49 925 952
+| 2 556 349
 |-
 ! 22
 | [[dorabaebasic4]]
 | [[Dorabae]]
 | <center>{{Featured нормальный}}</center>
-| 49 205 644
-| 2 795 548
+| 49 284 212
+| 2 797 330
 |-
 ! 23
 | [[Xstep v2]]
 | [[Neptune]]
 | <center>{{Featured лёгкий демон}}</center>
-| 47 650 171
-| 1 675 689
+| 47 796 940
+| 1 677 885
 |-
 ! 24
 | [[Shock]]
 | Danolex
 | <center>{{Эпический очень сложный}}</center>
-| 47 480 736
-| 2 619 691
+| 47 619 648
+| 2 623 364
 |-
 ! 25
 | [[Spooky Light]]
 | [[Serponge]]
 | <center>{{Featured нормальный}}</center>
-| 46 795 364
-| 2 550 603
+| 46 887 152
+| 2 553 021
 |-
 ! 26
 | [[Extinction]]
 | [[HaoN]]
 | <center>{{Эпический лёгкий демон}}</center>
-| 46 388 384
-| 1 450 029
+| 46 546 094
+| 1 452 416
 |-
 ! 27
 | [[Death Moon]]
 | [[Caustic]]
 | <center>{{Featured лёгкий демон}}</center>
-| 45 137 848
-| 2 077 556
+| 45 295 711
+| 2 081 266
 |-
 ! 28
 | [[Back on Track RM]]
 | [[ZenthicAlpha]]
 | <center>{{Featured нормальный}}</center>
-| 44 945 612
-| 2 020 967
+| 45 018 843
+| 2 022 241
 |-
 ! 29
 | [[Infernal Arena]]
 | [[Suomi]]
 | <center>{{Featured нормальный}}</center>
-| 42 271 913
-| 2 387 623
+| 42 353 977
+| 2 390 153
 |-
 ! 30
 | [[Laser Room]]
 | [[TrueNature]]
 | <center>{{Featured лёгкий демон}}</center>
-| 41 899 804
-| 1 237 653
+| 41 990 275
+| 1 238 540
 |-
 ! 31
-| [[dinosaur]]
-| [[Alkali]]
-| <center>{{Эпический безумный}}</center>
-| 41 587 381
-| 1 873 294
-|-
-! 32
 | [[Bloodlust]]
 | [[Knobbelboy]]
 | <center>{{Эпический экстремальный демон}}</center>
-| 41 533 045
-| 1 130 684
+| 41 723 270
+| 1 133 335
+|-
+! 32
+| [[dinosaur]]
+| [[Alkali]]
+| <center>{{Эпический безумный}}</center>
+| 41 688 541
+| 1 875 231
 |-
 ! 33
 | [[SLAM]]
 | rafer
 | <center>{{Эпический очень сложный}}</center>
-| 40 862 314
-| 2 162 547
+| 40 980 653
+| 2 166 143
 |-
 ! 34
 | [[Unity]]
 | [[TriAxis]]
 | <center>{{Featured безумный}}</center>
-| 40 690 503
-| 2 114 654
+| 40 810 913
+| 2 117 605
 |-
 ! 35
 | [[Ghoul]]
 | DesTicY
 | <center>{{Эпический безумный}}</center>
-| 39 215 352
-| 1 179 400
+| 39 308 181
+| 1 180 981
 |-
 ! 36
 | [[UFO Madness]]
 | ZelLink
 | <center>{{Featured нормальный}}</center>
-| 38 829 900
-| 1 261 149
+| 38 904 926
+| 1 261 895
 |-
 ! 37
-| [[Supersonic]]
-| [[ZenthicAlpha]]
-| <center>{{Featured безумный демон}}</center>
-| 38 327 246
-| 1 654 786
-|-
-! 38
 | [[iSpyWithMyLittleEye]]
 | Voxicat
 | <center>{{Эпический лёгкий демон}}</center>
-| 38 292 930
-| 2 578 943
+| 38 714 817
+| 2 597 987
+|-
+! 38
+| [[Supersonic]]
+| [[ZenthicAlpha]]
+| <center>{{Featured безумный демон}}</center>
+| 38 442 765
+| 1 657 254
 |-
 ! 39
 | [[First Race]]
 | Stamina
 | <center>{{Featured очень сложный}}</center>
-| 37 005 691
-| 2 413 804
+| 37 111 576
+| 2 417 384
 |-
 ! 40
 | [[Phantom]]
 | [[TheRealSalad]]
 | <center>{{Эпический сложный}}</center>
-| 36 369 840
-| 2 422 524
+| 36 434 786
+| 2 424 412
 |-
 ! 41
 | [[through time]]
 | [[Berkoo]]
 | <center>{{Featured нормальный}}</center>
-| 35 604 068
-| 2 883 527
+| 35 636 900
+| 2 884 840
 |-
 ! 42
 | [[Dry Out RM]]
 | [[ZenthicAlpha]]
 | <center>{{Featured сложный}}</center>
-| 35 284 031
-| 1 082 959
+| 35 354 396
+| 1 083 664
 |-
 ! 43
 | [[yStep]]
 | [[Darnoc]]
 | <center>{{Featured лёгкий демон}}</center>
-| 33 553 366
-| 1 089 877
+| 33 620 653
+| 1 090 703
 |-
 ! 44
 | [[Sonic Wave]]
 | [[Cyclic]]
 | <center>{{экстремальный демон}}</center>
-| 32 650 288
-| 961 862
+| 32 782 089
+| 964 036
 |-
 ! 45
 | [[Mind Control]]
 | Darwin
 | <center>{{Эпический сложный}}</center>
-| 31 819 748
-| 1 345 634
+| 31 901 585
+| 1 347 451
 |-
 ! 46
 | [[Crescendo]]
 | [[MasK463]]
 | <center>{{Featured лёгкий демон}}</center>
-| 31 819 650
-| 1 064 535
+| 31 888 797
+| 1 065 467
 |-
 ! 47
 | [[Endless (FlappySheepy)]]
 | [[FlappySheepy]]
 | <center>{{Featured нормальный}}</center>
-| 31 355 405
-| 2 063 310
+| 31 412 650
+| 2 065 296
 |-
 ! 48
 | [[Overture]]
 | Fault
 | <center>{{Featured сложный}}</center>
-| 30 970 492
-| 2 450 903
+| 31 049 519
+| 2 454 287
 |-
 ! 49
 | [[Dear Nostalgists]]
 | [[TriAxis]]
 | <center>{{Featured лёгкий демон}}</center>
-| 30 893 766
-| 1 492 156
+| 31 018 066
+| 1 495 053
 |-
 ! 50
 | [[Easy]]
 | [[MrCheeseTigrr]]
 | <center>{{Featured сложный}}</center>
-| 30 674 914
-| 1 649 646
+| 30 724 354
+| 1 650 779
 |}
