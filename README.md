@@ -14,7 +14,7 @@ Tool for collecting statistics about Geometry Dash featured levels. Created with
 - **src** folder contains sources for this project.
 
 ## Plans
-- Describe how project works (maybe with illustrations)
+- Describe how project works (maybe with illustrations).
 
 ## License
-This project has [MIT License](https://opensource.org/licenses/MIT)
+This project has [MIT License](https://opensource.org/licenses/MIT).
